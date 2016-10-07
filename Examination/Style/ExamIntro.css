@@ -1,0 +1,77 @@
+body {
+    font-family: "Trebuchet MS";
+    font-weight: bold;
+    /*color: white;*/
+    color: #4c3602;
+    text-shadow: 1px 1px black;
+}
+
+button {
+    border-top: 1px solid #96d1f8;
+    background: #65a9d7;
+    background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+    background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+    background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+    background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+    background: -o-linear-gradient(top, #3e779d, #65a9d7);
+    padding: 10px 21px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+    -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+    box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+    text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+    vertical-align: middle;
+    position: relative;
+    left: 100px;
+    top: 125px;
+}
+
+button:hover {
+    border-top-color: #28597a;
+    background: #28597a;
+    color: #ccc;
+}
+
+button:active {
+    border-top-color: #1b435e;
+    background: #1b435e;
+}
+
+#h2Title {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 2em;
+    top: 100px;
+}
+
+#h1Title {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 4em;
+    top: 75px;
+}
+
+#h2Title2 {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 2em;
+    top: 50px;
+}
+
+p {
+    position: relative;
+    font-size: 1em;
+    left: 100px;
+    top: 100px;
+}

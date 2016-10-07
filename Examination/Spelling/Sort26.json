@@ -1,0 +1,36 @@
+{
+  "title": "Sort26 Spelling",
+  "path": "Spelling/",
+  "data": [
+    {
+      "questionType": "Fill in the Blank",
+      "question": "Spell this word?",
+      "items": [
+        "quartet",
+        "quintet",
+        "octet",
+        "decimal",
+        "centimeter",
+        "pentagon",
+        "octagon",
+        "quadrangle",
+        "century",
+        "quadruped",
+        "quintuplets",
+        "quarter",
+        "decathlon",
+        "centigrade",
+        "octave",
+        "centennial",
+        "quintessence",
+        "quadruple",
+        "decade",
+        "quadruplets",
+        "decimate",
+        "bicentennial",
+        "quintessential",
+        "percentage"
+      ]
+    }
+  ]
+}

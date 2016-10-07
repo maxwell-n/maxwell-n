@@ -1,0 +1,34 @@
+{
+  "title": "Sort23 Spelling",
+  "path": "Spelling/",
+  "data": [
+    {
+      "questionType": "Fill in the Blank",
+      "question": "Spell this word?",
+      "items": [
+        "exclaim",
+        "exclamation",
+        "assume",
+        "assumption",
+        "proclamation",
+        "explain",
+        "presume",
+        "reclamation",
+        "proclaim",
+        "acclaim",
+        "consumption",
+        "reclaim",
+        "perceive",
+        "acclamation",
+        "resume",
+        "receive",
+        "explanation",
+        "reception",
+        "consume",
+        "presumption",
+        "resumption",
+        "perception"
+      ]
+    }
+  ]
+}

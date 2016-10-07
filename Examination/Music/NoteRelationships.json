@@ -1,0 +1,40 @@
+{
+    "title": "Note Relationships",
+    "path": "Music/",
+    "data": [
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this note relationship?",
+            "items": [
+                {
+                    "name": "Arpeggiated chord",
+                    "image": "Arpeggio.png"
+                },
+                {
+                    "name": "Chord",
+                    "image": "Triad.png"
+                },
+                {
+                    "name": "Glissando or Portamento",
+                    "image": "Glissando.png"
+                },
+                {
+                    "name": "Phrase mark",
+                    "image": "Legato.png"
+                },
+                {
+                    "name": "Slur",
+                    "image": "Slur.png"
+                },
+                {
+                    "name": "Tie",
+                    "image": "Tie.png"
+                },
+                {
+                    "name": "Tuplet",
+                    "image": "Triplet.png"
+                }
+            ]
+        }
+    ]
+}

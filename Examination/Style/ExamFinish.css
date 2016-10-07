@@ -1,0 +1,48 @@
+body {
+    font-family: "Trebuchet MS";
+    /*background-color: #EEEEEE;*/
+    color: #4c3602;
+}
+
+#dContent {
+    background: url('../Images/Certificate.png') no-repeat;
+    width: 900px;
+    height: 662px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#h2Title {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 2em;
+    top: 100px;
+}
+
+#h1Title {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 4em;
+    top: 75px;
+}
+
+#h2Title2 {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 2em;
+    top: 50px;
+}
+
+p {
+    font-family: "Georgiar";
+    position: relative;
+    font-size: 2em;
+    left: 100px;
+    top: 125px;
+}

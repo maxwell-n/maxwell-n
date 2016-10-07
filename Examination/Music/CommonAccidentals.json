@@ -1,0 +1,32 @@
+{
+    "title": "Common Accidentals",
+    "path": "Music/",
+    "data": [
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this accidental?",
+            "items": [
+                {
+                    "name": "Sharp",
+                    "image": "Sharp.png"
+                },
+                {
+                    "name": "Flat",
+                    "image": "Flat.png"
+                },
+                {
+                    "name": "Natural",
+                    "image": "Natural.png"
+                },
+                {
+                    "name": "Double Sharp",
+                    "image": "DoubleSharp.png"
+                },
+                {
+                    "name": "Double Flat",
+                    "image": "DoubleFlat.png"
+                }
+            ]
+        }
+    ]
+}

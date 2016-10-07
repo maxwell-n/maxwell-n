@@ -1,0 +1,65 @@
+/*body {*/
+    /*background-image: url('../Images/Parchment.jpg');*/
+    /*background-size: 100%;*/
+/*}*/
+
+#sAnswers {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    text-align: left;
+    max-width: 700px;
+}
+
+.button {
+    min-width: 100px;
+    height: 50px;
+    margin: 10px 0;
+}
+
+.input {
+    margin: 10px 0;
+}
+
+div {
+    box-shadow: 10px 10px 10px #888888;
+    background-color: black;
+    margin-top: 20px;
+    width: 100px;
+    text-align: right;
+    font-size: 40px;
+}
+
+p {
+    font-size: 22px;
+}
+
+section {
+    font-size: 22px;
+}
+
+.left {
+    color: green;
+    left: 20px;
+    position: absolute;
+}
+
+.middle {
+    display: block;
+    margin-right: auto;
+}
+
+.right {
+    color: red;
+    right: 20px;
+    position: absolute;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    padding-top: 10px;
+    vertical-align: top;
+}

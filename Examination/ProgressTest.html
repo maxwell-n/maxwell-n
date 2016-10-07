@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<style>
+    div{
+        border: 2px solid;
+        border-color: #a2a2a2;
+        border-radius: 5px;
+        background-color: #dddddd;
+        overflow: auto;
+    }
+    .progress{
+        float: left;
+        margin: 1px;
+        padding: 0px 2px;
+    }
+    #dProgress{
+        overflow: auto;
+    }
+    #dProgressBar{
+        position: relative;
+        width: 50%;
+        overflow-y:hidden;
+        overflow-x:hidden;
+    }
+    #sProgressFill{
+        position: absolute;
+        margin: 2px 0 2px 0;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        background-color: orange;
+        width: 25%;
+        height: 1em;
+    }
+    #lProgressBar{
+        position: relative;
+        float: left;
+        text-align: center;
+        width: 100%;
+    }
+</style>
+<body>
+<!--<iframe id="ifQuestion"/>-->
+<div id="dProgress">
+    <div class="progress">Correct: 0</div>
+    <div class="progress">Incorrect: 0</div>
+    <div id="dProgressBar" class="progress"><section id="sProgressFill"></section><label id="lProgressBar">15 questions</label></div>
+</div>
+</body>
+</html>

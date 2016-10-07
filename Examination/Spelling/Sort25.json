@@ -1,0 +1,36 @@
+{
+  "title": "Sort25 Spelling",
+  "path": "Spelling/",
+  "data": [
+    {
+      "questionType": "Fill in the Blank",
+      "question": "Spell this word?",
+      "items": [
+        "uniform",
+        "monolingual",
+        "bilingual",
+        "triangle",
+        "monologue",
+        "tripod",
+        "biceps",
+        "unilateral",
+        "triad",
+        "trilogy",
+        "monotonous",
+        "unify",
+        "bifocals",
+        "triceratops",
+        "bisect",
+        "monorail",
+        "bimonthly",
+        "monopoly",
+        "binary",
+        "universal",
+        "triathlon",
+        "biennial",
+        "monotone",
+        "trillion"
+      ]
+    }
+  ]
+}

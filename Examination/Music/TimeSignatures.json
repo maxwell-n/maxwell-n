@@ -1,0 +1,28 @@
+{
+    "title": "Time Signatures",
+    "path": "Music/",
+    "data": [
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this time signature?",
+            "items": [
+                {
+                    "name": "Alla breve or Cut time",
+                    "image": "CutTime.png"
+                },
+                {
+                    "name": "Common time",
+                    "image": "CommonTime.png"
+                },
+                {
+                    "name": "Metronome mark",
+                    "image": "MetronomeMark.png"
+                },
+                {
+                    "name": "Specific time",
+                    "image": "TimeSignature.png"
+                }
+            ]
+        }
+    ]
+}

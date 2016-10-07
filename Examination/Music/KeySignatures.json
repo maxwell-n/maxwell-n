@@ -1,0 +1,20 @@
+{
+    "title": "Key Signatures",
+    "path": "Music/",
+    "data": [
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this key signature?",
+            "items": [
+                {
+                    "name": "Flat key signature",
+                    "image": "FlatKeySignature.png"
+                },
+                {
+                    "name": "Sharp key signature",
+                    "image": "SharpKeySignature.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Sort21 Spelling",
+  "path": "Spelling/",
+  "data": [
+    {
+      "questionType": "Fill in the Blank",
+      "question": "Spell this word?",
+      "items": [
+        "personal",
+        "personality",
+        "hostile",
+        "brutal",
+        "mentality",
+        "general",
+        "hostility",
+        "fatality",
+        "mental",
+        "fatal",
+        "formality",
+        "local",
+        "mobile",
+        "generality",
+        "brutality",
+        "locality",
+        "original",
+        "formal",
+        "individual",
+        "originality",
+        "mobility",
+        "fertile",
+        "individuality",
+        "fertility"
+      ]
+    }
+  ]
+}

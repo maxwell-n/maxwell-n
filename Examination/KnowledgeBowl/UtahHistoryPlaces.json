@@ -1,0 +1,463 @@
+{
+  "title": "Utah History - Places",
+  "path": "KnowledgeBowl/",
+  "data": [
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "Name the major lakes in Utah?",
+          "answer": "Bear Lake, Salt Lake, Utah Lake"
+        },
+        {
+          "question": "Name the lakes that are remnants of the ancient Lake Bonneville?",
+          "answer": "Salt Lake, Sevier Lake, Utah Lake"
+        },
+        {
+          "question": "What are the two largest reservoirs in Utah?",
+          "answer": "Flaming Gorge, Lake Powell"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "What rivers form the beautiful deep canyons and gorges in the Colorado Plateau?",
+          "answer": "Green River, Colorado River"
+        },
+        {
+          "question": "Name Utah's major rivers?",
+          "answer": "Jordan, Sevier, Colorado"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Lakes",
+      "items": [
+        {
+          "question": "Name the ancient lake that covered about 1/3 of Utah?",
+          "answer": "Lake Bonneville"
+        },
+        {
+          "question": "What lakes natural dam broke spreading water out and hotter climate changes quickly dried it up?",
+          "answer": "Lake Bonneville"
+        },
+        {
+          "question": "What is the dead sea of Utah?",
+          "answer": "The Great Salt Lake"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Mines",
+      "items": [
+        {
+          "question": "A now ghost-town near Beaver had been a wild boomtown after Ryan and Hawkes found ore in 1875. What was the mine called?",
+          "answer": "Horn Silver Mine"
+        },
+        {
+          "question": "What silver mine in Park City burned to the ground in 1898?",
+          "answer": "Ontario Mine"
+        },
+        {
+          "question": "What mine did Patrick Connor find?",
+          "answer": "Bingham Cooper Mine"
+        },
+        {
+          "question": "What is one of the richest silver mines in the world?",
+          "answer": "Emma Silver Mine"
+        },
+        {
+          "question": "What old mining town was home to the Emma Silver Mine and is now a Ski resort town?",
+          "answer": "Park City"
+        },
+        {
+          "question": "What are 2 of the early silver mines in Utah?",
+          "answer": "Emma and Horn"
+        },
+        {
+          "question": "What canyon has 2 ski resorts?",
+          "answer": "Big Cottonwood Canyon"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "What was the “shortcut” for emigrants to travel to California for the gold rush called?",
+          "answer": "Hastings Cutoff"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "What are 3 major mountain ranges in Utah?",
+          "answer": "Rocky Mountain, Wasatch, La Sal, Unita"
+        },
+        {
+          "question": "What states form the “Four Corners”?",
+          "answer": "Colorado, Arizona, Utah, and New Mexico"
+        },
+        {
+          "question": "Name some of the many islands in the Great Salt Lake?",
+          "answer": "Stansbury, Antelope, Dolphin, Gunnison, Fremont, Carrington"
+        },
+        {
+          "question": "Name 3 of Utah's National Monuments",
+          "answer": "Timpanogos Cave, Dinosaur Quarry, Natural Bridges"
+        },
+        {
+          "question": "Name 3 Utah deserts",
+          "answer": "Great Salt Lake, Great Basin, Mojave"
+        },
+        {
+          "question": "ABCCZ are Utah's Nations Parks?",
+          "answer": "Arches, Bryce, Capitol Reed, Canyonlands, Zions"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "Where did the Mormons live before coming west?",
+          "answer": "Kirtland, Ohio; Independence, Missouri; Nauvoo, Illinois, Winter Quarters, Nebraska"
+        },
+        {
+          "question": "What places did Mormons settle outside of Utah?",
+          "answer": "Las Vegas, Nevada; San Bernardino, California; San Diego, California; Mesa, Arizona; Settlements in Idaho, Wyoming, Canada, Mexico"
+        },
+        {
+          "question": "Name 3 other cities in Utah Valley near Lindon?",
+          "answer": "Pleasant Grove, American Fork, Orem"
+        },
+        {
+          "question": "How large was the first 'State of Deseret'?",
+          "answer": "Much of Nevada, Arizona, New Mexico, Wyoming, Colorado, Idaho, Oregon and California"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "What two higher education schools do we have here in Utah County?",
+          "answer": "BYU and UVU"
+        },
+        {
+          "question": "What colleges or Universities are in our valley?",
+          "answer": "BYU and UVU"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "Which region of Utah has the biggest mountains?",
+          "answer": "Rocky Mountains"
+        },
+        {
+          "question": "What region of Utah has a bowl shape and is mostly desert?",
+          "answer": "Great Basin"
+        },
+        {
+          "question": "Which region has beautiful colorful canyons, arches, and bridges?",
+          "answer": "Colorado Plateau"
+        },
+        {
+          "question": "Which river connects the Great Salt Lake with Utah Lake?",
+          "answer": "Jordan River"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "What is the land called where Indians were required to live?",
+          "answer": "Reservations"
+        },
+        {
+          "question": "What is taught at the Hansen' Planetarium?",
+          "answer": "Astronomy"
+        },
+        {
+          "question": "What was the party or get-together of the trappers called?",
+          "answer": "Rendezvous"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "Where was Utah's Iron Mission?",
+          "answer": "Southwest Utah"
+        },
+        {
+          "question": "Where was Utah's cotton mission?",
+          "answer": "Southern Utah by the Virgin River"
+        },
+        {
+          "question": "Where is “Four Corners” located?",
+          "answer": "Southeastern corner of Utah"
+        },
+        {
+          "question": "What street is on the south side of the Salt Lake Temple?",
+          "answer": "South Temple"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "How deep did Lake Bonneville used to be?",
+          "answer": "1000 feet"
+        },
+        {
+          "question": "How many miles was the Pony Express Trail?",
+          "answer": "2000 miles"
+        },
+        {
+          "question": "How long did the Pony Express last?",
+          "answer": "18 months; 1860 to 1861"
+        },
+        {
+          "question": "When was Hill Air Force base built?",
+          "answer": "1939"
+        },
+        {
+          "question": "How long would it take for a letter to get across the country?",
+          "answer": "8-10 days"
+        },
+        {
+          "question": "When was Hill Air Force base built?",
+          "answer": "WWII"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "What beautiful home became Utah's first Governor's mansion?",
+          "answer": "Kearns Mansion"
+        },
+        {
+          "question": "What is the US Military base near Ogden?",
+          "answer": "Hill Air Force Base"
+        },
+        {
+          "question": "What Salt Lake building is used for sporting events, concerts, and conventions?",
+          "answer": "Salt Palace"
+        },
+        {
+          "question": "What did Mormons build to hold their meetings in?",
+          "answer": "Salt Lake Tabernacle"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "Name forts that were built along the Oregon Trail ",
+          "answer": "Fort Bridger, Fort Laramie, Fort Kearney"
+        },
+        {
+          "question": "What two army forts protected the telegraph during the Civil War?",
+          "answer": "Fort Douglas and Camp Floyd"
+        },
+        {
+          "question": "What fort was quickly built of adobe to protect settlers from the Blackhawk wars?",
+          "answer": "Fort Deseret"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "What is the Great Salt Lake so salty?",
+          "answer": "No fresh water outlet"
+        },
+        {
+          "question": "Is the Great Salt Lake Desert hot or cold?",
+          "answer": "cold"
+        },
+        {
+          "question": "Is the Great Basin Desert hot or cold?",
+          "answer": "cold"
+        },
+        {
+          "question": "Is the Mojave Desert hot or cold?",
+          "answer": "hot"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "What Japanese/American center was near Delta, Utah during WWII?",
+          "answer": "Topaz Relocation"
+        },
+        {
+          "question": "Where did the two railroads come together in Utah near Brigham City?",
+          "answer": "Promontory Point"
+        },
+        {
+          "question": "What is the name of the area in Southern Provo that trains came through that is now an industrial area?",
+          "answer": "Irontown"
+        },
+        {
+          "question": "Where is Utah’s great place for racing?",
+          "answer": "Bonneville Salt Flats"
+        },
+        {
+          "question": "Where did the Union Pacific Railroad and the Central Pacific Railroad meet to connect the transcontinental railroad?",
+          "answer": "Promontory Point"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "What was the old capital of Utah Territory?",
+          "answer": "Fillmore"
+        },
+        {
+          "question": "What was the name of the Polynesian settlement in Utah?",
+          "answer": "Iosepah"
+        },
+        {
+          "question": "What did the Polynesian name 'Iosepah' mean?",
+          "answer": "Joseph"
+        },
+        {
+          "question": "What was the name of the settlement on the Old Spanish Trail?",
+          "answer": "Moab"
+        },
+        {
+          "question": "Brigham Young asked the Hinckleys to run area?",
+          "answer": "Cove Fort?"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "Name 3 things the Capitol Theater is used for?",
+          "answer": "Theater, Ballet, Opera"
+        },
+
+        {
+          "question": "What do mountain men do at rendezvous?",
+          "answer": "Trade, sell, contests, gamble, visit"
+        },
+        {
+          "question": "Moab was abandoned because of Indian attacks. Later it became successful because of what 3 things?",
+          "answer": "Uranium mines, National Parks, Movie Making"
+        },
+        {
+          "question": "What are the two earliest Utah newspapers?",
+          "answer": "Desert News 1850's and Salt Lake Tribune in 1870's"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "What the Mormons wanted to call there new state?",
+          "answer": "State of Deseret"
+        },
+        {
+          "question": "What does State of Desert mean?",
+          "answer": "Honeybee"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+        {
+          "question": "How did the pioneers grind their wheat into flour?",
+          "answer": "Grist Mill"
+        },
+        {
+          "question": "Why did the military forts in Utah protect during the Civil war when there was no fighting here?",
+          "answer": "Telegraph Lines"
+        },
+        {
+          "question": "How did news of the Civil War reach Utah?",
+          "answer": "Pony Express"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Places",
+      "items": [
+      ]
+    }
+  ]
+}

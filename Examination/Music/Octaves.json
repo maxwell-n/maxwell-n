@@ -1,0 +1,28 @@
+{
+    "title": "Octaves",
+    "path": "Music/",
+    "data": [
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this octave?",
+            "items": [
+                {
+                    "name": "Ottava alta",
+                    "image": "OttavaAlta.png"
+                },
+                {
+                    "name": "Ottava bassa",
+                    "image": "OttavaBassa.png"
+                },
+                {
+                    "name": "Quindicesima alta",
+                    "image": "QuindicesimaAlta.png"
+                },
+                {
+                    "name": "Quindicesima bassa",
+                    "image": "QuindicesimaBassa.png"
+                }
+            ]
+        }
+    ]
+}

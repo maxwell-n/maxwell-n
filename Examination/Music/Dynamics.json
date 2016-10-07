@@ -1,0 +1,114 @@
+{
+    "title": "Dynamics",
+    "path": "Music/",
+    "data": [
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this Dynamic?",
+            "items": [
+                {
+                    "name": "Crescendo",
+                    "image": "Crescendo.png"
+                },
+                {
+                    "name": "Diminuendo",
+                    "image": "Diminuendo.png"
+                },
+                {
+                    "name": "Forte",
+                    "image": "Forte.png"
+                },
+                {
+                    "name": "Forte-piano",
+                    "image": "FortePiano.png"
+                },
+                {
+                    "name": "Fortissimo",
+                    "image": "Fortissimo.png"
+                },
+                {
+                    "name": "Fortississimo",
+                    "image": "Fortississimo.png"
+                },
+                {
+                    "name": "Mezzo forte",
+                    "image": "MezzoForte.png"
+                },
+                {
+                    "name": "Mezzo piano",
+                    "image": "MezzoPiano.png"
+                },
+                {
+                    "name": "Piano",
+                    "image": "Piano.png"
+                },
+                {
+                    "name": "Pianissimo",
+                    "image": "Pianissimo.png"
+                },
+                {
+                    "name": "Pianississimo",
+                    "image": "DynamicPianississimo.png"
+                },
+                {
+                    "name": "Sforzando",
+                    "image": "Sforzando.png"
+                }
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this Dynamic Definition?",
+            "items": [
+                {
+                    "name": "A gradual increase in volume",
+                    "image": "Crescendo.png"
+                },
+                {
+                    "name": "A gradual decrease in volume",
+                    "image": "Diminuendo.png"
+                },
+                {
+                    "name": "Loud",
+                    "image": "Forte.png"
+                },
+                {
+                    "name": "Initially played loudly, then immediately softly",
+                    "image": "FortePiano.png"
+                },
+                {
+                    "name": "Very loud",
+                    "image": "Fortissimo.png"
+                },
+                {
+                    "name": "Extremely loud",
+                    "image": "Fortississimo.png"
+                },
+                {
+                    "name": "Half as loud as forte",
+                    "image": "MezzoForte.png"
+                },
+                {
+                    "name": "Half as soft as piano",
+                    "image": "MezzoPiano.png"
+                },
+                {
+                    "name": "Soft",
+                    "image": "Piano.png"
+                },
+                {
+                    "name": "Very soft",
+                    "image": "Pianissimo.png"
+                },
+                {
+                    "name": "Extremely soft",
+                    "image": "DynamicPianississimo.png"
+                },
+                {
+                    "name": "Abrupt, fierce accent on a single sound or chord",
+                    "image": "Sforzando.png"
+                }
+            ]
+        }
+    ]
+}

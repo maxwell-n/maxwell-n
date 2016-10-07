@@ -1,0 +1,625 @@
+{
+  "title": "Utah History - Things",
+  "path": "KnowledgeBowl/",
+  "data": [
+    {
+      "questionType": "Drill and Kill",
+      "question": "Homes",
+      "items": [
+        {
+          "question": "Name 3 types of early Utah homes?",
+          "answer": "Adobe, Log, Timber Framed"
+        },
+        {
+          "question": "What is an Indian home dug out of the earth called?",
+          "answer": "Pit house"
+        },
+        {
+          "question": "What are adobe homes made from?",
+          "answer": "Clay, straw, sod"
+        },
+        {
+          "question": "What type of homes did the Navajo live in?",
+          "answer": "Hogans-Earth Lodge"
+        },
+        {
+          "question": "What type of homes did the Paiute live in?",
+          "answer": "Wikiups"
+        },
+        {
+          "question": "What type of homes did the Utes and Shoshones live in?",
+          "answer": "Teepees"
+        },
+        {
+          "question": "What types of homes did the Goshutes live in?",
+          "answer": "Wikiups or caves"
+        },
+
+        {
+          "question": "Which pioneer homes were quick and inexpensive to make?",
+          "answer": "Sod, Log, Adobe"
+        },
+        {
+          "question": "What was the most expensive and time-consuming pioneer home?",
+          "answer": "I-home or Timber Framed"
+        },
+        {
+          "question": "What kind of building was the schoolhouse?",
+          "answer": "Log cabin"
+        },
+        {
+          "question": "Before a home was built, Mormon pioneers often lived in?",
+          "answer": "Covered wagons"
+        },
+        {
+          "question": "What type of home did the Fremont live in?",
+          "answer": "Adobe stone"
+        },
+        {
+          "question": "What are the rock and mortar villages of the ancient Indians called?",
+          "answer": "Pueblos"
+        },
+        {
+          "question": "If a school house hadn’t been built yet, where did children meet?",
+          "answer": "A home or tent"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Resources",
+      "items": [
+        {
+          "question": "What was mined in Utah in 1952?",
+          "answer": "Uranium"
+        },
+        {
+          "question": "What ore was rare in the US and therefore very valuable?",
+          "answer": "Uranium"
+        },
+        {
+          "question": "What other minerals are there in Utah?",
+          "answer": "Silver, gold, salt, coal"
+        },
+        {
+          "question": "List the ores mined in Utah in the order of largest quantity found to the least:",
+          "answer": "Copper, Silver, Uranium, Gold"
+        },
+        {
+          "question": "What was uranium used for at the time?",
+          "answer": "Atomic weapons"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Dates",
+      "items": [
+        {
+          "question": "When did electricity come to Utah?",
+          "answer": "1881"
+        },
+        {
+          "question": "When was gold discover in California?",
+          "answer": "1948"
+        },
+        {
+          "question": "By what year did most Utah households have electricity?",
+          "answer": "1920"
+        },
+        {
+          "question": "The telegraph wires joined together in Salt Lake City when?",
+          "answer": "1862"
+        },
+        {
+          "question": "When did radios begin to become common in homes?",
+          "answer": "1900"
+        },
+        {
+          "question": "When did Philo T. Farnsworth invent the television at the U of U?",
+          "answer": "1928-1934"
+        },
+        {
+          "question": "When was the transcontinental telephone completed?",
+          "answer": "1914-1915"
+        },
+        {
+          "question": "What date was the finishing spike driven in for the Transcontinental Railroad?",
+          "answer": "May 10, 1869"
+        },
+        {
+          "question": "What year did the choir sing (with the organ) in the finished Tabernacle?",
+          "answer": "1857"
+        },
+        {
+          "question": "When did Utah finally become a state?",
+          "answer": "January 4, 1896"
+        },
+        {
+          "question": "When was the Utah Opera Company started?",
+          "answer": "1978"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Symbols",
+      "items": [
+        {
+          "question": "What is the state mineral?",
+          "answer": "Copper"
+        },
+        {
+          "question": "What is on the Utah State flag?",
+          "answer": "State seal"
+        },
+        {
+          "question": "What is the State Flower that the Indians showed Pioneers they could eat?",
+          "answer": "Sego Lily"
+        },
+        {
+          "question": "What is the State Grass that the Indians showed Pioneers they could eat?",
+          "answer": "Indian rice grass"
+        },
+        {
+          "question": "What did Utah adopt as the state dessert because we eat more of it than any other state?",
+          "answer": "Jello"
+        },
+        {
+          "question": "What is the pioneer cooking pot that is now known as the Utah State cooking pot?",
+          "answer": "Dutch oven"
+        },
+        {
+          "question": "What is Utah’s state fossil?",
+          "answer": "Allosaurus"
+        },
+        {
+          "question": "What is the Utah state insect that was petitioned for by 5th graders?",
+          "answer": "Honeybee"
+        },
+        {
+          "question": "What does the “Deseret” state mean?",
+          "answer": "Honeybee"
+        },
+        {
+          "question": "The old song “Utah We Love Thee” is now a hymn; what is the new state song?",
+          "answer": "Utah, This Is The Place"
+        },
+        {
+          "question": "What is the Utah State Star?",
+          "answer": "Dub he"
+        },
+        {
+          "question": "'Dub he' the state star is part of what constellation?",
+          "answer": "Big Dipper"
+        },
+        {
+          "question": "What is the Utah State Fish?",
+          "answer": "Rainbow cutthroat trout"
+        },
+        {
+          "question": "What is the Utah State Animal?",
+          "answer": "Rocky mountain elk"
+        },
+        {
+          "question": "What is the Utah State Tree?",
+          "answer": "Colorado blue spruce"
+        },
+        {
+          "question": "What is the Utah State Historical Vegetable?",
+          "answer": "Sugar Beet"
+        },
+        {
+          "question": "What is the Utah State current vegetable?",
+          "answer": "Spanish sweet onion"
+        },
+        {
+          "question": "What is the Utah State bird?",
+          "answer": "California Seagull"
+        },
+        {
+          "question": "What is the Utah State gem?",
+          "answer": "Topaz"
+        },
+        {
+          "question": "What is the Utah State motto?",
+          "answer": "Industry"
+        },
+        {
+          "question": "What is the Utah State Emblem?",
+          "answer": "Beehive"
+        },
+        {
+          "question": "What is the Utah State rock?",
+          "answer": "Coal"
+        },
+        {
+          "question": "What is the Utah State fruit?",
+          "answer": "Cherry"
+        },
+        {
+          "question": "What is the Utah State dance?",
+          "answer": "Square Dance"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Entertainment",
+      "items": [
+        {
+          "question": "What did the Promised Valley Playhouse used to be called? ",
+          "answer": "Old Lyric Theater"
+        },
+        {
+          "question": "What is the Utah Opera Company?",
+          "answer": "Opera company founded in 1978.  It’s now in Logan, works together with Utah Symphony"
+        },
+        {
+          "question": "What is the ballet based in Salt Lake city that was founded in 1963 called?",
+          "answer": "Ballet West"
+        },
+        {
+          "question": "Where does the Utah Symphony play when it is not on tour?",
+          "answer": "Abravanel Concert Hall"
+        },
+        {
+          "question": "Where can you see good Shakespeare plays?",
+          "answer": "Cedar City – SUU"
+        },
+        {
+          "question": "Fred Adams started what in Utah?",
+          "answer": "Utah Shakespearean Festival"
+        },
+        {
+          "question": "What was organized to provide music for LDS general conference?",
+          "answer": "The Mormon Tabernacle Choir"
+        },
+        {
+          "question": "What is the Ririe-Woodbury Dance Company?",
+          "answer": "A contemporary dance company based in Salt Lake City.  Founded in 1964"
+        },
+        {
+          "question": "What is the Sundance Film Festival?",
+          "answer": "Annual film festival held in Utah.  The largest independent film festival in the U.S."
+        },
+        {
+          "question": "What is Trax?",
+          "answer": "Utah’s light rail system.  It started in 1999. "
+        },
+        {
+          "question": "What is the Utah State firearm?",
+          "answer": "Browning-designed M1911 pistol "
+        },
+        {
+          "question": "Who are the Salt Lake Angles?",
+          "answer": "Minor-league baseball team in Salt Lake from 1971-1974."
+        },
+        {
+          "question": "Who are the Salt Lake Buzz?",
+          "answer": "The original name of the Salt lake Bees,Utah’s minor league baseball team. Founded 1994."
+        },
+        {
+          "question": "Who are the Salt Lake Golden Eagles?",
+          "answer": "The Minor league hockey team owned by Larry Miller and sold to Detroit."
+        },
+        {
+          "question": "Who are the Salt Lake City Gulls?",
+          "answer": "A former minor-league baseball team based in Salt Lake City from 1975-1984."
+        },
+        {
+          "question": "Who are the Salt Lake Stings?",
+          "answer": "1990s soccer team here in Utah-only lasted 2 seasons."
+        },
+        {
+          "question": "Who are the Salt Lake Stingers?",
+          "answer": "The 2nd name of the Salt Lake Bees.  Named Stingers from 2001-2005. "
+        },
+        {
+          "question": "What is Real Salt Lake?",
+          "answer": "Major League Soccer team based in Sandy, Utah.  Founded in 2004."
+        },
+        {
+          "question": "Who are the Salt Lake City Trappers?",
+          "answer": "Baseball AAA team, (based in Ogden)"
+        },
+        {
+          "question": "Who are the Utah Blitz?",
+          "answer": "Salt Lake City-based women’s football team founded in 2010."
+        },
+        {
+          "question": "Who are the Utah Flash?",
+          "answer": "A basketball team of the NBA Development League founded in 2007.  They play at UVU in Orem."
+        },
+        {
+          "question": "Who are the Utah Grizzlies?",
+          "answer": "A professional ice hockey team based in West Valley City.  Founded 1988."
+        },
+        {
+          "question": "Who are the Utah Jazz?",
+          "answer": "The professional basketball team in Utah"
+        },
+        {
+          "question": "Who are the Orem Owlz?",
+          "answer": "Minor League Baseball team based in Orem, Utah"
+        },
+        {
+          "question": "Who are the Utah Stars?",
+          "answer": "An American Basketball Association team based in SLC from 1970-1976."
+        },
+        {
+          "question": "Who are the Utah Starzz?",
+          "answer": "Women’s NBA pro team in Salt Lake City from 1997 to 2003.  Relocated to San Antonio."
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Ute Words",
+      "items": [
+        {
+          "question": "What does the Ute word Kamas mean?",
+          "answer": ""
+        },
+        {
+          "question": "What does the Ute word Kamas mean?",
+          "answer": "Small grassy plain among hills"
+        },
+        {
+          "question": "What does the Ute word Kanosh mean?",
+          "answer": "Man of white hair"
+        },
+        {
+          "question": "What does the Ute word Timpanogos mean?",
+          "answer": "Rock River"
+        },
+        {
+          "question": "What does the Ute word Utah mean?",
+          "answer": "People of the mountains"
+        },
+        {
+          "question": "What does the Ute word Kanab mean?",
+          "answer": "Willow"
+        },
+        {
+          "question": "What does the Ute word Uinta mean?",
+          "answer": "Pine Land"
+        },
+        {
+          "question": "What does the Ute word Juab mean?",
+          "answer": "Flat or Level"
+        },
+        {
+          "question": "A hunting tool used by the Anasazi is called?",
+          "answer": "Atlatl"
+        },
+        {
+          "question": "What does the Ute word Panguitch mean?",
+          "answer": "Place where fish are"
+        },
+        {
+          "question": "What does the Ute word Santaquin mean?",
+          "answer": "It was the name of a Ute chief"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Things",
+      "items": [
+        {
+          "question": "What was the event called when the seagulls ate the crickets and saved the Mormon crops?",
+          "answer": "Miracle of the Gulls"
+        },
+        {
+          "question": "When the US government sent troops to stop a rumored rebellion by the Mormons, this was called?",
+          "answer": "Utah War"
+        },
+        {
+          "question": "What project helps pipe water from reservoirs to populated areas without enough water?",
+          "answer": "Central Utah Project"
+        },
+        {
+          "question": "What was introduced in 2008 that connected Salt Lake, Davie and Weber counties and help with transportation?",
+          "answer": "Front Runner"
+        },
+        {
+          "question": "What does ZCMI stand for?",
+          "answer": "Zions Cooperative Mercantile Institution"
+        },
+        {
+          "question": "What was the first department store in Utah?",
+          "answer": "ZCMI"
+        },
+        {
+          "question": "What were Brigham Young’s homes named?",
+          "answer": "Beehive House and Lion House"
+        },
+        {
+          "question": "What the Mormons wanted to call their new state?",
+          "answer": "State of Deseret"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Numbers",
+      "items": [
+        {
+          "question": "Which state number was Utah when it was admitted to the Union?",
+          "answer": "45"
+        },
+        {
+          "question": "The Navajo Tribe is the largest in Utah with how many individuals?",
+          "answer": "15,000"
+        },
+        {
+          "question": "How many miles long was the telegraph wire from east to west coast?",
+          "answer": "3,400"
+        },
+        {
+          "question": "How much faster was sending a message by telegraph rather than by Pony Express?",
+          "answer": "Seconds rather than 8-10 days"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Words",
+      "items": [
+        {
+          "question": "What did the pioneer women use to bake with when they had no yeast?",
+          "answer": "Saleratus"
+        },
+        {
+          "question": "How did Utah settlers prosper from the Gold Rush?",
+          "answer": "From selling supplies"
+        },
+        {
+          "question": "People began moving to California to find gold.  What were these people called?",
+          "answer": "Forty-niners"
+        },
+        {
+          "question": "A bone that is turned into a rock is called?",
+          "answer": "A fossil"
+        },
+        {
+          "question": "Fur trappers wanted furs in Utah because they wanted to make what kind of hat that sold in Europe?",
+          "answer": "Beaver hats"
+        },
+        {
+          "question": "Petroglyphs are?",
+          "answer": "Carvings"
+        },
+        {
+          "question": "Pictographs are?",
+          "answer": "Paintings"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Holidays",
+      "items": [
+        {
+          "question": "What is the reason for Martin Luther King Jr Day?",
+          "answer": "Honor a leader of the civil rights movement and civil rights in general"
+        },
+        {
+          "question": "What is the reason for President’s Day?",
+          "answer": "Honor two of U.S.’s greatest presidents"
+        },
+        {
+          "question": "Why do we celebrate Memorial Day?",
+          "answer": "Remember those who’ve died esp. military"
+        },
+        {
+          "question": "What is the reason behind Labor day?",
+          "answer": "Appreciate the common worker"
+        },
+        {
+          "question": "What is the reason for Veteran’s Day?",
+          "answer": "Honor those who have served or are serving in the military"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Holiday Dates",
+      "items": [
+        {
+          "question": "When is Martin Luther King Jr Day?",
+          "answer": "3rd Monday in January"
+        },
+        {
+          "question": "When is President's Day?",
+          "answer": "3rd Monday in February"
+        },
+        {
+          "question": "When is Memorial Day?",
+          "answer": "Last Monday in May"
+        },
+        {
+          "question": "When is Labor Day?",
+          "answer": "1st Monday in September"
+        },
+        {
+          "question": "When is Veteran's Day?",
+          "answer": "November 11th"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Things",
+      "items": [
+        {
+          "question": "Put the 6 communication inventions in order:",
+          "answer": "Pony express, telegraph, telephone, radio, movies, computer"
+        },
+        {
+          "question": "Put the 5 transportation inventions in order:",
+          "answer": "Wagon, railroad, electric streetcars, automobiles, airplanes"
+        },
+        {
+          "question": "What are the two earliest Utah newspapers?",
+          "answer": "Deseret News – 1850s and the Salt Lake Tribune – 1870s"
+        },
+        {
+          "question": "What two railroad companies built the Transcontinental Railroad?",
+          "answer": "Central Pacific and Union Pacific"
+        },
+        {
+          "question": "Most builders of the railroad came from what 2 countries?",
+          "answer": "China and Ireland"
+        },
+        {
+          "question": "What were two of the earliest radio stations in Utah?",
+          "answer": "KSL and KLO"
+        },
+        {
+          "question": "The Utah state gem is topaz. What color can it be?",
+          "answer": "Brown, Blue, Pink, Green"
+        },
+        {
+          "question": "What can become fossilized?",
+          "answer": "rock, bone, shell, wood"
+        },
+        {
+          "question": "During the Olympics, a snowshoe rabbit, fox and a bear were used as mascots. What state resources did they represent?",
+          "answer": "Fox-Copper, Bear-coal, Rabbit-snow powder"
+        },
+        {
+          "question": "The symbols on the Utah flag stand for what?",
+          "answer": "Eagle-Protection; Sego Lily-Peace, Beehive-Hardwork, US Flag-Loyality"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Miscellaneous",
+      "items": [
+        {
+          "question": "How was the Utah Symphony Orchestra started?",
+          "answer": "Funded by the U.S. During the Depression"
+        },
+        {
+          "question": "Where did the two railroads come together in Utah?",
+          "answer": "Promontory Point near Brigham City"
+        },
+        {
+          "question": "What was the group of Mormons called who wanted to travel from the east coast to the west coast by ship?",
+          "answer": "Brooklyn Voyage"
+        },
+        {
+          "question": "500 Mormon men were asked to enlist in the US Army to fight in the Mexican War. What were they called?",
+          "answer": "Mormon Battalion"
+        },
+        {
+          "question": "What was the program that the LDS established to help Mormons migrate to Utah?",
+          "answer": "Perpetual Emigrating Fund"
+        }
+      ]
+    }
+  ]
+}

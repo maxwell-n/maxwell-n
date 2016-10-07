@@ -1,0 +1,44 @@
+{
+    "title": "Repetition and Codas",
+    "path": "Music/",
+    "data": [
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this repetition or coda",
+            "items": [
+                {
+                    "name": "Coda",
+                    "image": "Coda.png"
+                },
+                {
+                    "name": "Da capo",
+                    "image": "DaCapo.png"
+                },
+                {
+                    "name": "Dal segno",
+                    "image": "DalSegno.png"
+                },
+                {
+                    "name": "Repeat signs",
+                    "image": "RepeatSigns.png"
+                },
+                {
+                    "name": "Segno",
+                    "image": "Segno.png"
+                },
+                {
+                    "name": "Simile marks",
+                    "image": "Simile.png"
+                },
+                {
+                    "name": "Tremolo",
+                    "image": "Tremolo.png"
+                },
+                {
+                    "name": "Volta brackets",
+                    "image": "VoltaBrackets.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Sort22 Spelling",
+  "path": "Spelling/",
+  "data": [
+    {
+      "questionType": "Fill in the Blank",
+      "question": "Spell this word?",
+      "items": [
+        "suffice",
+        "sufficient",
+        "preside",
+        "president",
+        "metallic",
+        "metal",
+        "wise",
+        "inspiration",
+        "emphasis",
+        "mandate",
+        "emphatic",
+        "inspire",
+        "democrat",
+        "wisdom",
+        "decide",
+        "excel",
+        "mandatory",
+        "narrate",
+        "decision",
+        "narrative",
+        "democracy",
+        "habit",
+        "excellent",
+        "habitat"
+      ]
+    }
+  ]
+}

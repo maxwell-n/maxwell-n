@@ -1,0 +1,42 @@
+{
+    "title": "Pedal Marks",
+    "path": "Music/",
+    "data": [
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this pedal mark?",
+            "items": [
+                {
+                    "name": "Engage pedal",
+                    "image": "Pedaldown.png"
+                },
+                {
+                    "name": "Release pedal",
+                    "image": "PedalUp.png"
+                }   ,
+                {
+                    "name": "Variable pedal mark",
+                    "image": "Pedal.png"
+                }
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this pedal mark definition?",
+            "items": [
+                {
+                    "name": "Sustain pedal down",
+                    "image": "Pedaldown.png"
+                },
+                {
+                    "name": "Sustain pedal up",
+                    "image": "PedalUp.png"
+                }   ,
+                {
+                    "name": "Precise use of the sustain pedal",
+                    "image": "Pedal.png"
+                }
+            ]
+        }
+    ]
+}

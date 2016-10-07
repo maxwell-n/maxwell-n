@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Piano - nmmaxwell</title>
+    <link rel="stylesheet" href="Piano.css">
+    <script>
+        <!--
+        function setHeight() {
+            var ifDetails = document.getElementById('ifDetails');
+            ifDetails.style.height = null;
+            var ifHeight = ifDetails.contentDocument.height;
+            var docHeight = document.height;
+            if (ifHeight > docHeight)
+                ifDetails.style.height = ifHeight + 'px';
+            else
+                ifDetails.style.height = docHeight + 'px';
+        }
+        -->
+    </script>
+</head>
+<body onresize="setHeight()">
+<div id="dLeft">
+    <div class="dClient">
+        <h1>Piano</h1>
+        <hr />
+        <ul class="custom">
+            <li class="textLesson"><a href="Lines.html" target="ifDetails">Lines</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/Lines.json" target="ifDetails">Lines Exam</a></li>
+            <li class="textLesson"><a href="Clefs.html" target="ifDetails">Clefs</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/Clefs.json" target="ifDetails">Clefs Exam</a></li>
+            <li class="textLesson"><a href="NotesAndRests.html" target="ifDetails">Notes and Rests</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/Notes.json" target="ifDetails">Notes Exam</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/NoteDuration.json" target="ifDetails">Note Duration Exam</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/Rests.json" target="ifDetails">Rests Exam</a></li>
+            <li class="textLesson"><a href="Breaks.html" target="ifDetails">Breaks</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/Breaks.json" target="ifDetails">Breaks Exam</a></li>
+            <li class="textLesson"><a href="CommonAccidentals.html" target="ifDetails">Common Accidentals</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/CommonAccidentals.json" target="ifDetails">Common Accidentals Exam</a></li>
+            <li class="textLesson"><a href="KeySignatures.html" target="ifDetails">Key Signatures</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/KeySignatures.json" target="ifDetails">Key Signatures Exam</a></li>
+            <li class="textLesson"><a href="QuarterToneAccidentals.html" target="ifDetails">Quarter-tone Accidentals</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/QuarterToneAccidentals.json" target="ifDetails">Quarter-tone Accidentals Exam</a></li>
+            <li class="textLesson"><a href="TimeSignatures.html" target="ifDetails">Time Signatures</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/TimeSignatures.json" target="ifDetails">Time Signatures Exam</a></li>
+            <li class="textLesson"><a href="NoteRelationships.html" target="ifDetails">Note Relationships</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/NoteRelationships.json" target="ifDetails">Note Relationships Exam</a></li>
+            <li class="textLesson"><a href="Dynamics.html" target="ifDetails">Dynamics</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/Dynamics.json" target="ifDetails">Dynamics Exam</a></li>
+            <li class="textLesson"><a href="ArticulationMarks.html" target="ifDetails">Articulation Marks</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/ArticulationMarks.json" target="ifDetails">Articulation Marks Exam</a></li>
+            <li class="textLesson"><a href="Ornaments.html" target="ifDetails">Ornaments</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/Ornaments.json" target="ifDetails">Ornaments Exam</a></li>
+            <li class="textLesson"><a href="Octaves.html" target="ifDetails">Octaves</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/Octaves.json" target="ifDetails">Octaves Exam</a></li>
+            <li class="textLesson"><a href="RepetitionAndCodas.html" target="ifDetails">Repetition and Codas</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/RepetitionAndCodas.json" target="ifDetails">Repetition and Codas Exam</a></li>
+            <li class="textLesson"><a href="PedalMarks.html" target="ifDetails">Pedal Marks</a></li>
+            <li class="exam"><a href="../Examination/Exam.html?Exam=Music/PedalMarks.json" target="ifDetails">Pedal Marks Exam</a></li>
+            <li class="glossary"><a href="Glossary.html" target="ifDetails">Glossary</a></li>
+        </ul>
+    </div>
+</div>
+<iframe id="ifDetails" name="ifDetails" src="Instructions.html" seamless="seamless" scrolling="no" width="100%" onload="setHeight()"/>
+</body>
+</html>

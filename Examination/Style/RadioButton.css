@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 1.5em;
+    font-family: Georgia, Utopia, Charter, serif;
+}
+
+.example {
+    margin: 0;
+    padding: 0;
+    opacity: 0;
+}
+
+input[type=radio] {
+    display: none;
+    margin: 0;
+    padding: 0;
+    opacity: 0;
+}
+
+input[type=radio] + label:before {
+    content: "";
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right: 4px;
+    background: url('radiobutton.png') no-repeat 0 0;
+    vertical-align: middle
+}
+
+input[type=radio]:checked + label:before {
+    background-position: 0 -40px;
+}
+
+input[type=radio][disabled] + label:before {
+    background-position: 0 -80px;
+}
+
+input[type=radio][disabled]:checked + label:before {
+    background-position: 0 -120px;
+}

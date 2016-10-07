@@ -1,0 +1,232 @@
+{
+  "title": "American History - People",
+  "path": "KnowledgeBowl/",
+  "data": [
+    {
+      "questionType": "Drill and Kill",
+      "question": "Presidents",
+      "items": [
+        {
+          "question": "Who was the first President of the United States?",
+          "answer": "George Washington"
+        },
+        {
+          "question": "Who was the 2nd president of the United States?",
+          "answer": "John Adams"
+        },
+        {
+          "question": "Who was president during the Civil war?",
+          "answer": "Abraham Lincoln"
+        },
+        {
+          "question": "Which US President tried to take the Utah territory away from the Mormons?",
+          "answer": "James Buchanan"
+        },
+        {
+          "question": "Who was the 22nd and 24th President of the US?",
+          "answer": "Grover Cleveland"
+        },
+        {
+          "question": "Who was elected the President by the Confederate States?",
+          "answer": "Jefferson Davis"
+        },
+        {
+          "question": "The first capital in Utah was named after this President.",
+          "answer": "Millard Fillmore"
+        },
+        {
+          "question": "Who was king during the American Revolution? ",
+          "answer": "King George III"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Inventors",
+      "items": [
+        {
+          "question": "Who invented the telephone?",
+          "answer": "Alexander Graham Bell"
+        },
+        {
+          "question": "Who invented the electric light bulb?",
+          "answer": "Thomas Edison"
+        },
+        {
+          "question": "Who invented the phonograph, typewriter, electric generator?",
+          "answer": "Thomas Edison"
+        },
+        {
+          "question": "Who invented the electric telegraph?",
+          "answer": "Samuel Morse"
+        },
+        {
+          "question": "Who built and flew the 1st successful airplane?",
+          "answer": "The Wright Brothers"
+        },
+        {
+          "question": "Who was an inventor, publisher and government leaders?",
+          "answer": "Benjamin Franklin"
+        },
+        {
+          "question": "Who invented bifocals, pot belly stoves, and worked with electricity?",
+          "answer": "Benjamin Franklin"
+        },
+        {
+          "question": "Who helped establish hospitals, libraries, roads, and fire/police for communities?",
+          "answer": "Benjamin Franklin"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "People",
+      "items": [
+        {
+          "question": "Who published 'Poor Richard's Almanac which contained advice, jokes, poems, riddles, proverbs, weather?",
+          "answer": "Benjamin Franklin"
+        },
+        {
+          "question": "Who was the oldest signer of the Declaration of Independence?",
+          "answer": "Benjamin Franklin"
+        },
+        {
+          "question": "Who helped write much of the Declaration of Independence?",
+          "answer": "Thomas Jefferson"
+        },
+        {
+          "question": "Who wrote the 'Star Spangled Banner'?",
+          "answer": "Francis Scott Key"
+        },
+        {
+          "question": "Who designed Washington DC?",
+          "answer": "Pierre L'Enfant"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "People",
+      "items": [
+        {
+          "question": "Which abolitionist tired to free slaves by force just before the Civil war?",
+          "answer": "John Brown"
+        },
+        {
+          "question": "What explorers followed the Mississippi?",
+          "answer": "Meriwether Lewis and William Clark"
+        },
+        {
+          "question": "What explorer helped settle Kentucky?",
+          "answer": "Daniel Boone"
+        },
+        {
+          "question": "Who did the following:  Settled Kentucky, trail through the Appalachian Mountains, developed a good relationship with the Indians?",
+          "answer": "Daniel Boone"
+        },
+        {
+          "question": "Who built Fort Buenaventure?",
+          "answer": "Miles Goodyear"
+        },
+        {
+          "question": "Who sailed the Mississippi and claimed it for France?",
+          "answer": "Robert LaSalle"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "Explorers",
+      "items": [
+        {
+          "question": "Which Italian explorer left from England in 1497 and discovered Greenland?",
+          "answer": "John Cabot"
+        },
+        {
+          "question": "What explorer went back to England for more ships and was never heard from again?",
+          "answer": "John Cabot"
+        },
+        {
+          "question": "Which explorer was America named after?",
+          "answer": "Amerigo Vespucci"
+        },
+        {
+          "question": "What explorer is from Italy?",
+          "answer": "Amerigo Vespucci"
+        },
+        {
+          "question": "What explorer found the North American continent in 1497?",
+          "answer": "Amerigo Vespucci"
+        },
+        {
+          "question": "Who financed the voyage of Christopher Columbus?",
+          "answer": "Ferdinand and Isabella"
+        },
+        {
+          "question": "Who was looking for a route to India and China by found the Western Hemisphere/America/Cuba instead?",
+          "answer": "Christopher Columbus"
+        },
+        {
+          "question": "Who sailed for the Indies in 1492 from Portugal?",
+          "answer": "Christopher Columbus"
+        },
+        {
+          "question": "Who was the Viking thought to be one of the first Europeans to discover America?",
+          "answer": "Leif Erickson"
+        },
+        {
+          "question": "Who was Leif Erickson's Father? ",
+          "answer": "Eric the Red"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "People",
+      "items": [
+        {
+          "question": "Who organized the first Thanksgiving celebration?",
+          "answer": "William Bradford"
+        },
+        {
+          "question": "Who was the first English soldier that sailed on the mayflower that helped the pilgrims protect themselves?",
+          "answer": "Myles Standish"
+        },
+        {
+          "question": "Who did Pocahontas marry?",
+          "answer": "John Rolfe"
+        },
+        {
+          "question": "Whose life did Pocahontas save?",
+          "answer": "Capt. John Smith"
+        },
+        {
+          "question": "Who helped establish Jamestown as a permanent settlement?",
+          "answer": "Capt. John Smith"
+        },
+        {
+          "question": "Who helped the English make peace with the Indians and get food so that they could survive?",
+          "answer": "Capt. John Smith"
+        },
+        {
+          "question": "Whose life did Pocahontas save?",
+          "answer": "Capt. John Smith"
+        }
+      ]
+    },
+    {
+      "questionType": "Drill and Kill",
+      "question": "People",
+      "items": [
+        {
+          "question": "When was the 'Star Spangled Banner' written?",
+          "answer": "1812"
+        },
+        {
+          "question": "When did Leif Erickson live?",
+          "answer": "975-1020"
+        }
+      ]
+    }
+  ]
+}

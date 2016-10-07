@@ -1,0 +1,36 @@
+{
+  "title": "Sort20 Spelling",
+  "path": "Spelling/",
+  "data": [
+    {
+      "questionType": "Fill in the Blank",
+      "question": "Spell this word?",
+      "items": [
+        "volcano",
+        "volcanic",
+        "compose",
+        "composition",
+        "conspire",
+        "admire",
+        "custodian",
+        "competition",
+        "serene",
+        "divine",
+        "conspiracy",
+        "custody",
+        "compete",
+        "admiration",
+        "invitation",
+        "define",
+        "serenity",
+        "divinity",
+        "invite",
+        "opposition",
+        "definition",
+        "reside",
+        "oppose",
+        "resident"
+      ]
+    }
+  ]
+}

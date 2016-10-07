@@ -1,0 +1,18 @@
+{
+    "title": "Clefs",
+    "path": "Music/",
+    "data": [
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this celf?",
+            "items": [
+                {"name": "Alto Clef", "image": "AltoClef.png"},
+                {"name": "Bass Clef", "image": "BassClef.png"},
+                {"name": "Treble Clef", "image": "TrebleClef.png"},
+                {"name": "Neutral clef", "image": "NeutralClef.png"},
+                {"name": "Octave Clef", "image": "OctaveClef.png"},
+                {"name": "Neutral clef", "image": "UnpitchedClef.png"}
+            ]
+        }
+    ]
+}

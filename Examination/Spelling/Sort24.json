@@ -1,0 +1,36 @@
+{
+  "title": "Sort24 Spelling",
+  "path": "Spelling/",
+  "data": [
+    {
+      "questionType": "Fill in the Blank",
+      "question": "Spell this word?",
+      "items": [
+        "critic",
+        "publicize",
+        "except",
+        "politics",
+        "criticize",
+        "physics",
+        "publicity",
+        "public",
+        "critical",
+        "exception",
+        "political",
+        "nation",
+        "family",
+        "physical",
+        "familiarity",
+        "physicist",
+        "exceptional",
+        "spirit",
+        "national",
+        "familiar",
+        "nationality",
+        "spiritual",
+        "politician",
+        "spirituality"
+      ]
+    }
+  ]
+}

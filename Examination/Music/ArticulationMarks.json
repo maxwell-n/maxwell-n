@@ -1,0 +1,56 @@
+{
+    "title": "Articulation Marks",
+    "path": "Music/",
+    "data": [
+        {
+            "questionType": "Multiple Choice",
+            "question": "What is this articulation mark?",
+            "items": [
+                {
+                    "name": "Down bow or Giù arco",
+                    "image": "DownBow.png"
+                },
+                {
+                    "name": "Fermata",
+                    "image": "Fermata.png"
+                },
+                {
+                    "name": "Natural harmonic or Open note",
+                    "image": "Harmonic.png"
+                },
+                {
+                    "name": "Dynamic accent",
+                    "image": "Marcato.png"
+                },
+                {
+                    "name": "Left-hand pizzicato or Stopped note",
+                    "image": "Pizzicato.png"
+                },
+                {
+                    "name": "Snap pizzicato",
+                    "image": "SnapPizzicato.png"
+                },
+                {
+                    "name": "Staccatissimo",
+                    "image": "Staccatissimo.png"
+                },
+                {
+                    "name": "Staccato",
+                    "image": "Staccato.png"
+                },
+                {
+                    "name": "Marcato",
+                    "image": "StrongMarcato.png"
+                },
+                {
+                    "name": "Tenuto",
+                    "image": "Tenuto.png"
+                },
+                {
+                    "name": "Up bow or Sull'arco",
+                    "image": "UpBow.png"
+                }
+            ]
+        }
+    ]
+}
