@@ -3,7 +3,7 @@
     "path": "Music/",
     "data": [
         {
-            "questionType": "Multiple Choice",
+            "questionType": "Multiple Choice Image",
             "question": "What is this line type?",
             "items": [
                 {"name": "Accolade", "image": "Accolade.png"},
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "questionType": "Multiple Choice",
+            "questionType": "Multiple Choice Image",
             "question": "What is this line type?",
             "items": [
                 {"name": "Bar line", "image": "Barline.png"},

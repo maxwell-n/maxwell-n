@@ -3,7 +3,7 @@
     "path": "Music/",
     "data": [
         {
-            "questionType": "Multiple Choice",
+            "questionType": "Multiple Choice Image",
             "question": "What is this pedal mark?",
             "items": [
                 {
@@ -21,7 +21,7 @@
             ]
         },
         {
-            "questionType": "Multiple Choice",
+            "questionType": "Multiple Choice Image",
             "question": "What is this pedal mark definition?",
             "items": [
                 {

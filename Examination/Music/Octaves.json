@@ -3,7 +3,7 @@
     "path": "Music/",
     "data": [
         {
-            "questionType": "Multiple Choice",
+            "questionType": "Multiple Choice Image",
             "question": "What is this octave?",
             "items": [
                 {

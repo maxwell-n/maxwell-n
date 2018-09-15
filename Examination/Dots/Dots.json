@@ -3,7 +3,7 @@
     "path": "Dots/",
     "data": [
         {
-            "questionType": "Multiple Choice",
+            "questionType": "Multiple Choice Image",
             "question": "How many dots are there?",
             "items": [
                 {

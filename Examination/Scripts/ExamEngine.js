@@ -3,6 +3,7 @@
 /// <reference path="FillInTheBlank.ts" />
 /// <reference path="Matching.ts" />
 /// <reference path="MultipleChoice.ts" />
+/// <reference path="MultipleChoiceImage.ts" />
 class ExamEngine {
     constructor() {
         this._correctMP3 = [
@@ -80,6 +81,9 @@ class ExamEngine {
             case "MultipleChoice":
                 new MultipleChoiceEngine(doc);
                 break;
+            case "MultipleChoiceImage":
+                new MultipleChoiceImageEngine(doc);
+                break;
         }
     }
     createQuestion(index) {
@@ -119,6 +123,9 @@ class ExamEngine {
                     break;
                 case "Matching":
                     this._iframe.contentDocument.location.replace("Matching.html");
+                    break;
+                case "Multiple Choice Image":
+                    this._iframe.contentDocument.location.replace("MultipleChoiceImage.html");
                     break;
                 case "Multiple Choice":
                     this._iframe.contentDocument.location.replace("MultipleChoice.html");

@@ -3,6 +3,7 @@
 /// <reference path="FillInTheBlank.ts" />
 /// <reference path="Matching.ts" />
 /// <reference path="MultipleChoice.ts" />
+/// <reference path="MultipleChoiceImage.ts" />
 
 interface IExam {
     correctCount: number;
@@ -104,6 +105,9 @@ class ExamEngine {
             case "MultipleChoice":
                 new MultipleChoiceEngine(doc);
                 break;
+            case "MultipleChoiceImage":
+                new MultipleChoiceImageEngine(doc);
+                break;
         }
     }
 
@@ -147,6 +151,9 @@ class ExamEngine {
                     break;
                 case "Matching":
                     this._iframe.contentDocument.location.replace("Matching.html");
+                    break;
+                case "Multiple Choice Image":
+                    this._iframe.contentDocument.location.replace("MultipleChoiceImage.html");
                     break;
                 case "Multiple Choice":
                     this._iframe.contentDocument.location.replace("MultipleChoice.html");
