@@ -69,7 +69,7 @@ class MatchingEngine extends Question {
     public enableControls(enable) {
         var elements:NodeList = this._contentDocument.getElementsByClassName('button');
         for (var i = 0; i < elements.length; i++)
-            (<HTMLElement>elements[i]).disabled = !enable;
+            (<HTMLButtonElement>elements[i]).disabled = !enable;
         var sPlay = this._contentDocument.getElementById('sPlay');
         sPlay.disabled = !enable;
     }

@@ -1,15 +1,8 @@
 /// <reference path="ExamEngine.ts" />
 /// <reference path="Question.ts" />
-var __extends = this.__extends || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    __.prototype = b.prototype;
-    d.prototype = new __();
-};
-var MatchingEngine = (function (_super) {
-    __extends(MatchingEngine, _super);
-    function MatchingEngine(contentDocument) {
-        _super.call(this);
+class MatchingEngine extends Question {
+    constructor(contentDocument) {
+        super();
         this._data = null;
         this._data = examEngine.loadQuestion();
         this._contentDocument = contentDocument;
@@ -41,9 +34,7 @@ var MatchingEngine = (function (_super) {
                 e.preventDefault();
                 return false;
             };
-            button.ondragstart = function (e) {
-                e.preventDefault();
-            };
+            button.ondragstart = function (e) { e.preventDefault(); };
             img = this._contentDocument.getElementById("img" + i);
             img.src = examEngine.exam["path"] + 'Images/' + indexes[num] + '.jpg';
             indexes.splice(num, 1);
@@ -56,28 +47,25 @@ var MatchingEngine = (function (_super) {
             e.preventDefault();
             return false;
         };
-        sPlay.ondragstart = function (e) {
-            e.preventDefault();
-        };
+        sPlay.ondragstart = function (e) { e.preventDefault(); };
         audioUtil.play(examEngine.exam["path"] + "Sounds/" + this._data.answer + ".mp3", null);
     }
-    MatchingEngine.prototype.checkAnswer = function (value) {
+    checkAnswer(value) {
         this.enableControls(false);
         var onEnded = function () {
             this.enableControls(true);
         };
         this.score(value === this._data.answer, onEnded.bind(this));
-    };
-    MatchingEngine.prototype.playSound = function () {
+    }
+    playSound() {
         audioUtil.playCached(examEngine.exam["path"] + "Sounds/" + this._data.answer + ".mp3", null);
-    };
-    MatchingEngine.prototype.enableControls = function (enable) {
+    }
+    enableControls(enable) {
         var elements = this._contentDocument.getElementsByClassName('button');
         for (var i = 0; i < elements.length; i++)
             elements[i].disabled = !enable;
         var sPlay = this._contentDocument.getElementById('sPlay');
         sPlay.disabled = !enable;
-    };
-    return MatchingEngine;
-})(Question);
+    }
+}
 //# sourceMappingURL=Matching.js.map

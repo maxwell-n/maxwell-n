@@ -53,7 +53,7 @@ class ExamEngine {
 
     public loadExam() {
         window.onbeforeunload = function () {
-            var doc = this._iframe.contentDocument;
+            let doc = this._iframe.contentDocument;
             switch (fileUtil.getFileNameWithoutExtension(doc.URL)) {
                 case "ExamFinish":
                 case "ExamIntro":
@@ -64,21 +64,21 @@ class ExamEngine {
         }.bind(this);
         this._iframe = document.getElementById("iframe");
         this._iframe.onload = this.loadIFrame.bind(this);
-        var urlParam:string = urlUtil.getURLParam("Exam");
+        let urlParam:string = urlUtil.getURLParam("Exam");
         this.exam = fileUtil.load(urlParam);
         this.exam.name = fileUtil.getFileNameWithoutExtension(urlParam);
         this.exam.questions = [];
         this.exam.currentQuestion = -1;
         this.exam.correctCount = 0;
         this.exam.errorCount = 0;
-        for (var i = 0; i < this.exam["data"].length; i++)
+        for (let i = 0; i < this.exam["data"].length; i++)
             this.createQuestion(i);
         //localStorage.setItem("exam", JSON.stringify(this.exam));
         this._iframe.src = "ExamIntro.html";
     }
 
     private loadIFrame() {
-        var doc = this._iframe.contentDocument;
+        let doc = this._iframe.contentDocument;
         switch (fileUtil.getFileNameWithoutExtension(doc.URL)) {
             case "DrillAndKill":
                 new DrillAndKillEngine(doc);
@@ -90,9 +90,9 @@ class ExamEngine {
                 doc.getElementById('bHome').hidden = true;
                 break;
             case "ExamIntro":
-                var pTitle = doc.getElementById("h1Title");
+                let pTitle = doc.getElementById("h1Title");
                 pTitle.innerHTML = this.exam["title"];
-                var pQuestions = doc.getElementById("pQuestions");
+                let pQuestions = doc.getElementById("pQuestions");
                 pQuestions.innerHTML = "There are  " + this.exam.questions.length + " questions.";
                 break;
             case "FillInTheBlank":
@@ -108,9 +108,9 @@ class ExamEngine {
     }
 
     public createQuestion(index) {
-        var obj;
-        var idx;
-        for (var i = 0; i < this.exam["data"][index]["items"].length; i++) {
+        let obj;
+        let idx;
+        for (let i = 0; i < this.exam["data"][index]["items"].length; i++) {
             obj = {
                 answer: this.exam["data"][index]["items"][i],
                 item: i,
@@ -123,8 +123,8 @@ class ExamEngine {
     }
 
     public loadQuestion() {
-        var answer = this.exam.questions[this.exam.currentQuestion];
-        var data:IQuestion = {
+        let answer = this.exam.questions[this.exam.currentQuestion];
+        let data:IQuestion = {
             currentQuestion: this.exam.currentQuestion,
             answer: answer["answer"],
             dataItem: this.exam["data"][answer["dataIndex"]]
@@ -137,7 +137,7 @@ class ExamEngine {
         this.exam.currentQuestion = this.exam.currentQuestion + 1;
         if (this.exam.currentQuestion < this.exam.questions.length) {
 
-            var answer = this.exam.questions[this.exam.currentQuestion];
+            let answer = this.exam.questions[this.exam.currentQuestion];
             switch (answer["questionType"]) {
                 case "Drill and Kill":
                     this._iframe.contentDocument.location.replace("DrillAndKill.html");
@@ -160,22 +160,22 @@ class ExamEngine {
     public playCorrect(onEnded) {
         this.exam.correctCount += 1;
         this.updateScore();
-        var i = randomizeUtil.randomNumber(this._correctMP3.length);
+        let i = randomizeUtil.randomNumber(this._correctMP3.length);
         audioUtil.playCached("Scripts/Sounds/Correct/" + this._correctMP3[i], onEnded);
     }
 
     public playIncorrect(onEnded) {
         this.exam.errorCount += 1;
         this.updateScore();
-        var i = randomizeUtil.randomNumber(this._incorrectMP3.length);
+        let i = randomizeUtil.randomNumber(this._incorrectMP3.length);
         audioUtil.playCached("Scripts/Sounds/Incorrect/" + this._incorrectMP3[i], onEnded);
     }
 
     public updateScore() {
-        var dCorrect = this._iframe.contentDocument.getElementById('dCorrect');
+        let dCorrect = this._iframe.contentDocument.getElementById('dCorrect');
         if (dCorrect !== null)
             dCorrect.innerHTML = this.exam.correctCount.toString();
-        var dError = this._iframe.contentDocument.getElementById("dError");
+        let dError = this._iframe.contentDocument.getElementById("dError");
         if (dError !== null)
             dError.innerHTML = this.exam.errorCount.toString();
     }

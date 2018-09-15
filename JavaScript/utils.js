@@ -1,11 +1,11 @@
-var randomizeUtil = {
+let randomizeUtil = {
     randomNumber: function (seed) {
         return Math.floor(Math.random() * seed);
     }
 };
-var audioUtil = {
+let audioUtil = {
     getAudio: function (name, preload) {
-        var aAudio = document.getElementById(name);
+        let aAudio = document.getElementById(name);
         if (aAudio === null) {
             aAudio = document.createElement("audio");
             aAudio.id = name;
@@ -18,66 +18,61 @@ var audioUtil = {
         return aAudio;
     },
     play: function (src, onEnded) {
-        var aAudio = audioUtil.getAudio("aAudio");
+        let aAudio = audioUtil.getAudio("aAudio");
         aAudio.src = src;
         if (typeof (onEnded) === "function") {
             function ended() {
                 aAudio.removeEventListener("ended", ended);
                 onEnded();
             }
-            aAudio.addEventListener("ended", ended);
+            aAudio.addEventListener("ended", ended, false);
         }
         aAudio.play();
     },
     playCached: function (src, onEnded) {
-        var name = fileUtil.getFileNameWithoutExtension(src);
-        var aAudio = audioUtil.getAudio(name, true);
+        let name = fileUtil.getFileNameWithoutExtension(src);
+        let aAudio = audioUtil.getAudio(name, true);
         aAudio.src = src;
         aAudio.preload = "auto";
-        if (typeof (onEnded) === "function") {
-            function ended() {
-                aAudio.removeEventListener("ended", ended);
-                onEnded();
-            }
-            aAudio.addEventListener("ended", ended);
-        }
+        if (typeof (onEnded) === "function")
+            aAudio.onended = onEnded();
         aAudio.play();
     }
 };
-var fileUtil = {
+let fileUtil = {
     getFileExtension: function (filePath) {
-        var parts = filePath.split('.');
+        let parts = filePath.split('.');
         return parts[parts.length - 1];
     },
     getFileName: function (filePath) {
-        var parts = filePath.split('/');
+        let parts = filePath.split('/');
         return parts[parts.length - 1];
     },
     getFileNameWithoutExtension: function (filePath) {
-        var fileName = fileUtil.getFileName(filePath);
-        var parts = fileName.split('.');
+        let fileName = fileUtil.getFileName(filePath);
+        let parts = fileName.split('.');
         return parts[0];
     },
     getPath: function (filePath) {
-        var parts = filePath.split('/');
+        let parts = filePath.split('/');
         parts.pop();
         return parts.join('/');
     },
     jsLoader: function (jsFile) {
-        var newScript = document.createElement('script');
+        let newScript = document.createElement('script');
         newScript.type = 'text/javascript';
         newScript.src = jsFile;
         document.getElementsByTagName('head')[0].appendChild(newScript);
     },
     load: function (fileName) {
-        var request = new XMLHttpRequest();
+        let request = new XMLHttpRequest();
         request.open("GET", fileName, false);
         request.send();
         return JSON.parse(request.responseText);
     },
     loadAsync: function (fileName, readFile) {
-        var request = new XMLHttpRequest();
-        var jsonObject;
+        let request = new XMLHttpRequest();
+        let jsonObject;
         request.open("GET", fileName, true);
         request.onreadystatechange = function () {
             if (typeof readFile === 'function') {
@@ -92,15 +87,15 @@ var fileUtil = {
         request.send();
     }
 };
-var urlUtil = {
+let urlUtil = {
     getURLParam: function (name) {
-        //var url = window.location.toString();
-        //var parameters:string = location.search.substr(window.location.toString().indexOf("?") + 1);
-        var parameters = location.search.substr(location.search.indexOf("?") + 1);
-        var sval = "";
-        var temp;
-        var params = parameters.split("&");
-        for (var i = 0; i < params.length; i++) {
+        //let url = window.location.toString();
+        //let parameters:string = location.search.substr(window.location.toString().indexOf("?") + 1);
+        let parameters = location.search.substr(location.search.indexOf("?") + 1);
+        let sval = "";
+        let temp;
+        let params = parameters.split("&");
+        for (let i = 0; i < params.length; i++) {
             temp = params[i].split("=");
             if (temp[0] === name) {
                 sval = temp[1];

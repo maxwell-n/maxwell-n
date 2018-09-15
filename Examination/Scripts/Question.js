@@ -1,17 +1,14 @@
 /// <reference path="ExamEngine.ts" />
-var Question = (function () {
-    function Question() {
-    }
-    Question.prototype.score = function (correct, onEnded) {
+class Question {
+    score(correct, onEnded) {
         if (correct) {
             examEngine.playCorrect(function () {
                 examEngine.nextQuestion();
-            });
+            }.bind(this));
         }
         else {
             examEngine.playIncorrect(onEnded);
         }
-    };
-    return Question;
-})();
+    }
+}
 //# sourceMappingURL=Question.js.map

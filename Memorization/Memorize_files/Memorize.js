@@ -1,6 +1,6 @@
 /// <reference path="../../JavaScript/utils.ts" />
-var memorize = (function () {
-    function memorize() {
+class memorize {
+    constructor() {
         var param = urlUtil.getURLParam('Memorize');
         this._json = fileUtil.load(param + '.json');
         document.title = this._json['memorization']['title'] + ' - nmmaxwell';
@@ -45,14 +45,14 @@ var memorize = (function () {
             this.createButton(divButtons, 'None', i.toString(), onclick);
         }
     }
-    memorize.prototype.createButton = function (htmlElement, text, value, onclick) {
+    createButton(htmlElement, text, value, onclick) {
         var button = document.createElement('button');
         button.innerText = text;
         button.value = value;
         button.onclick = onclick;
         htmlElement.appendChild(button);
-    };
-    memorize.prototype.addSpaces = function (index) {
+    }
+    addSpaces(index) {
         var text = this._json['memorization']['items'][index].text;
         var textOut = '';
         var ignore = this.ignoreElement();
@@ -72,12 +72,12 @@ var memorize = (function () {
             }
         }
         return textOut;
-    };
-    memorize.prototype.allText = function (index) {
+    }
+    allText(index) {
         var divQuote = document.getElementById('p' + index);
         divQuote.innerHTML = this.addSpaces(index);
-    };
-    memorize.prototype.ignoreElement = function () {
+    }
+    ignoreElement() {
         var ignore = false;
         return function (char) {
             switch (char) {
@@ -93,8 +93,8 @@ var memorize = (function () {
                     return ignore;
             }
         };
-    };
-    memorize.prototype.firstText = function (index) {
+    }
+    firstText(index) {
         var text = this._json['memorization']['items'][index].text;
         var textOut = '';
         var first = true;
@@ -130,8 +130,8 @@ var memorize = (function () {
         }
         var divQuote = document.getElementById('p' + index);
         divQuote.innerHTML = textOut;
-    };
-    memorize.prototype.lastText = function (index) {
+    }
+    lastText(index) {
         var text = this._json['memorization']['items'][index].text;
         var textOut = '';
         var last = false;
@@ -167,8 +167,8 @@ var memorize = (function () {
         }
         var divQuote = document.getElementById('p' + index);
         divQuote.innerHTML = textOut;
-    };
-    memorize.prototype.noneText = function (index) {
+    }
+    noneText(index) {
         var text = this._json['memorization']['items'][index].text;
         var textOut = '';
         var ignore = this.ignoreElement();
@@ -200,9 +200,8 @@ var memorize = (function () {
         }
         var divQuote = document.getElementById('p' + index);
         divQuote.innerHTML = textOut;
-    };
-    return memorize;
-})();
+    }
+}
 var memorization = new memorize();
 //# sourceMappingURL=Memorize.js.map
 //# sourceMappingURL=Memorize.js.map

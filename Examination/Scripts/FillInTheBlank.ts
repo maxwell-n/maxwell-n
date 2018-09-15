@@ -14,26 +14,26 @@ class FillInTheBlankEngine extends Question {
         this._tbText.value = "";
         this._tbText.onkeypress = this.searchKeyPress.bind(this);
         this.playSound(null);
-        var section = this._contentDocument.getElementById('sPlay');
+        let section = this._contentDocument.getElementById('sPlay');
         section.onclick = this.playSound.bind(this);
-        var btnCheckAnswer = <HTMLButtonElement>this._contentDocument.getElementById('btnCheckAnswer');
+        let btnCheckAnswer = <HTMLButtonElement>this._contentDocument.getElementById('btnCheckAnswer');
         btnCheckAnswer.onclick = this.checkAnswer.bind(this);
 
     }
 
     public checkAnswer() {
         this.enableControls(false);
-        var onEnded = function () {
+        let onEnded = function () {
             this.enableControls(true);
         }
         this.score(this._tbText.value.toLowerCase() === this._data.answer.toLocaleLowerCase(), onEnded.bind(this));
     }
 
     public enableControls(enable) {
-        var elements:NodeList = this._contentDocument.getElementsByClassName('button');
-        for (var i = 0; i < elements.length; i++)
-            (<HTMLElement>elements[i]).disabled = !enable;
-        var sPlay = this._contentDocument.getElementById('sPlay');
+        let elements:NodeList = this._contentDocument.getElementsByClassName('button');
+        for (let i = 0; i < elements.length; i++)
+            (<HTMLButtonElement>elements[i]).disabled = !enable;
+        let sPlay = this._contentDocument.getElementById('sPlay');
         sPlay.disabled = !enable;
     }
 
@@ -48,7 +48,7 @@ class FillInTheBlankEngine extends Question {
         if (typeof e == 'undefined' && window.event) {
             e = window.event;
         }
-        if (e.keyCode == 13) {
+        if (e.key === "Enter") {
             this._contentDocument.getElementById('btnCheckAnswer').click();
         }
     }

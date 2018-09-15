@@ -6,7 +6,7 @@ class Question {
         if (correct) {
             examEngine.playCorrect(function () {
                 examEngine.nextQuestion();
-            });
+            }.bind(this));
         } else {
             examEngine.playIncorrect(onEnded);
         }

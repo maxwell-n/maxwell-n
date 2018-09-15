@@ -3,8 +3,8 @@
 /// <reference path="FillInTheBlank.ts" />
 /// <reference path="Matching.ts" />
 /// <reference path="MultipleChoice.ts" />
-var ExamEngine = (function () {
-    function ExamEngine() {
+class ExamEngine {
+    constructor() {
         this._correctMP3 = [
             "Babys Giggle.mp3",
             "Cash Register.mp3",
@@ -20,7 +20,7 @@ var ExamEngine = (function () {
         this._incorrectMP3 = [
             "Error.mp3"
         ];
-        this.dragEvent = function (ev) {
+        this.dragEvent = (ev) => {
             ev.preventDefault();
         };
         window.ondragstart = this.dragEvent;
@@ -28,9 +28,9 @@ var ExamEngine = (function () {
         window.ondragover = this.dragEvent;
         window.ondragover = this.dragEvent;
     }
-    ExamEngine.prototype.loadExam = function () {
+    loadExam() {
         window.onbeforeunload = function () {
-            var doc = this._iframe.contentDocument;
+            let doc = this._iframe.contentDocument;
             switch (fileUtil.getFileNameWithoutExtension(doc.URL)) {
                 case "ExamFinish":
                 case "ExamIntro":
@@ -41,20 +41,20 @@ var ExamEngine = (function () {
         }.bind(this);
         this._iframe = document.getElementById("iframe");
         this._iframe.onload = this.loadIFrame.bind(this);
-        var urlParam = urlUtil.getURLParam("Exam");
+        let urlParam = urlUtil.getURLParam("Exam");
         this.exam = fileUtil.load(urlParam);
         this.exam.name = fileUtil.getFileNameWithoutExtension(urlParam);
         this.exam.questions = [];
         this.exam.currentQuestion = -1;
         this.exam.correctCount = 0;
         this.exam.errorCount = 0;
-        for (var i = 0; i < this.exam["data"].length; i++)
+        for (let i = 0; i < this.exam["data"].length; i++)
             this.createQuestion(i);
         //localStorage.setItem("exam", JSON.stringify(this.exam));
         this._iframe.src = "ExamIntro.html";
-    };
-    ExamEngine.prototype.loadIFrame = function () {
-        var doc = this._iframe.contentDocument;
+    }
+    loadIFrame() {
+        let doc = this._iframe.contentDocument;
         switch (fileUtil.getFileNameWithoutExtension(doc.URL)) {
             case "DrillAndKill":
                 new DrillAndKillEngine(doc);
@@ -66,9 +66,9 @@ var ExamEngine = (function () {
                 doc.getElementById('bHome').hidden = true;
                 break;
             case "ExamIntro":
-                var pTitle = doc.getElementById("h1Title");
+                let pTitle = doc.getElementById("h1Title");
                 pTitle.innerHTML = this.exam["title"];
-                var pQuestions = doc.getElementById("pQuestions");
+                let pQuestions = doc.getElementById("pQuestions");
                 pQuestions.innerHTML = "There are  " + this.exam.questions.length + " questions.";
                 break;
             case "FillInTheBlank":
@@ -81,11 +81,11 @@ var ExamEngine = (function () {
                 new MultipleChoiceEngine(doc);
                 break;
         }
-    };
-    ExamEngine.prototype.createQuestion = function (index) {
-        var obj;
-        var idx;
-        for (var i = 0; i < this.exam["data"][index]["items"].length; i++) {
+    }
+    createQuestion(index) {
+        let obj;
+        let idx;
+        for (let i = 0; i < this.exam["data"][index]["items"].length; i++) {
             obj = {
                 answer: this.exam["data"][index]["items"][i],
                 item: i,
@@ -95,21 +95,21 @@ var ExamEngine = (function () {
             idx = randomizeUtil.randomNumber(this.exam.questions.length + 1);
             this.exam.questions.splice(idx, 0, obj);
         }
-    };
-    ExamEngine.prototype.loadQuestion = function () {
-        var answer = this.exam.questions[this.exam.currentQuestion];
-        var data = {
+    }
+    loadQuestion() {
+        let answer = this.exam.questions[this.exam.currentQuestion];
+        let data = {
             currentQuestion: this.exam.currentQuestion,
             answer: answer["answer"],
             dataItem: this.exam["data"][answer["dataIndex"]]
         };
         this.updateScore();
         return data;
-    };
-    ExamEngine.prototype.nextQuestion = function () {
+    }
+    nextQuestion() {
         this.exam.currentQuestion = this.exam.currentQuestion + 1;
         if (this.exam.currentQuestion < this.exam.questions.length) {
-            var answer = this.exam.questions[this.exam.currentQuestion];
+            let answer = this.exam.questions[this.exam.currentQuestion];
             switch (answer["questionType"]) {
                 case "Drill and Kill":
                     this._iframe.contentDocument.location.replace("DrillAndKill.html");
@@ -128,28 +128,27 @@ var ExamEngine = (function () {
         else {
             this._iframe.contentDocument.location.replace("ExamFinish.html");
         }
-    };
-    ExamEngine.prototype.playCorrect = function (onEnded) {
+    }
+    playCorrect(onEnded) {
         this.exam.correctCount += 1;
         this.updateScore();
-        var i = randomizeUtil.randomNumber(this._correctMP3.length);
+        let i = randomizeUtil.randomNumber(this._correctMP3.length);
         audioUtil.playCached("Scripts/Sounds/Correct/" + this._correctMP3[i], onEnded);
-    };
-    ExamEngine.prototype.playIncorrect = function (onEnded) {
+    }
+    playIncorrect(onEnded) {
         this.exam.errorCount += 1;
         this.updateScore();
-        var i = randomizeUtil.randomNumber(this._incorrectMP3.length);
+        let i = randomizeUtil.randomNumber(this._incorrectMP3.length);
         audioUtil.playCached("Scripts/Sounds/Incorrect/" + this._incorrectMP3[i], onEnded);
-    };
-    ExamEngine.prototype.updateScore = function () {
-        var dCorrect = this._iframe.contentDocument.getElementById('dCorrect');
+    }
+    updateScore() {
+        let dCorrect = this._iframe.contentDocument.getElementById('dCorrect');
         if (dCorrect !== null)
             dCorrect.innerHTML = this.exam.correctCount.toString();
-        var dError = this._iframe.contentDocument.getElementById("dError");
+        let dError = this._iframe.contentDocument.getElementById("dError");
         if (dError !== null)
             dError.innerHTML = this.exam.errorCount.toString();
-    };
-    return ExamEngine;
-})();
+    }
+}
 var examEngine = new ExamEngine();
 //# sourceMappingURL=ExamEngine.js.map
