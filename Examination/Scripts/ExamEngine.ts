@@ -114,15 +114,31 @@ class ExamEngine {
     public createQuestion(index) {
         let obj;
         let idx;
-        for (let i = 0; i < this.exam["data"][index]["items"].length; i++) {
-            obj = {
-                answer: this.exam["data"][index]["items"][i],
-                item: i,
-                dataIndex: index,
-                questionType: this.exam["data"][index]["questionType"]
-            };
-            idx = randomizeUtil.randomNumber(this.exam.questions.length + 1);
-            this.exam.questions.splice(idx, 0, obj);
+        let questionType = this.exam["data"][index]["questionType"];
+        switch (questionType) {
+            case "Multiple Choice":
+                let answerIndex = this.exam["data"][index]["answerIndex"];
+                obj = {
+                    answer: this.exam["data"][index]["items"][answerIndex],
+                    item: answerIndex,
+                    dataIndex: index,
+                    questionType: questionType
+                };
+                idx = randomizeUtil.randomNumber(this.exam.questions.length + 1);
+                this.exam.questions.splice(idx, 0, obj);
+                break;
+            default:
+                for (let i = 0; i < this.exam["data"][index]["items"].length; i++) {
+                    obj = {
+                        answer: this.exam["data"][index]["items"][i],
+                        item: i,
+                        dataIndex: index,
+                        questionType: questionType
+                    };
+                    idx = randomizeUtil.randomNumber(this.exam.questions.length + 1);
+                    this.exam.questions.splice(idx, 0, obj);
+                }
+                break;
         }
     }
 

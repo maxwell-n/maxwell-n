@@ -1,16 +1,35 @@
 {
-  "title": "Course 3a - Agile Principles & Mindset Part 1",
+  "title": "Agile Principles & Mindset Part 1",
   "path": "KnowledgeBowl/",
   "data": [
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following statements BEST describes the relationship between Agile Development and the PMBOK Guide?",
+      "answerIndex": 2,
       "items": [
-        {
-          "name": "One",
-          "image": "One.png"
-        }
+        "The PMBOK Guide represents PMI's methodology for executing projects. While Agile Development represents a software development framework.",
+        "Agile Development represents the newest way to execute a project while the PMBOK Guide represents the old way of executing a project.",
+        "The PMBOK Guide represents the overall framework for executing projects and Agile Development represents a set of specific methodologies used in project execution.",
+        "Agile Development represents the overall framework for executing projects and the PMBOK Guide represents a set of specific practices used in large scale projects."
       ]
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following thought leaders is considered the father of the linear development methodology know as Waterfall",
+      "answerIndex": 1,
+      "items": ["Alistair Cockburn", "Winston Royce", "Lyssa Adkins","Ken Schwaber"]
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms refers to a staging and scheduling strategy in which the various parts of the system are developed at different times or rated and integrated as they are completed?",
+      "answerIndex": 1,
+      "items": ["Iterative development", "Incremental development", "Staged development","Agile development"]
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms represents a scheduling strategy where time is set aside to revise and improve parts of the system?",
+      "answerIndex": 0,
+      "items": ["Iterative development", "Incremental development", "Staged development","Agile development"]
     }
   ]
 }

@@ -21,33 +21,22 @@ class MultipleChoiceEngine extends Question {
         let onEnded = function () {
             this.enableControls(true);
         };
-        this.score(value === this._data.answer["answer"], onEnded.bind(this));
+        this.score(value === this._data.answer, onEnded.bind(this));
     }
 
     public createButtons() {
         let sAnswers:HTMLElement = this._contentDocument.getElementById('sAnswers');
         let items = [];
         let item;
-
-        function onClick(id) {
-            this.checkAnswer(id);
-        }
-        let onClickLabel:(ev:MouseEvent) => any = function () {
-            let radioButton:HTMLInputElement = <HTMLInputElement>this._contentDocument.getElementById(this.tagName);
-            //radioButton.onclick(new MouseEvent);
-        };
         let list = [];
+        if (this._data.answer)
         for (let i = 0; i < this._data.dataItem["items"].length; i++) {
-            let answer = this._data.dataItem["items"][i]["answer"];
-            if (list.indexOf(answer) === -1) {
+            let item = this._data.dataItem["items"][i];
+            if (list.indexOf(item) === -1) {
                 let idx = randomizeUtil.randomNumber(list.length + 1);
-                list.splice(idx, 0, answer);
+                list.splice(idx, 0, item);
             }
-        }
-        while (list.length > 5) {
-            let idx = randomizeUtil.randomNumber(list.length);
-            if (list[idx] !== examEngine.exam["questions"][examEngine.exam.currentQuestion]["answer"]["answer"])
-                list.splice(idx, 1);
+            //list.push(item);
         }
 
         for (let i = 0; i < list.length; i++) {
@@ -56,9 +45,9 @@ class MultipleChoiceEngine extends Question {
                 items.push(item);
                 let radioButton:HTMLInputElement = this._contentDocument.createElement('input');
                 radioButton.setAttribute('type', 'radio');
-                radioButton.setAttribute('name', 'answer');
+                radioButton.setAttribute('item', 'answer');
                 radioButton.id = item;
-                radioButton.onclick = onClick.bind(this, item);
+                radioButton.onclick = this.checkAnswer.bind(this, item);
                 sAnswers.appendChild(radioButton);
                 let label:HTMLLabelElement = this._contentDocument.createElement('label');
                 label.innerText = item;
