@@ -3,16 +3,15 @@
 
 class DrillAndKillEngine extends Question {
     private _data:IQuestion = null;
-    private _contentDocument;
 
     constructor(contentDocument) {
         super();
         this._data = examEngine.loadQuestion();
-        this._contentDocument = contentDocument;
-        let pQuestion = this._contentDocument.getElementById('pQuestion');
+        this.ContentDocument = contentDocument;
+        let pQuestion = this.ContentDocument.getElementById('pQuestion');
         pQuestion.innerHTML = this._data.dataItem["question"];
         this.createButtons();
-        let sQuestion = <HTMLImageElement>this._contentDocument.getElementById('sQuestion');
+        let sQuestion = <HTMLImageElement>this.ContentDocument.getElementById('sQuestion');
         sQuestion.innerHTML = examEngine.exam["questions"][examEngine.exam.currentQuestion]["answer"]["question"];
     }
 
@@ -24,7 +23,7 @@ class DrillAndKillEngine extends Question {
     }
 
     public createButtons() {
-        let sAnswers:HTMLElement = this._contentDocument.getElementById('sAnswers');
+        let sAnswers:HTMLElement = this.ContentDocument.getElementById('sAnswers');
         let items = [];
         let item;
         let list = [];
@@ -46,23 +45,23 @@ class DrillAndKillEngine extends Question {
             item = list[i];
             if (items.indexOf(item) === -1) {
                 items.push(item);
-                let radioButton:HTMLInputElement = this._contentDocument.createElement('input');
+                let radioButton:HTMLInputElement = this.ContentDocument.createElement('input');
                 radioButton.setAttribute('type', 'radio');
                 radioButton.setAttribute('name', 'answer');
                 radioButton.id = item;
                 radioButton.onclick = this.checkAnswer.bind(this, item);
                 sAnswers.appendChild(radioButton);
-                let label:HTMLLabelElement = this._contentDocument.createElement('label');
+                let label:HTMLLabelElement = this.ContentDocument.createElement('label');
                 label.innerText = item;
                 label.htmlFor = item;
                 sAnswers.appendChild(label);
-                sAnswers.appendChild(this._contentDocument.createElement('br'));
+                sAnswers.appendChild(this.ContentDocument.createElement('br'));
             }
         }
     }
 
     public enableControls(enable) {
-        let elements:NodeList = this._contentDocument.getElementsByTagName('input');
+        let elements:NodeList = this.ContentDocument.getElementsByTagName('input');
         for (let i = 0; i < elements.length; i++)
             (<HTMLInputElement>elements[i]).disabled = !enable;
     }

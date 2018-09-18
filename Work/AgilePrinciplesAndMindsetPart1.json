@@ -11,25 +11,29 @@
         "Agile Development represents the newest way to execute a project while the PMBOK Guide represents the old way of executing a project.",
         "The PMBOK Guide represents the overall framework for executing projects and Agile Development represents a set of specific methodologies used in project execution.",
         "Agile Development represents the overall framework for executing projects and the PMBOK Guide represents a set of specific practices used in large scale projects."
-      ]
+      ],
+      "explanation": "The relationship between Agile Development and the PMBOK Guide has traditionally been contentious. Many agilists try to argue Agile Development and the PMBOK Guide are at odds. However, nothing could be further from the truth. The PMBOK Guide represents generally accepted principles and practices. It does NOT represent a methodology that can be followed step-by-step. Many agilists also claim that their particular concepts are a framework representing a loose scaffolding. However, most thinkers agree Agile represents an aggregation of methodologies."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following thought leaders is considered the father of the linear development methodology know as Waterfall",
       "answerIndex": 1,
-      "items": ["Alistair Cockburn", "Winston Royce", "Lyssa Adkins","Ken Schwaber"]
+      "items": ["Alistair Cockburn", "Winston Royce", "Lyssa Adkins","Ken Schwaber"],
+      "explanation": "Dr. Winston W. Royce is often falsely credited with developing the waterfall methodology based on a he wrote in 1970. However, if one actually reads his paper they find he actually argued there were significant risks in the linear process and proposed an iterative anc incremental approach with at least two loops. He also argued for prototyping."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following terms refers to a staging and scheduling strategy in which the various parts of the system are developed at different times or rated and integrated as they are completed?",
       "answerIndex": 1,
-      "items": ["Iterative development", "Incremental development", "Staged development","Agile development"]
+      "items": ["Iterative development", "Incremental development", "Staged development","Agile development"],
+      "explanation": "Alistair Cockburn defines Incremental development as a staging and scheduling strategy in which the various parts of the system are developed at different times or rated and integrated as they are completed. This means that the features or requirements do not have to be completed as part of a single release. When a team uses incremental delivery they are able to deliver features or requirement in a wide range of orders defined by the team. This fundamentally changes how projects are executed. Suddenly, it what is delivered at any point in the project. This notion is somewhat similar to the ideas surrounding Object Oriented Programming where features and requirements are delivered as discrete objects independent of others."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following terms represents a scheduling strategy where time is set aside to revise and improve parts of the system?",
       "answerIndex": 0,
-      "items": ["Iterative development", "Incremental development", "Staged development","Agile development"]
+      "items": ["Iterative development", "Incremental development", "Staged development","Agile development"],
+      "explanation": "Iterative development is a rework scheduling strategy in which time is set aside to revise and improve parts of the system. The concepts of Iterative Development creates loops in the process of executing a project that allow the team to change their process to improve execution and delivery. In a single looped linear process, the team is stuck with the process with which they start the project. This is a key advantage to seasoned, experienced teams. Those teams have completed multiple projects together and hopefully those experiences provide insights on the current effort. Agile projects get lots and lots of chances to deliver because they use lots of short iterations. Each one requires a short cycle of reflection to determine the best way to improve the process and deliver better results."
     }
   ]
 }

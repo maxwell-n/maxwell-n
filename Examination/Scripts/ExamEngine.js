@@ -90,6 +90,7 @@ class ExamEngine {
         let obj;
         let idx;
         let questionType = this.exam["data"][index]["questionType"];
+        let explanation = this.exam["data"][index]["explanation"];
         switch (questionType) {
             case "Multiple Choice":
                 let answerIndex = this.exam["data"][index]["answerIndex"];
@@ -97,7 +98,8 @@ class ExamEngine {
                     answer: this.exam["data"][index]["items"][answerIndex],
                     item: answerIndex,
                     dataIndex: index,
-                    questionType: questionType
+                    questionType: questionType,
+                    explanation: explanation
                 };
                 idx = randomizeUtil.randomNumber(this.exam.questions.length + 1);
                 this.exam.questions.splice(idx, 0, obj);
@@ -108,7 +110,8 @@ class ExamEngine {
                         answer: this.exam["data"][index]["items"][i],
                         item: i,
                         dataIndex: index,
-                        questionType: questionType
+                        questionType: questionType,
+                        explanation: explanation
                     };
                     idx = randomizeUtil.randomNumber(this.exam.questions.length + 1);
                     this.exam.questions.splice(idx, 0, obj);
@@ -117,11 +120,12 @@ class ExamEngine {
         }
     }
     loadQuestion() {
-        let answer = this.exam.questions[this.exam.currentQuestion];
+        let question = this.exam.questions[this.exam.currentQuestion];
         let data = {
             currentQuestion: this.exam.currentQuestion,
-            answer: answer["answer"],
-            dataItem: this.exam["data"][answer["dataIndex"]]
+            answer: question["answer"],
+            dataItem: this.exam["data"][question["dataIndex"]],
+            explanation: question["explanation"]
         };
         this.updateScore();
         return data;

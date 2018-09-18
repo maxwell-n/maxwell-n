@@ -5,14 +5,14 @@ class FillInTheBlankEngine extends Question {
         super();
         this._data = null;
         this._data = examEngine.loadQuestion();
-        this._contentDocument = contentDocument;
-        this._tbText = this._contentDocument.getElementById('tbText');
+        this.ContentDocument = contentDocument;
+        this._tbText = this.ContentDocument.getElementById('tbText');
         this._tbText.value = "";
         this._tbText.onkeypress = this.searchKeyPress.bind(this);
         this.playSound(null);
-        let section = this._contentDocument.getElementById('sPlay');
+        let section = this.ContentDocument.getElementById('sPlay');
         section.onclick = this.playSound.bind(this);
-        let btnCheckAnswer = this._contentDocument.getElementById('btnCheckAnswer');
+        let btnCheckAnswer = this.ContentDocument.getElementById('btnCheckAnswer');
         btnCheckAnswer.onclick = this.checkAnswer.bind(this);
     }
     checkAnswer() {
@@ -23,10 +23,10 @@ class FillInTheBlankEngine extends Question {
         this.score(this._tbText.value.toLowerCase() === this._data.answer.toLocaleLowerCase(), onEnded.bind(this));
     }
     enableControls(enable) {
-        let elements = this._contentDocument.getElementsByClassName('button');
+        let elements = this.ContentDocument.getElementsByClassName('button');
         for (let i = 0; i < elements.length; i++)
             elements[i].disabled = !enable;
-        let sPlay = this._contentDocument.getElementById('sPlay');
+        let sPlay = this.ContentDocument.getElementById('sPlay');
         sPlay.disabled = !enable;
     }
     playSound(onEnded) {
@@ -40,7 +40,7 @@ class FillInTheBlankEngine extends Question {
             e = window.event;
         }
         if (e.key === "Enter") {
-            this._contentDocument.getElementById('btnCheckAnswer').click();
+            this.ContentDocument.getElementById('btnCheckAnswer').click();
         }
     }
 }

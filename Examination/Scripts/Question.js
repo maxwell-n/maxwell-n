@@ -10,5 +10,11 @@ class Question {
             examEngine.playIncorrect(onEnded);
         }
     }
+    get ContentDocument() {
+        return this._contentDocument;
+    }
+    set ContentDocument(document) {
+        this._contentDocument = document;
+    }
 }
 //# sourceMappingURL=Question.js.map
