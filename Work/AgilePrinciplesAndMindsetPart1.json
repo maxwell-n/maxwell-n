@@ -18,134 +18,363 @@
       "questionType": "Multiple Choice",
       "question": "Which of the following thought leaders is considered the father of the linear development methodology know as Waterfall",
       "answerIndex": 1,
-      "items": ["Alistair Cockburn", "Winston Royce", "Lyssa Adkins","Ken Schwaber"],
+      "items": [
+        "Alistair Cockburn",
+        "Winston Royce",
+        "Lyssa Adkins",
+        "Ken Schwaber"
+      ],
       "explanation": "Dr. Winston W. Royce is often falsely credited with developing the waterfall methodology based on a he wrote in 1970. However, if one actually reads his paper they find he actually argued there were significant risks in the linear process and proposed an iterative anc incremental approach with at least two loops. He also argued for prototyping."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following terms refers to a staging and scheduling strategy in which the various parts of the system are developed at different times or rated and integrated as they are completed?",
       "answerIndex": 1,
-      "items": ["Iterative development", "Incremental development", "Staged development","Agile development"],
+      "items": [
+        "Iterative development",
+        "Incremental development",
+        "Staged development",
+        "Agile development"
+      ],
       "explanation": "Alistair Cockburn defines Incremental development as a staging and scheduling strategy in which the various parts of the system are developed at different times or rated and integrated as they are completed. This means that the features or requirements do not have to be completed as part of a single release. When a team uses incremental delivery they are able to deliver features or requirement in a wide range of orders defined by the team. This fundamentally changes how projects are executed. Suddenly, it what is delivered at any point in the project. This notion is somewhat similar to the ideas surrounding Object Oriented Programming where features and requirements are delivered as discrete objects independent of others."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following terms represents a scheduling strategy where time is set aside to revise and improve parts of the system?",
       "answerIndex": 0,
-      "items": ["Iterative development", "Incremental development", "Staged development","Agile development"],
+      "items": [
+        "Iterative development",
+        "Incremental development",
+        "Staged development",
+        "Agile development"
+      ],
       "explanation": "Iterative development is a rework scheduling strategy in which time is set aside to revise and improve parts of the system. The concepts of Iterative Development creates loops in the process of executing a project that allow the team to change their process to improve execution and delivery. In a single looped linear process, the team is stuck with the process with which they start the project. This is a key advantage to seasoned, experienced teams. Those teams have completed multiple projects together and hopefully those experiences provide insights on the current effort. Agile projects get lots and lots of chances to deliver because they use lots of short iterations. Each one requires a short cycle of reflection to determine the best way to improve the process and deliver better results."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which comparing traditional linear development to agile, which of the following statements is most likely to be true?",
       "answerIndex": 3,
-      "items": ["Agile development makes extensive use of best resourcing to ensure optimal productivity while traditional development uses WIP.", "Both traditional development and Agile make use of best resourcing to ensure optimal productivity.", "Both traditional development and Agile make extensive use of WIP to ensure optimal productivity.","Agile development makes extensive use of WIP while traditional development uses best resourcing to ensure optimal productivity."],
+      "items": [
+        "Agile development makes extensive use of best resourcing to ensure optimal productivity while traditional development uses WIP.",
+        "Both traditional development and Agile make use of best resourcing to ensure optimal productivity.",
+        "Both traditional development and Agile make extensive use of WIP to ensure optimal productivity.",
+        "Agile development makes extensive use of WIP while traditional development uses best resourcing to ensure optimal productivity."
+      ],
       "explanation": "Agile Development makes extensive use of WIP or Work In Progress. Although there is no rule or requirement to do so, most traditionally managed projects use a concept called Best Resourcing. In Best Resourcing whichever resource possesses the highest skill level is assigned to execute the task. WIP argues that we want to limit the amount of Work In Progress occurring at any single point. The principle can be thought of like a water main. The objective of the Water Department is to ensure the maximum amount of water is constantly available to the end users when they turn on their faucets. Contrary to what you might think, the best way to ensure high water pressure is to ensure the mains are less than 100% full. Remember, the mission is to get each drop to the customer as quickly as possible. If you ask your friendly neighborhood civil engineer, they will confirm that the water will travel the fastest when the pipe is less that 100% full. We do the same thing with our project tasks when using WIP."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Within the Agile Manifesto, which of the following is valued more than processes and tools?",
       "answerIndex": 0,
-      "items": ["Individuals and interactions", "Customer collaboration", "Responding to change","Working software"],
+      "items": [
+        "Individuals and interactions",
+        "Customer collaboration",
+        "Responding to change",
+        "Working software"
+      ],
       "explanation": "This is perhaps the most important and highlights a common complaint about many Project Managers. According to many involved in Agile Development, traditional Project Managers often lack technical skills dealing with the product or service of the project. This causes them to rely far too much on process and tools to fix problems when they arise. The key is to always remember that projects are about creating business value. The processes, tools and techniques we choose to use to create that value are simply means to an end. Without the end they have no value."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Within the Agile Manifesto, which of the following is valued more than contract negotiations?",
       "answerIndex": 1,
-      "items": ["Individuals and interactions", "Customer collaboration", "Responding to change","Working software"],
+      "items": [
+        "Individuals and interactions",
+        "Customer collaboration",
+        "Responding to change",
+        "Working software"
+      ],
       "explanation": "The second value statement is that we value customer collaboration over contract negotiations. This value statement highlights the importance of the Development Team working directly and daily with the Business Stakeholders to deliver value to the business. Rarely does the Development Team understand the business need as well as the customer. Furthermore, the Customer is the final arbiter of whether or not the Team has delivered the right product or service. Therefore, to succeed the team must constantly talk to the stakeholders. In most cases, this means DAILY! Contracts are important, and many project require them. However, when the Team gets caught up in the legalize of what a contract says they often loose site of truly meeting the customer’s needs. At the end of the day, meet the customer’s needs."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Within the Agile Manifesto, which of the following is valued more than following a plan?",
       "answerIndex": 2,
-      "items": ["Individuals and interactions", "Customer collaboration", "Responding to change","Working software"],
+      "items": [
+        "Individuals and interactions",
+        "Customer collaboration",
+        "Responding to change",
+        "Working software"
+      ],
       "explanation": "The third value statement is we value responding to change over following a plan. This statement often causes an immediately negative knee-jerk reaction from traditionally trained project managers. “Ah ha!” They exclaim. “Here it is. Agile Development leads to chaos because it doesn’t allow for planning or plans. We can’t live this way. We have to be able to tell people what’s coming next.” Unfortunately, this is a complete misunderstanding of what the statement says and how most Agile Methodologies work. Agile projects absolutely have plans and processes. However, these processes and plans are set up in such as way that they can quickly evolve and change as the team learns new information. It is this ability that significantly differentiates Agile Development from other methods for managing projects. Do not misread this value. It is not a license for a no planning free-for-all. Agile requires plans and processes. In many cases, activities are planned to the daily level, a much smaller unit than many traditional projects use."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Within the Agile Manifesto, which of the following is valued more than comprehensive documentation?",
       "answerIndex": 3,
-      "items": ["Individuals and interactions", "Customer collaboration", "Responding to change","Working software"],
+      "items": [
+        "Individuals and interactions",
+        "Customer collaboration",
+        "Responding to change",
+        "Working software"
+      ],
       "explanation": "The final value statement is that the Agilist values working software over comprehensive documentation. This statement takes us back to the importance of delivering real value to the organization as opposed to simply producing a lot of paper to show that people worked hard. People working hard does nothing for the business. It is all about providing value."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following Agile principles found in the Agile Manifesto is considered MOST important?",
       "answerIndex": 3,
-      "items": ["Welcoming changing requirements, even late in develop.", "Working software is the primary measure of progress.", "Simplicity -- the art of maximizing the amount of work not done.","Satisfying the customer through early and continuous delivery of valuable software."],
+      "items": [
+        "Welcoming changing requirements, even late in develop.",
+        "Working software is the primary measure of progress.",
+        "Simplicity -- the art of maximizing the amount of work not done.",
+        "Satisfying the customer through early and continuous delivery of valuable software."
+      ],
       "explanation": "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. This statement says it all. The highest priority or the most important thing is delivering value to the customer. In the early days of Agile the community was almost entirely software developers so naturally the product was software. Today, Agile has extended to many different industries so it often makes sense to replace “valuable software” with “valuable product, service or result.”"
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following principles found in the Agile Manifesto focuses the team on the importance of adaptation?",
       "answerIndex": 0,
-      "items": ["Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.", "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.", "Business people and developers must work together daily throughout the project.","Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."],
+      "items": [
+        "Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.",
+        "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.",
+        "Business people and developers must work together daily throughout the project.",
+        "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."
+      ],
       "explanation": "Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage. We made all the way to the second principle before things blew up. I hear project managers constantly complain about scope change. It is almost a daily occurrence. “We would have succeeded, if it wasn’t for the customer making all those last minute scope changes.” This statement ignores the fact that it is the customer’s right to demand scope changes so long as they accept the impacts. The problem is that too many team uses processes that make change difficult at best. This is a real key to Agile Development’s success. It make change easy, or at least easier, even late in the process."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Within the Agile Manifesto, which of the follow principles focuses the team on the importance of iterations?",
       "answerIndex": 1,
-      "items": ["Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.", "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.", "Business people and developers must work together daily throughout the project.", "Our highest priority is to satisfy"],
+      "items": [
+        "Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.",
+        "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.",
+        "Business people and developers must work together daily throughout the project.",
+        "Our highest priority is to satisfy"
+      ],
       "explanation": "LGd course manual p. 30 & the Agile Manifesto at http://agilemanifesto.org. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. Remember, Agile Development is focuses on being iterative. This means loops of repeated processes. The large number of loops affords the team the opportunity to learn from the past. As the team executes more and more loops, they are able alter the processes to better deliver. However, the key is that at the end of each iteration the team must deliver working product, service or result. With a timescale of only a few weeks to a few months the team is limited in how much functionality they can produce. This means the team must produce a small amount of functionality that has value to the customer, present it to them, and allow the customer to comment on that functionality. The team then adapts to the feedback, makes changes and moves to the next iteration. A common phase used to highlight this process is, “fail fast.”"
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following principles found in the Agile Manifesto focuses the team co-location, osmotic communication, and information radiators?",
       "answerIndex": 3,
-      "items": ["Simplicity - the art of maximizing the amount of work not done - is essential.", "Agile processes promote sustainable development. Everyone should be able to maintain a constant pace indefinitely.", "Business people and developers must work together daily throughout the project.", "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation."],
+      "items": [
+        "Simplicity - the art of maximizing the amount of work not done - is essential.",
+        "Agile processes promote sustainable development. Everyone should be able to maintain a constant pace indefinitely.",
+        "Business people and developers must work together daily throughout the project.",
+        "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation."
+      ],
       "explanation": "LGd course manual p. 31 & the Agile Manifesto at http://agilemanifesto.org. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation. Here is a news flash. E-mail is a terrible vehicle for most communication needs! Since its inception, Agile Development has understood this and pushed for better ways of sharing information. Broadcasting status reports via email or attempting to collect requirements electronically are examples of using e-mail poorly, but there are many more. Agile Development pushes teams to work closely and be co-located. If you are not familiar with the term CO-LOCATED it is important that you learn it. It means all the members of a group are physically sitting in the same location. This is why you can often quickly pick out and organization that is using Agile Development when the Development Team is all physically located in a single conference room or central area. Being co-located affords the team a number of advantages. First, team members can quickly turn and talk to compatriots when they have issues. Second, information quickly gets dispersed using OSMOTIC COMMUNICATION. This is where information is absorbed by team members simply by being in the room when it is shared. Finally, information moves between parties much more quickly through the use of INFORMATION RADIATORS when the team is in a single location. We will discuss this last term in a later section of the course."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following principles found in the Agile Manifesto focuses teams on a pace often referred to as the Heartbeat of Agility?",
       "answerIndex": 1,
-      "items": ["Continuous attention to technical excellence and good design enhances agility.", "Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.", "Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.", "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale."],
+      "items": [
+        "Continuous attention to technical excellence and good design enhances agility.",
+        "Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.",
+        "Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.",
+        "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale."
+      ],
       "explanation": "Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. Agile Development promotes sustainable development. What the heck is that, and why should you care? First, it is more than just marketing, although there is a bit of that here. The real issue is something many resources have experienced over the years. If you have ever been part of a project that starts out slow where many team members have nothing to do until the end of the project when everything becomes a crisis and a mad dash to the finish line. During these late periods, team members are expected to work significant overtime and often their personal life struggles to deliver the project. This cycle repeats itself time and time again until the resources eventually burn out and leave the organization. Agilists argue that this pace is not only unsustainable, but also unnecessary. A better approach they contend, is to use Agile processes that increase the daily productivity throughout the entire lifecycle of the project thereby reducing or completely eliminating the mad dash crisis at the end. This pace is often referred to as the HEARTBEAT OF AGILITY and will be discussed in a few moments."
     },
     {
       "questionType": "Multiple Choice",
       "question": "A common term used by agilists to describe the cadence or pace created in Agile Development is__________.",
       "answerIndex": 2,
-      "items": ["The Agile Cadence", "Agile Throughput", "The Heartbeat of Agility", "The Agile Rhythm"],
+      "items": [
+        "The Agile Cadence",
+        "Agile Throughput",
+        "The Heartbeat of Agility",
+        "The Agile Rhythm"
+      ],
       "explanation": "The notion of a cadence is absolutely critical to an Agile team. It is all about establishing a rhythm that is comfortable and sustainable by the Team. This rhythm differs from what many teams experience in the real world where they often experience slow periods of production throughout most of the project only to be forced into a mad dash at the end in hopes of delivering business results. Typically, the team fails to meet the deadline, is burnt out, and has left a frustrated customer. Agile processes attempt to solve this problem by increasing the daily productivity of the team. The goal is to have a higher rate of daily productivity and avoid the massive spikes experienced by the team. This notion does not argue there are not spikes, instead it is about creating much smaller, regular spikes that are within the realm of sustainability. It is called the heartbeat of agility."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following statements concerning the Heartbeat of Agility is NOT true?",
       "answerIndex": 3,
-      "items": ["The notion of a consistent cadence or pace is absolutely critical to Agile Development.", "The Heartbeat of Agility is all about establishing a rhythm that is comfortable and sustainable by the team.", "The Heartbeat of Agility establishes a rhythm that often differs from what the Team experiences in the real world.", "The Heartbeat of Agility establishes a pace with slow periods throughout most of the project."],
+      "items": [
+        "The notion of a consistent cadence or pace is absolutely critical to Agile Development.",
+        "The Heartbeat of Agility is all about establishing a rhythm that is comfortable and sustainable by the team.",
+        "The Heartbeat of Agility establishes a rhythm that often differs from what the Team experiences in the real world.",
+        "The Heartbeat of Agility establishes a pace with slow periods throughout most of the project."
+      ],
       "explanation": "The Heartbeat of Agility represents a key aspect of developing an Agile Cadence or pace. The notion of a cadence is absolutely critical to an Agile team. It is all about establishing a rhythm that is comfortable and sustainable by the Team. This rhythm differs from what many teams experience in the real world where they often experience slow periods of production throughout most of the project only to be forced into a mad dash at the end in hopes of delivering business results. Typically, the team fails to meet the deadline, is burnt out, and has left a frustrated customer. Agile processes attempt to solve this problem by increasing the daily productivity of the team. The goal is to have a higher rate of daily productivity and avoid the massive spikes experienced by the team. This notion does not argue there are not spikes, instead it is about creating much smaller, regular spikes that are within the realm of sustainability."
     },
     {
       "questionType": "Multiple Choice",
       "question": "An Agile Coach is explaining to a new Scrum Master that they believe the Team has NOT been doing Scrum correctly as they are experiencing slow periods of production throughout most of the project only to be forced into a mad dash at the end of each Sprint in hopes of delivering business results. Typically, the team has failed to meet the deadline, is burnt out, and has left their customer frustrated. Which term BEST describes what the team has failed to establish?",
       "answerIndex": 1,
-      "items": ["Clear team expectations", "The Heartbeat of Agility", "Proper Scrum training", "Well defined spike management"],
+      "items": [
+        "Clear team expectations",
+        "The Heartbeat of Agility",
+        "Proper Scrum training",
+        "Well defined spike management"
+      ],
       "explanation": "The Heartbeat of Agility represents a key aspect of developing an Agile Cadence or pace. The notion of a cadence is absolutely critical to an Agile team. It is all about establishing a rhythm that is comfortable and sustainable by the Team. This rhythm differs from what many teams experience in the real world where they often experience slow periods of production throughout most of the project only to be forced into a mad dash at the end in hopes of delivering business results. Typically, the team fails to meet the deadline, is burnt out, and has left a frustrated customer. Agile processes attempt to solve this problem by increasing the daily productivity of the team. The goal is to have a higher rate of daily productivity and avoid the massive spikes experienced by the team. This notion does not argue there are not spikes, instead it is about creating much smaller, regular spikes that are within the realm of sustainability."
     },
     {
       "questionType": "Multiple Choice",
       "question": "According to one recent study, what percentage of the average software development project's features are never used?",
       "answerIndex": 1,
-      "items": ["55%", "45%", "35%", "25%"],
+      "items": [
+        "55%",
+        "45%",
+        "35%",
+        "25%"
+      ],
       "explanation": "Chaos Chronicles, only about 36% of all features are regularly used. Another 19% of a software project’s features are rarely used, and a full 45% of a software applications features are never used. So why does this matter? It matters because far to often project teams force stakeholders to wait for the important, must used features because they are trying to produce features that will never be used."
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following represents a way Agile Development helps to prevent the customer from having to sacrifice quality in order to hit a targeted delivery date?",
       "answerIndex": 0,
-      "items": ["Agile methods require the customer to prioritize the project requirements from most important to least.", "Agile methods iterate the project to prevent mistakes.", "Agile methods require the customer to continue the project until the backlog is delivered.", "Agile methods force the customer to not require unused features be delivered."],
+      "items": [
+        "Agile methods require the customer to prioritize the project requirements from most important to least.",
+        "Agile methods iterate the project to prevent mistakes.",
+        "Agile methods require the customer to continue the project until the backlog is delivered.",
+        "Agile methods force the customer to not require unused features be delivered."
+      ],
       "explanation": "Most Agile methodologies require the customer or key stakeholders to prioritize the requirements from most important to least. The Team then makes every effort to deliver the features in the defined order. At the end of the project when the Team is at the deadline there will still likely be a number of features or requirements that are incomplete. The difference is that these are the less important ones. This puts the customer in a position of great power. Now the customer can decide whether or not they want the team to continue the project to deliver these minor features. In a linear process, the customer is stuck. They have to continue the project because if they don’t they get nothing of value. In Agile they have the most important items and get to decide how much the lessor items are really worth to them. Secondly, Agile Development gives the customer these most important features earlier in the process. This means they are able to begin using these mission critical features as soon as they are done without waiting for lessor features. Finally, Agile Development forces business stakeholders to make hard decisions like spend more money and time or not. It forces a hard discussion around those never used features in a highly visible way. As a result it becomes far more difficult to sneak a feature or requirement into the process at the end"
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following statements concerning Agile Development is NOT true?",
       "answerIndex": 2,
-      "items": ["Agile Development increases the visibility a customer has on a project.", "Agile Development puts the customer in a position to see constraints before they cause failure.", "Agile Development ensures the customer receives something of value by the deadline.", "Agile Development gives the customer their most important features earlier in the process."],
+      "items": [
+        "Agile Development increases the visibility a customer has on a project.",
+        "Agile Development puts the customer in a position to see constraints before they cause failure.",
+        "Agile Development ensures the customer receives something of value by the deadline.",
+        "Agile Development gives the customer their most important features earlier in the process."
+      ],
       "explanation": "Be careful in reading the choices. Although Agile Development does dramatically increase the likelihood the customer will get something of value by the deadline, nothing can ensure this fact."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In 1986 Hitotaka Takeuchi and Ikujiro Nonaka published an article that appeared in the Harvard Business Review entitled The New Product Development Game which became the basis for which Agile Method?",
+      "answerIndex": 3,
+      "items": [
+        "Feature-Driven Development",
+        "Extreme Programming",
+        "Dynamic Systems Method",
+        "Scrum"
+      ],
+      "explanation": "Scrum was first defined as “a flexible, holistic product development strategy where a development team works as a unit to reach a common goal” as opposed to a “traditional approach” (read a linear approach such as Waterfall) in January of 1986 by Hitotaka Takeuchi and Ikujiro Nonaka in the New Product Development Game published in the Harvard Business Review. This article described a new approach to commercial product development that they argued would increase both speed and flexibility based upon their examination of numerous case studies in manufacturing, photocopier and the printer industries. They called this the holistic or rugby approach. The idea was to create a single, small cross functional team that possessed all, or at least most, of the skills required to complete the project and this team would work on the project across multiple overlapping phases constantly passing work back and forth until complete."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Scrum is based on which of the following aspects of Industrial Process Theory?",
+      "answerIndex": 0,
+      "items": [
+        "Self-organization and emergence",
+        "Convergence and self-organization",
+        "Emergence and dynamic evolution",
+        "Dynamic evolution and Convergence"
+      ],
+      "explanation": "Scrum is based on two aspects of industrial process theory self-organization and emergence. Self-organization is the idea that the Development Team will decide what work needs to be accomplished and who will do the work to deliver the desired business results. Emergence is the idea that information, requirements and facts will emerge as the project progresses. The key is that the team uses processes, tools, and techniques capable of harnessing this new information for the betterment of the organization."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following concepts represents the idea that information, requirements and facts will be seen over time as the project progresses?",
+      "answerIndex": 1,
+      "items": [
+        "Convergence",
+        "Emergence",
+        "Self-organization",
+        "Dynamic evolution"
+      ],
+      "explanation": "Emergence is the idea that information, requirements and facts will emerge as the project progresses. The key is that the team uses processes, tools, and techniques capable of harnessing new information as it becomes available for the betterment of the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following concepts represents the idea that the Development Team will decide what work needs to be accomplished and who will do the work to deliver the desired business results?",
+      "answerIndex": 2,
+      "items": [
+        "Convergence",
+        "Emergence",
+        "Self-organization",
+        "Dynamic evolution"
+      ],
+      "explanation": "Self-organization is the idea that the Development Team will decide what work needs to be accomplished and who will do the work to deliver the desired business results."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to Jeff Sutherland and Ken Schwaber, traditional project management is based on the concept of a defined process. This concept is most effective when used in what kind of organization?",
+      "answerIndex": 3,
+      "items": [
+        "A projectized organization",
+        "A matrix organization",
+        "A functional organization",
+        "A manufacturing organization"
+      ],
+      "explanation": "The creators of Scrum argue that traditional linear approaches for projects such as Waterfall are based on the concepts of defined processes. Defined processes are repeatable processes such as in manufacturing."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms represents a process in which goods that have economic value and are indistinguishable in terms of attributes (uniqueness or brand) end up becoming simple commodities in the eyes of the market or consumers.",
+      "answerIndex": 1,
+      "items": [
+        "Standardization",
+        "Commoditization",
+        "Convergence",
+        "Optimization"
+      ],
+      "explanation": "Commoditization is defined as the process in which goods that have economic value and are indistinguishable in terms of attributes (uniqueness or brand) end up becoming simple commodities in the eyes of the market or consumers. This means or widgets become easy to obtains for the consumer because many different organizations have made them uniform, plentiful and affordable."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When describing the various types of processes a project might use which of the following statements is MOST true?",
+      "answerIndex": 0,
+      "items": [
+        "Projects have the greatest chance of success when empirical processes are used.",
+        "Projects have the least chance of success when empirical processes are used.",
+        "Projects have the greatest chance of success when defined processes are used.",
+        "Projects have the least chance of success when defined processes are used"
+      ],
+      "explanation": "A defined process is perfectly tailored to operational management because we want people to follow the exact same steps day after day. Projects or new initiatives are a very different animal. They are all about creating something we haven’t had before. They are about creating something new and in some way different. By this definition, the processes we used to execute the last project won’t necessarily work with next. Success relies on flexibility, and flexibility requires a different way of doing things. Projects have the greatest chance of success when empirical processes are used."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a key driver for empirical processes?",
+      "answerIndex": 3,
+      "items": [
+        "Visibility",
+        "Inspection",
+        "Adaption",
+        "Flexibility"
+      ],
+      "explanation": "Empirical processes focus on creating a situation with the highest using three primary drivers visibility, inspection and adaptation."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When describing an empirical process, which of the three major drivers defines the step where the team brings the process back into conformance once an unacceptable variance is found?",
+      "answerIndex": 2,
+      "items": [
+        "Visibility",
+        "Inspection",
+        "Adaptation",
+        "Conformation"
+      ],
+      "explanation": "If one or more of the processes are determined out of control the processes change. Once you can see the drivers in a process and have taken the time to examine those variables to ensure you know which variables are in control and which ones are not, the only thing left is to fix those processes that are not performing as expected. This step is called adaptation."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following Scrum roles represents the person who is responsible for representing the interests of all stakeholders, obtaining project funding, defining the initial requirements, defining the project ROI, and the key project objectives?",
+      "answerIndex": 0,
+      "items": [
+        "Product owner",
+        "Key stakeholder",
+        "Project sponsor",
+        "Customer"
+      ],
+      "explanation": "The PO is the individual responsible for representing the interests of all stakeholders, obtaining funding, defining the initial requirements, defining the return on investment or ROI, and the project objectives. They are the primary owner of the Product Backload, a document where the User Stories, features or requirements of the project are listed in rank order from most important to least important from the perspective of the business."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within Scrum, where are the product features maintained and appear in ranked order from most important to least?",
+      "answerIndex": 1,
+      "items": ["The product scope statement", "The product backlog", "The project charter", "The requirements matrix"],
+      "explanation": "The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product. The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning the Product Backlog is NOT true?",
+      "answerIndex": 3,
+      "items": ["A Product Backlog is never complete.", "The Product Backlog evolves as the product and the environment in which it will be used evolves.", "The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made to the product.", "The Product Owner may decide to 'lock down' the Product Backlog at any time."],
+      "explanation": "The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product. The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering. A Product Backlog is never complete. The earliest development of it only lays out the initially known and best-understood requirements. The Product Backlog evolves as the product and the environment in which it will be used evolves. The Product Backlog is dynamic; it constantly changes to identify what the product needs to be appropriate, competitive, and useful. As long as a product exists, its Product Backlog also exists. The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made to the product in future releases. Product Backlog items have the attributes of a description, order, estimate and value."
     }
   ]
 }
