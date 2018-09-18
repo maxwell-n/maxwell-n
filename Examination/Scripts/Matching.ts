@@ -2,27 +2,25 @@
 /// <reference path="Question.ts" />
 
 class MatchingEngine extends Question {
-    private _data:IQuestion = null;
-
     constructor(contentDocument) {
         super();
-        this._data = examEngine.loadQuestion();
+        this.Data = examEngine.loadQuestion();
         this.ContentDocument = contentDocument;
         let button:HTMLButtonElement;
         let img;
         let indexes = [];
-        indexes.push(this._data["answer"]);
+        indexes.push(this.Data["answer"]);
         let add = true;
         let i = 0;
-        let num = randomizeUtil.randomNumber(this._data.dataItem["items"].length - 1);
+        let num = randomizeUtil.randomNumber(this.Data.dataItem["items"].length - 1);
         while (indexes.length < 4) {
             for (i = 0; i < indexes.length; i++) {
-                if (indexes[i] === this._data.dataItem["items"][num])
+                if (indexes[i] === this.Data.dataItem["items"][num])
                     add = false;
             }
             if (add)
-                indexes.push(this._data.dataItem["items"][num]);
-            num = randomizeUtil.randomNumber(this._data.dataItem["items"].length);
+                indexes.push(this.Data.dataItem["items"][num]);
+            num = randomizeUtil.randomNumber(this.Data.dataItem["items"].length);
             add = true;
         }
         i = 0;
@@ -50,7 +48,7 @@ class MatchingEngine extends Question {
             return false;
         };
         sPlay.ondragstart = function(e){e.preventDefault();};
-        audioUtil.play(examEngine.exam["path"] + "Sounds/" + this._data.answer + ".mp3", null);
+        audioUtil.play(examEngine.exam["path"] + "Sounds/" + this.Data.answer + ".mp3", null);
     }
 
     public checkAnswer(value) {
@@ -58,11 +56,11 @@ class MatchingEngine extends Question {
         let onEnded = function () {
             this.enableControls(true);
         }
-        this.score(value === this._data.answer, onEnded.bind(this));
+        this.score(value === this.Data.answer, onEnded.bind(this));
     }
 
     public playSound() {
-        audioUtil.playCached(examEngine.exam["path"] + "Sounds/" + this._data.answer + ".mp3", null);
+        audioUtil.playCached(examEngine.exam["path"] + "Sounds/" + this.Data.answer + ".mp3", null);
     }
 
     public enableControls(enable) {

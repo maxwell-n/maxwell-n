@@ -2,12 +2,11 @@
 /// <reference path="Question.ts" />
 
 class FillInTheBlankEngine extends Question {
-    private _data:IQuestion = null;
     private _tbText:HTMLInputElement;
 
     constructor(contentDocument) {
         super();
-        this._data = examEngine.loadQuestion();
+        this.Data = examEngine.loadQuestion();
         this.ContentDocument = contentDocument;
         this._tbText = <HTMLInputElement>this.ContentDocument.getElementById('tbText');
         this._tbText.value = "";
@@ -25,7 +24,7 @@ class FillInTheBlankEngine extends Question {
         let onEnded = function () {
             this.enableControls(true);
         }
-        this.score(this._tbText.value.toLowerCase() === this._data.answer.toLocaleLowerCase(), onEnded.bind(this));
+        this.score(this._tbText.value.toLowerCase() === this.Data.answer.toLocaleLowerCase(), onEnded.bind(this));
     }
 
     public enableControls(enable) {
@@ -39,7 +38,7 @@ class FillInTheBlankEngine extends Question {
     public playSound(onEnded) {
         this.enableControls(true);
         this._tbText.focus();
-        audioUtil.playCached(examEngine.exam["path"] + examEngine.exam.name + "/" + this._data.answer + ".mp3", onEnded);
+        audioUtil.playCached(examEngine.exam["path"] + examEngine.exam.name + "/" + this.Data.answer + ".mp3", onEnded);
     }
 
     public searchKeyPress(e) {

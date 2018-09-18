@@ -2,14 +2,12 @@
 /// <reference path="Question.ts" />
 
 class DrillAndKillEngine extends Question {
-    private _data:IQuestion = null;
-
     constructor(contentDocument) {
         super();
-        this._data = examEngine.loadQuestion();
+        this.Data = examEngine.loadQuestion();
         this.ContentDocument = contentDocument;
         let pQuestion = this.ContentDocument.getElementById('pQuestion');
-        pQuestion.innerHTML = this._data.dataItem["question"];
+        pQuestion.innerHTML = this.Data.dataItem["question"];
         this.createButtons();
         let sQuestion = <HTMLImageElement>this.ContentDocument.getElementById('sQuestion');
         sQuestion.innerHTML = examEngine.exam["questions"][examEngine.exam.currentQuestion]["answer"]["question"];
@@ -17,7 +15,7 @@ class DrillAndKillEngine extends Question {
 
     public checkAnswer(value) {
         this.enableControls(false);
-        this.score(value === this._data.answer["answer"], function () {
+        this.score(value === this.Data.answer["answer"], function () {
             this.enableControls(true);
         }.bind(this));
     }
@@ -28,8 +26,8 @@ class DrillAndKillEngine extends Question {
         let item;
         let list = [];
 
-        for (let i = 0; i < this._data.dataItem["items"].length; i++) {
-            let answer = this._data.dataItem["items"][i]["answer"];
+        for (let i = 0; i < this.Data.dataItem["items"].length; i++) {
+            let answer = this.Data.dataItem["items"][i]["answer"];
             if (list.indexOf(answer) === -1) {
                 let idx = randomizeUtil.randomNumber(list.length + 1);
                 list.splice(idx, 0, answer);

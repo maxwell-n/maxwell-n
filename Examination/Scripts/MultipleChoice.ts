@@ -2,15 +2,14 @@
 /// <reference path="Question.ts" />
 
 class MultipleChoiceEngine extends Question {
-    private _data:IQuestion = null;
     private readonly _sExplanation = null;
 
     constructor(contentDocument) {
         super();
-        this._data = examEngine.loadQuestion();
+        this.Data = examEngine.loadQuestion();
         this.ContentDocument = contentDocument;
         let pQuestion = this.ContentDocument.getElementById('pQuestion');
-        pQuestion.innerHTML = this._data.dataItem["question"];
+        pQuestion.innerHTML = this.Data.dataItem["question"];
         this.createButtons();
         this._sExplanation = <HTMLElement>this.ContentDocument.getElementById('sExplanation');
     }
@@ -20,9 +19,9 @@ class MultipleChoiceEngine extends Question {
         let onEnded = function () {
             this.enableControls(true);
         };
-        let correct: boolean = value === this._data.answer;
-        if (this._sExplanation && !correct && this._data.explanation)
-            this._sExplanation.innerHTML = this._data.explanation;
+        let correct: boolean = value === this.Data.answer;
+        if (this._sExplanation && !correct && this.Data.explanation)
+            this._sExplanation.innerHTML = this.Data.explanation;
         this.score(correct, onEnded.bind(this));
     }
 
@@ -31,9 +30,9 @@ class MultipleChoiceEngine extends Question {
         let items = [];
         let item;
         let list = [];
-        if (this._data.answer)
-        for (let i = 0; i < this._data.dataItem["items"].length; i++) {
-            let item = this._data.dataItem["items"][i];
+        if (this.Data.answer)
+        for (let i = 0; i < this.Data.dataItem["items"].length; i++) {
+            let item = this.Data.dataItem["items"][i];
             if (list.indexOf(item) === -1) {
                 let idx = randomizeUtil.randomNumber(list.length + 1);
                 list.splice(idx, 0, item);

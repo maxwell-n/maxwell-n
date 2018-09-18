@@ -3,28 +3,27 @@
 class MultipleChoiceImageEngine extends Question {
     constructor(contentDocument) {
         super();
-        this._data = null;
-        this._data = examEngine.loadQuestion();
+        this.Data = examEngine.loadQuestion();
         this.ContentDocument = contentDocument;
         let pQuestion = this.ContentDocument.getElementById('pQuestion');
-        pQuestion.innerHTML = this._data.dataItem["question"];
+        pQuestion.innerHTML = this.Data.dataItem["question"];
         this.createButtons();
         let iImage = this.ContentDocument.getElementById('iImage');
-        iImage.src = examEngine.exam["path"] + 'Images/' + this._data.answer["image"];
+        iImage.src = examEngine.exam["path"] + 'Images/' + this.Data.answer["image"];
     }
     checkAnswer(value) {
         this.enableControls(false);
         let onEnded = function () {
             this.enableControls(true);
         };
-        this.score(value === this._data.answer["name"], onEnded.bind(this));
+        this.score(value === this.Data.answer["name"], onEnded.bind(this));
     }
     createButtons() {
         let sAnswers = this.ContentDocument.getElementById('sAnswers');
         let items = [];
         let item;
-        for (let i = 0; i < this._data.dataItem["items"].length; i++) {
-            item = this._data.dataItem["items"][i]["name"];
+        for (let i = 0; i < this.Data.dataItem["items"].length; i++) {
+            item = this.Data.dataItem["items"][i]["name"];
             if (items.indexOf(item) === -1) {
                 items.push(item);
                 let radioButton = this.ContentDocument.createElement('input');

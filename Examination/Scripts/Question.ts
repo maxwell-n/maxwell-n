@@ -2,6 +2,7 @@
 
 class Question {
     private _contentDocument;
+    private _data: IQuestion = null;
 
     public score(correct: boolean, onEnded?) {
         if (correct) {
@@ -19,6 +20,14 @@ class Question {
 
     set ContentDocument(document){
         this._contentDocument = document;
+    }
+
+    get Data(): IQuestion {
+        return this._data;
+    }
+
+    set Data(data: IQuestion){
+        this._data = data;
     }
 
 }

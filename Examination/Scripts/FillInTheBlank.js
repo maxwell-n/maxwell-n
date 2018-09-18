@@ -3,8 +3,7 @@
 class FillInTheBlankEngine extends Question {
     constructor(contentDocument) {
         super();
-        this._data = null;
-        this._data = examEngine.loadQuestion();
+        this.Data = examEngine.loadQuestion();
         this.ContentDocument = contentDocument;
         this._tbText = this.ContentDocument.getElementById('tbText');
         this._tbText.value = "";
@@ -20,7 +19,7 @@ class FillInTheBlankEngine extends Question {
         let onEnded = function () {
             this.enableControls(true);
         };
-        this.score(this._tbText.value.toLowerCase() === this._data.answer.toLocaleLowerCase(), onEnded.bind(this));
+        this.score(this._tbText.value.toLowerCase() === this.Data.answer.toLocaleLowerCase(), onEnded.bind(this));
     }
     enableControls(enable) {
         let elements = this.ContentDocument.getElementsByClassName('button');
@@ -32,7 +31,7 @@ class FillInTheBlankEngine extends Question {
     playSound(onEnded) {
         this.enableControls(true);
         this._tbText.focus();
-        audioUtil.playCached(examEngine.exam["path"] + examEngine.exam.name + "/" + this._data.answer + ".mp3", onEnded);
+        audioUtil.playCached(examEngine.exam["path"] + examEngine.exam.name + "/" + this.Data.answer + ".mp3", onEnded);
     }
     searchKeyPress(e) {
         // look for window.event in case event isn't passed in
