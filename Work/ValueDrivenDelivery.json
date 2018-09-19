@@ -1,0 +1,896 @@
+{
+  "title": "Value Driven Delivery",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following variables represents the budgeted cost for the work scheduled to be completed up to a given point?",
+      "answerIndex": 1,
+      "items": [
+        "Actual cost",
+        "Planned value",
+        "Earned value",
+        "Estimate at completion"
+      ],
+      "explanation": "The Planned Value is the budgeted cost for the work scheduled to be completed on an activity or WBS component up to a given point. This is sometimes referred to as the BCWS."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following variables represents the budgeted amount for the work completed on the schedule activity up to a given point?",
+      "answerIndex": 3,
+      "items": [
+        "Planned value",
+        "Actual costs",
+        "Estimate to completion",
+        "Earned value"
+      ],
+      "explanation": "The Earned Value is the budgeted amount for the work actually completed on the scheduled activity during a specified time period. This is sometimes referred to as the BCWP."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following variables represents the total cost incurred in accomplishing work on the scheduled activity during a specific time period?",
+      "answerIndex": 0,
+      "items": [
+        "Actual costs",
+        "Summary costs",
+        "Earned value",
+        "Planned value"
+      ],
+      "explanation": "The Actual Costs are the total costs incurred in accomplishing work on the schedule activity during a specified time period. The actual costs are sometimes referred to as ACWP or actual costs of work performed."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following variables represents the amount of additional money that needs to be spent to complete the project?",
+      "answerIndex": 1,
+      "items": [
+        "EAC",
+        "ETC",
+        "CPI",
+        "SPI"
+      ],
+      "explanation": "The estimate to complete provides a metric showing how much more money than has already been spent is needed to complete the project. This is in addition to the money that has already been spent. The ETC is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following variables represents the total amount of money that is estimated to be spent when the project is completed?",
+      "answerIndex": 2,
+      "items": [
+        "ETC",
+        "CPI",
+        "EAC",
+        "SPI"
+      ],
+      "explanation": "As a project continues it is important that you are constantly revising your estimates of how much money you are going to have to spend. This total number is represented by the Estimate At Completion or EAC."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following variables represents the formula: Earned Value minus Actual Costs?",
+      "answerIndex": 0,
+      "items": [
+        "CV",
+        "CPI",
+        "SV",
+        "SPI"
+      ],
+      "explanation": "The Cost Variance or CV, represents an indicator of how far away from the original cost baseline the project actually is. To calculate it take the Earned Value (EV) and subtract the actual costs. A project is on target if the CV is equal to 0."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following variables represents the formula: Earned Value minus Planned Value?",
+      "answerIndex": 3,
+      "items": [
+        "SPI",
+        "CV",
+        "CPI",
+        "SV"
+      ],
+      "explanation": "The Schedule Variance or SV, represents an indicator of how far off of the original schedule baseline the project actually is. To calculate the SV take the Earned Value and subtract the Planned Value. A project is on schedule if the SV is equal to 0."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following variables represents the formula: Earned Value divided by Actual Costs?",
+      "answerIndex": 3,
+      "items": [
+        "CV",
+        "SPI",
+        "SV",
+        "CPI"
+      ],
+      "explanation": "The Cost Performance Index or CPI, represent how far away from the original cost baseline the project is using a percentage indicator (the number 1). To calculate the CPI take the Earned Value and divide it by the project's actual costs to date."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following variables is represented by the formula: Earned Value divided by the Planned Value?",
+      "answerIndex": 0,
+      "items": [
+        "SPI",
+        "SV",
+        "CPI",
+        "CV"
+      ],
+      "explanation": "The Schedule Performance Index or SPI, represents how far off the original schedule baseline the project is using a percentage indicator (the number 1). To calculate the SPI take the Earned Value and divide it by the project's planned value."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is used to forecast project costs at completion?",
+      "answerIndex": 2,
+      "items": [
+        "CPI",
+        "SPI",
+        "Cumulative CPI",
+        "Cumulative SPI"
+      ],
+      "explanation": "The cumulative CPI is used to forecast project costs at completion. Using the CPI gives only the value for that period and would not provide an accurate forecast."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is used to display earned value data over time?",
+      "answerIndex": 1,
+      "items": [
+        "A Gantt chart",
+        "An S-curve",
+        "An EV table",
+        "A cost and schedule baseline chart"
+      ],
+      "explanation": "An S-curve that displays the EV, AC and PV over time is the most common visual representation of earned value data."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your boss enters your office and asks for the cost variance on your project that has an AC of $225, a PV of $200, and an EV of $180. What value do you provide them?",
+      "answerIndex": 0,
+      "items": [
+        "-45",
+        "-20",
+        "0.80",
+        "0.90"
+      ],
+      "explanation": "The Cost Variance or CV, represents an indicator of how far away from the original cost baseline the project actually is. To calculate it take the Earned Value (EV) and subtract the actual costs. A project is on target if the CV is equal to 0."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your boss enters your office and asks for the cost variance on your project that has an AC of $290, a PV of $300, and an EV of $270. What value do you provide them?",
+      "answerIndex": 3,
+      "items": [
+        "-30",
+        "0.95",
+        "0.92",
+        "-20"
+      ],
+      "explanation": "The Cost Variance or CV, represents an indicator of how far away from the original cost baseline the project actually is. To calculate it take the Earned Value (EV) and subtract the actual costs. A project is on target if the CV is equal to 0."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your boss enters your office and asks for the cost variance on your project that has an AC of $45, a PV of $40, and an EV of $50. What value do you provide them?",
+      "answerIndex": 1,
+      "items": [
+        "10",
+        "5",
+        "1.11",
+        "1.25"
+      ],
+      "explanation": "The Cost Variance or CV, represents an indicator of how far away from the original cost baseline the project actually is. To calculate it take the Earned Value (EV) and subtract the actual costs. A project is on target if the CV is equal to 0."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your boss enters your office and asks for the schedule variance on your project that has an AC of $45, a PV of $40, and an EV of $50. What value do you provide them?",
+      "answerIndex": 0,
+      "items": [
+        "10",
+        "5",
+        "1.11",
+        "1.25"
+      ],
+      "explanation": "The Schedule Variance or SV, represents an indicator of how far away from the original schedule baseline the project actually is. To calculate it take the Earned Value (EV) and subtract the Planned Value (PV). A project is on target if the SV is equal to 0."
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to establish an estimated project cost using Expected Monetary Value (EMV). If the project has a best case estimate of U.S. $10,000 with a probability of 20%, a most likely case estimate of U.S. $12,000 with a probability of 50%, and a worst case estimate of U.S. $14,400 with a probability of 30% what is the EMV for the project?",
+      "answerIndex": 0,
+      "items": [
+        "U.S. $12,320",
+        "U.S. $12,400",
+        "U.S. $13,010",
+        "U.S. $13,260"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to establish an estimated project cost using Expected Monetary Value (EMV). If the project has a best case estimate of U.S. $15,000 with a probability of 30%, a most likely case estimate of U.S. $19,500 with a probability of 50%, and a worst case estimate of U.S. $26,325 with a probability of 20% what is the EMV for the project?",
+      "answerIndex": 1,
+      "items": [
+        "U.S. $19.190",
+        "U.S. $19,515",
+        "U.S. $20,110",
+        "U.S. $20,350"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to establish an estimated project cost using Expected Monetary Value (EMV). If the project has a best case estimate of U.S. $25,000 with a probability of 22%, a most likely case estimate of U.S. $31,250 with a probability of 53%, and a worst case estimate of U.S. $40,625 with a probability of 25% what is the EMV for the project?",
+      "answerIndex": 2,
+      "items": [
+        "U.S. $30.190",
+        "U.S. $31,560",
+        "U.S. $32,219",
+        "U.S. $33,350"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to establish an estimated project cost using Expected Monetary Value (EMV). If the project has a best case estimate of U.S. $50,000 with a probability of 25%, a most likely case estimate of U.S. $55,000 with a probability of 45%, and a worst case estimate of U.S. $68,750 with a probability of 30% what is the EMV for the project?",
+      "answerIndex": 3,
+      "items": [
+        "U.S. $55,975",
+        "U.S. $56,550",
+        "U.S. $57,125",
+        "U.S. $57,875"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to establish an estimated project cost using Expected Monetary Value (EMV). If the project has a best case estimate of U.S. $75,000 with a probability of 30%, a most likely case estimate of U.S. $86,250 with a probability of 40%, and a worst case estimate of U.S. $99,188 with a probability of 30% what is the EMV for the project?",
+      "answerIndex": 0,
+      "items": [
+        "U.S. $86.756",
+        "U.S. $87,247",
+        "U.S. $87,691",
+        "U.S. $88,121"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to establish an estimated project cost using Expected Monetary Value (EMV). If the project has a best case estimate of U.S. $30,000 with a probability of 24%, a most likely case estimate of U.S. $34,500 with a probability of 56%, and a worst case estimate of U.S. $45,540 with a probability of 20% what is the EMV for the project?",
+      "answerIndex": 1,
+      "items": [
+        "U.S. $35,121",
+        "U.S. $35,628",
+        "U.S. $36,222",
+        "U.S. $36,921"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to establish an estimated project cost using Expected Monetary Value (EMV). If the project has a best case estimate of U.S. $35,000 with a probability of 15%, a most likely case estimate of U.S. $40,250 with a probability of 60%, and a worst case estimate of U.S. $54,338 with a probability of 25% what is the EMV for the project?",
+      "answerIndex": 2,
+      "items": [
+        "U.S. $41,652",
+        "U.S. $42,111",
+        "U.S. $42,984",
+        "U.S. $43,596"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to establish an estimated project cost using Expected Monetary Value (EMV). If the project has a best case estimate of U.S. $20,000 with a probability of 10%, a most likely case estimate of U.S. $23,200 with a probability of 65%, and a worst case estimate of U.S. $32,480 with a probability of 25% what is the EMV for the project?",
+      "answerIndex": 3,
+      "items": [
+        "U.S. $23,950",
+        "U.S. $24,220",
+        "U.S. $24,880",
+        "U.S. $25,200"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to establish an estimated project cost using Expected Monetary Value (EMV). If the project has a best case estimate of U.S. $5,000 with a probability of 30%, a most likely case estimate of U.S. $5,900 with a probability of 45%, and a worst case estimate of U.S. $8,024 with a probability of 25% what is the EMV for the project?",
+      "answerIndex": 0,
+      "items": [
+        "U.S. $6,161",
+        "U.S. $6,437",
+        "U.S. $6,918",
+        "U.S. $7,020"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to establish an estimated project cost using Expected Monetary Value (EMV). If the project has a best case estimate of U.S. $7,500 with a probability of 20%, a most likely case estimate of U.S. $9,150 with a probability of 55%, and a worst case estimate of U.S. $11,529 with a probability of 25% what is the EMV for the project?",
+      "answerIndex": 2,
+      "items": [
+        "U.S. $8,919",
+        "U.S. $9,126",
+        "U.S. $9,415",
+        "U.S. $9,783"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $650,000 and B will cost U.S. $467,000. There is a 56% chance that project A will be successful, which will result in a gain of U.S. $1,800,000. If project A fails there will be a loss of U.S. $900,000. There is a 67% chance project B will be successful, and that will result in a U.S. $950,000 gain. If Project B fails there will be a loss of U.S. $670,000. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 0,
+      "items": [
+        "U.S. $-38,000",
+        "U.S. $38,000",
+        "U.S. $-51,600",
+        "U.S. $51,600"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $300,000 and B will cost U.S. $255,000. There is a 67% chance that project A will be successful, which will result in a gain of U.S. $650,000. If project A fails there will be a loss of U.S. $310,000. There is a 58% chance project B will be successful, and that will result in a U.S. $650,000 gain. If Project B fails there will be a loss of U.S. $225,000. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 2,
+      "items": [
+        "U.S. $60,700",
+        "U.S. $27,500",
+        "U.S. $33,200",
+        "U.S. $51,600"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $288,000 and B will cost U.S. $225,500. There is a 61% chance that project A will be successful, which will result in a gain of U.S. $650,000. If project A fails there will be a loss of U.S. $287,000. There is a 57% chance project B will be successful, and that will result in a U.S. $560,000 gain. If Project B fails there will be a loss of U.S. $225,000. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 1,
+      "items": [
+        "U.S. $6,480",
+        "U.S. $-3,050",
+        "U.S. $3,200",
+        "U.S. $-3,430"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $663,500 and B will cost U.S. $589,000. There is a 66% chance that project A will be successful, which will result in a gain of U.S. $1,399,000. If project A fails there will be a loss of U.S. $663,500. There is a 69% chance project B will be successful, and that will result in a U.S. $1,005,000 gain. If Project B fails there will be a loss of U.S. $225,000. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 1,
+      "items": [
+        "U.S. $34,250",
+        "U.S. $34,700",
+        "U.S. $68,950",
+        "U.S. $68,525"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $79,250 and B will cost U.S. $75,500. There is a 71% chance that project A will be successful, which will result in a gain of U.S. $690,000. If project A fails there will be a loss of U.S. $309,500. There is a 75% chance project B will be successful, and that will result in a U.S. $570,500 gain. If Project B fails there will be a loss of U.S. $219,500. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 0,
+      "items": [
+        "U.S. $320,895",
+        "U.S. $618,395",
+        "U.S. $297,500",
+        "U.S. $648,716"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $40,000 and B will cost U.S. $55,000. There is a 59% chance that project A will be successful, which will result in a gain of U.S. $151,000. If project A fails there will be a loss of U.S. $94,000. There is a 55% chance project B will be successful, and that will result in a U.S. $168,500 gain. If Project B fails there will be a loss of U.S. $72,500. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 2,
+      "items": [
+        "U.S. $5,500",
+        "U.S. $15,600",
+        "U.S. $10,550",
+        "U.S. $21,525"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $77,230 and B will cost U.S. $91,980. There is a 63% chance that project A will be successful, which will result in a gain of U.S. $740,000. If project A fails there will be a loss of U.S. $300,000. There is a 77% chance project B will be successful, and that will result in a U.S. $500,000 gain. If Project B fails there will be a loss of U.S. $225,000. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 1,
+      "items": [
+        "U.S. $703,200",
+        "U.S. $425,230",
+        "U.S. $277,970",
+        "U.S. $256,990"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $210,000 and B will cost U.S. $255,000. There is a 60% chance that project A will be successful, which will result in a gain of U.S. $650,000. If project A fails there will be a loss of U.S. $325,000. There is a 65% chance project B will be successful, and that will result in a U.S. $550,000 gain. If Project B fails there will be a loss of U.S. $207,750. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 3,
+      "items": [
+        "U.S. $79,788",
+        "U.S. $29,788",
+        "U.S. $27,970",
+        "U.S. $50,000"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $12,500 and B will cost U.S. $15,250. There is a 72% chance that project A will be successful, which will result in a gain of U.S. $65,000. If project A fails there will be a loss of U.S. $31,000. There is a 66% chance project B will be successful, and that will result in a U.S. $56,500 gain. If Project B fails there will be a loss of U.S. $22,500. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 2,
+      "items": [
+        "U.S. $14,390",
+        "U.S. $19,780",
+        "U.S. $25,620",
+        "U.S. $40,010"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $241,250 and B will cost U.S. $225,500. There is a 65% chance that project A will be successful, which will result in a gain of U.S. $550,500. If project A fails there will be a loss of U.S. $310,000. There is a 60% chance project B will be successful, and that will result in a U.S. $568,000 gain. If Project B fails there will be a loss of U.S. $270,000. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 1,
+      "items": [
+        "U.S. $7,300",
+        "U.S. $8,075",
+        "U.S. $11,650",
+        "U.S. $15,375"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $500 and B will cost U.S. $750. There is a 65% chance that project A will be successful, which will result in a gain of U.S. $2,500. If project A fails there will be a loss of U.S. $1,650. There is a 59% chance project B will be successful, and that will result in a U.S. $3,000 gain. If Project B fails there will be a loss of U.S. $1,750. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 1,
+      "items": [
+        "U.S. $303",
+        "U.S. $548",
+        "U.S. $641",
+        "U.S. $850"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to choose between two projects, A or B, based on the highest gain (or the lowest loss). Project A will cost U.S. $194,500 and B will cost U.S. $175,000. There is a 66% chance that project A will be successful, which will result in a gain of U.S. $645,000. If project A fails there will be a loss of U.S. $315,500. There is a 55% chance project B will be successful, and that will result in a U.S. $715,500 gain. If Project B fails there will be a loss of U.S. $220,500. Based on this information, what is the value of the best alternative?",
+      "answerIndex": 2,
+      "items": [
+        "U.S. $115,960",
+        "U.S. $119,300",
+        "U.S. $123,930",
+        "U.S. $243,230"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "After reviewing a series of tasks being completed by the team, you determine they are focusing on defining positive value. Which of the listed tasks does not belong in that determination?",
+      "answerIndex": 3,
+      "items": [
+        "Define deliverables by identifying units that can be produced incrementally to maximize stakeholders value & minimize non-value added work.",
+        "Refine requirements by gaining consensus on the acceptance criteria for features on a just-in-time basis in order to deliver value.",
+        "Select & tailor the team’s process based on project & organizational characteristics as well as team experience to optimize value delivery",
+        "Plan for small increments by organizing requirements into MMF/MVP in order to allow for the early recognition & delivery of value."
+      ],
+      "explanation": "The tasks found in the Define positive value group include: Define deliverables by identifying units that can be produced incrementally in order to maximize their value to stakeholders while minimizing non-value added work; Refine requirements by gaining consensus on the acceptance criteria for features on a just-in-time basis in order to deliver value; Select and tailor the team’s process based on project and organizational characteristics as well as team experience in order to optimize value delivery."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You and a coworker are arguing about the advantages of using Agile development. Which of the following might you list as a key advantage?",
+      "answerIndex": 0,
+      "items": [
+        "Small releasable increments that offer early recognition and delivery of value",
+        "An increased number of increments that ensure the team identifies and responds to risks early.",
+        "Obtain more frequent customer feedback through retrospective reviews at the end of each iteration.",
+        "Prioritization of business value through constant delivery of small increments."
+      ],
+      "explanation": "Be careful here as several items are close to true, but the Value Driven Delivery area lists three specific tasks Agile uses to avoid potential downsides: Plan for small releasable increments by organizing requirements into MMF/MVP in order to allow for the early recognition and delivery of value. Limit increment size and increase review frequency with appropriate stakeholders in order to identify and respond to risks early on and at minimal cost. Solicit customer and user feedback by reviewing increments often in order to confirm and enhance business value."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning value driven delivery is NOT true?",
+      "answerIndex": 3,
+      "items": [
+        "Agile's notion of value driven delivery says that every project has at its center a responsibility to deliver real business value.",
+        "Agile believes it is critical that project deliver the most important features first while also considering technical dependencies and risks.",
+        "Value-driven delivery represents the big picture view, the wearing of the sponsor’s hat when making decisions.",
+        "Value driven delivery is the focus of the project once it reaches execution processes."
+      ],
+      "explanation": "Agile carries this simple idea one step further by also contending that it is critical that project deliver the most important features first while also considering technical dependencies and risks. Key is remembering why projects are initiated in the first place. Projects are undertaken to generate some type of business value, be it to produce a benefit, product or service. Even safety and regulatory compliance projects can be expressed in terms of business value by considering the business risk and impact of not undertaking them. If value then is the reason for doing projects, value driven delivery is the focus of the project throughout the project planning, execution, and control processes. Value-Driven Delivery represents the big picture view, the wearing of the sponsor’s hat when making decisions."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The team is working to determine the business value for the project all of the following EXCEPT ________________ represent techniques the team might use.",
+      "answerIndex": 2,
+      "items": [
+        "Benefit measurement methods",
+        "Constrained optimization methods.",
+        "Both A and B are used to determine business value.",
+        "None of the above are used to determine business value."
+      ],
+      "explanation": "There are two ways to determine business value. These include: benefit measurement methods and constrained optimization methods."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Linear programming is an example of what type of project selection criteria?",
+      "answerIndex": 3,
+      "items": [
+        "Regression analysis",
+        "Benefit cost measurement",
+        "Quantitative scoring",
+        "Constrained optimization"
+      ],
+      "explanation": "Constrained optimization methods represent advanced mathematical models used to calculate project value. Methods included in this class are linear, integer, dynamic and multi-objective programming."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your company is evaluating three different projects, but can do only one. Project A has an NPV of $120,000 and will take 6 years to complete. Project B will take 3 years and has and NPV of $91,500 and Project C has an NPV of $83,000. Based on this information, which project would you pick?",
+      "answerIndex": 0,
+      "items": [
+        "Project A",
+        "Project B",
+        "Project C",
+        "Not enough information to determine"
+      ],
+      "explanation": "The years are irrelevant to this question as the whole point of NPV is to convert the project value into today’s dollars. In this case project A is the correct choice with an NPV of $120,000."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the Present Value of a project that is forecasted to have a future value of 1,020.87 USD in five years assuming an 8% rate of return?",
+      "answerIndex": 1,
+      "items": [
+        "$1,750",
+        "$1,500",
+        "$1,250",
+        "$1,000"
+      ],
+      "explanation": "The Present Value, or discounting, refers to a Future Value that has been discounted to express it in today’s currency. For example, imagine you had U.S. $100 buried in a coffee can in your backyard. Twenty-five years later you dig up the coffee can and find the U.S. $100 bill. Does it still have the same purchasing power? Absolutely not! Inflation has made that U.S. $100 worth significantly less. This equation also is not often seen on the exam, but it is necessary to understand the next formula. The equation for the Present Value is: PV = FV / (1 + i)n"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the Present Value of a project that is forecasted to have a future value of 18,782.87 USD in three years assuming an 10% rate of return?",
+      "answerIndex": 2,
+      "items": [
+        "$20,000",
+        "$22,500",
+        "$25,000",
+        "$27,500"
+      ],
+      "explanation": "The Present Value, or discounting, refers to a Future Value that has been discounted to express it in today’s currency. For example, imagine you had U.S. $100 buried in a coffee can in your backyard. Twenty-five years later you dig up the coffee can and find the U.S. $100 bill. Does it still have the same purchasing power? Absolutely not! Inflation has made that U.S. $100 worth significantly less. This equation also is not often seen on the exam, but it is necessary to understand the next formula. The equation for the Present Value is: PV = FV / (1 + i)n"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the future value of a project believed to have a present value of 19,000 USD if you assume a four year term and a three percent rate of return?",
+      "answerIndex": 1,
+      "items": [
+        "$20,793.41",
+        "$21,384.67",
+        "$22,621.83",
+        "$23,112.14"
+      ],
+      "explanation": "The Future Value represents the value of an investment at some future point based upon a provided interest rate. Very few, if any, test candidates have to calculate the future value, but understanding it is necessary to answer comparative questions you might see. It is defined by the formula: FV = PV * (1 + i)n"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the future value of a project believed to have a present value of 16,000 USD if you assume a three year term and a 10.25 percent rate of return?",
+      "answerIndex": 0,
+      "items": [
+        "$21,441.53",
+        "$22,375.14",
+        "$23,648.16",
+        "$24,110.13"
+      ],
+      "explanation": "The Future Value represents the value of an investment at some future point based upon a provided interest rate. Very few, if any, test candidates have to calculate the future value, but understanding it is necessary to answer comparative questions you might see. It is defined by the formula: FV = PV * (1 + i)n"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms represents the calculation used to determine the value of a project in today's dollars minus its costs and is used for comparative purposes?",
+      "answerIndex": 2,
+      "items": [
+        "Future value",
+        "Present value",
+        "Net present value",
+        "Internal rate of return"
+      ],
+      "explanation": "The Net Present Value is almost identical to the present value. In the Present Value calculation you discount the value, typically representing a revenue stream, to account for inflation or some other similar rate. Net Present Value does the same thing, but it also takes into consideration the money that must be spent to complete the project over time. To do so it costs the Present Value from the net costs to obtain the NPV."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When determining the business value of a project, which of the following terms represents the money or value the organization receives back as a measure against its investment?",
+      "answerIndex": 3,
+      "items": [
+        "Future value",
+        "Present value",
+        "Net present value",
+        "Internal rate of return"
+      ],
+      "explanation": "In an Internal Rate of Return equation, it is the interest rate that must be determined. Unfortunately, there is no simple equation to calculate the internal rate of return. To solve for the IRR you must use the NPV calculation and select the middle most interest rate of the four potential answers. You are looking for an interest rate which produces an NPV of zero. Based upon the result from the first calculation you can determine if you need a larger or smaller value. You should not have to calculate the NPV more than twice to determine the correct IRR."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You have been asked to choose one of three projects. Project A has an NPV of U.S. $17,000. Project B has an NPV of U.S. $32,000. And Project C has an NPV of U.S. $39,000. What is the opportunity cost of selecting Project B?",
+      "answerIndex": 0,
+      "items": [
+        "U.S. $39,000",
+        "U.S. $32,000",
+        "U.S. $17,000",
+        "U.S. $7,000"
+      ],
+      "explanation": "Opportunity cost is the value of the next highest alternative assuming the alternatives are mutually exclusive. It defines what you are giving up by making the choice. In this case, the correct answer is U.S. $39,000."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The team has just finished reviewing your value stream map to find delays, waste and constraints. What should it do next?",
+      "answerIndex": 1,
+      "items": [
+        "Develop a roadmap for creating the optimized state.",
+        "Create a new value stream map of the desired future state of the process, optimized to remove or reduce delays, waste & constraints.",
+        "Identify the product or service that you are analyzing.",
+        "Create a value stream map of the current process, identifying steps, queues, delays, & information flows."
+      ],
+      "explanation": "Value Stream Mapping is a lean management technique for analyzing the current and future state for the series of events that tracks a specific product or service from beginning to end. It is a visual technique that uses something called a “Visual Map” The process of Value Stream Mapping consists of six steps. These steps include: Identify the product or service that you are analyzing; Create a value stream map of the current process, identifying steps, queues, delays, & information flows; Review the map to find delays, waste & constraints; Create a new value stream map of the desired future state of the process, optimized to remove or reduce delays, waste & constraints; Develop a roadmap for creating the optimized state; and plan to revisit the process in the future to continually improve."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The team has just finished developing a roadmap for the optimized state as part of a value stream mapping exercise. What should you do next?",
+      "answerIndex": 2,
+      "items": [
+        "Review the map to find delays, waste & constraints.",
+        "Create a new value stream map of the desired future state of the process, optimized to remove or reduce delays, waste & constraints.",
+        "Plan to revisit the process in the future to continually improve",
+        "Identify the product or service that you are analyzing."
+      ],
+      "explanation": "Value Stream Mapping is a lean management technique for analyzing the current and future state for the series of events that tracks a specific product or service from beginning to end. It is a visual technique that uses something called a “Visual Map” The process of Value Stream Mapping consists of six steps. These steps include: Identify the product or service that you are analyzing; Create a value stream map of the current process, identifying steps, queues, delays, & information flows; Review the map to find delays, waste & constraints; Create a new value stream map of the desired future state of the process, optimized to remove or reduce delays, waste & constraints; Develop a roadmap for creating the optimized state; and plan to revisit the process in the future to continually improve."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A large part of value stream mapping is calculating something called _______.",
+      "answerIndex": 1,
+      "items": [
+        "Mission critical time",
+        "Total cycle time",
+        "Total project time",
+        "Total time"
+      ],
+      "explanation": "A big part of Value Stream Mapping is calculating something called Total Cycle Time. Total Cycle Time represents all the processes, steps, machine work and anything else through which a product must pass before it is considered “finished”. It is often broken into several different types of time including: Manual Cycle Time, Machine Cycle Time, Auto Cycle Time, and Overall Cycle Time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Mathematically, Total Cycle Time is defined by which of the following equations?",
+      "answerIndex": 0,
+      "items": [
+        "Value Added Time + Non-Value Added Time = TCT",
+        "Overall Cycle Time + Non-Value Added Time = TCT",
+        "Value Added Time - Non-Value Added Time = TCT",
+        "Overall Cycle Time - Non-Value Added Time = TCT"
+      ],
+      "explanation": "Mathematically, the Total Cycle Time or TCT is defined as the Value Added Time + Non-Value Added Time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Mathematically, the Process Cycle Efficiency is defined by which of the following equations?",
+      "answerIndex": 3,
+      "items": [
+        "Total Cycle Time / Value Added Time",
+        "Value Added Time/ Overall Cycle Time",
+        "Overall Cycle Time / Total Cycle Time",
+        "Value Added Time / Total Cycle Time"
+      ],
+      "explanation": "In addition to the Total Cycle Time, you must be prepared to calculate the Process Cycle Efficiency which represents the Value Added Time divided by the Total Cycle Time. According to Six Sigma, a lean process is one in which the Value Added time in the process is 25% or more of the total time in the process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are NOT part of Taiichi Ohno's acronym TIMWOOD?",
+      "answerIndex": 2,
+      "items": [
+        "Transportation",
+        "Waiting",
+        "Income",
+        "Overproduction"
+      ],
+      "explanation": "Here are the TIMWOOD seven forms of waste translated from Lean Manufacturing to software development: Partially Done Work; Extra Processes; Extra Features; Task Switching; Waiting; Motion; and Defects."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT an Agile prioritization technique?",
+      "answerIndex": 1,
+      "items": [
+        "Monopoly Money",
+        "Moscow Mule",
+        "Dot Voting",
+        "CARVER"
+      ],
+      "explanation": "When the team is focused on Value-Driven Delivery it has a customer valued prioritization. This means working on the things that yield the greatest return for the customer. The primary tool used by the team differs based on the Agile methodology being used. Techniques include MoSCoW Prioritization Scheme; Monopoly Money; 100-Point Method; Dot Voting / Multi-Voting; CARVER; Kano Analysis; Requirements Prioritization Model; and Relative Prioritization or Ranking."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When Professor Noriaki Kano created his customer satisfaction and product development theory, which of the following was one of his categories of customer preferences?",
+      "answerIndex": 2,
+      "items": [
+        "Technical needs",
+        "Sponsor needs",
+        "Excitement needs",
+        "Fundamental needs"
+      ],
+      "explanation": "Kano Analysis represents a customer satisfaction and product development theory first developed in 1984 by Professor Noriaki Kano, and was originally designed to classify customer preferences into three categories: Performance Needs; Basic Needs; and Excitement Needs."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following prioritization techniques has each feature rated by benefits for having, not having, cost of producing, risks, etc., and a score is calculated using a weighting formula predefined by the team?",
+      "answerIndex": 1,
+      "items": [
+        "Requirements prioritization model",
+        "Relative prioritization model",
+        "CARVER",
+        "Kano analysis"
+      ],
+      "explanation": "In the Requirements prioritization model each feature is rated by benefits for having, not having, cost of producing, risks, etc., and a score is calculated using a weighting formula predefined by the team. This method allows the team to value certain items as having greater importance by increasing their weighting in the formula. Commonly, the scores range from one to nine. This model was originally created by Karl Wiegers."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms represents the group of User Stories or package of features that delivers the fewest number of features that someone would be willing to pay money to obtain?",
+      "answerIndex": 2,
+      "items": [
+        "Base feature set",
+        "Baseline feature set",
+        "Minimally marketable features",
+        "Minimum feature set"
+      ],
+      "explanation": "The Minimally Marketable Features or MMF represents the minimal functionality set, a fancy way of saying a group of User Stories or package of features, that delivers the fewest number of features that someone would be willing to pay money to obtain. These represent distinct, and deliverable features of the system that provide significant value to the customer"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A member of your team suggest the use of a Story Map to improve the team's project understanding. Which of the following best describes the purpose of a Story Map?",
+      "answerIndex": 0,
+      "items": [
+        "Story Maps present a visual way of seeing all the features in a project.",
+        "Story Maps present a visual method for understanding the business need.",
+        "Story Maps present a basic chronology of the project.",
+        "Story Maps present a basic understanding of the project justification."
+      ],
+      "explanation": "Story Maps present a visual way of seeing all the features in a project. It is typically read along two axis. Time is represented along the X-axis with columns often placed for releases or iterations on smaller projects. The Y-axis is used to represent how important the User Story is to the customer. At the top are the most important Stories, referred to as the product backbone or the MMF. Below that appears the walking skeleton and then more and more optional features."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within a Story Map where would you find the product backbone or MMF?",
+      "answerIndex": 3,
+      "items": [
+        "The MMF or product backbone is not located on a Story Map.",
+        "The MMF or product backbone is located on the left of the Story Map.",
+        "The MMF or product backbone is located on the bottom of the Story Map.",
+        "The MMF or product backbone is located on the top of the Story Map."
+      ],
+      "explanation": "Story Maps present a visual way of seeing all the features in a project. It is typically read along two axis. Time is represented along the X-axis with columns often placed for releases or iterations on smaller projects. The Y-axis is used to represent how important the User Story is to the customer. At the top are the most important Stories, referred to as the product backbone or the MMF. Below that appears the walking skeleton and then more and more optional features."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When dealing with project risks, which of the following account for up to 90% of the risks the team might encounter?",
+      "answerIndex": 0,
+      "items": [
+        "Known unknowns",
+        "Unknown unknowns",
+        "Critical risks",
+        "Unbudgeted risks"
+      ],
+      "explanation": "Unknown unknowns cannot be planned for and require management reserves or general contingency. Up to 90% of the risks on a project fall into the known unknown category and can be identified."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When dealing with project risk on an Agile project, which of the following statements is NOT true?",
+      "answerIndex": 3,
+      "items": [
+        "Agile project typically have shorter timelines before a product is ready for release.",
+        "Customers receive the most important features first hereby reducing risk.",
+        "At the latter stages of the project the customer often must decide to continue the project or lose less important features.",
+        "At the end of the project the customer decides whether or not to accept all the features."
+      ],
+      "explanation": "In waterfall it can be a long time before a product is ready for release. In Agile this can be shorter, sometimes only a few weeks. This serves to reduce project risk because the customer receives the most important features very early on in the process. As the project comes to its deadline the team is typically working to deliver far less important features that in many cases could be excluded if required without impacting business value. This puts the customer in a position to make the decision as to whether or not they want the desired features without of loosing the critical value."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "If the project has a best case estimate of U.S. $10,000 with a probability of 20%, a most likely case estimate of U.S. $12,000 with a probability of 50%, and a worst case estimate of U.S. $14,400 with a probability of 30% what is the EMV for the project?",
+      "answerIndex": 0,
+      "items": [
+        "U.S. $12,320",
+        "U.S. $12,400",
+        "U.S. $13,010",
+        "U.S. $13,260"
+      ],
+      "explanation": "To get the correct answer you must first realize you are dealing with three mutually exclusive options. You cannot simultaneously have the best and worst case scenarios. Therefore, your probabilities must sum to 100%. Use the calculation probability * result for each case and then add the results together to get the EMV."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "If the project has a best case estimate of U.S. $15,000 with a probability of 30%, a most likely case estimate of U.S. $19,500 with a probability of 50%, and a worst case estimate of U.S. $26,325 with a probability of 20% what is the EMV for the project?",
+      "answerIndex": 1,
+      "items": [
+        "U.S. $19.190",
+        "U.S. $19,515",
+        "U.S. $20,110",
+        "U.S. $20,350"
+      ],
+      "explanation": "To get the correct answer you must first realize you are dealing with three mutually exclusive options. You cannot simultaneously have the best and worst case scenarios. Therefore, your probabilities must sum to 100%. Use the calculation probability * result for each case and then add the results together to get the EMV."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "If the project has a best case estimate of U.S. $25,000 with a probability of 22%, a most likely case estimate of U.S. $31,250 with a probability of 53%, and a worst case estimate of U.S. $40,625 with a probability of 25% what is the EMV for the project?",
+      "answerIndex": 2,
+      "items": [
+        "U.S. $30.190",
+        "U.S. $31,560",
+        "U.S. $32,219",
+        "U.S. $33,350"
+      ],
+      "explanation": "To get the correct answer you must first realize you are dealing with three mutually exclusive options. You cannot simultaneously have the best and worst case scenarios. Therefore, your probabilities must sum to 100%. Use the calculation probability * result for each case and then add the results together to get the EMV."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You must choose between A or B. A will cost $650K & B will cost $467K. There is a 56% chance that A will be successful, with a gain of $1,800K. If A fails there it loses $900K. There is a 67% B will be successful, with a gain of $950K. If B fails it loses $670K. What is the value of the best alternative?",
+      "answerIndex": 0,
+      "items": [
+        "U.S. $-38,000",
+        "U.S. $38,000",
+        "U.S. $-51,600",
+        "U.S. $51,600"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A will cost $54K & B will cost $90K. There is a 54% chance that project A will be successful, & have a $206,540 gain. If A fails it will have a loss of $90.5K. There is a 61% B will be successful & have a $269K gain. If B fails there will be a loss of $118K. Which do you choose?",
+      "answerIndex": 1,
+      "items": [
+        "Project A",
+        "Project B",
+        "The projects offer the same valuation.",
+        "There is not enough information to determine."
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A will cost U.S. $300K & B will cost $255K. There is a 67% chance A will be successful & result in a $650K gain. If A fails there will be a loss of $310K. There is a 58% B will be successful, & that will result in a $650K gain. If B fails there will be a loss of $225K. What is the value of the best alternative?",
+      "answerIndex": 2,
+      "items": [
+        "U.S. $60,700",
+        "U.S. $27,500",
+        "U.S. $33,200",
+        "U.S. $51,600"
+      ],
+      "explanation": "To answer this question you must calculate the expected monetary value of each choice using the decision tree model found in your LGd training guide and then compare the options. Whichever option has the greatest value is the one you should choose."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Most Agile methodologies flexes which leg of the project management triangle?",
+      "answerIndex": 3,
+      "items": [
+        "Time",
+        "Cost",
+        "Quality",
+        "Scope"
+      ],
+      "explanation": "Agile Contracting fixes the time and cost legs of the triangle while leaving the scope leg flexible. Agile Development then requires the prioritization of the features and the customer to make decisions about the scope. This inversion of the triangle priorities ensures the customer has greater control of the product, at least theoretically, but it requires much greater communication between the customer and team to prevent surprises."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following Agile methodologies uses the concept of \"money for nothing and change for free\" as a basis for contracting?",
+      "answerIndex": 0,
+      "items": [
+        "Scrum",
+        "DSDM",
+        "Feature Driven Development",
+        "Extreme Programming"
+      ],
+      "explanation": "Jeff Sutherland, one of the originators of Scrum uses the phase, “money for nothing and change for free” to describe his notion of Agile Contracting. In this notion, the customer is allowed to terminate the project early and has the flexibility to make changes. His idea uses a standard Firm Fixed Price Contract, but adds time and materials for and additional work plus a change for free clause the customer works with the team on every iteration using the Scrum process. This means daily."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Little's Law states that Cycle time is proportional to what?",
+      "answerIndex": 0,
+      "items": [
+        "The size of the queue.",
+        "The work in progress.",
+        "The size of the team.",
+        "The length of the schedule."
+      ],
+      "explanation": "Cycle Time represents how long the customer must wait before receiving any benefit from the features created. Little’s Law states that Cycle Time is proportional to the size of the queue, or how much Work in Progress the team has. This concept is displayed using a Cumulative Flow Chart."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In which area does the acronym IKIWISI MOST apply?",
+      "answerIndex": 2,
+      "items": [
+        "Time",
+        "Cost",
+        "Scope",
+        "Quality"
+      ],
+      "explanation": "IKIWISI stands for an old truism from many customers. It means I’ll Know It When I See It, and points to the common problem many development teams face. Sometimes the customer doesn’t know or fully understand what they want in terms of the features of the product until they see it. Only by touching and using a product can they understand its characteristics and fully understand how they would use it."
+    }
+  ]
+}
