@@ -2,7 +2,8 @@
 /// <reference path="Question.ts" />
 
 class MultipleChoiceEngine extends Question {
-    private readonly _sExplanation = null;
+    private readonly _btnNext: HTMLButtonElement = null;
+    private readonly _sExplanation: HTMLElement = null;
 
     constructor(contentDocument) {
         super();
@@ -11,18 +12,36 @@ class MultipleChoiceEngine extends Question {
         let pQuestion = this.ContentDocument.getElementById('pQuestion');
         pQuestion.innerHTML = this.Data.dataItem["question"];
         this.createButtons();
+        this._btnNext = <HTMLButtonElement>this.ContentDocument.getElementById('btnNext');
+        this._btnNext.style.display = "none";
         this._sExplanation = <HTMLElement>this.ContentDocument.getElementById('sExplanation');
     }
 
     public checkAnswer(value) {
         this.enableControls(false);
         let onEnded = function () {
-            this.enableControls(true);
         };
         let correct: boolean = value === this.Data.answer;
         if (this._sExplanation && !correct && this.Data.explanation)
-            this._sExplanation.innerHTML = this.Data.explanation;
+            this._sExplanation.innerHTML = "ANSWER: " + this.Data.answer + "<BR/><BR/>" + this.Data.explanation;
+        else
+            this._sExplanation.innerHTML = "CORRECT!";
+        this._btnNext.style.display = "block";
+        this._btnNext.onclick = function () {
+            examEngine.nextQuestion();
+        }
         this.score(correct, onEnded.bind(this));
+    }
+
+    public score(correct: boolean, onEnded?) {
+        if (correct) {
+            examEngine.exam.correctCount += 1;
+            examEngine.updateScore();
+            examEngine.playCorrect(null);
+        } else {
+            examEngine.exam.errorCount += 1;
+            examEngine.updateScore();
+        }
     }
 
     public createButtons() {

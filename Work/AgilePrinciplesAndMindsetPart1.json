@@ -1,6 +1,6 @@
 {
   "title": "Agile Principles & Mindset Part 1",
-  "path": "KnowledgeBowl/",
+  "path": "Work/",
   "data": [
     {
       "questionType": "Multiple Choice",
@@ -16,7 +16,7 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following thought leaders is considered the father of the linear development methodology know as Waterfall",
+      "question": "Which of the following thought leaders is considered the father of the linear development methodology know as \"Waterfall\"",
       "answerIndex": 1,
       "items": [
         "Alistair Cockburn",
@@ -142,9 +142,9 @@
         "Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.",
         "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.",
         "Business people and developers must work together daily throughout the project.",
-        "Our highest priority is to satisfy"
+        "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."
       ],
-      "explanation": "LGd course manual p. 30 & the Agile Manifesto at http://agilemanifesto.org. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. Remember, Agile Development is focuses on being iterative. This means loops of repeated processes. The large number of loops affords the team the opportunity to learn from the past. As the team executes more and more loops, they are able alter the processes to better deliver. However, the key is that at the end of each iteration the team must deliver working product, service or result. With a timescale of only a few weeks to a few months the team is limited in how much functionality they can produce. This means the team must produce a small amount of functionality that has value to the customer, present it to them, and allow the customer to comment on that functionality. The team then adapts to the feedback, makes changes and moves to the next iteration. A common phase used to highlight this process is, “fail fast.”"
+      "explanation": "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. Remember, Agile Development is focuses on being iterative. This means loops of repeated processes. The large number of loops affords the team the opportunity to learn from the past. As the team executes more and more loops, they are able alter the processes to better deliver. However, the key is that at the end of each iteration the team must deliver working product, service or result. With a timescale of only a few weeks to a few months the team is limited in how much functionality they can produce. This means the team must produce a small amount of functionality that has value to the customer, present it to them, and allow the customer to comment on that functionality. The team then adapts to the feedback, makes changes and moves to the next iteration. A common phase used to highlight this process is, “fail fast.”"
     },
     {
       "questionType": "Multiple Choice",
@@ -156,7 +156,7 @@
         "Business people and developers must work together daily throughout the project.",
         "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation."
       ],
-      "explanation": "LGd course manual p. 31 & the Agile Manifesto at http://agilemanifesto.org. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation. Here is a news flash. E-mail is a terrible vehicle for most communication needs! Since its inception, Agile Development has understood this and pushed for better ways of sharing information. Broadcasting status reports via email or attempting to collect requirements electronically are examples of using e-mail poorly, but there are many more. Agile Development pushes teams to work closely and be co-located. If you are not familiar with the term CO-LOCATED it is important that you learn it. It means all the members of a group are physically sitting in the same location. This is why you can often quickly pick out and organization that is using Agile Development when the Development Team is all physically located in a single conference room or central area. Being co-located affords the team a number of advantages. First, team members can quickly turn and talk to compatriots when they have issues. Second, information quickly gets dispersed using OSMOTIC COMMUNICATION. This is where information is absorbed by team members simply by being in the room when it is shared. Finally, information moves between parties much more quickly through the use of INFORMATION RADIATORS when the team is in a single location. We will discuss this last term in a later section of the course."
+      "explanation": "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation. Here is a news flash. E-mail is a terrible vehicle for most communication needs! Since its inception, Agile Development has understood this and pushed for better ways of sharing information. Broadcasting status reports via email or attempting to collect requirements electronically are examples of using e-mail poorly, but there are many more. Agile Development pushes teams to work closely and be co-located. If you are not familiar with the term CO-LOCATED it is important that you learn it. It means all the members of a group are physically sitting in the same location. This is why you can often quickly pick out and organization that is using Agile Development when the Development Team is all physically located in a single conference room or central area. Being co-located affords the team a number of advantages. First, team members can quickly turn and talk to compatriots when they have issues. Second, information quickly gets dispersed using OSMOTIC COMMUNICATION. This is where information is absorbed by team members simply by being in the room when it is shared. Finally, information moves between parties much more quickly through the use of INFORMATION RADIATORS when the team is in a single location. We will discuss this last term in a later section of the course."
     },
     {
       "questionType": "Multiple Choice",
@@ -240,7 +240,7 @@
         "Agile Development ensures the customer receives something of value by the deadline.",
         "Agile Development gives the customer their most important features earlier in the process."
       ],
-      "explanation": "Be careful in reading the choices. Although Agile Development does dramatically increase the likelihood the customer will get something of value by the deadline, nothing can ensure this fact."
+      "explanation": "Be carefule in reading the choices. Although Agile Development does dramatically increase the likelihood the customer will get something of value by the deadline, nothing can ensure this fact."
     },
     {
       "questionType": "Multiple Choice",
@@ -366,15 +366,997 @@
       "questionType": "Multiple Choice",
       "question": "Within Scrum, where are the product features maintained and appear in ranked order from most important to least?",
       "answerIndex": 1,
-      "items": ["The product scope statement", "The product backlog", "The project charter", "The requirements matrix"],
-      "explanation": "The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product. The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering."
+      "items": [
+        "The product scope statement",
+        "The product backlog",
+        "The project charter",
+        "The requirements matrix"
+      ],
+      "explanation": "\"The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product. The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering.\""
     },
     {
       "questionType": "Multiple Choice",
       "question": "Which of the following statements concerning the Product Backlog is NOT true?",
       "answerIndex": 3,
-      "items": ["A Product Backlog is never complete.", "The Product Backlog evolves as the product and the environment in which it will be used evolves.", "The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made to the product.", "The Product Owner may decide to 'lock down' the Product Backlog at any time."],
-      "explanation": "The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product. The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering. A Product Backlog is never complete. The earliest development of it only lays out the initially known and best-understood requirements. The Product Backlog evolves as the product and the environment in which it will be used evolves. The Product Backlog is dynamic; it constantly changes to identify what the product needs to be appropriate, competitive, and useful. As long as a product exists, its Product Backlog also exists. The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made to the product in future releases. Product Backlog items have the attributes of a description, order, estimate and value."
+      "items": [
+        "A Product Backlog is never complete.",
+        "The Product Backlog evolves as the product and the environment in which it will be used evolves.",
+        "The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made to the product.",
+        "The Product Owner may decide to \"lock down\" the Product Backlog at any time."
+      ],
+      "explanation": "\"The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product. The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering. A Product Backlog is never complete. The earliest development of it only lays out the initially known and best-understood requirements. The Product Backlog evolves as the product and the environment in which it will be used evolves. The Product Backlog is dynamic; it constantly changes to identify what the product needs to be appropriate, competitive, and useful. As long as a product exists, its Product Backlog also exists. The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made to the product in future releases. Product Backlog items have the attributes of a description, order, estimate and value.\""
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning the Product Backlog is NOT true?",
+      "answerIndex": 2,
+      "items": [
+        "Higher ranked backlog items are usually more clearly and completely defined than lower ranked items.",
+        "Any backlog item that can be \"done\" within one sprint is deemed \"Ready\" for selection in Sprint Planning.",
+        "The product owner is responsible for all estimates of items appearing on the product backlog.",
+        "The Scrum Team defines when refinement is done for all backlog items."
+      ],
+      "explanation": "The Development Team is responsible for all estimates. The Product Owner may influence the Development Team by helping it understand and select trade-offs, but the people who will perform the work make the final estimate."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What primary Scrum role is described as self-managing, self-organizing, and cross functional?",
+      "answerIndex": 1,
+      "items": [
+        "The product owner",
+        "The development team",
+        "The Scrum team",
+        "The Scrum master"
+      ],
+      "explanation": "The Development Team is self-managing, self-organizing, and cross functional. The team does not have a project manager or functional leader who directs the team’s efforts. The Development Team is also small. According to the rules of Scrum, the team size is six plus or minus three. This puts the optimal team size somewhere between three and nine individuals."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the recommended size of the Scrum Development Team?",
+      "answerIndex": 0,
+      "items": [
+        "6 +/- 3",
+        "5 +/- 3",
+        "3 +/- 4",
+        "4 +/- 4"
+      ],
+      "explanation": "The Development Team is self-managing, self-organizing, and cross functional. The team does not have a project manager or functional leader who directs the team’s efforts. The Development Team is also small. According to the rules of Scrum, the team size is six plus or minus three. This puts the optimal team size somewhere between three and nine individuals."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements about the Scrum Master is NOT true?",
+      "answerIndex": 3,
+      "items": [
+        "The Scrum Master is responsible for the Scrum process.",
+        "The Scrum Master is responsible for implementing Scrum so it fits with culture.",
+        "The Scrum Master acts as a facilitator.",
+        "The Scrum Master acts as the project manager for the project."
+      ],
+      "explanation": "The Scrum Master is responsible for the Scrum process, teaching Scrum to everyone, implementing Scrum so it fits with culture, and ensuring that everyone follows Scrum’s rules & practices. The closest approximation to in a linear project is the Project Manager, but there are some key differences, at least from the perspective of the Agilist. Most Agilists believe that traditional project managers are only part of hierarchical organizations with the project manager at the top. All the resources report to the PM. Additionally, this person serves as an administrator directing the team, but having no technical skills or knowledge of the project. This is a huge over simplification of the role, but makes for a nice comparison. A Scrum Master serves as a facilitator. Remember, a Scrum Development Team is self-managing. The expectation is that the Scrum Master role is to only help the team, to ask probative questions, to ensure the team knows the Scrum process and follows it. Development Team members report to each other and not the Scrum Master so the Scrum Master has no formal authority to make anyone do anything."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which one of the following represents one of the key expected behaviors of the Development Team represented by the acronym CFORCE?",
+      "answerIndex": 1,
+      "items": [
+        "Convicted",
+        "Focused",
+        "Opportunistic",
+        "Courteous"
+      ],
+      "explanation": "Often Agilists use an acronym to describe the expected behavior of the Development Team. It is CFORCE. The C stands for Committed. An Agile Development Team must be committed to the Team’s goals and to the other members of the Team. F stands for focused. This criteria goes back to an earlier point. A Development Team must be focused on one and only one project. O stands for open. Each member of the team must be open to receive and provide honest criticism intended to improve the project and the team. Team members must always assume positive intend of their compatriots. R stands for respected and respectful. This requirement is also tied to how team members treat each other. It is expected that each team member is a respected part of the organization and that they respect all the other members of the team. Team members must give respect in order to receive it. The C stands for courageous. The team must take risks, find innovative solutions, and focus on finding the best solutions to meet the needs of the business. Finally, we have the E, which stands for extreme. Scrum calls on the Development Team to be zealous in the pursuit of the mission."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following represents one of the key expected behaviors of the Development Team NOT represented by the aronym CFORCE?",
+      "answerIndex": 2,
+      "items": [
+        "Extreme",
+        "Courageous",
+        "Reasoned",
+        "Committed"
+      ],
+      "explanation": "Often Agilists use an acronym to describe the expected behavior of the Development Team. It is CFORCE. The C stands for Committed. An Agile Development Team must be committed to the Team’s goals and to the other members of the Team. F stands for focused. This criteria goes back to an earlier point. A Development Team must be focused on one and only one project. O stands for open. Each member of the team must be open to receive and provide honest criticism intended to improve the project and the team. Team members must always assume positive intend of their compatriots. R stands for respected and respectful. This requirement is also tied to how team members treat each other. It is expected that each team member is a respected part of the organization and that they respect all the other members of the team. Team members must give respect in order to receive it. The C stands for courageous. The team must take risks, find innovative solutions, and focus on finding the best solutions to meet the needs of the business. Finally, we have the E, which stands for extreme. Scrum calls on the Development Team to be zealous in the pursuit of the mission."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are acting as a Scrum Master for a new project within your organization. There currently isn't any documentation for the initiative. Which of the following documents is required before the team can begin work according to the rules of Scrum?",
+      "answerIndex": 3,
+      "items": [
+        "A business case",
+        "A needs analysis",
+        "User stories",
+        "A project vision"
+      ],
+      "explanation": "Most people are familiar with a project vision by another name, the Project Charter. Many Agilists would contend that the two documents are not the same thing, but this has more to do with many project managers failing to create proper charters than the comparison. The Vision sets the direction of the project and guides the Scrum Team. In 2004, Schwaber described the Vision this way, “The minimum plan necessary to start a Scrum project consists of a vision and a Product Backlog. The vision describes why the project is being undertaken and what the desired end state is.: (Schwaber 2004, p.68)"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following items is NOT one of the five core elements found in a project vision document?",
+      "answerIndex": 0,
+      "items": [
+        "The business case",
+        "the project justification",
+        "Success criteria",
+        "Constraints and assumptions"
+      ],
+      "explanation": "A well formed Vision is a single page document that answers a number of questions. These questions cover five major areas: The Business Need, The Project Justification, The Success Criteria, The Project's Prioritization, and any Constraints or Assumptions. A Business Case offers much of the same information as it explains why the business needs the product or service of the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to Moore, which of the following is a common way to validate a project Vision?",
+      "answerIndex": 2,
+      "items": [
+        "The PDCA Test",
+        "The ROAD Test",
+        "An Elevator Test",
+        "An Ishikawa Test"
+      ],
+      "explanation": "A common way to validate your Vision is to answer the elevator test. Can you explain the product, service or result of the project in the time it takes to ride up in an elevator? (Moore 2006 p. 152)."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to explain the project initiation process when using Scrum to a coworker. As part of the discussion you explain two documents are required. What are those two documents?",
+      "answerIndex": 3,
+      "items": [
+        "A business case and user stories",
+        "A burndown chart and user story log",
+        "A kanban board and a business case",
+        "A product vision and product backlog"
+      ],
+      "explanation": "40 - The two documents necessary required to implement Scrum. The first of these documents in called the Product or Project Vision. The Vision sets the direction of the project and guides the Scrum Team. In 2004, Schwaber described the Vision this way, “The minimum plan necessary to start a Scrum project consists of a vision and a Product Backlog. The vision describes why the project is being undertaken and what the desired end state is.: (Schwaber 2004, p.68). The second document in the list of four is a Ranked Product Backlog. More often than not the literature talks about just the Product Backlog. A Product Backlog is a listing of the User Stories, features or requirements."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms represents a self-contained unit of work agreed upon by the developers and the stakeholders?",
+      "answerIndex": 0,
+      "items": [
+        "User Stories",
+        "Themes",
+        "Epics",
+        "Releases"
+      ],
+      "explanation": "A story is a self-contained unit of work agreed upon by the developers and the stakeholders. Stories are the heart of Scrum, and the building blocks of the sprint. Additionally, each story must provide functionality that has real value to the business. A User Story is different from a feature however as a feature represents a distinct element of functionality that provides capability to the business while a User Story is a small aspect of a feature that is used to get feedback from stakeholders and find out if you are doing anything wrong."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms represents a group of related user stories that contribute to a common goal or are related in some obvious way?",
+      "answerIndex": 1,
+      "items": [
+        "User Stories",
+        "Themes",
+        "Epics",
+        "Releases"
+      ],
+      "explanation": "Themes may be thought of as groups of related stories. Often the stories all contribute to a common goal or are related in some obvious way, such as focusing on a single customer. Sometimes stories within a theme may be dependent on each other, and then do not necessarily encapsulate a specific work flow or be delivered together."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms are made up of multiple user stories, but also sometimes resemble stories in the sense that they may appear as a larger story or complrise a complete workflow for a user and cut across all or some of the three business dimensions?",
+      "answerIndex": 2,
+      "items": [
+        "User Stories",
+        "Themes",
+        "Epics",
+        "Releases"
+      ],
+      "explanation": "Epics resemble themes in the sense that they are made up of multiple stories. Sometimes they also resemble stories in the sense that may appear as a big story. Unlike themes, epics often comprise a complete workflow for a user and they typically cut across all or some of the three business dimensions (time, scope and organizations). Another important difference is while the stories that comprise an epic may be completed independently, their business value isn’t realized until the entire epic is complete. This means that it rarely makes sense to deliver an epic until all of the underlying stories are complete."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms represents a grouping of functionality that is most often seen when teams are implementing SAFe as they are often used to enhance business value of the FULL solution set or bring a range of technologies together?",
+      "answerIndex": 0,
+      "items": [
+        "Epics",
+        "Rocks",
+        "Sprints",
+        "Rocks"
+      ],
+      "explanation": "Epics are most often seen when teams are implementing SAFe as they are often used to enhance business value of the FULL solution set or bring a range of technologies together. They are often key economic drivers for the portfolio,"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When discussing discussing sprints which of the following statements is NOT true?",
+      "answerIndex": 1,
+      "items": [
+        "The original Rules of Scrum stated that each Sprint was 30 days in length.",
+        "The Development Team must decide the length of each sprint during the Sprint Planning Meeting.",
+        "Over the years, Scrum has adopted the practices from other Agile methodologies and the common practice is to see sprints of between two and six weeks in length.",
+        "Each sprint must be the exact same fixed length."
+      ],
+      "explanation": "A short iteration of fixed time where features are produced that have tangible value to the customer. The original Rules of Scrum stated that each Sprint was 30 days in length. However, over the years Scrum has adopted the practices from other Agile methodologies and the common practice is to see sprints of between two and six weeks in length. The key is that each sprint must be the exact same fixed length, and each MUST produce fully tested functionality that has real value to the customer."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following may explain why releases become necessary:",
+      "answerIndex": 0,
+      "items": [
+        "The organization that has set specific windows where new code can be put into the production system.",
+        "It is either impractical or ill advised to put the features completed from a single sprint into production because the Scrum Master determines it to be so.",
+        "Releases are never necessary.",
+        "Releases are required on every Scrum project"
+      ],
+      "explanation": "A release is a group of related sprints. Releases become necessary for a variety of reasons. The Rules of Scrum require every sprint to provide fully tested, production ready features. However, there are many situations where it is either impractical or ill advised to put the features completed from a single sprint into production. Imagine an organization that has set release windows where new code can be put into the production system. In these situations, the Development Team simply places the results from sprints “on the shelf” until all the releases that are part of the release are complete and then the entire group of features is place into production together."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the first official meeting defined in the Scrum Guide?",
+      "answerIndex": 1,
+      "items": [
+        "The project kickoff",
+        "The release planning meeting",
+        "The sprint planning meeting",
+        "The sprint retrospective"
+      ],
+      "explanation": "Every project begins the same way. Just imagine someone in the organization has a problem so they complete a single page document that starts the ball rolling. This document is a Vision. Some type of governance decides the idea has merit so they assign a team to do some initial work. The Development Team conducts an initial kickoff meeting with the Product Owner and key stakeholders to develop an initial Ranked Product Backlog. Once the Development Team has the initial Backlog they enter the Release Planning Meeting. Although the Kickoff Meeting is a common solution for project initiation the Release Planning Meeting is the first official meeting listed in the Scrum Guide."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What officially signifies the start of each sprint?",
+      "answerIndex": 2,
+      "items": [
+        "The product owner announces the sprint initiation.",
+        "It is noted by the calendar.",
+        "The Sprint Planning Meeting",
+        "It varies from one Scrum project to the next."
+      ],
+      "explanation": "The Sprint Planning Meeting represents the first step of the process that gets repeated with each sprint. The purpose of the Sprint Planning Meeting is to plan the work of the current Sprint, and it officially kicks off the sprint. The meeting is broken into two parts."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a core purpose of the Release Planning Meeting?",
+      "answerIndex": 3,
+      "items": [
+        "The Development Team uses the meeting to examine the backlog items to determine how they need to be grouped together to produce releases.",
+        "The Development Team uses the meeting to determine how long each sprint will be.",
+        "The Development Team uses the meeting to determine how the Sprints will be grouped into Releases.",
+        "The Development Team uses the meeting to create estimates for the significant User Stories."
+      ],
+      "explanation": "The Release Planning Meeting serves several purposes. The Development Team first uses the meeting to examine the backlog items to determine how they need to be grouped together to produce releases. Additionally, the team needs to determine how long each sprint needs to be. Remember, each User Story must fit into a single sprint. So the Team is tasked with getting a sprint length that is as short as possible, but long enough to deliver fully tested, production ready results that have real value to the business. To do this, the Team must somehow determine estimates for each PBI. There are a number of techniques commonly used for this purpose that are discussed later in this book. The estimates are used by the Development Team to ensure each sprint is approximately the same size. Once the Development Team has determined how long the sprints will be and how the sprints will be grouped into releases, then team is done with the Release Planning Meeting. Approximately once a quarter the team must revisit the Release Planning Meeting."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The process of defining Backlog items in greater detail is called __________.",
+      "answerIndex": 0,
+      "items": [
+        "Grooming",
+        "Defining",
+        "Decomposition",
+        "Consecration"
+      ],
+      "explanation": "The process of gaining more detail about a feature or backlog item is called Backlog Grooming. This is process where the Product Backlog Items are defined in enough detail that the Development Team can build the feature."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When defining a User Story, which of the following rules apply?",
+      "answerIndex": 2,
+      "items": [
+        "Each User Story must be completed within one release.",
+        "Each User Story must provide monetary value to the business.",
+        "Each User Story must be completed within one sprint.",
+        "Each User Story represents a single work package."
+      ],
+      "explanation": "No User Story could be larger than a single sprint."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a key question asked during the Daily Scrum?",
+      "answerIndex": 1,
+      "items": [
+        "What did they accomplish yesterday?",
+        "What are the User Story durations?",
+        "What are they going to accomplish today?",
+        "What impediments do they have?"
+      ],
+      "explanation": "Each day begins the same way with a meeting called the Daily Scrum. This is a ten to fifteen minute meeting that provides the Team with basic project status and communication. Each day the Development Team stands around the Scrum or Team Board and answers three questions: What did they accomplish yesterday? What are they going to accomplish today? What impediments do they have?"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the role of the Product Owner in the Daily Scrum?",
+      "answerIndex": 3,
+      "items": [
+        "The PO leads the Daily Scrum.",
+        "The PO does not attend the Daily Scrum.",
+        "The PO answers the key questions.",
+        "The PO acts as an observer in the Daily Scrum."
+      ],
+      "explanation": "Each day begins the same way with a meeting called the Daily Scrum. This is a ten to fifteen minute meeting that provides the Team with basic project status and communication. Each day the Development Team stands around the Scrum or Team Board and answers three questions. Each member of the Development Team reports their results to the other members of the Development Team and NOT to the Scrum Master or Product Owner who are also present. The Scrum Master is tasked to act as a facilitator and the PO is only an observer."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "As the Development Team completes the work of a Sprint within the Scrum framework what is the primary responsibility of the PO?",
+      "answerIndex": 1,
+      "items": [
+        "Defend the team and secure project funding.",
+        "Groom the backlog and remove impediments.",
+        "Groom the backlog and define the next sprint",
+        "Remove impediments and define the next sprint."
+      ],
+      "explanation": "While the Development Team works to produce the days results, the Product Owner works on grooming yet undefined User Stories for future sprints while also working with the Scrum Master to remove impediments."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are working on a software development project within your organization serving the the role of Scrum Master. The team is in the middle of its fourth two-week iteration when the Product Owner, who is also the company CEO has just come to you demanding a critical piece of functionality be added to the current Sprint. What should you do?",
+      "answerIndex": 2,
+      "items": [
+        "Immediately call the team together to discuss the issue.",
+        "Add the functionality to the sprint backlog",
+        "Remind the PO that in agreeing to use Scrum they committed to not changing the features the team worked on once a Sprint began. Then ask that they add the feature to the Product Backlog and prioritize it highly.",
+        "Freeze the project until the issue is resolved."
+      ],
+      "explanation": "No one from the business may add a feature to a sprint once work has commenced, but may add, delete or change items on the Product Backlog at their discretion. The Development Team occasionally has to take User Stories out of the current sprint as new information is learned and may at their discretion pull up a new item if the situation warrants."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "May the Development Team ever alter the features being completed in the current Sprint?",
+      "answerIndex": 2,
+      "items": [
+        "Yes, whenever a member of the team believes it is warranted.",
+        "No, changing the work of an in-progress Sprint is never allowed.",
+        "Yes, when new information is learned, or the team finds they have extra time and the entire team agrees.",
+        "No, only the Product Owner may change the work of an in-progress Sprint."
+      ],
+      "explanation": "No one from the business may add a feature to a sprint once work has commenced, but may add, delete or change items on the Product Backlog at their discretion. The Development Team occasionally has to take User Stories out of the current sprint as new information is learned and may at their discretion pull up a new item if the situation warrants."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are the Scrum Master for a mid-sized project that has just completed its third two-week Sprint. What should the Team do next?",
+      "answerIndex": 0,
+      "items": [
+        "Plan and conduct the Sprint Review.",
+        "Plan and conduct the Sprint Retrospective",
+        "Review the Product Backlog before beginning the next Sprint.",
+        "Initiative a Release Planning Meeting."
+      ],
+      "explanation": "On the last day of each sprint two meetings are conducted. First, the Team conducts a Sprint Review. This one hour to 90 minute meeting allows the Product Owner to present the results of the sprint to the customers. This is all about showing working product to the people who will really use it. The Development Team wants the product owner to take this responsibility because it both provides a connection from them to the users and helps to ensure their engagement throughout the sprint. The Team is allowed a few hours to prepare for this meeting. Once the Sprint Review is complete, the Development Team conducts a Sprint Retrospective. If the Sprint Review is all about the product of the project, the Sprint Retrospective is all about the process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When a team conducts a Sprint Retrospective what is the role of the Product Owner?",
+      "answerIndex": 3,
+      "items": [
+        "The Product Owner leads the Sprint Retrospective.",
+        "The Product Owner acts as a team member in the Sprint Retrospective.",
+        "The Product Owner coordinates the objectives of the Sprint Retrospective with the Scrum Master.",
+        "The Product Owner does not participate in the Sprint Retrospective."
+      ],
+      "explanation": "Once the Sprint Review is complete, the Development Team conducts a Sprint Retrospective. If the Sprint Review is all about the product of the project, the Sprint Retrospective is all about the process. The Product Owner is not allowed to attend the Retrospective and the Scrum Master is only present as a facilitator. This meeting provides the Development Team the opportunity to review the process and find the best way to improve the process. The team uses a wide range of games and tools to answer the question, “If tomorrow we were 1,000% more efficient what we do to get there?” It is singularly focused on the process the Development Team is using to achieve their results."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A member of the business organization has just returned from a basic Agile training course and wants you and the rest of the Development Team to use an iteration zero in an upcoming Scrum project. Which of the following is NOT a reason for this recommendation?",
+      "answerIndex": 2,
+      "items": [
+        "The team believes a more formal architecture plan is needed.",
+        "The team believes the project requires an iteration or milestone plan.",
+        "The team believes the project is extremely complex requiring more traditional planning.",
+        "The team believes the advanced planning will allow it to move quickly moves into more standard Scrum sprints."
+      ],
+      "explanation": "Another practice sometimes used by Scrum teams is Iteration 0. This is NOT part of Scrum found in the Scrum Guide. Remember the basic rule we established for Scrum that said every single sprint would be the same length of time and must produce functionality that has real value to the business? Iteration 0 violates both those rules. The goal of Iteration 0 is to produce two items that do not initially have value to the business. These are the core architecture and feature list. It is not unusual for this work to take significantly longer than a single sprint, and as such it violates the Rules of Scrum requiring and out. If a team has decided to use Iteration 0 because they believe the project needs a more formal architectural plan and/or work on its feature list it is important that the team also provides an iteration or milestone plan to ensure the team quickly moves into more standard Scrum sprints."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the follow is NOT one areas of focus for Extreme Programming?",
+      "answerIndex": 1,
+      "items": [
+        "Goals",
+        "Testing",
+        "Activities",
+        "Values"
+      ],
+      "explanation": "47 - The five areas of focus within Extreme Programming include: Goals, Activities, Values, Principles and Practices."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a core activity used in Extreme Programming used to meet its stated goal?",
+      "answerIndex": 3,
+      "items": [
+        "Listening – Programmers must listen to customers and understand the business processes.",
+        "Designing – Software must be designed as components without complexity or dependencies between components.",
+        "Testing – The team must test a functionality.",
+        "Deployment - The team must implement the product or service of the project."
+      ],
+      "explanation": "Extreme Programming defines four core activities necessary to meet its stated goal. These include: Listening – Programmers must listen to customers and understand the business processes. Designing – Software must be designed as components without complexity or dependencies between components. Coding – Is the meat of the methodology. It is the most important part according to XP advocates. Testing – The team must test a functionality."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a core value of the Extreme Programming methodology?",
+      "answerIndex": 2,
+      "items": [
+        "Guidance",
+        "Commitment",
+        "Simplicity",
+        "Dedication"
+      ],
+      "explanation": "Values represent what the team hold highest. When discussing Extreme Programming, here are its core values: Simplicity, Communication, Feedback, Courage, and Respect."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a core value of the Extreme Programming framework?",
+      "answerIndex": 0,
+      "items": [
+        "Curious",
+        "Feedback",
+        "Communication",
+        "Respect"
+      ],
+      "explanation": "Values represent what the team hold highest. When discussing Extreme Programming, here are its core values: Simplicity, Communication, Feedback, Courage, and Respect."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of Extreme Programming practices does NOT belong in the Fine Scale Feedback group?",
+      "answerIndex": 1,
+      "items": [
+        "The Planning Game",
+        "Design Improvement",
+        "Test-Driven Development",
+        "Whole Team"
+      ],
+      "explanation": "The first grouping of practices is called Fine Scale Feedback. It is the notion of providing rapid feedback to each individual developer in a fashion they can actually act upon it in a timely manner. The four practices tied to Fine-Scale Feedback include: Paired Programming, The Planning Game, Test-Driven Development, Whole Team."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What Extreme Programming practice calls for a meeting that occurs once per iteration and likely occurs once per week? This practice is focused on determining which requirements are included in which near-term release and when specifically they should be delivered.",
+      "answerIndex": 1,
+      "items": [
+        "Paired Programming",
+        "The Planning Game",
+        "The Whole Team",
+        "Test-Driven Development"
+      ],
+      "explanation": "The Planning Game represents the main planning process used in Extreme Programming. Like the Sprint Planning Meeting in Scrum, The Planning Game is a meeting that occurs once per iteration. In most XP environments, this means once a week. There are two parts to the Game, Release Planning and Iteration Planning. Release planning is focused on determining which requirements are included in which near-term release and when specifically they should be delivered. Both the customer and developer are part of this process. It includes three phases."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The team is using Extreme Programming to complete the project, the business and developers are meeting to commit to the functionality to include within the next release and what the release date will be. In what phase of the Planning Game are you?",
+      "answerIndex": 2,
+      "items": [
+        "Exploration",
+        "Planning",
+        "Commitment",
+        "Steering"
+      ],
+      "explanation": "The Planning Game represents the main planning process used in Extreme Programming. Like the Sprint Planning Meeting in Scrum, The Planning Game is a meeting that occurs once per iteration. In most XP environments, this means once a week. There are two parts to the Game, Release Planning and Iteration Planning. Release planning is focused on determining which requirements are included in which near-term release and when specifically they should be delivered. Both the customer and developer are part of this process. It includes three phases. In the Commitment Phase, the business and developers commit to the functionality to include and next release date."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In the XP practice group known as Shared Understanding which of the following is not a core practice?",
+      "answerIndex": 3,
+      "items": [
+        "Coding Standards",
+        "Simple Design",
+        "Collective Code Ownership",
+        "Complete Metaphor"
+      ],
+      "explanation": "Shared Understanding represents the set of practices that ensure all the members of the team have the same information about the project and its product. It requires more than just access to information though as you will see from its four practices: Coding Standards, Collective Code Ownership, Simple Design, and System Metaphor."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In discussions with another developer on an XP project team your remind them of YAGNI. What are you suggesting?",
+      "answerIndex": 0,
+      "items": [
+        "System designs are usually best when they are kept simple.",
+        "Good design requires a strong overall view of the the project.",
+        "Good architecture is layered in its approach.",
+        "Systems thinking is critical to project success"
+      ],
+      "explanation": "“Simplest” is best approach to software design. Often, software fails because of the layers of complexity that constantly get added until the application collapses under its own weight. XP attempts to peel back the layers of the onion to achieve a design that is more robust and long lasting. A common XP expression used along with Simple Design is the acronym YAGNI which stands for “You Aren’t Gonna Need It.” This expression means that something is not needed, and it will complicate things. Therefore, the best solution is to throw it out."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When the creators of Extreme Programming discuss the importance of a sustainable pace to what are they referring?",
+      "answerIndex": 0,
+      "items": [
+        "Programmers are not permitted to work more than 40 hours per week on average and no two weeks in a row have over time.",
+        "Programmers are not permitted to work more than 40 hours per week on average and no more than one week per month has overtime.",
+        "Programmers are not permitted to work more than 50 hours per week on average and no more than two weeks per month have overtime.",
+        "Programmers are not permitted to work more than 50 hours per week on average and no more than two weeks in a row have over time."
+      ],
+      "explanation": "The last practice found in Extreme Programming is part of a group called Programmer Welfare. It is the practice of a Sustainable Pace where programmers are not required or even allowed to more than 40 hours per week on average and no two weeks in a row have overtime. The idea is based on the concept that programming is highly technical, detailed work and that fresh programmers produce better code. A key enabler of this concept is frequent code merges of code that are always executable. This code must constantly be tested to ensure it is of a high quality."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the basic steps found the the Extreme Programming process?",
+      "answerIndex": 2,
+      "items": [
+        "Envision",
+        "Speculate",
+        "Create",
+        "Adapt"
+      ],
+      "explanation": "Like most methodologies, Extreme Programming has a five-step process. These steps include: Envision, speculate, Explore, Adapt, and Close."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the basic steps found the the Feature-Driven Development process?",
+      "answerIndex": 0,
+      "items": [
+        "Develop Overall Architecture",
+        "Build Feature List",
+        "Plan By Feature",
+        "Build By Feature"
+      ],
+      "explanation": "FDD is a model-driven, short-iteration methodology that has five basic processes or activities. In FDD the first two activities are used to generate an overall model shape. Then, the final three processes or activities are iterated for each feature. The five processes or activities include: Develop the Overall Model, Build Feature List, Plan By Feature, Design By Feature and Build By Feature."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Feature-Driven Development defines six milestones per feature. During which activity are the first three milestones completed?",
+      "answerIndex": 2,
+      "items": [
+        "Build Feature List",
+        "Plan By Feature",
+        "Design By Feature",
+        "Build By Feature"
+      ],
+      "explanation": "Since features are small, completing a feature is a relatively small task. For accurate state reporting and keeping track of the software development project it is important to mark the progress made on each feature. Feature-Driven Development therefore defines six milestones per feature that are to be completed sequentially. The first three milestones are completed during the Design By Feature activity, the last three are completed during the Build By Feature activity. To help with tracking progress, a percentage complete is assigned to each milestone. At the point that coding begins a feature is already 44% complete (Domain Walkthrough 1%, Design 40% and Design Inspection 3% = 44%). The code is then worth 45%. Code Inspection provides another 10%, and finally Promoting the Feature to Build adds 1%."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "FDD is unique because because at the point coding begins a feature is already ____ complete.",
+      "answerIndex": 3,
+      "items": [
+        "36%",
+        "38%",
+        "42%",
+        "44%"
+      ],
+      "explanation": "The first three milestones are completed during the Design By Feature activity, the last three are completed during the Build By Feature activity. To help with tracking progress, a percentage complete is assigned to each milestone. At the point that coding begins a feature is already 44% complete (Domain Walkthrough 1%, Design 40% and Design Inspection 3% = 44%). The code is then worth 45%. Code Inspection provides another 10%, and finally Promoting the Feature to Build adds 1%."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning domain models is NOT true?",
+      "answerIndex": 2,
+      "items": [
+        "Domain models reflect our understanding of real world entities and their relationships and responsibilities.",
+        "Domain models help resolve ambiguities in both the requirements and the design intent.",
+        "Domain models are typically developed by the Product Owner.",
+        "Domain models reflect our understanding of real world entities and their relationships and responsibilities."
+      ],
+      "explanation": "Domain models reflect our understanding of real world entities and their relationships and responsibilities. Key to remember is that effective Domain Modeling may only occur in the context of the system-level requirements that are often captured as Use Cases or User Stories. Domain Modeling is used to support the analysis of Epics, Backlog refinement at the program and team levels, design workshops at different levels, and the refinement of the Product Vision and Roadmap."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In which FDD role does the person work as a member of a three to six member team who designs, codes, tests and documents the features required on the projects?",
+      "answerIndex": 1,
+      "items": [
+        "Domain Experts",
+        "Class Owners",
+        "Chief Programmers",
+        "Development Manager"
+      ],
+      "explanation": "FDD has six primary roles, five support roles and three additional roles. FDD, like all Agile Methodologies argues people are the most important aspect when you consider the key drivers of people, process, and technology. The primary roles include: Project Manager, Chief Architect, Development Manager, Chief Programmer(s), Class Owners, Domain Experts. The Class Owners are the developers who work as members of those three to six member teams led by the Chief Programmers who design, code, test and document the features required on the project. They are called Class Owners because that is exactly who they are. FDD ensures every single class (defined as a breakout of code) is owned by one and only one person. If anything is wrong with it they are responsible."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In which FDD role are the users, sponsors, and business analysts who have the specific knowledge relied upon to deliver and correct the system?",
+      "answerIndex": 0,
+      "items": [
+        "Domain Experts",
+        "Class Owners",
+        "Chief Programmers",
+        "Development Manager"
+      ],
+      "explanation": "FDD has six primary roles, five support roles and three additional roles. FDD, like all Agile Methodologies argues people are the most important aspect when you consider the key drivers of people, process, and technology. The primary roles include: Project Manager, Chief Architect, Development Manager, Chief Programmer(s), Class Owners, Domain Experts. The Domain Experts are users, sponsors, and business analysts who have the specific knowledge the Class Owners rely upon to deliver the correct system."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a secondary role found in Feature-Driven Development?",
+      "answerIndex": 3,
+      "items": [
+        "Toolsmith",
+        "Build Engineer",
+        "Language Guru",
+        "Product Manager"
+      ],
+      "explanation": "In addition to the primary roles, Feature Driven Development relies on five supporting roles to succeed. These roles are not considered primary to the team delivering the required features, but they are important roles to the project’s success. These roles include: Release Manager, Language Guru, Build Engineer, Toolsmith, and the System Administrator."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within the process of Domain Object Modeling, which class category color represents a moment in time or an interval of time usually associated with some business process?",
+      "answerIndex": 3,
+      "items": [
+        "Yellow",
+        "Blue",
+        "Green",
+        "Pink"
+      ],
+      "explanation": "The Domain Object Modeling is the process of building Class Diagrams depicting the significant types of objects within a problem domain and the relationships between them. The first published description of FDD appear as part of a concept called UML in Color. This is the same as plain UML, but the classes are color-encoded. This is done to allow for quick understanding of the dynamics of the problem domain. Each of the class categories are represented by a different color that has specific meaning: Yellow – A role being played by a person or an organization; Blue – A catalogue-like description of an object, but it is not considered the object itself; Green – A party (individual), place, or thing. The green class usually has some identifying attributes, such as a serial number or person’s name associated with it; Pink – A moment in time or an interval of time usually associated with some business process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a core aspect of Industrial Process Theory used as a basis for Scrum?",
+      "answerIndex": 2,
+      "items": [
+        "Divergence",
+        "Capitalization",
+        "Self-organization",
+        "Duality"
+      ],
+      "explanation": "Scrum is based on two aspects of industrial process theory self-organization and emergence. Self-organization is the idea that the Development Team will decide what work needs to be accomplished and who will do the work to deliver the desired business results. Emergence is the idea that information, requirements and facts will emerge as the project progresses. The key is that the team uses processes, tools, and techniques capable of harnessing this new information for the betterment of the organization."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms represents repeatable processes that lead to commoditization and in projects can cause rework?",
+      "answerIndex": 3,
+      "items": [
+        "Agile processes",
+        "Manufacturing processes",
+        "Empirical processes",
+        "Defined processes"
+      ],
+      "explanation": "The creators of Scrum argue that traditional linear approaches for projects such as Waterfall are based on the concepts of defined processes. Defined processes are repeatable processes such as in manufacturing. Imagine working at the Acme Widget factory. In order to produce widgets of a consistent level of quality it is imperative that our machines stamp and assemble each widget the same way. The more consistently we can stamp the widgets the less variance we see in the finished product. As we move forward we also try to increase the rate of production."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your organization is using Scrum to manage a software development project when a number of stakeholders bring to the team’s attention a number of missing requirements. Who is responsible for prioritizing these new requirements?",
+      "answerIndex": 2,
+      "items": [
+        "The Team",
+        "The Stakeholders",
+        "The Product Owner",
+        "The ScrumMaster"
+      ],
+      "explanation": "The PO is the individual responsible for representing the interests of all stakeholders, obtaining funding, defining the initial requirements, defining the return on investment or ROI, and the project objectives. They are the primary owner of the Product Backload, a document where the User Stories, features or requirements of the project are listed in rank order from most important to least important from the perspective of the business."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using Scrum, who is responsible to attend all Scrum meetings on time and be prepared?",
+      "answerIndex": 0,
+      "items": [
+        "The Scrum Team",
+        "The Product Owner",
+        "The ScrumMaster",
+        "The ScrumDude"
+      ],
+      "explanation": "Throughout much of the literature and in this book a fourth role is added to the list that is not officially part of Scrum, but often unwittingly included. It is The Team. The Team is different from the Development Team because it includes all three Scrum roles. It is defined as everyone involved in delivering the project. It is the Product Owner, the Scrum Master and the Development Team together. As we go through the rest of this discussion it is important that you can differentiate the Team from the Development Team."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using Scrum, who is responsible for regularly demonstrating working product at the Sprint Review.",
+      "answerIndex": 0,
+      "items": [
+        "The Scrum Team",
+        "The Product Owner",
+        "The ScrumMaster",
+        "The Key Stakeholders"
+      ],
+      "explanation": "On the last day of each sprint two meetings are conducted. First, the Team conducts a Sprint Review. This one hour to 90 minute meeting allows the Product Owner to present the results of the sprint to the customers. This is all about showing working product to the people who will really use it. The Development Team wants the product owner to take this responsibility because it both provides a connection from them to the users and helps to ensure their engagement throughout the sprint. The Team is allowed a few hours to prepare for this meeting."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using Scrum, who is responsible to assist the Product Owner with analyzing and decomposing Product Backlog items?",
+      "answerIndex": 3,
+      "items": [
+        "The Product Owner",
+        "The Scrum Team",
+        "The Development Team",
+        "The ScrumMaster"
+      ],
+      "explanation": "The Scrum Master is responsible for the Scrum process, teaching Scrum to everyone, implementing Scrum so it fits with culture, and ensuring that everyone follows Scrum’s rules & practices. The closest approximation to in a linear project is the Project Manager, but there are some key differences, at least from the perspective of the Agilist."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using Scrum, what is the difference between the Development Team and the Scrum Team?",
+      "answerIndex": 1,
+      "items": [
+        "They are the same thing.",
+        "The Development Team are the people who do the work of the project while the Scrum Team includes the Development Team, the PO & the ScrumMaster.",
+        "The Scrum Team are the people who do the work of the project while the Dev Team includes the Scrum Team, the PO & the ScrumMaster.",
+        "The Scrum Team represents the group of people who manage the organization’s Scrum process and the Development Team does the project work."
+      ],
+      "explanation": "Everyone involved in the project fits into one of these three roles. For many, this is a bit disconcerting. What do you do if you are a business analyst or quality assurance person how do you fit in when there are only three roles and you aren’t one of them? In most situations, these additional roles are included as part of the Development Team. They represent other resources needed to complete the work of the project. However, occasionally they also might fit in to the organization as resources used by the Product Owner to define the requirements of the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In Scrum, who provides daily status updates to the Scrum Master at the Daily Scrum?",
+      "answerIndex": 3,
+      "items": [
+        "Everyone",
+        "The Development Team",
+        "The Scrum Team",
+        "No One"
+      ],
+      "explanation": "The focus is supposed to be on the second and third questions as the first is historical and there is no chance to impact it. Each member of the Development Team reports their results to the other members of the Development Team and NOT to the Scrum Master or Product Owner who are also present. The Scrum Master is tasked to act as a facilitator and the PO is only an observer."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In Scrum, who is responsible for avoiding distracting the Team after the Team has committed to the Sprint Goal?",
+      "answerIndex": 3,
+      "items": [
+        "No one",
+        "The Product Owner",
+        "The ScrumMaster",
+        "Everyone"
+      ],
+      "explanation": "Everyone"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In Scrum, who observes end-to-end flow of product delivery and takes action to maximize the delivery of value?",
+      "answerIndex": 3,
+      "items": [
+        "No one",
+        "The Product Owner",
+        "The Scrum Master",
+        "Everyone"
+      ],
+      "explanation": "Although all three Scrum roles are critical to project success, they are not all created equal. Significantly more is offered and expected from the Development Team. Often Agilists use an acronym to describe the expected behavior of the Development Team. It is CFORCE. The C stands for Committed. An Agile Development Team must be committed to the Team’s goals and to the other members of the Team. F stands for focused. This criteria goes back to an earlier point. A Development Team must be focused on one and only one project. O stands for open. Each member of the team must be open to receive and provide honest criticism intended to improve the project and the team. Team members must always assume positive intend of their compatriots. R stands for respected and respectful. This requirement is also tied to how team members treat each other. It is expected that each team member is a respected part of the organization and that they respect all the other members of the team. Team members must give respect in order to receive it. The C stands for courageous. The team must take risks, find innovative solutions, and focus on finding the best solutions to meet the needs of the business. Finally, we have the E, which stands for extreme. Scrum calls on the Development Team to be zealous in the pursuit of the mission."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In Scrum, who assigns work to individual team members?",
+      "answerIndex": 0,
+      "items": [
+        "No one",
+        "The Product Owner",
+        "The ScrumMaster",
+        "Everyone"
+      ],
+      "explanation": "No one"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In Scrum, who helps those outside the Development Team understand which of their interactions with the Team are helpful and which are not, and helps everyone change these interactions to maximize the value created by the team?",
+      "answerIndex": 2,
+      "items": [
+        "No one",
+        "The Product Owner",
+        "The Scrum Master",
+        "Everyone"
+      ],
+      "explanation": "A Scrum Master serves as a facilitator. Remember, a Scrum Development Team is self-managing. The expectation is that the Scrum Master role is to only help the team, to ask probative questions, to ensure the team knows the Scrum process and follows it. Development Team members report to each other and not the Scrum Master so the Scrum Master has no formal authority to make anyone do anything."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In Scrum, who attends Sprint Planning meetings when the Team requests their expertise?",
+      "answerIndex": 0,
+      "items": [
+        "Business Stakeholders",
+        "The Product Owner",
+        "The ScrumMaster",
+        "Everyone"
+      ],
+      "explanation": "The next step in the process is the Sprint Planning Meeting represents the first step of the process that gets repeated with each sprint. The purpose of the Sprint Planning Meeting is to plan the work of the current Sprint, and it officially kicks off the sprint. The meeting is broken into two parts. When necessary information is NOT present specific business stakeholders are asked to attend."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In Scrum, who is the sole person responsible for managing the Product Backlog?",
+      "answerIndex": 1,
+      "items": [
+        "Business Stakeholders",
+        "The Product Owner",
+        "The ScrumMaster",
+        "Everyone"
+      ],
+      "explanation": "A Product Backlog is a listing of the User Stories, features or requirements. These items are often referred to as Product Backlog Items or PBIs. The key is the “ranked” portion. It is a key aspect of using the Product Backlog. Ranking the backlog requires the business to prioritize the items in the Backlog from most important to the business to the least important. Sometimes the Backlog is further defined into groups of User Stories that belong together. The Development Team uses the Backlog to define which features to deliver when. Each of the items on the Backlog items relatively independent of each other. Additionally, the items on the Backlog may be reprioritized at any time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the desired iteration length for a project using Extreme Programming?",
+      "answerIndex": 0,
+      "items": [
+        "One to two weeks",
+        "Two to six weeks",
+        "30 days",
+        "As short as possible"
+      ],
+      "explanation": "Scrum teams work in timeboxes called Sprints that are two to six weeks in length. Extreme Programming uses timeboxes called Iterations that are one to two weeks in length. A two week Sprint is the most common in Scrum and a one week Iteration is most common in XP."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a core activity used in the production of XP’s goals?",
+      "answerIndex": 2,
+      "items": [
+        "Listening",
+        "Designing",
+        "Developing",
+        "Testing"
+      ],
+      "explanation": "Extreme Programming defines four core activities necessary to meet its stated goal. These include: Listening – Programmers must listen to customers and understand the business processes; Designing – Software must be designed as components without complexity or dependencies between components; Coding – Is the meat of the methodology. It is the most important part according to XP advocates; and Testing – The team must test a functionality."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a core value of Extreme Programming?",
+      "answerIndex": 1,
+      "items": [
+        "Simplicity",
+        "Speed",
+        "Courage",
+        "Respect"
+      ],
+      "explanation": "Values represent what the team hold highest. When discussing Extreme Programming, here are its core values: Simplicity, Communication, Feedback, Courage, and Respect."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following XP core values represents the Team’s willingness to put its work out there for others to see?",
+      "answerIndex": 3,
+      "items": [
+        "Respect",
+        "Feedback",
+        "Communication",
+        "Courage"
+      ],
+      "explanation": "Courage – The team has to be willing to put its work out there for others to see. It must also use pair programming and shared code. These two principles will be discussed later."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the areas of practice for Extreme Programming?",
+      "answerIndex": 1,
+      "items": [
+        "Fine Scale Feedback",
+        "Assume Simplicity",
+        "Continuous Process",
+        "Shared Understanding"
+      ],
+      "explanation": "Extreme Programming’s 12 practices are grouped into four practice areas. These practice areas provide the toolset used by teams implementing XP and the groupings include: Fine Scale Feedback, Continuous Process, Shared Understanding and Programmer Welfare. Most of the rest of this section focuses on these 12 practices. Assuming simplicity is one of two core principles that drive XP and NOT an area of practice."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is part of XP’s Planning Game?",
+      "answerIndex": 2,
+      "items": [
+        "Sprint Planning",
+        "Iteration Grooming",
+        "Release Planning",
+        "Iteration Forecasting"
+      ],
+      "explanation": "The Planning Game represents the main planning process used in Extreme Programming. Like the Sprint Planning Meeting in Scrum, The Planning Game is a meeting that occurs once per iteration. In most XP environments, this means once a week. There are two parts to the Game, Release Planning and Iteration Planning. Release planning is focused on determining which requirements are included in which near-term release and when specifically they should be delivered. Both the customer and developer are part of this process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In Extreme Programming, which of the following is focused on determining which requirements are included in which near-term release and when they should be delivered?",
+      "answerIndex": 1,
+      "items": [
+        "Sprint Planning",
+        "Release Planning",
+        "Iteration Planning",
+        "Iteration Forecasting"
+      ],
+      "explanation": "The Planning Game represents the main planning process used in Extreme Programming. Like the Sprint Planning Meeting in Scrum, The Planning Game is a meeting that occurs once per iteration. In most XP environments, this means once a week. There are two parts to the Game, Release Planning and Iteration Planning. Release planning is focused on determining which requirements are included in which near-term release and when specifically they should be delivered. Both the customer and developer are part of this process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements BEST describes XP’s notion of Test Driven Development?",
+      "answerIndex": 1,
+      "items": [
+        "Tests are constantly integrating into the development process.",
+        "Tests are written, and applied before any code is written.",
+        "Tests are required for all code.",
+        "Tests are developed with input from all stakeholders."
+      ],
+      "explanation": "In TDD, the tests are written before any code is written and those tests are automated. Typically, the TDD process contains five steps: The developer who will eventually write the code writes the unit tests. This is unlike most testing doctrines where someone other than the developer writes the tests often at the same time or after the developer begins writing the code; The developer runs the test to ensure the test fails as not code has been written so a passed test without any code would mean a bad test; The developer writes the minimum amount of code possible that allows the test to be passed; The developer reruns the test to ensure passage; And the developer then refactors the code removing any codes smells from the code. We will talk extensively about what this means later in the course."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements BEST describes XP’s notion of the Whole Team?",
+      "answerIndex": 2,
+      "items": [
+        "Project sponsors must be present for all key meetings.",
+        "The customer must be present for all key meetings.",
+        "The customer must be on hand at all times to answer questions.",
+        "The customer and sponsors must be on hand at all times to answer questions."
+      ],
+      "explanation": "The final practice found in Fine-Scale Feedback is the Whole Team. This is a basic requirement seen in many Agile methodologies. The premise is that although the customer does not always pay for the project, they are always the people who use the product, service or result of the project. As a result, the customer must always be on hand to answer questions from the developers."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within XP, which of the following is NOT a core practice found in the Continuous Process area?",
+      "answerIndex": 3,
+      "items": [
+        "Continuous Integration",
+        "Design Improvement",
+        "Small Releases",
+        "Test Driven Development"
+      ],
+      "explanation": "Test Driven Development is a practice found in the Fine Scaled Feedback area of Extreme Programming."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within XP, which of the following is NOT a core practice found in the Shared Understanding area?",
+      "answerIndex": 0,
+      "items": [
+        "Small Releases",
+        "Coding Standards",
+        "Simple Design",
+        "System Metaphor"
+      ],
+      "explanation": "The four practices found in Shared Understanding include: Coding standards; Collective code ownership; Simple design; And system metaphor."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In which FDD step does the team hold a kickoff and walk through the scope of the system?",
+      "answerIndex": 0,
+      "items": [
+        "Develop an overall model",
+        "Build a feature list",
+        "Plan by feature",
+        "Design by feature"
+      ],
+      "explanation": "Develop Overall Model — The team holds a kickoff and high-level walkthrough the scope of the system. This includes all of its context. Next, detailed Domain Models are created for each modeling area by small teams and then presented for peer review. One of the proposed models, or a combination of them, is selected to become the model for each domain area. These Domain Area Models are progressively merged into a single overall model."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In FDD, which of the following terms is the process by which the team explores and explains the domain of the problem?",
+      "answerIndex": 2,
+      "items": [
+        "Domain Area Modeling",
+        "Designing by Feature",
+        "Domain Object Modeling",
+        "Configuration Management"
+      ],
+      "explanation": "Domain Object Modeling – The team explores and explains the domain of the problem. That probably doesn’t mean very much to you at this point so let’s spend a few minutes discussing Domain Modeling. Domain Modeling is a way to describe and model real world things and the relationships between them. This is collectively called the “Problem Domain Space.” Domain Modeling is used by lots of Agile techniques including FDD and SAFe. It is considered one of the key models used in software engineering and there is a saying, “if you only model one thing in Agile, model the domain.”"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In which FDD step does the team use knowledge from the initial model to identify the list of features by functionally decomposing the domain into subject areas?",
+      "answerIndex": 3,
+      "items": [
+        "Domain Area Modeling",
+        "Designing by Feature",
+        "Domain Object Modeling",
+        "Build Feature List"
+      ],
+      "explanation": "Build Feature List — Knowledge and information from the initial modeling effort is used to identify the list of features by functionally decomposing the domain into subject areas. Each subject area contains business activities with steps that form the basis for a categorized feature list. Think of these “features” as small pieces of client-valued functionality expressed in the form “<action><result><object>”. This is a IT specific way of writing features that might have little meaning if you do not come from a software development background. Don’t worry, you do not need to be a software developer to pass the PMI-ACP Exam. These features need to be small enough that they can be completed in not more than two weeks. Once the team has completed this activity they have their overall model and are ready to proceed into the activities used to actually produce the features of the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following FDD concepts is used to reference the process of labeling code, tracking changes, and managing source code?",
+      "answerIndex": 2,
+      "items": [
+        "Inspections",
+        "Regular builds",
+        "Configuration management",
+        "Domain modeling"
+      ],
+      "explanation": "Configuration Management – Labeling code, tracking changes, & managing source code."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In FDD who vets designs and allows multiple designs to be evaluated?",
+      "answerIndex": 0,
+      "items": [
+        "Feature teams",
+        "The sponsor",
+        "The project manager",
+        "The development team"
+      ],
+      "explanation": "The Class Owners are the developers who work as members of those three to six member teams led by the Chief Programmers who design, code, test and document the features required on the project. They are called Class Owners because that is exactly who they are. FDD ensures every single class (defined as a breakout of code) is owned by one and only one person. If anything is wrong with it they are responsible. A Class Owner often cannot do this work alone so must be the leader of a team called a Feature Team."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following principles from the Agile Manifesto calls on the team to complete an introspection step as part of their process?",
+      "answerIndex": 0,
+      "items": [
+        "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.",
+        "Continuous attention to technical excellence and good design enhances agility.",
+        "Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.",
+        "Business people and developers must work together daily throughout the project."
+      ],
+      "explanation": "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. Introspection is a key aspect of any Agile team. Unlike linear approaches to project execution where the Team typically does a single release, Agile Development cycles repeatedly. This gives the customer lots and lots of opportunities to comment on the work product. It also provides the Team many opportunities to learn. With every loop, the Team has a chance to execute the basic process. At the end of that process most Agile Methodologies provide some kind of reflection process where the Team is tasked with examining their performance in the cycle and determining the best way to improve before moving on to the next iteration. This reflection period is absolutely critical. It recognizes that the Team is never perfect, and there are always improvements to be made. It move the concept of continuous improvement from some abstract theory we say is important into something we at regular intervals focus on and actually do something about."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When comparing Scrum to FDD which of the following statements is true?",
+      "answerIndex": 1,
+      "items": [
+        "Both Scrum and FDD makes use of a ranked product backlog.",
+        "In Scrum the entire process is iterative. In FDD only the last three steps are iterative.",
+        "FDD does not have a formal process for development whereas Scrum does.",
+        "Neither Scrum nor FDD have formal model requirements."
+      ],
+      "explanation": "Scrum does not require a specific model whereas FDD requires a Domain Model be created first before any software is produced. Secondly, Scrum works from a ranked Product Backlog that is owned by the Product Owner. The Development Team works from the Backlog informed by the PO. FDD works from its Feature List strictly based on the priority list. Next, Scrum uses a Release Plan to provide its initial view of when the Product Backlog Items will be delivered. Feature-Driven Development plans strictly by feature order. Finally, the entire process of Scrum is iterative. In FDD only the last three steps are iterative. The first two steps only occur once."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When comparing Scrum to XP which of the following statements is true?",
+      "answerIndex": 0,
+      "items": [
+        "In formal Scrum sprints are 30 days in length and in XP iterations are one-to-two weeks in length.",
+        "In neither Scrum nor XP does the team allow changes to their iteration.",
+        "Scrum and XP require the Product Owner to define the order of work to be completed.",
+        "Neither XP nor Scrum prescribe specific engineering practices."
+      ],
+      "explanation": "Scrum does not require a specific model whereas FDD requires a Domain Model be created first before any software is produced. Secondly, Scrum works from a ranked Product Backlog that is owned by the Product Owner. The Development Team works from the Backlog informed by the PO. FDD works from its Feature List strictly based on the priority list. Next, Scrum uses a Release Plan to provide its initial view of when the Product Backlog Items will be delivered. Feature-Driven Development plans strictly by feature order. Finally, the entire process of Scrum is iterative. In FDD only the last three steps are iterative. The first two steps only occur once."
     }
   ]
 }

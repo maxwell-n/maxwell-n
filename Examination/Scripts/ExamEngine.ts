@@ -186,15 +186,11 @@ class ExamEngine {
     }
 
     public playCorrect(onEnded) {
-        this.exam.correctCount += 1;
-        this.updateScore();
         let i = randomizeUtil.randomNumber(this._correctMP3.length);
         audioUtil.playCached("Scripts/Sounds/Correct/" + this._correctMP3[i], onEnded);
     }
 
     public playIncorrect(onEnded) {
-        this.exam.errorCount += 1;
-        this.updateScore();
         let i = randomizeUtil.randomNumber(this._incorrectMP3.length);
         audioUtil.playCached("Scripts/Sounds/Incorrect/" + this._incorrectMP3[i], onEnded);
     }

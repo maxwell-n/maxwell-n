@@ -1,0 +1,906 @@
+{
+  "title": "Agile Principles & Mindset Part 2",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is at the heart of FDD?",
+      "answerIndex": 2,
+      "items": [
+        "Users",
+        "Customers",
+        "Features",
+        "Releases"
+      ],
+      "explanation": "As you can tell in the name of the methodology, features are at the heart of the methodology. A feature is a small, client valued function that can be implemented in two weeks. Any function that is too complex to be implemented within two weeks must be further broken down until it meets the definition of a feature. Features are grouped based on business relationships, and those groups are called a Feature Set."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The visualization for the DSDM lifecycle is sometimes referred to as the ___________?",
+      "answerIndex": 1,
+      "items": [
+        "Agile Triangle",
+        "Cheese and Pizza Diagram",
+        "The Agile DSDM Pyramid",
+        "The Meat and Cheese Diagram"
+      ],
+      "explanation": "The visualization for the DSDM lifecycle is sometimes referred to as the “Cheese and Pizza Diagram.” At the top of the diagram are the project’s upfront work of feasibility and foundation. This is where the team understands the nature of the business problem and determines the feasibility of the solution. Beginning with the Feasibility, this is all about the organization deciding whether a proposed project is viable both from a business AND a technical perspective by means of a high level investigation of the potential solutions, costs, and timeframes."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not a common objective of the feasibility phase found in DSDM?",
+      "answerIndex": 0,
+      "items": [
+        "To identify information used, created and updated by the proposed solution.",
+        "To describe the organization and governance aspects of the project.",
+        "To state first-cut estimates of timescale and costs for the project overall.",
+        "To plan and resource the Foundations phase."
+      ],
+      "explanation": "DSDM Feasibility typically has six objectives that include: To establish whether there is a feasible solution to the business problem described in the Terms of Reference defined during Pre-Project; To identify the benefits likely to arise from the delivery of the proposed solution; To outline possible approaches for delivery, including strategies for sourcing the solution and project management; To describe the organization and governance aspects of the project; To state first-cut estimates of timescale and costs for the project overall; And to plan and resource the Foundations phase."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a potential outcomes in DSDM from deployment?",
+      "answerIndex": 1,
+      "items": [
+        "All requirements have been satisfied. Hence, no further work is currently needed – and no returning arrow.",
+        "Completion of state first-cut estimates of timescale and costs for the project overall.",
+        "Features that were already planned for the next increment are now to be added, so the process returns to exploration.",
+        "The next increment will solely address areas of technical concern, so the process returns to engineering."
+      ],
+      "explanation": "There are four potential outcomes in DSDM from deployment. These include: All requirements have been satisfied. Hence, no further work is currently needed – and no returning arrow; A major change of scope was discovered during development that had to be ignored for the time being in order to deliver on the required date. This means returning to the foundations and taking the process on from there; Features that were already planned for the next increment are now to be added, so the process returns to exploration; And the next increment will solely address areas of technical concern, so the process returns to engineering."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a prerequisite required for using the Dynamic Systems Development Method?",
+      "answerIndex": 3,
+      "items": [
+        "Acceptance of the Atern philosophy before starting work.",
+        "Appropriate empowerment of the Solution Development Team.",
+        "Commitment of senior business management to provide the necessary Business Ambassador involvement.",
+        "Access by the Business Team to the Solutions Development Team."
+      ],
+      "explanation": "There are a number of prerequisites required for using the Dynamic Systems Development Method. These include: Acceptance of the Atern philosophy before starting work; Appropriate empowerment of the Solution Development Team; Commitment of senior business management to provide the necessary Business Ambassador involvement; Incremental delivery; Access by the Solution Development Team to business roles; Solution Development Team stability; Solution Development Team skills; Solution Development Team size; and a supportive commercial relationship."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within DSDM which of the following roles is responsible for the business case?",
+      "answerIndex": 0,
+      "items": [
+        "Business Sponsor",
+        "Business Visionary",
+        "Project Manager",
+        "Team Leader"
+      ],
+      "explanation": "DSDM advocates 13 specific roles within a project. These roles have varying degrees of importance. However, a key differentiator of DSDM compared to other Agile Methodologies is how detailed these roles are and how much emphasis is placed on them. These roles include: Business Sponsor; Business Visionary; Project Manager; Technical Coordinator; Team Leader; Business Ambassador; Business Analyst; Solution Developer; Solution Tester; Business Advisor; Workshop Facilitator; Atern Coach; and Specialist Roles"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which DSDM role provides the business perspective for all decisions related to the way the solution’s fitness for business purpose is defined and implemented?",
+      "answerIndex": 2,
+      "items": [
+        "Business Sponsor",
+        "Business Visionary",
+        "Business Ambassador",
+        "Team Leader"
+      ],
+      "explanation": "The Business Ambassador generally comes from the business area being addressed and provides business-related information from the perspective of those who will ultimately make direct use of the solution. The role provides the business perspective for all decisions related to the way the solution’s fitness for business purpose is defined and implemented. Working closely with the rest of the Solution Development Team, the Business Ambassador guides the evolution of the solution, bringing other users’ input and ideas to the project as required. As a true ambassador, the role is responsible for the day-to-day communication channels between the project and the business. The Business Ambassador must have the desire, authority, responsibility and knowledge to be able to ensure that the right solution emerges to meet the business need. This does not necessarily imply a senior position within the organization, but a level of empowerment during the project to fulfil the role and an allocation of time to fully participate in the project as required."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Who within a DSDM team is responsible for interpreting the needs of the Business Sponsor, communicating those to the team and, where appropriate, ensure they are properly represented in the business case?",
+      "answerIndex": 1,
+      "items": [
+        "The Business Sponsor",
+        "The Business Visionary",
+        "The Project Manager",
+        "The Technical Coordinator"
+      ],
+      "explanation": "The Business Visionary is responsible for interpreting the needs of the Business Sponsor, communicating these to the team and, where appropriate, ensuring they are properly represented in the Business Case. The Business Visionary remains involved throughout the project providing the team with strategic direction and ensuring that the solution delivered will enable the benefits described in the Business Case to be achieved."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following DSDM roles provides the business perspective for all decisions related to the way the solution’s fitness for business purpose is defined and implemented? Working closely with the rest of the Solution Development Team, this role guides the evolution of the solution, bringing other users’ input and ideas to the project as required. As a true ambassador, the role is responsible for the day-to-day communication channels between the project and the business.",
+      "answerIndex": 2,
+      "items": [
+        "Business Sponsor",
+        "Business Visionary",
+        "Business Ambassador",
+        "Team Leader"
+      ],
+      "explanation": "The Business Ambassador generally comes from the business area being addressed and provides business-related information from the perspective of those who will ultimately make direct use of the solution. The role provides the business perspective for all decisions related to the way the solution’s fitness for business purpose is defined and implemented. Working closely with the rest of the Solution Development Team, the Business Ambassador guides the evolution of the solution, bringing other users’ input and ideas to the project as required. As a true ambassador, the role is responsible for the day-to-day communication channels between the project and the business. The Business Ambassador must have the desire, authority, responsibility and knowledge to be able to ensure that the right solution emerges to meet the business need. This does not necessarily imply a senior position within the organization, but a level of empowerment during the project to fulfil the role and an allocation of time to fully participate in the project as required."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the eight principles of DSDM?",
+      "answerIndex": 3,
+      "items": [
+        "Focus on the business need.",
+        "Deliver on time.",
+        "Build incrementally from firm foundations",
+        "Communicate vigorously and assume positive intent"
+      ],
+      "explanation": "The Dynamic Systems Development Method is governed by eight principles. These principles establish the overarching rules every DSDM team must follow as they progress through the project. The eight principles of DSDM include: Focus on the business need; Deliver on time; Collaborate; Never compromise quality; Build incrementally from firm foundations; Develop iteratively; Communicate continously and clearly; and Demonstrate control."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your team is using DSDM and is using modeling and iterative development. The team is currently working out what needs to be done by whom to meet the current objective. In what stage of the iterative cycle is the team currently?",
+      "answerIndex": 1,
+      "items": [
+        "Identify",
+        "Plan",
+        "Evolve",
+        "Review"
+      ],
+      "explanation": "The Iterative Cycle is as follows: Identify — The team agree the objective of the next evolution of whatever is being developed at the moment; Plan — The team work out what needs to be done by whom to meet the current objective; Evolve — The planned activities take place in the agreed timescale; and Review — The results of the activities are checked to see if the objective has been achieved."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your team is using MoSCoW Prioritization to evaluate project requirements. Which of the following represents the W in MoSCoW?",
+      "answerIndex": 2,
+      "items": [
+        "Will have",
+        "Want to have",
+        "Won't have this time",
+        "None of these apply as MoSCoW is not an acronym."
+      ],
+      "explanation": "In a DSDM project where time has been fixed, understanding the relative importance of things is vital to making progress and keeping to deadlines. Prioritization can be applied to requirements, tasks, products, use cases, user stories, acceptance criteria and tests. MoSCoW is a technique for helping to understand priorities. The letters stand for: Must Have; Should Have; Could Have; And won’t Have this time"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within the DSDM model, which of the following stages accounts for the largest amount of time?",
+      "answerIndex": 1,
+      "items": [
+        "Investigation",
+        "Refinement",
+        "Consolidation",
+        "Kick-off"
+      ],
+      "explanation": "Every Timebox can be begins with a Kick-off and ending with a Close-out meeting. The Timebox itself comprises three main stages or Iterations – Investigation, Refinement, Consolidation. Each stage represents a pass through the Iterative Development cycle. The longest cycle is the refinement stage."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not a core area of focus for Crystal?",
+      "answerIndex": 0,
+      "items": [
+        "Processes",
+        "People",
+        "Interaction",
+        "Talents"
+      ],
+      "explanation": "The core areas of focus for Crystal include: People; Interaction; Community; Skills; Talents; and Communications."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within Crystal, which color is used for teams of 7 to 20 people?",
+      "answerIndex": 1,
+      "items": [
+        "Crystal Clear",
+        "Crystal Yellow",
+        "Crystal Orange",
+        "Crystal Maroon"
+      ],
+      "explanation": "Cockburn developed different methods within the Crystal family to suit projects of varying team size that naturally required different strategies to deliver business value. The family uses colors to denote the “weight” of the methodology being used. As the project becomes larger, with more team members and is more mission critical to the organization the appropriate version adds more process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common practices or properties found in Crystal?",
+      "answerIndex": 2,
+      "items": [
+        "Personal safety",
+        "Reflective improvement",
+        "Incremental delivery",
+        "Close or Osmotic Communication"
+      ],
+      "explanation": "The seven common properties or practices of Crystal include: Frequent delivery, Reflective improvement, Close or osmotic communication, Personal safety, Focus, Easy access to expert users, and Automated tests, configuration management, frequent integration."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a core principle that provides the foundation of Lean Software Development?",
+      "answerIndex": 3,
+      "items": [
+        "Eliminate waste",
+        "Amplify learning",
+        "Decide as late as possible",
+        "Deliver as often as possible"
+      ],
+      "explanation": "There are seven principles that provide the foundation of Lean Software Development. These principles include: Eliminate waste, Amplify learning, Decide as late as possible, Deliver as fast as possible, Empower the team, Build quality in, and See the whole."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Each of the following are keys to seing the whole EXCEPT:",
+      "answerIndex": 2,
+      "items": [
+        "Defects accumulate during the development process.",
+        "By decomposing big tasks into smaller ones and standardizing the stages of development defect root causes can be found and eliminated.",
+        "Be fair but decide quickly.",
+        "Think big, act small, fail fast, learn rapidly."
+      ],
+      "explanation": "Only when all of the lean principles are implemented together, combined with strong \"common sense\" with respect to the working environment, is there a basis for success in software development. There are three keys to seeing the whole: Defects accumulate during the development process; By decomposing big tasks into smaller ones and standardizing the stages of development defect root causes can be found and eliminated; Think big, act small, fail fast, learn rapidly."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is one of the three types of deviation from optimal allocation of resources according to the Toyota Production System or TPS?",
+      "answerIndex": 1,
+      "items": [
+        "Mumu",
+        "Muda",
+        "Muki",
+        "Moori"
+      ],
+      "explanation": "Muda is a Japanese word meaning \"futility; uselessness; idleness; superfluity; waste; wastage; wastefulness\", and is a key concept in the Toyota Production System (TPS) as one of the three types of deviation from optimal allocation of resources (muda, mura, muri)."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following teams is a lean-manufacturing method for analyzing the current state and designing of a future state for the series of events that take a product or service from its beginning through to the customer?",
+      "answerIndex": 0,
+      "items": [
+        "Value stream mapping",
+        "Product flow mapping",
+        "Integration and value mapping",
+        "State and design mapping"
+      ],
+      "explanation": "Value stream mapping is a lean-management method for analyzing the current state and designing a future state for the series of events that take a product or service from its beginning through to the customer. At Toyota, it is known as \"material and information flow mapping\". It can be applied to nearly any value chain."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a tool or Lean software practice emphasized by the Poppendiecks?",
+      "answerIndex": 3,
+      "items": [
+        "Seeing waste",
+        "Value stream mapping",
+        "Set based development",
+        "Constraints management theory"
+      ],
+      "explanation": "The Poppendiecks describe a number of Lean Software Practices they call tools that vary slightly from their equivalents in Agile Software Development. These tools include: Seeing waste; Value stream mapping; Set based development; Pull systems; Queueing theory; Motivation; and Measurement."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to the Poppendiecks' model, there are seven fundamental types of waste that includes each of the following EXCEPT:",
+      "answerIndex": 2,
+      "items": [
+        "Transportation",
+        "Motion",
+        "Missed production",
+        "Over processing"
+      ],
+      "explanation": "The Poppendiecks created a unique model of waste know by the acronym TIMWOOD. It represented seven fundamental types of waste including: Transportation; Inventory; Motion; Waiting; Over-Processing; Over-Production; Defects"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning Kanban is NOT true?",
+      "answerIndex": 0,
+      "items": [
+        "Using Kanban does not require immediate changes to the team board.",
+        "Kanban is part of an approach where the \"pull\" comes from demand.",
+        "To be effective, Kanban must follow strict rules of use.",
+        "Reducing the number of Kanban increases the sensitivity."
+      ],
+      "explanation": "Kanban, by contrast, is part of an approach where the \"pull\" comes from demand. Re-supply or production is determined according to the actual demand of the customer. In contexts where supply time is lengthy and demand is difficult to forecast, often, the best one can do is to respond quickly to observed demand. This situation is exactly what a Kanban system accomplishes, in that it is used as a demand signal that immediately travels through the supply chain. This ensures that intermediate stock held in the supply chain are better managed, and are usually smaller. Where the supply response is not quick enough to meet actual demand fluctuations, thereby causing potential lost sales, stock building may be deemed more appropriate, and is achieved by placing more Kanban in the system. Taiichi Ohno stated that, to be effective, Kanban must follow strict rules of use."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using Kanban for Agile development, there are several rules that must be applied. Which of the following is not one of those rules?",
+      "answerIndex": 3,
+      "items": [
+        "Visualize the workflow",
+        "Limit WIP",
+        "Make process policies explicit",
+        "Improve constantly"
+      ],
+      "explanation": "When using Kanban for Agile Development, there are several rules that must be applied. These include: Visualize the workflow; Limit WIP; Manage flow; Manage process policies explicit; Improve collaboratively."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When evaluating which agile method is best which method represents the best starting point for those new to agile development where its rules, roles, and constructs are usually the easiest to teach and execute?",
+      "answerIndex": 0,
+      "items": [
+        "Scrum",
+        "Extreme Programming",
+        "Feature Driven Development",
+        "Kanban"
+      ],
+      "explanation": "Kanban, by contrast, is part of an approach where the \"pull\" comes from demand. Re-supply or production is determined according to the actual demand of the customer. In contexts where supply time is lengthy and demand is difficult."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common framework used to scale agile beyond a single project?",
+      "answerIndex": 1,
+      "items": [
+        "SAFe",
+        "NeXT",
+        "DAD",
+        "LeSS"
+      ],
+      "explanation": "SAFe or the Scaled Agile Framework, Disciplined Agile Delivery or DAD, LeSS and Nexus all represent common tools for scaling agile."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A release train engineer is approached by a resource who missed the current ART and wants to be part of the team. What guidance should they provide?",
+      "answerIndex": 2,
+      "items": [
+        "Join the team at the next daily scrum and begin helping.",
+        "They must wait for the next sprint to join the team.",
+        "Join the team when the next release train is preparing to leave the station.",
+        "Join another team until the next release."
+      ],
+      "explanation": "The Agile Release Teach is guided by a Release Train Engineer who acts as the program manager. Additionally, the various teams are supported by a Train System Architect who facilitates the process of developing infrastructure for future program increments. Imagine three, four or five Scrum Teams who each have a backlog with four two week iterations defined, as these teams work on their backlog there is an additional, very senior technical resource working ahead of these teams so that when it is time for the next ART the architecture and Program Backlog is defined and ready for the team to begin work. At this time any new resources can jump on the new release train and the process begins. Therefore, the best advice is join the team when the next release train is preparing to leave the station."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a core value of SAFe?",
+      "answerIndex": 0,
+      "items": [
+        "Alignment",
+        "Integration",
+        "Continuous improvement",
+        "Constant testing"
+      ],
+      "explanation": "SAFe focuses on four core values. These values include: Alignment is a position of agreement or alliance. Visibility or transparency; Program Execution — It is not enough for an individual team to perform well. That still allows for the overall program to fail. Success is defined by everyone focusing on the overall program; and Code Quality — The team must define what quality means for the program and then deliver that measure."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "SAFe is governed by nine principles that can be thought of as extensions of the 12 Principles found in the Agile Manifesto. Which of these principles represents the idea that resources must understand the basics of how and organization delivers business value?",
+      "answerIndex": 3,
+      "items": [
+        "Take a systems view.",
+        "Manage risk, efficacy and predictability with fast, synchronous learning.",
+        "Synchronize with cross-domain planning and collaboration.",
+        "Understand the economics of the value chain."
+      ],
+      "explanation": "SAFe is governed by nine principles that build on Lean, Systems Thinking, and Agile Development. In many respects these can be thought of as extension of the 12 Principles found in the Agile Manifesto. They include: Take a systems view; Understand the economics of the value chain; Develop systems iteratively and incrementally; Integrate and test frequently and adapt immediately; Manage risk, efficacy and predictability with fast, synchronous learning cycle; Limit work in process. Reduce batch sizes. Manage queue lengths; Synchronize with cross-domain planning and collaboration; Base milestones on objective evaluation of working systems; and Decentralize decision-making. Understand the economics of the value chain represents the idea that resources must understand the basics of how and organization delivers business value."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not fixed at project outset when using DSDM?",
+      "answerIndex": 2,
+      "items": [
+        "Cost",
+        "Quality",
+        "Scope",
+        "Time"
+      ],
+      "explanation": "DSDM is both iterative and incremental. This means it is just like every other Agile methodology. It fixes cost, quality, and time at the beginning of the project. This makes it somewhat unique. Most Agile methodologies play an interesting game with the traditional Triple Constraints of Project Management."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is often used in conjunction with DSDM?",
+      "answerIndex": 0,
+      "items": [
+        "Scrum",
+        "PMP",
+        "FDD",
+        "XP"
+      ],
+      "explanation": "DSDM is most often used to provide an overall project framework in conjunction with Scrum. DSDM advocates it is the ideal wrapper for more limited Agile frameworks, and DSDM provides the full project focus while a method like Scrum focuses on the product development process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following was DSDM specifically designed to be compatible with?",
+      "answerIndex": 3,
+      "items": [
+        "PMBOK Guide",
+        "ACP",
+        "Extreme Programming",
+        "Prince2"
+      ],
+      "explanation": "DSDM was created in 1994 to add discipline to Rapid Application Development. It was originally designed It was originally designed to be compatible with both ISO 9000 and Prince2."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms is commonly used in conjunctions with DSDM that is central to its philosophy?",
+      "answerIndex": 0,
+      "items": [
+        "Atern",
+        "Agile",
+        "Complex",
+        "Extreme"
+      ],
+      "explanation": "DSDM has gone through a number iterations beginning with its first rebranding in 2007, when the name was changed to DSDM Atern. The addition of Atern was a reference to the Artic Tern, a collaborative bird that can travel distances and epitomized many parts of the method in its natural behavior such as prioritization and collaboration. In 2014, the framework was revised again and the name changed back to just DSDM. Today, DSDM is most often used to provide an overall project framework in conjunction with Scrum. DSDM advocates argue it is the ideal wrapper for more limited Agile frameworks. Advocates argue DSDM provides the full project focus while a method like Scrum focuses on the product development process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a prerequisite for the Dynamic Systems Development Methodology?",
+      "answerIndex": 2,
+      "items": [
+        "A development team that controls all aspects of the project process.",
+        "Acceptance of the Agile Principles",
+        "Acceptance of the Atern Philosophy",
+        "A sponsor who will pay for DSDM"
+      ],
+      "explanation": "There are a number of prerequisites required for using the Dynamic Systems Development Method. One of these is the acceptance of the Atern philosophy before starting work. This philosophy is relatively simple. A project must be aligned to clearly defined strategic goals of the organization. The team must then focus on the early delivery of real benefits to the business. According to the philosophy, this is best achieved when key stakeholders understand the business objectives, are empowered to an appropriate level and collaborate to deliver the right solution. This solution must be delivered in the agreed timescale and according to the priorities set by the business."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a prerequisite for DSDM?",
+      "answerIndex": 1,
+      "items": [
+        "Commitment of senior business management to provide the necessary team size.",
+        "Commitment of senior business management to provide the necessary Business Ambassador involvement.",
+        "Commitment of the development to the technical solution.",
+        "A focus on iterative delivery."
+      ],
+      "explanation": "There are a number of prerequisites required for using the Dynamic Systems Development Method. One of these is the commitment of senior business management to provide the necessary Business Ambassador involvement. Stakeholders are not allowed to assign work to the team and walk away from the project. It is assumed that a Business Ambassador will be involved daily with the project team."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a prerequisite for DSDM?",
+      "answerIndex": 0,
+      "items": [
+        "Access by the Solution Architect to business roles.",
+        "Acceptance of the Atern Philosophy before starting work.",
+        "Solution Development Team stability.",
+        "A supportive commercial relationship."
+      ],
+      "explanation": "There are a number of prerequisites required for using the Dynamic Systems Development Method. These include: Acceptance of the Atern philosophy before starting work; Appropriate empowerment of the Solution Development Team; Commitment of senior business management to provide the necessary Business Ambassador involvement; Incremental delivery; Access by the Solution Development Team to business roles; Solution Development Team stability; Solution Development Team skills; Solution Development Team size; And a supportive commercial relationship."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using DSDM, which of the following is NOT critical to achieving a solution that provides real business benefit?",
+      "answerIndex": 3,
+      "items": [
+        "By having key stakeholders understand the business objectives.",
+        "By having key stakeholders empowered to an appropriate level.",
+        "By having key stakeholders collaborate to deliver the right solution.",
+        "By having key stakeholder agree to a timescale and accurate solution."
+      ],
+      "explanation": "This philosophy is relatively simple. A project must be aligned to clearly defined strategic goals of the organization. The team must then focus on the early delivery of real benefits to the business. According to the philosophy, this is best achieved when key stakeholders understand the business objectives, are empowered to an appropriate level and collaborate to deliver the right solution. This solution must be delivered in the agreed timescale and according to the priorities set by the business. The stakeholders must be prepared to accept a fit-for-purpose solution. They must also be prepared to accept that change is inevitable as the team comes to understand more about the solution being delivered."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following must the key stakeholders be to accept when using DSDM?",
+      "answerIndex": 1,
+      "items": [
+        "An incremental solution.",
+        "A fit-for-purpose solution.",
+        "A complete solution.",
+        "A tested solution"
+      ],
+      "explanation": "This philosophy is relatively simple. A project must be aligned to clearly defined strategic goals of the organization. The team must then focus on the early delivery of real benefits to the business. According to the philosophy, this is best achieved when key stakeholders understand the business objectives, are empowered to an appropriate level and collaborate to deliver the right solution. This solution must be delivered in the agreed timescale and according to the priorities set by the business. The stakeholders must be prepared to accept a fit-for-purpose solution. They must also be prepared to accept that change is inevitable as the team comes to understand more about the solution being delivered."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In DSDM and the Atern Team Model, who is NOT part of the Project Team?",
+      "answerIndex": 2,
+      "items": [
+        "The Business Visionary",
+        "The Business Sponsor",
+        "Business Advisor(s)",
+        "The Technical Coordinator"
+      ],
+      "explanation": "DSDM advocates 13 specific roles within a project. These roles have varying degrees of importance. However, a key differentiator of DSDM compared to other Agile Methodologies is how detailed these roles are and how much emphasis is placed on them. Atern identifies roles in three categories: Project, Solution Development and Other. The business interests are represented by the Business Sponsor, Business Visionary, Business Ambassador, Business Analyst and Business Advisor. The solution/technical interests are represented by the Technical Coordinator, Team Leader, Solution Developer and Solution Tester. Management and ‘other’ interests are represented by the Project Manager, Workshop Facilitator and Atern Coach. On an Atern Project, one role may be taken by several people, or one person may take several roles."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In DSDM and the Atern Team Model, who is NOT part of Solution Development?",
+      "answerIndex": 3,
+      "items": [
+        "Team Leader",
+        "Solution Developer(s)",
+        "Business Ambassador(s)",
+        "Technical Coordinator"
+      ],
+      "explanation": "DSDM advocates 13 specific roles within a project. These roles have varying degrees of importance. However, a key differentiator of DSDM compared to other Agile Methodologies is how detailed these roles are and how much emphasis is placed on them. Atern identifies roles in three categories: Project, Solution Development and Other. The business interests are represented by the Business Sponsor, Business Visionary, Business Ambassador, Business Analyst and Business Advisor. The solution/technical interests are represented by the Technical Coordinator, Team Leader, Solution Developer and Solution Tester. Management and ‘other’ interests are represented by the Project Manager, Workshop Facilitator and Atern Coach. On an Atern Project, one role may be taken by several people, or one person may take several roles."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following roles is grouped as “OTHER” in the DSDM Atern Model?",
+      "answerIndex": 0,
+      "items": [
+        "Atern Coach",
+        "Project Manager",
+        "Business Visionary",
+        "Solution Tester(s)"
+      ],
+      "explanation": "DSDM advocates 13 specific roles within a project. These roles have varying degrees of importance. However, a key differentiator of DSDM compared to other Agile Methodologies is how detailed these roles are and how much emphasis is placed on them. Atern identifies roles in three categories: Project, Solution Development and Other. The business interests are represented by the Business Sponsor, Business Visionary, Business Ambassador, Business Analyst and Business Advisor. The solution/technical interests are represented by the Technical Coordinator, Team Leader, Solution Developer and Solution Tester. Management and ‘other’ interests are represented by the Project Manager, Workshop Facilitator and Atern Coach. On an Atern Project, one role may be taken by several people, or one person may take several roles."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the eight core DSDM principles?",
+      "answerIndex": 1,
+      "items": [
+        "Focus on the business need.",
+        "Work in small teams.",
+        "Deliver on time",
+        "Demonstrate control."
+      ],
+      "explanation": "The Dynamic Systems Development Method is governed by eight principles. These principles establish the overarching rules every DSDM team must follow as they progress through the project. The eight principles of DSDM include: Focus on the business need; Deliver on time; Collaborate; Never compromise quality; Build incrementally from firm foundations; Develop iteratively; Communicate continuously and clearly; and demonstrate control."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not one of the eight core DSDM principles?",
+      "answerIndex": 2,
+      "items": [
+        "Never compromise quality.",
+        "Communicate continuously & clearly.",
+        "The team must work together as one.",
+        "Build incrementally from firm foundations."
+      ],
+      "explanation": "The Dynamic Systems Development Method is governed by eight principles. These principles establish the overarching rules every DSDM team must follow as they progress through the project. The eight principles of DSDM include: Focus on the business need; Deliver on time; Collaborate; Never compromise quality; Build incrementally from firm foundations; Develop iteratively; Communicate continuously and clearly; and demonstrate control."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following DSDM principle includes guaranteeing the Minimum Usable Subset of features?",
+      "answerIndex": 2,
+      "items": [
+        "Demonstrate control",
+        "Deliver business value",
+        "Focus on the business need.",
+        "Build incrementally from firm foundations."
+      ],
+      "explanation": "Focus on the business need — The main acceptance criteria for every project is delivering something that addresses the defined business need. This principle includes several components: Clearly define the scope of the system; Understand the true business priorities; Establish a sound business case; Seek continuous business sponsorship and commitment; Guarantee the minimum usable subset of features."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT part of the DSDM principle of delivering on time?",
+      "answerIndex": 1,
+      "items": [
+        "Timebox the work",
+        "Develop iteratively",
+        "Focus on business priorities",
+        "Always meet deadlines"
+      ],
+      "explanation": "I am sure that this is news, but delivering on time is kind of a big deal. There are many situations where delivering a project late can undermine the very reason for doing the project in the first place. DSDM focuses the team on this principle by: Timebox project work. This means that the end date of each iteration is fixed. Focus on business priorities. Technology is not an end unto itself. The product of the project must serve a business need And, always hit deadlines. This should be obvious, but it doesn’t happen very often."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When discussing the DSDM principle of Collaborate which of the following is NOT true?",
+      "answerIndex": 0,
+      "items": [
+        "It is key to build the correct culture.",
+        "You must involve the right stakeholders, at the right time, throughout the project.",
+        "It is important to ensure that team members are empowered to make decisions for those they represent without waiting for higher-level approval.",
+        "You must actively involve the business representatives"
+      ],
+      "explanation": "Decisions must be made with users and developers working together quickly. When a team works collaboratively they almost always outperform groups of individuals working independently. Components of collaborate include: Involve the right stakeholders, at the right time, throughout the project; Ensure that the members of the team are empowered to make decisions on behalf of those they represent without waiting for higher-level approval; Actively involve the business representatives and build a one-team culture."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a key to the DSDM principle of Never Compromising Quality?",
+      "answerIndex": 2,
+      "items": [
+        "Design document & test appropriately",
+        "Test early & continuously.",
+        "Quality must be considered a variable.",
+        "Set the level of quality at the beginning."
+      ],
+      "explanation": "Never compromise quality — The level of quality must agreed upon at the beginning of the project. Quality cannot be a variable thing. The measure of quality must be quantitative and objective so that both the business and the development team can agree when the features that are part of the minimum usable subset is complete. In order to achieve this result the team must: Set the level of quality at the beginning. Make sure everyone involved in the project understands what success looks like and how it will be measured. Once missed, expectation can lead to disaster. The components of never compromising on quality include: Ensure that quality does NOT become a variable. Quality must be binary. It cannot be a sliding scale. The team must have a clear cutoff; Design, document, & test appropriately. The team must use the appropriate level of design, testing and documentation for the complexity and importance of the project; Build in quality by constant review. Every Agile project makes use of an iterative process. These loops allow the team to constantly evaluate their output to ensure it correctly meets the quality standards; Test early and continuously; and testing cannot be something done only at the end of the project. The team must test early to catch errors when they are small and never assume they have tested enough."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a key to the DSDM principle of Building incrementally from firm foundations?",
+      "answerIndex": 3,
+      "items": [
+        "Strive for early delivery of business benefit where possible.",
+        "Continually confirm the correct solution is being built.",
+        "Formally re-assess priorities & ongoing project viability with each delivered increment",
+        "All of the above"
+      ],
+      "explanation": "Incremental delivery provides a number of advantages. An easy way to understand incrementalism is to think about bite-sized chunks. It is much easier to swallow a small bite as opposed to a large one. It also give you confidence that you actually like what you are eating. It is the same for the customer of a software project. Constantly seeing working software confirms the team is building what they want gives them confidence in the team. It also provides a primary point of feedback for the team. Finally, when these increments are regularly deployed, the organization gains early business value. Keys to this principle include: The team striving for early delivery of business benefit wherever possible; The team continually confirming the correct solution is being built; And formally re-assess priorities and ongoing project viability with each delivered increment."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following DSDM core principles is defined as a focus on frequent delivery of products, with assumption that to deliver something “good enough” earlier is always better than to deliver everything “perfectly” in the end.",
+      "answerIndex": 1,
+      "items": [
+        "Collaborate",
+        "Develop iteratively",
+        "Never compromise quality",
+        "Build incrementally from firm foundations"
+      ],
+      "explanation": "As we have already learned, iterative development is very closely related to incremental development. Both are also key to Agile. Iterative development is a fancy way of saying short, repeating or looping cycles. The premise is that rarely does a team get things perfect the first time. In most cases, the team needs several cycles with repeated feedback from the customer to get it right."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not part of the core DSDM principle where communication and cooperation among all project stakeholders is required to be efficient and effective?",
+      "answerIndex": 2,
+      "items": [
+        "Use facilitated workshops.",
+        "Present iterations of the evolving solution early & often.",
+        "Build customer feedback into each iteration to converge on an effective business solution.",
+        "Keep documentation lean & timely."
+      ],
+      "explanation": "One of the biggest causes of project failure is poor communication. DSDM uses a variety of techniques to improve overall communication for both teams and individuals. DSDM focuses the team on the value of human interaction through the Daily Standups, Facilitated Workshops, and clearly defined roles and user involvement. The extensive use of modelling and prototyping help to ensure the product of the project is available for early scrutiny. This principle requires the team: Run daily team stand-up sessions; Use facilitated workshops; Use rich communication techniques such as modelling and prototyping; Present iterations of the evolving solution early and often; Keep documentation lean and timely; Manage stakeholder expectations throughout the project; and encourage informal, face-to-face communication at all levels."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not part of the DSDM core principle of Demonstrating Control?",
+      "answerIndex": 0,
+      "items": [
+        "Present iterations of the evolving solution early and often.",
+        "Measure progress through focus on delivery of products rather than completed activities.",
+        "Manage proactively.",
+        "Evaluate continuing project viability based on the business objectives."
+      ],
+      "explanation": "A DSDM team needs to be proactive when monitoring and controlling progress in line with the Foundations Phase products, especially the Business Case. You need to be able to prove you are in control. In order to fulfil this principle, Atern teams, especially the Project Manager and Team Leader, will: Use an appropriate level of formality for tracking and reporting; Make plans and progress visible to all; Measure progress through focus on delivery of products rather than completed activities; Manage proactively; and evaluate continuing project viability based on the business objectives."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following does Alistair Cockburn define as a set of elements e.g. practices and tools?",
+      "answerIndex": 1,
+      "items": [
+        "Techniques",
+        "Methodologies",
+        "Policies",
+        "Frameworks"
+      ],
+      "explanation": "Crystal is usually described as a “light-weight methodology”. The use of the word Crystal comes from the gemstone where, in software terms, the faces are a different view on the “underlying core” of principles and values. The faces are a representation of techniques, tools, standards and roles. The methodology tends to avoid any strict or rigid processes found in other methodologies."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the follow is a core focus of Crystal Methods?",
+      "answerIndex": 0,
+      "items": [
+        "People",
+        "Teams",
+        "Community",
+        "Talents"
+      ],
+      "explanation": "Cockburn define the core areas of focus for Crystal. These are as follows: People, Interaction, Community, Skills, Talents, Communications."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following Crystal Methods would be best for a team with eight people on the team?",
+      "answerIndex": 2,
+      "items": [
+        "Crystal Clear",
+        "Crystal Clean",
+        "Crystal Yellow",
+        "Crystal Magenta"
+      ],
+      "explanation": "The table at the bottom of the page defines the team size for each version of Crystal: 2-6 people Crystal Clear; 7-20 people Crystal Yellow; 10-40 people Crystal Orange; Crystal Orange Web; Up to 80 people Crystal Red; Then Crystal Maroon; Crystal Diamond; Crystal Sapphire."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following Crystal Methods is best for projects that are ongoing?",
+      "answerIndex": 1,
+      "items": [
+        "Crystal Clear",
+        "Crystal Orange Web",
+        "Crystal Red",
+        "Crystal Diamond"
+      ],
+      "explanation": "The table at the bottom of the page defines the team size for each version of Crystal: 2-6 people Crystal Clear; 7-20 people Crystal Yellow; 10-40 people Crystal Orange; Crystal Orange Web; Up to 80 people Crystal Red; Then Crystal Maroon; Crystal Diamond; Crystal Sapphire."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is the heaviest Crystal Method designed for the most mission critical projects?",
+      "answerIndex": 0,
+      "items": [
+        "Crystal Sapphire",
+        "Crystal Red",
+        "Crystal Maroon",
+        "Crystal Diamond"
+      ],
+      "explanation": "The table at the bottom of the page defines the team size for each version of Crystal: 2-6 people Crystal Clear; 7-20 people Crystal Yellow; 10-40 people Crystal Orange; Crystal Orange Web; Up to 80 people Crystal Red; Then Crystal Maroon; Crystal Diamond; Crystal Sapphire."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the common seven Crystal properties?",
+      "answerIndex": 3,
+      "items": [
+        "Reflective improvement",
+        "Close or osmotic communication",
+        "Personal safety",
+        "Common retrospectives"
+      ],
+      "explanation": "The various versions of Crystal share seven common properties or practices. Like the other Agile methodologies we have already covered, these can be thought of as general rules Crystal expects to be followed. These properties include: Frequent delivery; Reflective improvement; Close or osmotic communication; Personal safety; Focus; Easy access to expert users; Automated tests, configuration management and frequent integration."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a core part of Crystal’s concept of frequent delivery?",
+      "answerIndex": 0,
+      "items": [
+        "It is possible to have multiple iterations per release.",
+        "Each release it two weeks in length.",
+        "Each release focuses a single function of real value to the business.",
+        "The business controls the features delivered in each iteration through systematic retrospection."
+      ],
+      "explanation": "Frequent delivery is the regular releasing of iterations of the software program. This idea comes from the 12 Principles of Agile Development. Designers and developers decide what features to include in each release and they design and test for each release. With Crystal Methods, iterations are to be released in short iterations with the timescale being somewhere between weekly to quarterly. By releasing iterations, stakeholders are able to spot problems earlier in the project which saves a lot of hassle later on. Another point on this is that if the end users decide that the project does not do things the way they’d like it to be done, then steps can be taken to resolve this before it is too late. With Crystal Methods, there can be more than one iteration in a release. This is because it may not be feasible to release every iteration, so a collection of iterations are gathered and delivered in a single release."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a core component of Crystal’s concept of Reflective Improvement?",
+      "answerIndex": 2,
+      "items": [
+        "Developers dedicate time to improving the development process.",
+        "Reflection workshops are held every few weeks to help find processes that are working & which ones need to be modified.",
+        "Sprint Retrospectives are held at the end of each iteration to ensure the customer is satisfied with the processes being used.",
+        "Iteration helps determine if a process is working or not."
+      ],
+      "explanation": "Reflective improvement involves the Development Team periodically taking a break from regular coding efforts to focus on finding ways to improve their processes. Iterations help with this by providing feedback on whether or not the current process is working. Crystal Methods, uses Reflection Workshops that meet every couple of weeks. These workshops focus on finding processes that are and are not working well then helping the team to modify those processes so they improve."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a reason the Crystal Methods recommend collocation of the team?",
+      "answerIndex": 0,
+      "items": [
+        "Developers do not need to break concentration to move somewhere else.",
+        "Team size is easier to control which improves communication.",
+        "It reduces project cost.",
+        "Management function improves and overhead is reduced."
+      ],
+      "explanation": "With regards to larger teams (over 8 or so), where distraction can arise, Close Communication is used. The team must be in the same room for this to work. This is because if the developer has to break concentration to move somewhere else to ask a question then his or her thought process will is often lost. By using this type of communication, information flows quickly throughout the team. Questions can be rapidly answered and all the team members know what is going on as well as having the ability to correct any misconceptions that may arise. By listening to the others in the team, a developer can pick up on what the others are doing, gain experience and develop new ideas. Developers working near each other can help with problems that the other is encountering. Communication overhead is greatly reduced by using this type of communication. The need for email updates, extra documentation, etc. is lowered. By having the team together, each member knows what the others are doing so they should be able to take over their teammate's parts of the project as required."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following core Crystal properties directs the team to use two hour periods where the developers have no interruptions and are assigned to the project for two consecutive days at a minimum?",
+      "answerIndex": 3,
+      "items": [
+        "Reflective Improvement",
+        "Frequent Delivery",
+        "Easy Access to Experts",
+        "Focus"
+      ],
+      "explanation": "Focus in crystal refers to two things; firstly focusing on an individual task in a project for enough time that progress will be made and secondly, it refers to the direction of which the project is heading. With the first, the flow of progress is taken into account while thinking of issues that affect it such as interruptions, meetings, long questions, phone call, etc. It can take a while to get back into the flow again so this delays completion of the current task. Crystal defines two rules for dealing with issues that may interrupt focus. One is to set a two-hour period where the developer is to have no interruptions. The other one is to assign a developer to a project for at least two days before being switched to another project. With the second meaning of focus, issues such as definition of goals are discussed. The definitions should be clear and the developers should know exactly what the goals of the project are. The project leader should prioritize the goals which will allow developers to focus on particular areas."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When defining Crystal’s core property of easy access to expert users, how often is it required to meet with the experts?",
+      "answerIndex": 1,
+      "items": [
+        "Once a week for two hours and be reachable by phone.",
+        "Twice a week for one hour and be reachable by phone.",
+        "Every other week for two hours and be reachable by phone.",
+        "Three times a week and be reachable by phone."
+      ],
+      "explanation": "Easy access to expert users involves the developers working with a person of expertise in the project area so that the expert can answers any questions, suggest solutions to problems, etc. The expert user should be an actual/real-life user and not just a tester from the development team. The more involved the expert user is (in practical terms), the better since they would have more hands-on experience. The more time that the expert user can give will greatly help the overall project but this is not always feasible. There should be a minimum of a once a week, two-hour meeting with the expert user, and the ability to make phone calls to the expert user too."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a LSD common example of waste?",
+      "answerIndex": 2,
+      "items": [
+        "Avoidable process repetition (often caused by insufficient testing).",
+        "Bureaucracy.",
+        "Defects accumulated during the development process.",
+        "Slow internal communication."
+      ],
+      "explanation": "The Lean Philosophy regards everything not adding value to the customer as MUDA or waste. This waste comes in several forms: Unnecessary code and functionality; Delay in the software development process; Unclear requirements; Avoidable process repetition (often caused by insufficient testing); Bureaucracy; And slow internal communication."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a key element of LSD’s concept of empowering the team?",
+      "answerIndex": 0,
+      "items": [
+        "Encourage progress, catching errors, and removing impediments.",
+        "The customer needs to have an overall experience of the system. This is called perceived integrity.",
+        "How it is being advertised, delivered, deployed, accessed, how intuitive is it to use, what is its price, and how well does it solve problems.",
+        "The customer provides stories based on need, the developer estimates time by story. Think big, act small, fail fast, learn rapidly."
+      ],
+      "explanation": "The Lean approach focuses on the simple rule, find good people and then trust them to get the job done. Good managers encourage, remove impediments and avoid micro-managing. The developers should be given access to the customer; the team leader should provide support and help in difficult situations, as well as ensure that skepticism does not ruin the team’s spirit. The most effective teams use a Work-Out Technique when the managers do NOT tell workers how to do their job. The guidelines include: Find good people and let them do their own job; Encourage progress, catching errors, and removing impediments; Discourage micro management; People are more than just resources. They require motivation and a higher purpose; and the developer should be given access to the customer."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not one of Lean Software Development’s Seven Wastes?",
+      "answerIndex": 2,
+      "items": [
+        "Transportation",
+        "Motion",
+        "Under-processing",
+        "Over-processing"
+      ],
+      "explanation": "The Lean Philosophy regards everything not adding value to the customer as MUDA or waste. This waste comes in several forms: Unnecessary code and functionality; Delay in the software development process; Unclear requirements; Avoidable process repetition (often caused by insufficient testing); Bureaucracy; and slow internal communication."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is one of the five core principles of Kanban?",
+      "answerIndex": 3,
+      "items": [
+        "Work collaboratively",
+        "See the whole",
+        "Improve incrementally",
+        "Visualize the workflow"
+      ],
+      "explanation": "When using Kanban for Agile Development, there are several rules that must be applied. These include: Visualize the workflow; Limit WIP; Manage flow; Make process policies explicit; and Improve collaboratively."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When comparing Scrum to Kanban, which of the following statements is true?",
+      "answerIndex": 1,
+      "items": [
+        "Kanban boards reset before each sprint.",
+        "Kanban board columns change frequently.",
+        "Teams rarely start with Scrum and add Kanban later.",
+        "Scrum uses a continuous flow of work with new work added when there is capacity."
+      ],
+      "explanation": "Scrum Boards tend to change infrequently. Once the Development Team builds the Board they do not typically add or delete columns. The tool is so simplistic that doing so seldom makes sense. Kanban Boards DO change frequently. A Kanban Board is supposed to reflect the process being used. As the process evolves and changes the Board must change with it."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following Agile methodologies is the most common Agile starting point?",
+      "answerIndex": 0,
+      "items": [
+        "Scrum",
+        "Extreme Programming",
+        "Kanban",
+        "Crystal"
+      ],
+      "explanation": "Scrum often represents the best starting point for those new to Agile Development. Its rules, roles and constructs are usually the easiest to teach and execute."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your project sponsor has given you latitude in the development methodology used for an upcoming project. However, you also know that testing the application will be critical, which of the following do you select?",
+      "answerIndex": 1,
+      "items": [
+        "Scrum",
+        "Extreme Programming",
+        "Feature Driven Development",
+        "Kanban"
+      ],
+      "explanation": "XP is all about testing. If the team is already experienced with Scrum or some other Agile Methodology and is focused on improving product quality this is a great choice, but remember XP is truly ruthless in its testing mantra. If the team lacks the tools or skills in this area XP won’t give you the tools, but it will quickly point out the problem."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using SAFe, at what level is budgeting completed for each ART?",
+      "answerIndex": 1,
+      "items": [
+        "The organizational level",
+        "The portfolio level",
+        "The program level",
+        "The team level"
+      ],
+      "explanation": "SAFe begins with level I. This is the portfolio level. At the portfolio level, strategic themes are used to connect the portfolio of projects to the organizational strategic objectives. This level also requires budgeting be completed for the entire program. Remember, programs represent groups of related projects managed in a coordinated way to obtain a shared value for the organization. Each program is referred to as an Agile Release Train or ART in SAFe. Then, Epics are created to fund cross ART training or deliverables. SAFe makes use of Kanban at the portfolio level to represent Agile Release Trains."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How many people are typically involved in an Agile Release Train?",
+      "answerIndex": 3,
+      "items": [
+        "25-50",
+        "50-75",
+        "75-100",
+        "50-125"
+      ],
+      "explanation": "Each ART is made up of between 50 and 125 people. Within each Train are groups of related project teams. Individual resources are not trapped, if they miss an Agile Release Train they are able to catch the next one because they occur at regular intervals."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How many iterations is the typical PI when using SAFe?",
+      "answerIndex": 2,
+      "items": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "explanation": "In the SAFe the increments of a Release Train are called Program Increments or PIs. Each PI is made up of five timeboxed iterations by default. The length of time these iterations take is dependent on the methodology used by the team specifically executing the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using SAFe and within a PI, how many iterations are focused on delivering features in the backlog?",
+      "answerIndex": 2,
+      "items": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "explanation": "Four of these iterations are focused on the delivering features found on the Product Backlog, and one iteration is used for incremental planning. This single iteration allows the team to deal with unexpected issues or generate previously un-thought of creative solutions to issues."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within SAFe, what is the title given to the meeting where the team works to improve its process?",
+      "answerIndex": 2,
+      "items": [
+        "Retrospective",
+        "Sprint review",
+        "Inspect and adapt workshop",
+        "Guided improvement session"
+      ],
+      "explanation": "4 of these iterations focus on the delivering features found on the Product Backlog, & one iteration is used for incremental planning. This single iteration allows the team to deal with unexpected issues or generate previously un-thought of creative solutions to issues. Through this process the team makes used of a session called the Inspect and Adapt Workshop designed to allow the entire ART to come together and improve the overall operation of the program."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within SAFe, what is the title of the person who acts as the Program Manager?",
+      "answerIndex": 3,
+      "items": [
+        "Program Manager",
+        "Agile Train Engineer",
+        "Release Manager",
+        "Release Train Engineer"
+      ],
+      "explanation": "The Agile Release Teach is guided by a Release Train Engineer who acts as the program manager."
+    }
+  ]
+}

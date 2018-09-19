@@ -5,11 +5,15 @@ class Question {
     }
     score(correct, onEnded) {
         if (correct) {
+            examEngine.exam.correctCount += 1;
+            examEngine.updateScore();
             examEngine.playCorrect(function () {
                 examEngine.nextQuestion();
             }.bind(this));
         }
         else {
+            examEngine.exam.errorCount += 1;
+            examEngine.updateScore();
             examEngine.playIncorrect(onEnded);
         }
     }

@@ -3,23 +3,42 @@
 class MultipleChoiceEngine extends Question {
     constructor(contentDocument) {
         super();
+        this._btnNext = null;
         this._sExplanation = null;
         this.Data = examEngine.loadQuestion();
         this.ContentDocument = contentDocument;
         let pQuestion = this.ContentDocument.getElementById('pQuestion');
         pQuestion.innerHTML = this.Data.dataItem["question"];
         this.createButtons();
+        this._btnNext = this.ContentDocument.getElementById('btnNext');
+        this._btnNext.style.display = "none";
         this._sExplanation = this.ContentDocument.getElementById('sExplanation');
     }
     checkAnswer(value) {
         this.enableControls(false);
         let onEnded = function () {
-            this.enableControls(true);
         };
         let correct = value === this.Data.answer;
         if (this._sExplanation && !correct && this.Data.explanation)
-            this._sExplanation.innerHTML = this.Data.explanation;
+            this._sExplanation.innerHTML = "ANSWER: " + this.Data.answer + "<BR/><BR/>" + this.Data.explanation;
+        else
+            this._sExplanation.innerHTML = "CORRECT!";
+        this._btnNext.style.display = "block";
+        this._btnNext.onclick = function () {
+            examEngine.nextQuestion();
+        };
         this.score(correct, onEnded.bind(this));
+    }
+    score(correct, onEnded) {
+        if (correct) {
+            examEngine.exam.correctCount += 1;
+            examEngine.updateScore();
+            examEngine.playCorrect(null);
+        }
+        else {
+            examEngine.exam.errorCount += 1;
+            examEngine.updateScore();
+        }
     }
     createButtons() {
         let sAnswers = this.ContentDocument.getElementById('sAnswers');
