@@ -19,18 +19,17 @@ class MultipleChoiceEngine extends Question {
 
     public checkAnswer(value) {
         this.enableControls(false);
-        let onEnded = function () {
-        };
         let correct: boolean = value === this.Data.answer;
-        if (this._sExplanation && !correct && this.Data.explanation)
-            this._sExplanation.innerHTML = "ANSWER: " + this.Data.answer + "<BR/><BR/>" + this.Data.explanation;
+        let explanation = (this.Data.explanation? "<BR/><BR/>Explanation: " + this.Data.explanation: "");
+        if (!correct && this.Data.explanation)
+            this._sExplanation.innerHTML = "INCORRECT<BR/><BR/>Answer: " + this.Data.answer + explanation;
         else
-            this._sExplanation.innerHTML = "CORRECT!";
+            this._sExplanation.innerHTML = "CORRECT" + explanation;
         this._btnNext.style.display = "block";
         this._btnNext.onclick = function () {
             examEngine.nextQuestion();
         }
-        this.score(correct, onEnded.bind(this));
+        this.score(correct, null);
     }
 
     public score(correct: boolean, onEnded?) {

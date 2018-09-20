@@ -1152,7 +1152,7 @@
         "Developing",
         "Testing"
       ],
-      "explanation": "Extreme Programming defines four core activities necessary to meet its stated goal. These include: Listening – Programmers must listen to customers and understand the business processes; Designing – Software must be designed as components without complexity or dependencies between components; Coding – Is the meat of the methodology. It is the most important part according to XP advocates; and Testing – The team must test a functionality."
+      "explanation": "Extreme Programming defines four core activities necessary to meet its stated goal. These include: <br />Listening – Programmers must listen to customers and understand the business processes; <br />Designing – Software must be designed as components without complexity or dependencies between components; <br />Coding – Is the meat of the methodology. It is the most important part according to XP advocates; <br />and Testing – The team must test a functionality."
     },
     {
       "questionType": "Multiple Choice",
