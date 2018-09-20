@@ -1,0 +1,546 @@
+{
+  "title": "Stakeholder Engagement",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "The team is discussing why the need to conduct periodic reviews with the business stakeholders. Which of the following is NOT a commonly cited reason?",
+      "answerIndex": 3,
+      "items": [
+        "Periodic reviews help ensure the team is knowledgeable about stakeholder's interests and needs.",
+        "Periodic reviews help to empower the business stakeholders to communicate throughout the organization about the project.",
+        "Periodic reviews help ensure the unimpeded flow of information and value throughout the project.",
+        "Periodic reviews ensure the right stakeholders are making key feature and product decisions throughout the project lifecycle."
+      ],
+      "explanation": "There are a lot of reasons why the team needs to hold periodic reviews. However, the fact that the team is holding reviews does not ensure the best stakeholders are present and making feature decisions."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common task found used in managing stakeholder expectations?",
+      "answerIndex": 1,
+      "items": [
+        "Provide forecasts in order to allow stakeholders to plan effectively.",
+        "Establish transparency of all budgets and strategic components with all stakeholders.",
+        "Establish and maintain a shared understanding of success criteria, deliverables, and acceptable trade-offs with key stakeholders.",
+        "Establish a shared vision of the various project increments."
+      ],
+      "explanation": "The tasks grouped as manage stakeholder expectations include: Establish a shared vision of the various project increments (products, deliverables, releases, iterations) by developing a high level vision and supporting objectives in order to align stakeholders’ expectations and build trust. Establish and maintain a shared understanding of success criteria, deliverables, and acceptable trade-offs by facilitating awareness among stakeholders in order to align expectations and build trust. Provide transparency regarding work status by communicating team progress, work quality, impediments, and risks in order to help the primary stakeholders make informed decisions. Provide forecasts at a level of detail that balances the need for certainty and the benefits of adaptability in order to allow stakeholders to plan effectively."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following represent a quick, simple and inexpensive tool you might use to represent a new website?",
+      "answerIndex": 0,
+      "items": [
+        "Wireframes",
+        "Venn diagrams",
+        "Object models",
+        "Ishikawa diagrams"
+      ],
+      "explanation": "Wireframes represent quick, cheap and simple tool. In Agile parlance we refer to tools like these as low fidelity. They represent rough representations of the systems that help the team validate key concepts early in the design process. Simply put, wireframes are used for quick mockups of screens and interfaces typically used with thin client and client server technology."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a reason to use wireframes?",
+      "answerIndex": 1,
+      "items": [
+        "Wireframes are cheap.",
+        "Wireframes allow the team to accurately present highly complex solutions.",
+        "Wireframes represent rough representations of the system.",
+        "Wireframes represent a low fidelity solution."
+      ],
+      "explanation": "Wireframes represent quick, cheap and simple tool. In Agile parlance we refer to tools like these as low fidelity. They represent rough representations of the systems that help the team validate key concepts early in the design process. Simply put, wireframes are used for quick mockups of screens and interfaces typically used with thin client and client server technology."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is often referred to as archetypal descriptions of a system user?",
+      "answerIndex": 3,
+      "items": [
+        "Wireframes",
+        "User stories",
+        "Visualizations",
+        "Personas"
+      ],
+      "explanation": "Personas are written descriptions of system users. They are referred to as archetypal descriptions of a user of the system. In this case, archetypal refers to a specific sample user that has characteristics that are very typical for the system users. However, the persona is NOT a real person."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning personas is NOT true?",
+      "answerIndex": 2,
+      "items": [
+        "Personas are written descriptions of system users.",
+        "Personas are archetypal description of a system users.",
+        "Personas represent real people.",
+        "Personas are both tangible and actionable."
+      ],
+      "explanation": "Personas are written descriptions of system users. They are referred to as archetypal descriptions of a user of the system. In this case, archetypal refers to a specific sample user that has characteristics that are very typical for the system users. However, the persona is NOT a real person. Simply put, a persona is grounded in reality."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements about personas is true?",
+      "answerIndex": 0,
+      "items": [
+        "Personas are used to help the team generate focus towards who the system's users are and what they really want.",
+        "Personas are not actionable.",
+        "Personas represent real people.",
+        "Personas are often used to replace traditional requirements development processes."
+      ],
+      "explanation": "A persona is grounded in reality. They are used to help the team generate focus towards who the system’s users are and what they really want. One of the key aspects of personas is the fact that they are both tangible and actionable. Personas create a powerful likeness of a user that allows the developer to build functionality around the personas’ needs. However, this tool does not replace requirements."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Who first introduced personas to agile development?",
+      "answerIndex": 1,
+      "items": [
+        "Mike Cohn",
+        "Alan Cooper",
+        "Lyssa Adkins",
+        "Ken Schwaber"
+      ],
+      "explanation": "Personas where first introduced by Alan Cooper for software development projects. He argued that software must be designed for a specific person. In this way, personas differ from Use Cases."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Why were user stories originally created?",
+      "answerIndex": 0,
+      "items": [
+        "User stories were created as the primary vehicle for defining features or work packages within Scrum.",
+        "User stories represent multiple rows combined on the product backlog.",
+        "User stories represent the perspective of the developer.",
+        "User stories allow the team to get an specific time estimate it will take to development the feature."
+      ],
+      "explanation": "Originally created as the primary vehicle for defining features or Work Packages in Scrum, User Stories represent features written from the perspective of the end user. Each Story represents a single row or item in the Product Backlog. Hence, they are sometimes referred to as Product Backlog Items or PBIs. Because the User Stories represent the primary vehicle for defining the features on a project, there must be some way of creating estimates at the Story level."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following represents the correct form of the user story?",
+      "answerIndex": 2,
+      "items": [
+        "As a function I must produce the specific result.",
+        "If I produce this result I may success criteria.",
+        "As a role, I need to function so that I may success criteria.",
+        "As a job, I need to complete my function so that I may achieve."
+      ],
+      "explanation": "User Stories always appear in the form of “As a ROLE, I need to FUNCTION so that I may SUCCESS CRITERIA. This single sentence or sometimes pair of sentences appear incredibly simplistic, but there are very powerful. User Stories are always written in the language of the business because the providing a primary bridging tool between developers and the customer. Additionally, each Story must provide acceptance criteria and must be testable."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT key to well formed user story?",
+      "answerIndex": 3,
+      "items": [
+        "Each user story must be testable.",
+        "Each user story must contain acceptance criteria.",
+        "User stories must be written in the language of the business.",
+        "User stories must represent key themes of the project."
+      ],
+      "explanation": "User Stories always appear in the form of “As a ROLE, I need to FUNCTION so that I may SUCCESS CRITERIA. This single sentence or sometimes pair of sentences appear incredibly simplistic, but there are very powerful. User Stories are always written in the language of the business because the providing a primary bridging tool between developers and the customer. Additionally, each Story must provide acceptance criteria and must be testable."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not a key advantage of user stories?",
+      "answerIndex": 2,
+      "items": [
+        "User stories are very incomplete.",
+        "User stories force developers and customers to speak.",
+        "User stories provide critical,detailed information about deliverables.",
+        "User stories better represent amorphous requirements, especially early in the project."
+      ],
+      "explanation": "The absence of too much detail is seen by Agilists as an advantage. Having or attempting to have too much detail in the early stages of the project often causes the team to focus on features and/or requirements that change or disappear as the project progresses. When this happens in non-Agile projects it often causes costs to dramatically increase without providing any benefit. This avoidance of detail allows the team to adapt and change the requirements as the project progresses. Finally, User Stories simply acknowledge the fact that all requirements are not known at the beginning of the project. Requirements the Agilist contend are amorphous, often poorly or misunderstood in the early phases of the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the three Cs of user stories?",
+      "answerIndex": 1,
+      "items": [
+        "The card",
+        "The cadence",
+        "The conversation",
+        "The confirmation"
+      ],
+      "explanation": "The three Cs of user stories include: The Card — The brief description must have meaning to both the team and the product owner. It is the bridge between the developer and customer. The Conversation — This is the most important part. The card is not enough to write code. The card leads to a conversation to ensure understanding. The Confirmation — This is the success criteria. It gives us the high-level criteria against which the resulting feature will be tested."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of a user story's three Cs is considered MOST important by agilists?",
+      "answerIndex": 2,
+      "items": [
+        "The card",
+        "The cadence",
+        "The conversation",
+        "The confirmation"
+      ],
+      "explanation": "The Conversation — This is the most important part. The card is not enough to write code. The card leads to a conversation to ensure understanding."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT part of the user story acronym INVEST?",
+      "answerIndex": 0,
+      "items": [
+        "Interconnected",
+        "Negotiable",
+        "Valuable",
+        "Estimable"
+      ],
+      "explanation": "INVEST represents six steps every agilist must take to get the most out of User Stories. These items include: Independent, negotiable, valuable, estimable, small, and testable."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT part of the user story acronym INVEST?",
+      "answerIndex": 2,
+      "items": [
+        "Testable",
+        "Negotiable",
+        "Significant",
+        "Estimable"
+      ],
+      "explanation": "INVEST represents six steps every agilist must take to get the most out of User Stories. These items include: Independent, negotiable, valuable, estimable, small, and testable."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When creating non-functional or system-based stories which of the following represents the most common format?",
+      "answerIndex": 1,
+      "items": [
+        "As a ROLE, I need to FUNCTION so that I may SUCCESS CRITERIA.",
+        "Given, When, Then",
+        "If, Else, Then",
+        "Whereas, Therefore, Then"
+      ],
+      "explanation": "Another form of User Stories is the Given, When, Then format. This format is used for non-functional or system-based stories."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The Definition of Done states that before a project can truly be considered complete it must be what?",
+      "answerIndex": 3,
+      "items": [
+        "Designed, developed, and demonstrated",
+        "Defined, coded, and integrated",
+        "Declared, defined, and developed",
+        "Designed, coded, and fully tested"
+      ],
+      "explanation": "The Definition of Done states that before anything can truly be declared complete it must be designed, coded and fully tested. Each of these steps represent small incremental steps necessary in any software project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the process of improving the internal structure of an existing program's source code, while preserving its external behavior called?",
+      "answerIndex": 1,
+      "items": [
+        "Test-driven development",
+        "Refactoring",
+        "Design-build",
+        "Object-oriented development"
+      ],
+      "explanation": "Refactoring consists of improving the internal structure of an existing program's source code, while preserving its external behavior. The noun \"refactoring\" refers to one particular behavior-preserving transformation, such as \"Extract Method\" or \"Introduce Parameter\". Refactoring does not mean simply rewriting code, fixing bugs or improving observable aspects of software such as its interface. Refactoring in the absence of safeguards against introducing defects (i.e. violating the \"behavior preserving\" condition) is risky."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a key benefit of refactoring defined by the Agile Alliance?",
+      "answerIndex": 2,
+      "items": [
+        "Refactoring improves objective attributes of code that correlate with ease of maintenance.",
+        "Refactoring encourages each developer to think about and understand key design decisions, in the context of collective code ownership.",
+        "Refactoring helps stakeholders understand key development components and architecture.",
+        "Refactoring favors the emergence of reusable design elements and code modules."
+      ],
+      "explanation": "According to the Agile Alliance, refactoring is done to provide the project a number of key benefits including: Refactoring improves objective attributes of code (length, duplication, coupling and cohesion, cyclomatic complexity) that correlate with ease of maintenance. Refactoring helps code understanding. Refactoring encourages each developer to think about and understand key design decisions, in the context of collective code ownership. Refactoring favors the emergence of reusable design elements (such as design patterns) and code modules."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When agilists talk about refactoring they may be referring to all of the following EXCEPT:",
+      "answerIndex": 3,
+      "items": [
+        "A particular behavior-preserving transformation",
+        "The extract method",
+        "The introduce parameter",
+        "Code rewriting"
+      ],
+      "explanation": "The noun \"refactoring\" refers to one particular behavior-preserving transformation, such as \"Extract Method\" or \"Introduce Parameter\". Refactoring does not mean simply rewriting code, fixing bugs or improving observable aspects of software such as its interface."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Refactoring in the absence of safeguards against introducing defects is considered risky. Examples of safeguards include all of the following EXCEPT:",
+      "answerIndex": 0,
+      "items": [
+        "Composite testing",
+        "Automated unit tests",
+        "Automated acceptance tests",
+        "Type systems"
+      ],
+      "explanation": "Refactoring does not mean simply rewriting code, fixing bugs or improving observable aspects of software such as its interface. Refactoring in the absence of safeguards against introducing defects (i.e. violating the \"behavior preserving\" condition) is risky. Safeguards include aids to regression testing including automated unit tests or automated acceptance tests, and aids to formal reasoning such as type systems."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to the Agile Alliance, which of the follow is representative of the beginning skill level of refactoring?",
+      "answerIndex": 1,
+      "items": [
+        "Knows and is able to remedy a broader range of \"code smells\".",
+        "Can use some automated refactorings from the IDE.",
+        "Can chain several refactorings to carry out a design intention, in awareness of the dependencies between refactorings.",
+        "Refactors continuously, rather than in sporadic and lengthy sessions."
+      ],
+      "explanation": "The beginning level of refactoring includes concepts such as: Knows the definition of \"refactoring\". Can use some automated refactorings from the IDE. Can perform some refactorings by hand. Is aware of the risks of regression from manual and automated refactorings. Is aware of code duplication and can remove it by refactoring."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to the Agile Alliance, which of the follow is representative of the intermediate skill level of refactoring?",
+      "answerIndex": 2,
+      "items": [
+        "Is aware of the risks of regression from manual and automated refactorings",
+        "Is aware of code duplication and can remove it by refactoring.",
+        "Knows and is able to remedy a broader range of \"code smells\".",
+        "Applies refactorings to non-code elements such as database schema, documents, etc."
+      ],
+      "explanation": "The intermediate level of refactoring includes concepts such as: Knows and is able to remedy a broader range of \"code smells\". Can chain several refactorings to carry out a design intention, in awareness of the dependencies between refactorings. Refactors continuously, rather than in sporadic and lengthy sessions."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to the Agile Alliance, which of the follow is NOT representative of the advanced skill level of refactoring?",
+      "answerIndex": 3,
+      "items": [
+        "Has an acute sense of code duplication and coupling.",
+        "Applies refactorings to non-code elements such as database schema, documents, etc.",
+        "Uses refactoring to guide large bodies of code toward design styles intentionally chosen from a broad palette: object-oriented, functional, or inspired by known design patterns.",
+        "Can chain several refactorings to carry out a design intention, in awareness of the dependencies between refactorings."
+      ],
+      "explanation": "The advanced level of refactoring includes concepts such as: Has an acute sense of code duplication and coupling. Applies refactorings to non-code elements such as database schema, documents, etc. Uses refactoring to guide large bodies of code toward design styles intentionally chosen from a broad palette: object-oriented, functional, or inspired by known design patterns."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When Agilists discuss the temperature of communication to what are they referring?",
+      "answerIndex": 0,
+      "items": [
+        "Communication temperature defines how the communication brings people together and helps promote a positive or negative feelings about whatever is being discussed.",
+        "The temperature of cummunication defines how angry the message makes the recipient.",
+        "The temperature of communication defines the level of emotional intensity displayed in the exchange between two parties.",
+        "Communication temperature defines the proximity in language, tone and intangibles between two parties when attempting to share complex information."
+      ],
+      "explanation": "When Agilists refer to communication temperature they are talking about how the communication brings people together and helps promote a positive or negative feeling about whatever is being discussed. Warm communication helps the participants have a positive feeling about the message. Cold communication causes the participants to have the opposite feeling, negative. The temperature of the communication impacts its overall effectiveness."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A senior executive in your organization is concerned about stakeholders having negative feelings about the communication the team is providing. Which of the following tool is likely to be most effective in addressing this concern?",
+      "answerIndex": 1,
+      "items": [
+        "Email",
+        "Face-to-face communication",
+        "Video conferencing",
+        "Teleconferencing"
+      ],
+      "explanation": "The temperature of the communication impacts its overall effectiveness. The warmer the communication the more effective it is. Based on these two axis, the graph generates two curves. The first curve represents naturally cold communication methods such as old-fashioned paper documents, audio recordings, or video recordings. All of these techniques struggle because they lack the ability to provide question and answer time. At the bottom of the warm curve is email. Although it does provide a method to get questions answered, it encounters delays and often suffers from misinterpretation. The most effective way to communicate is always face-to-face because each party can see the other’s expression and respond."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common agile information radiator?",
+      "answerIndex": 2,
+      "items": [
+        "Brundown charts",
+        "Burnup charts",
+        "The product backlog",
+        "A velocity tracking chart"
+      ],
+      "explanation": "Information Radiators represent a number of highly visible methods to display information including large charts, graphs, and summaries of project data. There are sometimes referred to as visual controls according to famed Agilist Alistair Cockburn. This course has already introduced a number of information radiators such as Burndown or Burn-Up Charts. However, there are a number of other visualizations used in Agile Development such as Average Cycle Time Charts, Cumulative Flow Diagrams, Earned Value Management Systems Diagrams, or a Velocity Tracking Chart."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to top expert Scott Ambler when does the value of Agile Modeling peak?",
+      "answerIndex": 0,
+      "items": [
+        "Early in the project lifecycle.",
+        "Late in the project lifecycle.",
+        "Whenever it is used.",
+        "In the middle of the project lifecycle."
+      ],
+      "explanation": "To get the highest value focus on the value Agilists get from the practice. Scott Ambler, a top expert in Agile Modeling argues that Agile Modeling’s value peaks earlier than traditional theory leads us to believe."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a fundamental practice found in Agile Modeling?",
+      "answerIndex": 3,
+      "items": [
+        "Creating several models in parallel.",
+        "Applying the right artifact(s) for the situation.",
+        "Iterating to another artifact to continue moving forward at a steady pace.",
+        "Creating the product backlog."
+      ],
+      "explanation": "To model in an agile manner you will apply AM's practices as appropriate. Fundamental practices include creating several models in parallel, applying the right artifact(s) for the situation, and iterating to another artifact to continue moving forward at a steady pace."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common form of agile modeling?",
+      "answerIndex": 2,
+      "items": [
+        "A UML package diagram",
+        "Physical data model",
+        "Requirements document",
+        "System use case template"
+      ],
+      "explanation": "The list of potential agile models is huge, but a traditional requirements document does not appear on it."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In which level of active listening is it when the listener is focused on putting themselves in the mind of the speaker?",
+      "answerIndex": 1,
+      "items": [
+        "Level I",
+        "Level II",
+        "Level III",
+        "Level IV"
+      ],
+      "explanation": "There are three different levels of Active Listening. Level I — Internal Listening. When a person uses Internal Listening the ask how the topic being discussed is going to affect them personally. The listener is looking out for their own self interests and not thinking in terms of anyone else. Level II — Focused Listening. When a person reaches this level they are focused on putting themselves in the mind of the speaker. Level III — Global Listening. When a person enters Level III they build on Level II to pick up on the physical and environmental indicators from and surrounding the person speaking."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In which level of active listening is it when the listener is picking up on the physical and environmental indicators from and surrounding the person speaking?",
+      "answerIndex": 2,
+      "items": [
+        "Level I",
+        "Level II",
+        "Level III",
+        "Level IV"
+      ],
+      "explanation": "There are three different levels of Active Listening. Level I — Internal Listening. When a person uses Internal Listening the ask how the topic being discussed is going to affect them personally. The listener is looking out for their own self interests and not thinking in terms of anyone else. Level II — Focused Listening. When a person reaches this level they are focused on putting themselves in the mind of the speaker. Level III — Global Listening. When a person enters Level III they build on Level II to pick up on the physical and environmental indicators from and surrounding the person speaking."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following conflict resolution modes is the first to provide a permanent resolution to a conflict, but also runs the risk of not providing the optimal solution?",
+      "answerIndex": 1,
+      "items": [
+        "Smoothing",
+        "Compromising",
+        "Forcing",
+        "Problem solving"
+      ],
+      "explanation": "Compromise is the first conflict resolution mode that provides a permanent solution. However, it is also considered suboptimal because compromise is all about both parties finding the solution with which they can live. They are not interested in finding the best solution. Therefore neither party is totally satisfied. The two parties care a medium amount for the other party and a medium amount about the issue."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following conflict resolution modes is considered optimal in MOST situations?",
+      "answerIndex": 3,
+      "items": [
+        "Smoothing",
+        "Compromising",
+        "Forcing",
+        "Problem solving"
+      ],
+      "explanation": "Problem solving is also referred to as confronting and is the preferred mode to resolve any conflict. When problem solving, both parties have a high regard for each other and for the issue being discussed. The parties are more concerned over finding the correct solution rather than just having their solution."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What distinguishes the Speed B. Leas Conflict Model from other conflict tools?",
+      "answerIndex": 0,
+      "items": [
+        "Speed B. Leas defines the conflict itself instead of how to resolve it.",
+        "Speed B. Leas defines more tools to resolve the conflict.",
+        "Speed B. Leas defines fewer methods to resolve the conflict.",
+        "Speed B. Lease defines specific roles that participants in conflicts assume."
+      ],
+      "explanation": "Speed Leas is a nationally known consultant to religious organizations and an educator of church leaders, including pastors, laity, and church executives. Since 1967 he worked full-time as a teacher and consultant to ecclesiastical groups throughout the U.S. and Canada. He has an extensive background as a management consultant to churches and synagogues and has earned a special reputation as an authority on conflict. His model establishes five levels that describe the conflict itself instead of how it is resolved."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "At what level of the Speed B. Leas Conflict Model is a team that is characterized by team members communicating in a guarded manner that is often unclear and open to interpretation. The atmosphere and environment at this level is defined by self-protection becoming important. Team members at this level tend to distance themselves from the debate, and many discussions happen off-line outside the team environment. Often good-natured joking changes and becomes half-joking barbs?",
+      "answerIndex": 1,
+      "items": [
+        "Level I",
+        "Level II",
+        "Level III",
+        "Level IV"
+      ],
+      "explanation": "The Speed B. Leas Conflict Model establishes five levels that describe the conflict itself instead of how it is resolved. Level II is called Disagreement and is defined as: The second level Leas’ model is characterize by personal protection trumping the resolution of the conflict. Team members communicate in a guarded manner that is often unclear and open to interpretation. The atmosphere and environment at this level is defined by self-protection becoming important. Team members at this level tend to distance themselves from the debate, and many discussions happen off-line outside the team environment. Often good-natured joking changes and becomes half-joking barbs."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A what level of the Speed B. Leas Conflict Model is a team that is characterized by the team being focused on winning to protecting one�s own group? At this level, people are either part of your group or they are the enemy. This is a ideological position, us versus them that creates an environment where resolving the situation is not good enough. Team members must protect the members of their own team because they believe the people �on the other side� will not change and need to be removed.",
+      "answerIndex": 2,
+      "items": [
+        "Level II",
+        "Level III",
+        "Level IV",
+        "Level V"
+      ],
+      "explanation": "The Speed B. Leas Conflict Model establishes five levels that describe the conflict itself instead of how it is resolved. Level IV — Crusade. Leas’ fourth level transitions the team from simply winning to protecting one’s own group. People are either part of your group or they are the enemy. This is a ideological position, us versus them that creates an environment where resolving the situation is not good enough. Team members must protect the members of their own team because they believe the people “on the other side” will not change and need to be removed."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A what level of the Speed B. Leas Conflict Model is a team that is characterized by the team being focused on the team being almost rabid as the battle cry is destroy the other side! When in this level there is little or no communication between the two sides. In many cases the combatants must physically be separated as physical violence becomes possible. Unfortunately, no constructive outcome is possible.",
+      "answerIndex": 3,
+      "items": [
+        "Level II",
+        "Level III",
+        "Level IV",
+        "Level V"
+      ],
+      "explanation": "The Speed B. Leas Conflict Model establishes five levels that describe the conflict itself instead of how it is resolved. Level V — World War. This level is almost rabid as the battle cry is destroy the other side! There is little or no communication between the two sides. In many cases the combatants must physically be separated as physical violence becomes possible. Unfortunately, no constructive outcome is possible."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a commonly used participatory decision model used in agile development?",
+      "answerIndex": 1,
+      "items": [
+        "Thumbs up / down / sideways",
+        "Cockran's decision matrix",
+        "Highsmith's decision spectrum",
+        "Fist-of-five voting"
+      ],
+      "explanation": "There are many different decision models a team might use. The most common you might see on the exam include simple voting, thumbs up / down / sideways, Highsmith's decision spectrum, and fist-of-five voting."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When discussing the difference between management and leadership from an agile perspective which is emphasized by the agilist?",
+      "answerIndex": 2,
+      "items": [
+        "Management",
+        "Agile management",
+        "Leadership",
+        "Agile leadership"
+      ],
+      "explanation": "Agile emphasizes the importance of leadership. While management is necessary, leadership is absolutely critical. Sometimes these terms are used as synonyms, but they are not the same. Management is about controlling tasks and things. It focuses on achieving efficiency, and ensuring that the right things are done. Management works to achieve speed and control the team’s practices. It is a set of practices based on a command and control mentality. Leadership is all about people and relationships. The goal of the leader is to empower people, to find every possible way to help the team become more effective. Leaders help the team find their direction and establish guiding principles. The leader often acts as a facilitator helping the team to communicate."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to Greenleaf, what is the primary focus of the servant-leader?",
+      "answerIndex": 0,
+      "items": [
+        "The growth and well-being of the people and the communities to which they belong.",
+        "The education and development of the staff.",
+        "The accumulation and exercise of power to benefit the team.",
+        "The care of the members of your team."
+      ],
+      "explanation": "A servant-leader focuses primarily on the growth and well-being of people and the communities to which they belong. While traditional leadership generally involves the accumulation and exercise of power by one at the “top of the pyramid,” servant leadership is different. The servant-leader shares power, puts the needs of others first and helps people develop and perform as highly as possible."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of Lyssa Adkins' 12 principles to be an agile leader?",
+      "answerIndex": 2,
+      "items": [
+        "Learn the team members' needs; Learn the project's requirements.",
+        "Act for the simultaneous welfare of the team and the project.",
+        "Begin with the end in mind.",
+        "Create and environment of functional accountability."
+      ],
+      "explanation": "Lyssa Adkins outlines 12 different principles that are key to being a successful Agile leader. These include: Learn the team members' needs; Learn the project's requirements; Act for the simultaneous welfare of the team and the project; create and environment of functional accountability; have a vision of the completed project; Use the project vision to drive your own behavior; Serve as the central figure in successful team development; recognize team conflict as a positive step; manage with an eye towards ethics; remember that ethics is not an afterthought, but an integral part of our thinking; take time to reflect on the project; and develop the trick of thinking backwards."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of Lyssa Adkins' 12 principles to be an agile leader?",
+      "answerIndex": 3,
+      "items": [
+        "Use the project vision to drive your own behavior.",
+        "Serve as the central figure in successful team development.",
+        "Recognize team conflict as a positive step.",
+        "Establish clear lines of communication and governance."
+      ],
+      "explanation": "Lyssa Adkins outlines 12 different principles that are key to being a successful Agile leader. These include: Learn the team members' needs; Learn the project's requirements; Act for the simultaneous welfare of the team and the project; create and environment of functional accountability; have a vision of the completed project; Use the project vision to drive your own behavior; Serve as the central figure in successful team development; recognize team conflict as a positive step; manage with an eye towards ethics; remember that ethics is not an afterthought, but an integral part of our thinking; take time to reflect on the project; and develop the trick of thinking backwards."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of Lyssa Adkins' 12 principles to be an agile leader?",
+      "answerIndex": 1,
+      "items": [
+        "1 Manage with an eye towards ethics; remember that ethics is not an afterthought, but an integral part of our thinking.",
+        "1 Make planning a habit not a chore.",
+        "1 Take time to reflect on the project",
+        "1 Develop the trick of thinking backwards."
+      ],
+      "explanation": "Lyssa Adkins outlines 12 different principles that are key to being a successful Agile leader. These include: Learn the team members' needs; Learn the project's requirements; Act for the simultaneous welfare of the team and the project; create and environment of functional accountability; have a vision of the completed project; Use the project vision to drive your own behavior; Serve as the central figure in successful team development; recognize team conflict as a positive step; manage with an eye towards ethics; remember that ethics is not an afterthought, but an integral part of our thinking; take time to reflect on the project; and develop the trick of thinking backwards."
+    }
+  ]
+}

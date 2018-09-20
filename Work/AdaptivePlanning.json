@@ -1,0 +1,318 @@
+{
+  "title": "Adaptive Planning",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "When comparing Agile Development to traditional, linear methods which of the following is true?",
+      "answerIndex": 2,
+      "items": [
+        "Agile Development requires less planning than traditional, linear methods.",
+        "Agile Development does as much planning as traditional, linear methods.",
+        "Agile Development often requires significantly more planning than traditional, linear methods.",
+        "Agile Development is more efficient because the planning process is heavily front loaded."
+      ],
+      "explanation": "Agile Development argue that the only way to successfully plan a project is to plan and then re-plan, and then re-plan some more. That’s right, Agile Development plans as much, if not more than linear development. The difference is that Linear Development pushes most, if not all, of this planning to the beginning of the project whereas Agile cycles through planning constantly as information becomes available."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Key to the concept of Agile Planning is the fact that Agilists accepts:",
+      "answerIndex": 0,
+      "items": [
+        "that early plans are inherently inaccurate which creates constant uncertainty.",
+        "that plans are an artificial construct of the traditional project manager",
+        "that planning is a necessary evil in the project process.",
+        "that the project planning process does not require strong process or cadence."
+      ],
+      "explanation": "The concept of Adaptive Planning accepts that early plans are inherently inaccurate which creates constant uncertainty, and it is this uncertainty that drives the need to re-plan. And, unlike what many traditionalists would have you believe this process does have structure and cadence that is key."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a component of timeboxing?",
+      "answerIndex": 2,
+      "items": [
+        "Timeboxes are short periods of time.",
+        "Timeboxes are fixed periods of time.",
+        "Timeboxes are primarily focused on the length of iterations.",
+        "Timeboxes impact almost every area of an agile project."
+      ],
+      "explanation": "Timeboxing represents short, fixed-duration periods of time in which the activities or work of the project take place. Timeboxing creates a difference from linear development. Instead of locking the scope of the project, timeboxing fixes the amount of time used for the phase, iteration, or meeting. Common examples of timeboxing include the Daily Scrum Meeting that is timeboxed to fifteen minutes, or a Scrum Sprint that is timeboxed to between two and six weeks."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT an example of something in an agile project that is timeboxed?",
+      "answerIndex": 3,
+      "items": [
+        "The Daily Scrum",
+        "The Scrum Sprint",
+        "The Sprint Retrospective",
+        "The Agile Project"
+      ],
+      "explanation": "Common examples of timeboxing include the Daily Scrum Meeting that is timeboxed to fifteen minutes, or a Scrum Sprint that is timeboxed to between two and six weeks."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the length of a Scrum Sprint according to the original rules of Scrum?",
+      "answerIndex": 1,
+      "items": [
+        "2 to 6 weeks",
+        "30 days",
+        "2 weeks",
+        "6 weeks"
+      ],
+      "explanation": "The key to this question is the \"original rules of Scrum.\" Most current implementations of Scrum set a sprint duration at the beginning of the project between 2 and 6 weeks, the original rules said a sprint's length was 30 days."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "As an Agile Coach you advise a team that they shouldn't worry about not having all the project details at the beginning of the project because details naturally become apparent as the project progresses. This is an example of what?",
+      "answerIndex": 1,
+      "items": [
+        "The agile estimating process",
+        "Progressive elaboration",
+        "Decomposition",
+        "WBS Planning"
+      ],
+      "explanation": "Timeboxing is combined with another key Agile concept, Progressive Elaboration which is the process of capturing more detail over time as that information emerges. This concept sets the team up for greater success because it does not put pressure on the team to know everything up front. Progressive Elaboration is used constantly throughout the Agile process including estimating, Work Breakdown Structures, planning, acceptance criteria definition, and the entire testing process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is considered a type of progressive elaboration?",
+      "answerIndex": 0,
+      "items": [
+        "Rolling wave planning",
+        "WBS decomposition",
+        "Incremental planning components",
+        "Defined iteration planning"
+      ],
+      "explanation": "Rolling wave planning is detailed planning done for activities in the near term. Only high-level planning is done for necessary activities to be performed far into the future. When Rolling Wave Planning is used the team focuses on the detailed information they know. This information typically applies most to near term items. As the project moves forward the team adds more details to their plans. The is both an iterative and intermittent process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms represents the concept of the team changes the process over time to meet the ever changing needs of the project?",
+      "answerIndex": 0,
+      "items": [
+        "Process tailoring",
+        "WBS decomposition",
+        "Rolling wave planning",
+        "Defined iteration planning"
+      ],
+      "explanation": "Process tailoring is actually a very easy idea. It is the concept that the team changes the process over time to meet the ever changing needs of the project. Process Tailoring requires the team to answer a series of questions including: What is going well? What areas could use improvement? What should the team do differently? It is a form of progressive elaboration."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms references the sweet spot between products without the required features that fail the customer before even being used and the products with so many features that they reduce the overall return and increase the organizational risk?",
+      "answerIndex": 1,
+      "items": [
+        "The minimally marketable features",
+        "The minimum viable product",
+        "The product backlog",
+        "The baseline featureset"
+      ],
+      "explanation": "The Minimum Viable Product is defined as the product with the highest return on investment versus its risk. It is the sweet spot between products without the required features that fail the customer before even being used and the products with so many features that they reduce the overall return and increase the organizational risk. Often referred to as the MVP, the term Minimum Viable Product was first used by Frank Robinson and then popularized by Steve Blank and Eric Ries. A minimum viable product has just those core features that allow the product to be deployed, and no more."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common way of describing the MVP?",
+      "answerIndex": 2,
+      "items": [
+        "The sweet spot between products without the required features that fail the customer before even being used and the products with so many features that they reduce the overall return and increase the organizational risk.",
+        "The product with the highest return on investment versus its risk.",
+        "The MVP seeks to maximize the information learned about the customer regardless of dollar spent.",
+        "The MVP has just those core features that allow the product to be deployed, and no more."
+      ],
+      "explanation": "The Minimum Viable Product is defined as the product with the highest return on investment versus its risk. It is the sweet spot between products without the required features that fail the customer before even being used and the products with so many features that they reduce the overall return and increase the organizational risk. Often referred to as the MVP, the term Minimum Viable Product was first used by Frank Robinson and then popularized by Steve Blank and Eric Ries. A minimum viable product has just those core features that allow the product to be deployed, and no more. The product is typically deployed to a subset of possible customers, such as early adopters that are thought to be more forgiving, more likely to give feedback, and able to grasp a product vision from an early prototype or marketing information. It is a strategy targeted at avoiding building products that customers do not want, that seeks to maximize the information learned about the customer per dollar spent."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following has just the core features that allow the product to be deployed, and no more?",
+      "answerIndex": 1,
+      "items": [
+        "The minimally marketable features",
+        "The minimum viable product",
+        "The product backlog",
+        "The baseline featureset"
+      ],
+      "explanation": "The Minimum Viable Product is defined as the product with the highest return on investment versus its risk. It is the sweet spot between products without the required features that fail the customer before even being used and the products with so many features that they reduce the overall return and increase the organizational risk. Often referred to as the MVP, the term Minimum Viable Product was first used by Frank Robinson and then popularized by Steve Blank and Eric Ries. A minimum viable product has just those core features that allow the product to be deployed, and no more. The product is typically deployed to a subset of possible customers, such as early adopters that are thought to be more forgiving, more likely to give feedback, and able to grasp a product vision from an early prototype or marketing information. It is a strategy targeted at avoiding building products that customers do not want, that seeks to maximize the information learned about the customer per dollar spent."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following provides a a strategy targeted at avoiding building products that customers do not want, that seeks to maximize the information learned about the customer per dollar spent?",
+      "answerIndex": 3,
+      "items": [
+        "The product backlog",
+        "The baseline featureset",
+        "The minimally marketable features",
+        "The minimum viable product"
+      ],
+      "explanation": "The Minimum Viable Product is defined as the product with the highest return on investment versus its risk. It is the sweet spot between products without the required features that fail the customer before even being used and the products with so many features that they reduce the overall return and increase the organizational risk. Often referred to as the MVP, the term Minimum Viable Product was first used by Frank Robinson and then popularized by Steve Blank and Eric Ries. A minimum viable product has just those core features that allow the product to be deployed, and no more. The product is typically deployed to a subset of possible customers, such as early adopters that are thought to be more forgiving, more likely to give feedback, and able to grasp a product vision from an early prototype or marketing information. It is a strategy targeted at avoiding building products that customers do not want, that seeks to maximize the information learned about the customer per dollar spent."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following represents the smallest set of functionality that must be realized in order for the customer to perceive value?",
+      "answerIndex": 0,
+      "items": [
+        "The minimally marketable features",
+        "The minimum viable product",
+        "The product backlog",
+        "The baseline featureset"
+      ],
+      "explanation": "Above the MVP is the MMF, or the Minimally Marketable Features. The MMF represents the smallest set of functionality that must be realized in order for the customer to perceive value."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In examining the Agile Pyramid, what is found beneath the concepts of Lean Thinking?",
+      "answerIndex": 3,
+      "items": [
+        "XP",
+        "Scrum",
+        "Agile software development",
+        "Organizational learning"
+      ],
+      "explanation": "At the bottom of the pyramid is basic organizational learning. This is getting better over time, making mistakes, and learning from them. Above this level is Lean Thinking which describes a way of examining and viewing projects. Its ideas largely come from the manufacturing arena, and it’s ideas are adaptable to most projects. Above this are the basics of Agile Software Development described by the Agile Principles and the Agile Manifesto. At the top of this pyramid are the specific Agile Methodologies of Extreme Programming and Scrum."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following types of tests sits at the bottom of the Agile Test Pyramid?",
+      "answerIndex": 3,
+      "items": [
+        "GUI tests",
+        "UAT / Beta tests",
+        "Integration tests",
+        "Unit tests"
+      ],
+      "explanation": "The third use of the Agile Triangle is called the Agile Test Pyramid. At the lowest level are the individual unit tests. These tests cover the individual features, are automated and done by the developer who writes the code."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What kind of tests have purpose of the customer determining if the delivered functionality works as promised?",
+      "answerIndex": 1,
+      "items": [
+        "UAT beta tests",
+        "Acceptance tests",
+        "Integration tests",
+        "Unit tests"
+      ],
+      "explanation": "The third level of the Agile Testing Pyramid are the Acceptance Tests. These tests are typically run by a quality assurance group or other group that represents the business. The purpose of these tests is for the customer to determine if the delivered functionality works as promised."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The BEST definition of value-based analysis is:",
+      "answerIndex": 0,
+      "items": [
+        "The process of prioritizing features of greatest value to the customer highest.",
+        "The process of ordering features based on cost.",
+        "The process of modeling the project's featureset based on the organization's definition of value.",
+        "The process of prioritizing features based on organizational revenue impact."
+      ],
+      "explanation": "Value-based analysis demands the team prioritize the features and/or the work of the project in a way that always ranks the items of greatest value to the customer highest. However, this process cannot be done blindly and must include the cost of delivering the feature as part of its calculation of value. True Agile Planning requires the leader to initiate this process even earlier at the point of eliciting the requirements from stakeholders, before ranking the requirements, and then pulling the prioritized requirements into the development process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the goal of most agile games?",
+      "answerIndex": 1,
+      "items": [
+        "To help the team define the minimally viable product.",
+        "To present an engaging way for the team to work with each other and the customer to discover new information needed to succeed.",
+        "To present an engaging way for the team to work with the customer to define the definition of success.",
+        "To help the customer understand the agile process used by the team."
+      ],
+      "explanation": "The goal of almost every Agile game is to present an engaging way for the team to work with each other and the customer to discover new information needed to succeed."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which agile game has the group spends the first 20-minutes of the exercise writing independent thoughts down on the PostIts™ representing what a perfect outcome would look like for the team and customer where each stickie represents a unique and independent idea.",
+      "answerIndex": 2,
+      "items": [
+        "Prune the product tree",
+        "Buy a feature",
+        "Remember the future",
+        "Bang for the buck"
+      ],
+      "explanation": "is a brainstorming game designed for teams and customers who are meeting in a conference room or other shared space. It focused the group on the conditions of a future state to determine what is important to everyone. Each member of the group works independently with a pad of PostIt Notes™. The group spends the first 20 minutes of the exercise writing independent thoughts down on the PostIts™ representing what a perfect future would look like for the team and customer. It is important that each stickie represents a unique and independent idea. Once the team has completed their writing exercise they are brought back together. The stickies are then brought together on a whiteboard or wall so duplicates can be removed and like items grouped."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following agile games focuses the group on potential project risks?",
+      "answerIndex": 3,
+      "items": [
+        "Wideband Delphi",
+        "Remember the future",
+        "Bank for the buck",
+        "Speedboat"
+      ],
+      "explanation": "Speedboat — This is a risk management exercise designed to work in conjunction with requirements gathering games such as Prune the Product Tree. In this exercise, the facilitator draws an image of a sailboat on a body of water. The group then proceeds to review the project requirements or features with a focus on discovering potential project risks. Speedboat uses the same 3” x 3” PostIts™ that the last game used. However, in this game they are used to represent potential project risks. Positive risks are placed in the sky and represent “wind” that can push the project forward. Negative risks are placed below the waterline and represent drag on the sailboat. Really big negative risks represent rocks that can potentially damage the hull of the boat and must be avoided at all costs."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which agile technique is designed to overcome the influence of a single resource and gain the advantages that come from have the entire group provide opinions?",
+      "answerIndex": 0,
+      "items": [
+        "Planning poker",
+        "Speedboat",
+        "Prune the product tree",
+        "Remember the future"
+      ],
+      "explanation": "Perhaps no Agile tool is as well known as Planning Poker. There are many different ways to do Planning Poker including regular playing cards and apps for both iDevices and Android phones or tablets. Regardless of the specific tool, they all work similarly. Planning Poker is similar to a Delphi technique for gathering estimates on a project. A Delphi Technique is used to overcome the influence of a single resource and gain the advantages that come from having an entire group provide opinions about how long and/or difficult project work is expected to be."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Agilist generally attempt to complete what kind of estimate?",
+      "answerIndex": 1,
+      "items": [
+        "Complete",
+        "Holistic",
+        "Accurate",
+        "Complex"
+      ],
+      "explanation": "Agilists try to create holistic estimates. A holistic estimate requires the inclusion of development costs, rollout costs, and sustainment costs as this additional information can significantly impact key decisions."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the agile concept using in estimating that requires resources to be 100% dedicated to a single project?",
+      "answerIndex": 3,
+      "items": [
+        "Affinity estimating",
+        "Fibonacci sequencing",
+        "Complete time",
+        "Ideal time"
+      ],
+      "explanation": "Ideal time is something every Agilist must consider regardless of the estimating technique used. Many projects struggle with their estimates because the planner assumes the resource is more dedicated than they are so they respond by adding significant safety to estimates. Ideal Time is an Agile concept that attempts to address this issue. It requires the Agilist to overtly state that resources are 100% dedicated to a single project. In Agile Development, multi-project assignments are not allowed."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Another name for the agile practice of Relative Sizing is:",
+      "answerIndex": 2,
+      "items": [
+        "Fibonacci sequencing",
+        "Affinity estimating",
+        "T-shirt sizing",
+        "Delphi technique"
+      ],
+      "explanation": "This is a technique often used in the very early stages of a project. It is often called T-Shirt sizing. This technique is comparative in nature and the estimates never represent actual expectations. Instead, a relative estimate allows the team to compare the size and complexity of one User Story against another. If one story is worth 5 Story Points we can then compare the next story to the first. Is it larger or smaller than the first? Is it easier or harder to produce than the first? Common Relative Sizing methods make use of T-Shirt sizes (Small, Medium, Large, Extra Large) or Planning Poker values."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your team has just completed its 3rd sprint where your delivered 14 story points, but had forecast delivering 18. At this point you should:",
+      "answerIndex": 3,
+      "items": [
+        "Conduct your retrospective.",
+        "Conduct your sprint review.",
+        "Adjust your plan to show the forecast of 14 points.",
+        "Place the uncompleted stories back on the product backlog."
+      ],
+      "explanation": "Agile development does not require the team to complete all the committed stories in every sprint. In fact, this tends to be the exception. When the team fails to complete stories in a sprint they are placed back in the product backlog to be reprioritized and worked in future sprints. Once this is done the team can turn their attention to the review and retrospective. You should never erase the orginal plan as it prevents the team from determining their actual candence."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You boss is comparing your team's productivity to another. Your team is currently producing 30 story points per sprint and the other team is completing 60. Your boss wants to know why they are 100% more productive. What do you tell them?",
+      "answerIndex": 2,
+      "items": [
+        "The teams are not the same size so their productivity won't be either.",
+        "The projects are for entirely different departments therefore the projects can't be compared.",
+        "Story points are unique to each project so their 60 has no comparison to your 30.",
+        "You team has had a difficult time with the project and will do better."
+      ],
+      "explanation": "When using story points it is critical that you remember that each project creates its own scale for the value of each point. Therefore, it is impossible to compare the value of productivity from one project to another using only story points."
+    }
+  ]
+}

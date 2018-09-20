@@ -1,0 +1,630 @@
+{
+  "title": "Boosting Team Performance",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is part of the team performance area?",
+      "answerIndex": 0,
+      "items": [
+        "Team empowerment",
+        "Team health",
+        "Team communication",
+        "Team cooperation"
+      ],
+      "explanation": "Team performance describes how well the project team is working together to achieve the desired project goal. Boosting that performance must be a central goal of every Agile leader. The domain is broken into three groupings of nine tasks that include: Team performance; Team empowerment; Team collaboration and commitment."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following tasks is NOT a task found in the team empowerment group of team performance?",
+      "answerIndex": 2,
+      "items": [
+        "Encourage team members to become generalizing specialists in order to reduce team size & bottlenecks, & to create a high-performing crossfunctional team.",
+        "Contribute to self-organizing the work by empowering others & encouraging emerging leadership in order to produce effective solutions & manage complexity.",
+        "Reduce distractions in order to establish a predictable outcome and optimize the value delivered.",
+        "Continuously discover team & personal motivators & de-motivators in order to ensure that team morale is high & team members are motivated & productive throughout the project."
+      ],
+      "explanation": "Team performance describes how well the project team is working together to achieve the desired project goal. Boosting that performance must be a central goal of every Agile leader. The domain is broken into three groupings of nine tasks that include: Team performance; Team empowerment; Team collaboration and commitment. The team empowerment area includes: Encourage team members to become generalizing specialists in order to reduce team size and bottlenecks, and to create a high-performing cross-functional team. Contribute to self-organizing the work by empowering others and encouraging emerging leadership in order to produce effective solutions and manage complexity. Continuously discover team and personal motivators and de-motivators in order to ensure that team morale is high and team members are motivated and productive throughout the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following tasks is NOT a task found in the team collaboration and commitment group of team performance?",
+      "answerIndex": 1,
+      "items": [
+        "Facilitate close communication within the team and the team and with appropriate external stakeholders through co-location or the use of collaboration tools in order to reduce miscommunication and rework.",
+        "Continuously discover team and personal motivators and de-motivators in order to ensure that team morale is high and team members are motivated and productive throughout the project.",
+        "Reduce distractions in order to establish a predictable outcome and optimize the value delivered.",
+        "Encourage the team to measure its velocity by tracking and measuring actual performance in previous iterations or releases in order for members to gain a better understanding of their capacity and create more accurate forecasts."
+      ],
+      "explanation": "Team performance describes how well the project team is working together to achieve the desired project goal. Boosting that performance must be a central goal of every Agile leader. The domain is broken into three groupings of nine tasks that include: Team performance; Team empowerment; Team collaboration and commitment. The team collaboration and commitment area includes: Facilitate close communication within the team and the team and with appropriate external stakeholders through co-location or the use of collaboration tools in order to reduce miscommunication and rework. Reduce distractions in order to establish a predictable outcome and optimize the value delivered. Participate in aligning project and team goals by sharing the project vision in order to ensure the team understands how their objectives fit into the overall goals of the project. Encourage the team to measure its velocity by tracking and measuring actual performance in previous iterations or releases in order for members to gain a better understanding of their capacity and create more accurate forecasts."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the primary use of COCOMO?",
+      "answerIndex": 2,
+      "items": [
+        "COCOMO is a team collaboration model.",
+        "COCOMO is forecasting tool.",
+        "COCOMO represents an estimating technique.",
+        "COCOMO is a resourcing model."
+      ],
+      "explanation": "The Constructive Cost Model was originally created based on a correlation study that originally looked at thousands of software projects between input variables and total project costs. The results of this study are used as an estimating technique. The algorithmic model was originally developed by Barry Boehm in 1981 as part of his book Software Engineering Economics as a model for estimating effort, cost, and scheduling on software projects. The model uses basic regression analysis based on historical data."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which version of COCOMO is best when the team is looking for a ROM estimate of software costs?",
+      "answerIndex": 0,
+      "items": [
+        "Basic COCOMO",
+        "Stage I COCOMO",
+        "Foundational COCOMO",
+        "Developmental COCOMO"
+      ],
+      "explanation": "The COCOMO model consists of a hierarchy of three versions. The initial level is called Basic COCOMO and is good for quick, early, rough order of magnitude, or ROM estimates of software costs, but its accuracy is limited due to its lack of factors to account for difference in project attributes. These are referred to as cost drivers. Intermediate COCOMO takes the Cost Drivers into account making it more accurate than Basic COCOMO. The third and final version is called Detailed COCOMO. It provides for the addition of project phases as a variable in the model."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which version of COCOMO provides the addition of project phases as a variable in the model?",
+      "answerIndex": 2,
+      "items": [
+        "Basic COCOMO",
+        "Intermediate COCOMO",
+        "Detailed COCOMO",
+        "Advanced COCOMO"
+      ],
+      "explanation": "The COCOMO model consists of a hierarchy of three versions. The initial level is called Basic COCOMO and is good for quick, early, rough order of magnitude, or ROM estimates of software costs, but its accuracy is limited due to its lack of factors to account for difference in project attributes. These are referred to as cost drivers. Intermediate COCOMO takes the Cost Drivers into account making it more accurate than Basic COCOMO. The third and final version is called Detailed COCOMO. It provides for the addition of project phases as a variable in the model."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning basic COCOMO is NOT true?",
+      "answerIndex": 3,
+      "items": [
+        "Basic COCOMO is good for quick estimates of software projects.",
+        "Basic COCOMO does not account for differences in hardware constraints.",
+        "Basic COCOMO does not account for differences in personnel quality and experience.",
+        "Basic COCOMO accounts for the use of modern tools and techniques."
+      ],
+      "explanation": "Basic COCOMO is good for quick estimate of software costs. However it does not account for differences in hardware constraints, personnel quality and experience, use of modern tools and techniques, and so on."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a core cost driver found in intermediate COCOMO?",
+      "answerIndex": 1,
+      "items": [
+        "Product attributes",
+        "Operational attributes",
+        "Hardware attributes",
+        "Personnel attributes"
+      ],
+      "explanation": "Intermediate COCOMO computes software development effort as function of program size and a set of \"cost drivers\" that include subjective assessment of product, hardware, personnel and project attributes. This extension considers a set of four \"cost drivers\", each with a number of subsidiary attributes: product attributes, hardware attributes, personnel attributes, and project attributes."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What kind of development model does the Detail COCOMO model use?",
+      "answerIndex": 0,
+      "items": [
+        "Waterfall",
+        "Scrum",
+        "Extreme programming",
+        "Any agile method"
+      ],
+      "explanation": "Detailed COCOMO builds on the Basic and Intermediate models that came before. The difference is that the Detailed Model takes those variables and adds an assessment of the cost driver’s impact at each step of the project process. It is important to remember that this Detailed Model uses a Waterfall-type model."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is the final step in the Detailed COCOMO process?",
+      "answerIndex": 3,
+      "items": [
+        "Detailed design",
+        "Module code and test",
+        "Integration and test",
+        "Cost Constructive Model"
+      ],
+      "explanation": "The five phases of detailed COCOMO are: Plan and requirement; System design; Detailed design; Module code and test; Integration and test; and Cost Constructive Model."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements about COCOMO is true?",
+      "answerIndex": 0,
+      "items": [
+        "COCOMO represents an equation-based method for estimating costs and duration based on a database of previously performed projects.",
+        "COCOMO represents a qualitative estimating technique based on subject matter expertise.",
+        "COCOMO represents a quantitative estimating technique based on subject matter expertise.",
+        "COCOMO represents a set of lookup tables used to generate cost estimates"
+      ],
+      "explanation": "The important thing to remember for the Exam is that COCOMO represents an equation-based method for estimating costs and duration based on a database of previously performed projects."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning Adaptive leadership is NOT true?",
+      "answerIndex": 2,
+      "items": [
+        "Adaptive leadership is a framework of ideas that allows the individual and team to adapt and thrive in challenging environments.",
+        "Adaptive leadership is based on a process of gradual and meaningful change that must occur constantly for the team to succeed.",
+        "Adaptive leadership is best when used on technical challenges to deliver a more responsive product or service to the customer.",
+        "Adaptive Leadership requires the Agilist to determine which practices are core to the future of the organization and the obstacles that prevent the team from making maximum use of those practices."
+      ],
+      "explanation": "Adaptive leadership is a central tool to the Agilist. It is a framework of ideas that allows the individual and team to adapt and thrive in challenging environments. It is based on a process of gradual and meaningful change that must occur constantly for the team to succeed. Adaptive Leadership requires the Agilist to determine which practices are core to the future of the organization and the obstacles that prevent the team from making maximum use of those practices. The team must then determine how to both remove the obstacles as well as develop and test the next set of practices before integrating those new practices into the existing environment."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A team member is struggling to deal with the high degree of change and ambiguity they are facing on the project. As an agile leader you coach them on the importance of adaptive leadership in agile development. Which of the following best justifies this path?",
+      "answerIndex": 2,
+      "items": [
+        "Adaptive leadership focuses on being willing to change for the betterment of the team.",
+        "Adaptive leadership embraces ambiguity as a cultural norm.",
+        "Adaptive leadership embraces taking risks that disrupt the status quo for better results.",
+        "Adaptive leadership promotes a flexible mindset in all aspects of project execution."
+      ],
+      "explanation": "Jim Highsmith contends that, “Creative (or adaptive) leadership includes embracing ambiguity, taking risks that disrupt the status quo, instituting new management styles, and faster decision making. Building operating dexterity includes simplifying whenever possible, managing systemic complexity (standardization in some cases), and promoting a fast and flexible mindset.”"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT something Jim Highsmith believe adaptive leaders need to do?",
+      "answerIndex": 0,
+      "items": [
+        "Create an agile environment full of dedicated agile professionals.",
+        "Create an Agile performance management system.",
+        "Determine operational, portfolio, and strategic agility aims.",
+        "Foster adaptable IT, product line, and product architectures."
+      ],
+      "explanation": "According to Jim Highsmith, just a few of the things adaptive leaders need to do include: Create an Agile performance management system; Align agile transformation efforts to business strategy; Determine operational, portfolio, and strategic agility aims; Facilitate a decentralized, empowered, collaborative workplace; Foster adaptable IT, product line, and product architectures; and create an Agile proficiency evaluation framework."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not a specific model described by Highsmith to help adapt and change in the chaotic environment described by agilists?",
+      "answerIndex": 1,
+      "items": [
+        "The Purpose Alignment Model",
+        "The Gibson Alignment Model",
+        "The Short-Horizon Model",
+        "The OODA Loop Model"
+      ],
+      "explanation": "Highsmith describes four specific models to help adapt and change in the chaotic environment described by agilists. These include: the Purpose Alignment Model; the Short-Horizon Model; the OODA Loop Model; and the Satir Change Model."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which Highsmith advocated adapt and change model is depicted by the argument that In a turbulent environment the importance of seeing reality without filters enhances the ability to identify opportunities and threats?",
+      "answerIndex": 3,
+      "items": [
+        "The Purpose Alignment Model",
+        "The Satir Change Model",
+        "The Short-Horizon Model",
+        "The OODA Loop Model"
+      ],
+      "explanation": "The way the basic OODA Model (using simple arrows around in a circle) is normally depicted—is somewhat deceptive because the fast- and normal- path is actually OOA (Observe, Orient, and Act). For really fast action, Boyd depended on training and experience guiding him directly to action, without a lengthy decision step. The decision step was usually performed after the fact, acting as a learning practice. Boyd also differentiated between observing and orienting—the first was seeing reality without filters, while orienting applied the filters of culture, experience, new information, and analysis. In a turbulent environment the importance of seeing reality without filters enhances the ability to identify opportunities and threats."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which Highsmith advocated adapt and change model is depicted by the argument that project are more effective when they have a roadmap targets large chunks of work onto a 6-18 month timeline. Within the roadmap, release plans, consisting of deployable chunks of work, are outlined in a 3 month timeline. And at the lowest level, 2-week iterations, consisting of small, useful chunks of work, are planned within each release.",
+      "answerIndex": 2,
+      "items": [
+        "The Purpose Alignment Model",
+        "The Satir Change Model",
+        "The Short-Horizon Model",
+        "The OODA Loop Model"
+      ],
+      "explanation": "A better Short-Horizon model for responding quickly to opportunities and threats is the roadmap, release, and iteration model used by software delivery teams. Business initiatives can be planned and executed with this model. A roadmap targets large chunks of work onto a 6-18 month timeline. Within the roadmap, release plans, consisting of deployable chunks of work, are outlined in a 3 month timeline. And at the lowest level, 2-week iterations, consisting of small, useful chunks of work, are planned within each release."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not a step found in the Tuckman Model?",
+      "answerIndex": 0,
+      "items": [
+        "Planning",
+        "Forming",
+        "Storming",
+        "Norming"
+      ],
+      "explanation": "Tuckman's model explains that as the team develops maturity and ability, relationships establish, and the leader changes leadership style. Beginning with a directing style, moving through coaching, then participating, finishing delegating and almost detached. The steps include: forming, storming, norming, performing, and adjourning."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following represents the correct order of steps found in the Tuckman Model?",
+      "answerIndex": 1,
+      "items": [
+        "Storming, forming, norming, performing, and adjourning",
+        "Forming, storming, norming, performing, and adjourning",
+        "Norming, forming, storming, performing, and adjourning",
+        "Norming, storming, forming, performing, and adjourning"
+      ],
+      "explanation": "Tuckman's model explains that as the team develops maturity and ability, relationships establish, and the leader changes leadership style. Beginning with a directing style, moving through coaching, then participating, finishing delegating and almost detached. The steps include: forming, storming, norming, performing, and adjourning."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which stage from the Tuckman Model represents a stage where decisions fail to come easily, and team members attempt to establish themselves in relationship to other members as they are challenged. In this stage, cliques and factions form and there are possible power struggles.",
+      "answerIndex": 1,
+      "items": [
+        "Forming",
+        "Storming",
+        "Norming",
+        "Performing"
+      ],
+      "explanation": "Storming — Decisions don't come easily within group. Team members vie for position as they attempt to establish themselves in relation to other team members and the leader, who might receive challenges from team members. Clarity of purpose increases but plenty of uncertainties persist. Cliques and factions form and there may be power struggles. The team needs to be focused on its goals to avoid becoming distracted by relationships and emotional issues. Compromises may be required to enable progress. Leader coaches (similar to Situational Leadership® 'Selling' mode)."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "_______ does NOT another term Tuckman used to represent the fifth stage of his forming, storming, etc. model?",
+      "answerIndex": 2,
+      "items": [
+        "Adjourning",
+        "Deforming",
+        "Performing",
+        "Mourning"
+      ],
+      "explanation": "Bruce Tuckman refined his theory around 1975 and added a fifth stage to the Forming Storming Norming Performing model - he called it Adjourning, which is also referred to as Deforming and Mourning. Adjourning is arguably more of an adjunct to the original four stage model rather than an extension - it views the group from a perspective beyond the purpose of the first four stages. The Adjourning phase is certainly very relevant to the people in the group and their well-being, but not to the main task of managing and developing a team, which is clearly central to the original four stages."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What kind of leader are you if you throw open the problem to the group and encourage the entire team to make the relevant decision?",
+      "answerIndex": 2,
+      "items": [
+        "A autocratic leader",
+        "A consultative autocratic leader",
+        "A consensus manager",
+        "A shareholder manager"
+      ],
+      "explanation": "A consensus manager throws open the problem to the group and encourage the entire team to make the relevant decision."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following leadership mode is generally considered an example of poor leadership?",
+      "answerIndex": 3,
+      "items": [
+        "A autocratic leader",
+        "A consultative autocratic leader",
+        "A consensus manager",
+        "A shareholder manager"
+      ],
+      "explanation": "Shareholder managers represent a style of management cosidered generally poor. With this style of management, little or no information input and exchange takes place within the group context, yet the group is provided the authority for the final decision."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which leadership model postulates that the leader’s effectiveness is based on ‘situational contingency’ which is a result of interaction of two factors: leadership style and situational favorableness?",
+      "answerIndex": 0,
+      "items": [
+        "The Leadership Contingency Model",
+        "The Situational Leadership Theory",
+        "The Lifecycle Leadership Theory",
+        "The Functional Leadership Theory"
+      ],
+      "explanation": "There are also conflicting ideas about which leadership style is best. PMI® does not define a “best” style. However, two theories need to be reviewed for the exam. The first theory is the Leadership Contingency Model by Fielder. Fiedler’s contingency model postulates that the leader’s effectiveness is based on ‘situational contingency’ which is a result of interaction of two factors: leadership style and situational favorableness."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following leadership theories was developed by Hersey and Blanchard and was first called the Life Cycle Theory of Leadership?",
+      "answerIndex": 1,
+      "items": [
+        "The Leadership Contingency Model",
+        "The Situational Leadership Theory",
+        "The Lifecycle Leadership Theory",
+        "The Functional Leadership Theory"
+      ],
+      "explanation": "The Situational Leadership Theory is a leadership theory developed by Paul Hersey and Ken Blanchard. The Theory was first introduced as \"Life Cycle Theory of Leadership”. The theory holds there is no single “best” style of leadership. Effective leadership is task-relevant and that the most successful leaders are those that adapt their leadership style to the maturity of the individual or group they are attempting to lead/influence, and that effective leadership varies, not only with the person or group that is being influenced, but it will also depend on the task, job or function that needs to be accomplished."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within Heshey and Blanchard's theory of leadership which of the following is NOT one of the defined styles?",
+      "answerIndex": 2,
+      "items": [
+        "Telling",
+        "Selling",
+        "Coaching",
+        "Delegating"
+      ],
+      "explanation": "The Situational Leadership Theory is a leadership theory developed by Paul Hersey and Ken Blanchard. The Theory was first introduced as \"Life Cycle Theory of Leadership”. The theory holds there is no single “best” style of leadership. Effective leadership is task-relevant and that the most successful leaders are those that adapt their leadership style to the maturity of the individual or group they are attempting to lead/influence, and that effective leadership varies, not only with the person or group that is being influenced, but it will also depend on the task, job or function that needs to be accomplished. Within this theory there are four styles of leadership: Telling; Selling; Participating; and Delegating."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What Hershey and Blanchard leadership style is one using if the leader is still involved in decisions; however, the process and responsibility has been passed to the individual or group. The leader stays involved to monitor progress?",
+      "answerIndex": 3,
+      "items": [
+        "Telling",
+        "Selling",
+        "Participating",
+        "Delegating"
+      ],
+      "explanation": "According to Hershey and Blanchard, when using a delegating style the leader is still involved in decisions; however, the process and responsibility has been passed to the individual or group. The leader stays involved to monitor progress."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What Hershey and Blanchard leadership style is one using if the leader is still providing the direction, he or she is now using two-way communication and providing the socio-emotional support that will allow the individual or group being influenced to buy into the process?",
+      "answerIndex": 1,
+      "items": [
+        "Telling",
+        "Selling",
+        "Participating",
+        "Delegating"
+      ],
+      "explanation": "According to Hershey and Blanchard, when using a selling style the leader is still providing the direction, he or she is now using two- way communication and providing the socio-emotional support that will allow the individual or group being influenced to buy into the process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When discussing the total amount of power a person has, it is defined by the formula:",
+      "answerIndex": 0,
+      "items": [
+        "Total Power = Positional Power + Personal Power",
+        "Total Power = Personal Power + Relational Power",
+        "Total Power = Legitimate Power + Referent Power",
+        "Total Power = Expert Power + Positional Power"
+      ],
+      "explanation": "There are several sources of power you must know to prepare for the exam. These sources are not exclusive. Meaning the total power possessed by any leader is a combination of the power provided and is defined by the equation: Total Power = Positional Power + Personal Power"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "As the team gets together for their daily stand-up, one of the team members starts telling the rest of the group about their friendship with the organization's CEO. What kind of power is being exhibited?",
+      "answerIndex": 3,
+      "items": [
+        "Legitimate",
+        "Reward",
+        "Expert",
+        "Referent"
+      ],
+      "explanation": "When using referent power a leader gains authority based upon who they know or with whom they are associated. A simple example is when the project leader is friends with the company president."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A team member stands 6' 8\" tall & weighs close to 300 pounds. They often corner other members of the team slowly invading their personal space as they discuss issues getting closer as the conversation gets more heated, & backs off once the issue is closed. This is an example of what kind of power?",
+      "answerIndex": 1,
+      "items": [
+        "Legitimate",
+        "Coercive",
+        "Referent",
+        "Reward"
+      ],
+      "explanation": "Coercive power is a based upon intimidation. It can be physical, emotional or most commonly based on the ability to impact one’s job security. It is predicated on fear."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a skill generally included with emotional intelligence?",
+      "answerIndex": 2,
+      "items": [
+        "Emotional awareness, including the ability to identify your own emotions and those of others.",
+        "The ability to harness emotions and apply them to tasks like thinking and problems solving.",
+        "The ability to generate strong emotions in others for the betterment of the project and the team.",
+        "The ability to manage emotions, including the ability to regulate your own emotions, and the ability to cheer up or calm down another person."
+      ],
+      "explanation": "Emotional Intelligence experts argue that it requires people to discriminate between different emotions and label them appropriately and to use emotional information to guide thinking and behavior. Further, it also reflects the ability to combined intelligence, empathy, and emotions to enhance one’s thought and understanding of interpersonal dynamics. It is generally said to include three skills: Emotional awareness, including the ability to identify your own emotions and those of others; The ability to harness emotions and apply them to tasks like thinking and problems solving; And the ability to manage emotions, including the ability to regulate your own emotions, and the ability to cheer up or calm down another person."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following does NOT represent a main Emotional Intelligence model?",
+      "answerIndex": 1,
+      "items": [
+        "The Ability Model",
+        "The Conformance Model",
+        "The Mixed Model",
+        "The Trait Model"
+      ],
+      "explanation": "For the PMI-ACP® exam, it is important that you understand the basic concepts of EI and some of the fundamentals surrounding the three main models that exist: Ability Model; Mixed Model Trait Model."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When examining the basics of Emotional Intelligence using the Goleman, which of the following brings together who you are and how you handle relationships?",
+      "answerIndex": 2,
+      "items": [
+        "Self-Awareness",
+        "Self-Management",
+        "Social / Other Awareness",
+        "Relationship Management"
+      ],
+      "explanation": "Social or Other Awareness is the ability to understand the emotional makeup of other people, and represents a skill in treating others according to their individual emotional reactions. It is highlighted by empathy and both a situational awareness that is combined with a clear understanding of the organization and a strong service orientation."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which Emotional Intelligence Model redefined the term as, \"the ability to perceive emotion, integrate emotion to facilitate thought, understand emotions and to regulate emotions to promote personal growth?\"",
+      "answerIndex": 0,
+      "items": [
+        "The Ability Model",
+        "The Conformance Model",
+        "The Mixed Model",
+        "The Trait Model"
+      ],
+      "explanation": "Salovey and Mayer created the Ability-Based Emotional Intelligence Model. This model attempts to define EI within the boundaries of the standard criteria for a new intelligence. Based on their research, they redefined EI as, “The ability to perceive emotion, integrate emotion to facilitate thought, understand emotions and to regulate emotions to promote personal growth.”"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the four types of abilities found in the Ability-based EI model?",
+      "answerIndex": 1,
+      "items": [
+        "Perceiving emotions",
+        "Controlling emotions",
+        "Using emotions",
+        "Managing emotions"
+      ],
+      "explanation": "The ability-based model views emotions as useful sources of information that help one to make sense of and navigate the social environment. The model proposes that individuals vary in their ability to process information of an emotional nature and in their ability to relate emotional processing to a wider cognition. This ability is seen to manifest itself in certain adaptive behaviors. The model claims that EI includes four types of abilities: Perceiving Emotions; Using Emotions; Understanding Emotions; and Managing Emotions."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within the ability-based EI model which of the four types of abilities represents the ability to regulate emotions in both ourselves and in others. Therefore, the emotionally intelligent person can harness emotions, even negative ones, and manage them to achieve intended goals?",
+      "answerIndex": 3,
+      "items": [
+        "Perceiving emotions",
+        "Using emotions",
+        "Understand emotions",
+        "Managing emotions"
+      ],
+      "explanation": "Within the ability of ability-based EI model the Managing emotions ability represents the ability to regulate emotions in both ourselves and in others. Therefore, the emotionally intelligent person can harness emotions, even negative ones, and manage them to achieve intended goals."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A commonly cited problem with the MSCEIT is that it is impossible to create new questions that only a minority can solve because:",
+      "answerIndex": 0,
+      "items": [
+        "By definition, the answers are only deemed \"emotional intelligent\" if a majority of the sample answers correctly.",
+        "The MSCEIT requires strict adherance to a set of question defined by the authors.",
+        "The MSCEIT requires a very large pool of respondents to develop new questions.",
+        "By definition, the question are only deemed viable if they a minority of the sample answers correctly."
+      ],
+      "explanation": "Although promoted as an ability test, the MSCEIT is unlike standard IQ tests in that its items do not have objectively correct responses. Among other challenges, the consensus scoring criterion means that it is impossible to create items (questions) that only a minority of respondents can solve, because, by definition, responses are deemed emotionally \"intelligent\" only if the majority of the sample has endorsed them. This and other similar problems have led some cognitive ability experts to question the definition of EI as a genuine intelligence."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to Goleman, which of the following does NOT represent one of the model's five main EI constructs?",
+      "answerIndex": 3,
+      "items": [
+        "Self-awareness",
+        "Self-regulation",
+        "Motivation",
+        "Other awareness"
+      ],
+      "explanation": "The model introduced by Daniel Goleman focuses on EI as a wide array of competencies and skills that drive leadership performance. This concept is key to the Agilist, and is the model you should spend the most time coming to know. Goleman's model outlines five main EI constructs. If after reading through this discussion you still have questions refer to \"What Makes A Leader\" by Daniel Goleman, best of Harvard Business Review, 1998. These five areas include: Self-awareness; Self-regulation; Social skills; Empathy; and Motivation."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a common measurement tool based on the Goleman model?",
+      "answerIndex": 0,
+      "items": [
+        "The Emotional Competency Inventory",
+        "The Emotional Intelligence Checklist",
+        "The Trait EI Survey",
+        "The General Emotional Intelligence Survey"
+      ],
+      "explanation": "Two measurement tools are based on the Goleman model: The Emotional Competency Inventory or ECI — The ECI was created in 1999, and the Emotional and Social Competency Inventory (ESCI), a newer edition of the ECI was developed in 2007. The Emotional and Social Competency - University Edition (ESCI-U) is also available. These tools, developed by Goleman and Boyatzis provide a behavioral measure of the Emotional and Social competencies. The Emotional Intelligence Appraisal or EIA — The EIA created in 2001 and can be taken as a self-report or 360-degree assessment."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following best describes the recommended size of an agile team according to Frank LaFasto?",
+      "answerIndex": 2,
+      "items": [
+        "Less than 50.",
+        "Less than 20.",
+        "Less than 12.",
+        "Less than 6."
+      ],
+      "explanation": "Frank LaFasto describes an Agile Team as being smaller than what some earlier work has. He specifies that the team needs to be 12 or fewer members so that each member can support the others. The smaller team size also ensures the team can build its own unique strong identity."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to Lyssa Adkins, a great team must what?",
+      "answerIndex": 2,
+      "items": [
+        "Stay constantly focused on the team's success.",
+        "Open to new ideas.",
+        "Exist in a constant state of constructive conflict.",
+        "Focused on a singular mission."
+      ],
+      "explanation": "Lyssa Adkins offers some additional insights about high performing teams. Many of the requirements are the same as the ideas presented by LaFasto and others. She argues that Agile teams must be self-organizing, empowered to make their own decisions, and believe they can solve any problem. Additionally, everyone on the team must be committed to the team’s success. This commitment requires the team to own its decisions and commitments. According to Adkins, a great team uses trust to motivate themselves. Such teams are able to have a constant state of constructive conflict where the team diverges with different ideas are held by the different team members who then come together in consensus. However, even the best teams can struggle due to personality conflicts and other issues."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common indicator that your team is struggling with an absence of trust?",
+      "answerIndex": 3,
+      "items": [
+        "The team conceals weaknesses and/or mistakes.",
+        "Team members fail to ask for help or provide constructive criticism.",
+        "Team members fail to recognize others’ capabilities.",
+        "Team members lack confidence and fear failure."
+      ],
+      "explanation": "Trust is the real foundation of team structure. Often team members don’t feel comfortable enough with the other members to fully disclose or share information that is needed for the team to succeed. Common indicators that your team is struggling with an absence of trust include: Concealing weaknesses and/or mistakes; Not asking for help or providing constructive criticism; Not offering to help other team members outside their own areas; Quickly jumping to conclusions; Failing to recognize others’ capabilities; Holding grudges from previous meetings/projects; and dreading meetings and finding reasons to avoid each other."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "If you discover your team is struggling with an absence of trust which of the following is a viable response?",
+      "answerIndex": 0,
+      "items": [
+        "A personal histories exercise",
+        "Cascading messaging",
+        "A published declaration of results",
+        "Results-based rewards"
+      ],
+      "explanation": "If you identify that you have an absence of trust within your team, here are some tools for getting the team back on track: Personal Histories Exercise — Have each team member review what they did prior to becoming part of this team. This will allow everyone to better understand the strengths of each member; Team Effectiveness Exercise — Use team building exercises to allow each member to gain personal and team insight to how they act in the team setting; Personality and Behavioral Preferences Profiles — Team Dimensions Profile; and 360 Degree Feedback — Reviews by team members, managers and subordinates on your performance. This will provide team members with valuable information about their performance."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following might be indicative of your team struggling with an absence of conflict?",
+      "answerIndex": 2,
+      "items": [
+        "The team holds boring meetings.",
+        "The team ignores controversial topics that are critical to success.",
+        "The team leader is the sole source of discipline.",
+        "Lots of posturing and interpersonal risk management by the team."
+      ],
+      "explanation": "Team members are surrounded by conflict from other team members and stakeholders because of the varying points of view that naturally exist throughout a project. Not all conflicts are bad. On the contrary, constructive conflicts can allow the team to identify issues, solutions and potential problems within the project. It is important that the entire team recognize conflict as a potentially beneficial thing. If your team often suffers from any of the following you likely have an absence of conflict: Boring meetings; Back channel politics; Personal attacks; Ignoring controversial topics that are critical; Opinions and perspectives of all team members are not heard or are silenced or lots of posturing and interpersonal risk management."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The team is conducting its daily standup when the Product Owner begins asking a series of questions about a story the team is completing. As the Scrum Master what is the BEST thing to do?",
+      "answerIndex": 1,
+      "items": [
+        "Nothing. The Product Owner is the sponsor of the project and may ask for any needed information at the Daily Scrum.",
+        "Pull the PO aside politely, allowing the team to continue, and explain that the Daily Scrum is for the team and not the PO to ask questions.",
+        "Obtain the information for the Product Owner immediately after the meeting and keep the questioning to only a couple of minutes.",
+        "Encourage a dialogue about the PO's questions even if it causes the Daily Scrum to go over time. Good communication is critical to project success."
+      ],
+      "explanation": "The Daily Scrum is a meeting for the team to get focus on what they are accomplishing each day. The Product Owner participates as an observer only. Therefore, the best thing is to politely pull the PO aside and explain the purpose of the Daily Scrum while also promising to get their questions answered quickly."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are asked to act as an Agile Coach for a struggling Scrum team. You attend the Daily Scrum and observe the team as they come into the conference room and sit around a oval table that allows the team members to look at each other as they talk. A couple of team members take notes during the meeting while the Scrum Master facililtates the meeting. After the meeting the Scrum Master asks you for advice to improve the Daily Scrum. Which of the following would BEST help this team?",
+      "answerIndex": 2,
+      "items": [
+        "Advise the Scrum Master to get the team talking to each other and not the Scrum Master.",
+        "Advise the Scrum Master to stop people from taking notes so they can look at each other.",
+        "Advise the Scrum Master to get the team standing by the team board and moving tasks.",
+        "Advise the Scrum Master that no major changes are needed at this time."
+      ],
+      "explanation": "The most important aspects of the Daily Scrum include the team standing in front of a Team Board and physically going through the process of moving tasks as they answer the three key questions amongst themselves. Doing this will likely solve several of the other issues being observed."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the three key questions asked at the Daily Scrum?",
+      "answerIndex": 3,
+      "items": [
+        "What did you do yesterday?",
+        "What are you going to do today?",
+        "What impediments or blockers do you have?",
+        "Do you have capacity to help anyone else on the team?"
+      ],
+      "explanation": "In the Daily Scrum the Team is reporting their results to each other with the answer to three short questions: What did you do yesterday? What are you going to do today? What impediments do you have?"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following questions is a core focus of the Daily Scrum?",
+      "answerIndex": 3,
+      "items": [
+        "What did you do yesterday?",
+        "Do you have capacity to help someone else on the team?",
+        "What else do you need to complete your task?",
+        "What impediments do you have?"
+      ],
+      "explanation": "In every scenario the past is the past. It cannot be changed, but teams often get caught up in the past. Successful teams hold themselves accountable for the past, but focus on the future. In the Daily Scrum the future is found in what the Team is going to do today and solving any impediments that exist."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How Which of the listed titles represents the highest level of Agilist?",
+      "answerIndex": 0,
+      "items": [
+        "The Agile Coach",
+        "The Release Train Engineer",
+        "The Product Owner",
+        "The Scrum Master"
+      ],
+      "explanation": "The highest level of Agilist is the Agile Coach. This role is reserved for very experienced Agile leaders and is focused on working from the sidelines just like a coach in football or basketball. An Agile Coach has years of experience in Agile Development and has experienced both successful and failed Agile projects."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Agile doctrine commonly lists three (3) types of Agile Coaches. Which of the following is NOT one of those types?",
+      "answerIndex": 2,
+      "items": [
+        "The Technical Coach",
+        "The Process or Management Coach",
+        "The Therapist Coach",
+        "The Facilitator Coach"
+      ],
+      "explanation": "While every Agile Coach brings their own approach to an assignment there are broadly three types of coaches: The first is technical, such a Coach works mainly with those cutting code and sometimes becomes fully integrated with the developers; The second type of Coach is again an expert who aims to transfer their knowledge however the focus is not on technology but on process, management and requirements; and the third type of Coach may work across everyone in the team but mostly finds himself working with managers and analysts. In this mode the Coach drops the expert persona and focuses instead on helping individuals and teams solve their own problems."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What kind of brain storming technique has the individual team members given time to generate an individual list of ideas before sharing them with the team? This technique has the advantage of limiting peer influence in the initial creation of ideas which often results in a larger initial list.",
+      "answerIndex": 0,
+      "items": [
+        "Quiet Writing",
+        "Round-Robin Brainstorming",
+        "Free-For-All",
+        "Green Zone / Red Zone"
+      ],
+      "explanation": "Quiet Writing is a brain storming technique where the individual team members are given time to generate an individual list of ideas before sharing them with the team. This technique has the advantage of limiting peer influence in the initial creation of ideas which often results in a larger initial list."
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "title": "Problem Detection & Resolution",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to PMI, a problem occurs whenever:",
+      "answerIndex": 1,
+      "items": [
+        "Something costs significantly more than planned.",
+        "Something doesn't go as planned.",
+        "Something takes significantly longer than planned.",
+        "Something causes a significant project risk to occur."
+      ],
+      "explanation": "PMI® refers to situations where things do not go as planned as “problems” and outlines two core aspects of the domain, problem detection and resolution. The first part is all about determining that a problem exists and the second is concerned with fixing the issues discovered."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a core task found in the problem detection and resolution area?",
+      "answerIndex": 3,
+      "items": [
+        "Create an open and safe environment by encouraging conversation and experimentation, in order to surface problems and impediments that are slowing the team down or preventing its ability to deliver value.",
+        "Identify threats and issues by educating and engaging the team at various points in the project in order to resolve them at the appropriate time and improve processes that caused issues.",
+        "Maintain a visible, monitored, and prioritized list of threats and issues in order to elevate accountability, encourage action, and track ownership and resolution status.",
+        "Communicating project status and results by maintaining a risk register that is regularly reviewed by the team."
+      ],
+      "explanation": "The five tasks found in the problem detection and resolution area include: Create an open and safe environment by encouraging conversation and experimentation, in order to surface problems and impediments that are slowing the team down or preventing its ability to deliver value. Identify threats and issues by educating and engaging the team at various points in the project in order to resolve them at the appropriate time and improve processes that caused issues. Ensure issues are resolved by appropriate team members and/or reset expectations in light of issues that cannot be resolved in order to maximize the value delivered. Maintain a visible, monitored, and prioritized list of threats and issues in order to elevate accountability, encourage action, and track ownership and resolution status. Communicate status of threats and issues by maintaining threat list and incorporating activities into backlog of work in order to provide transparency."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The simplest definition of cycle time is:",
+      "answerIndex": 0,
+      "items": [
+        "The amount of time it takes to get things done.",
+        "The amount of time it takes the team to execute an iteration.",
+        "The amount of time it takes for a process to complete",
+        "The amount of time it takes to deliver the project."
+      ],
+      "explanation": "Cycle Time represents the amount of time it takes to get things done. The concepts and uses surrounding Cycle Time are closely related to Work in Progress or WIP."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following does agile constantly work to reduce?",
+      "answerIndex": 1,
+      "items": [
+        "Throughput",
+        "Cycle time",
+        "Effort",
+        "Costs"
+      ],
+      "explanation": "Agile Development works to constantly reduce both WIP and Cycle Times. It attempts to have less going on at a single moment and to get those items done as quickly as possible."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The relationship between cycle time, work in progress, and throughput is described by which of the following formulas?",
+      "answerIndex": 0,
+      "items": [
+        "Cycle Time = WIP / Throughput",
+        "WIP = Cycle Time / Throughput",
+        "Throughput = WIP / Cycle Time",
+        "Cycle Time = WIP * Throughput"
+      ],
+      "explanation": "Agile Development works to constantly reduce both WIP and Cycle Times. It attempts to have less going on at a single moment and to get those items done as quickly as possible. The relationship between Cycle Times, WIP, and Throughput is defined by the formula: Cycle Time = WIP / Throughput"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "As a project progresses what happens to the value of potential changes?",
+      "answerIndex": 3,
+      "items": [
+        "The value of any change increases and the costs rise.",
+        "The value of any change decreases and the costs also decrease.",
+        "The value of any change increases as the costs decrease.",
+        "The value of any change decreases as the costs rise."
+      ],
+      "explanation": "A core axiom for this area is that as time progresses on a project the value of any change reduces. At the same time the cost to make the change rises. At some point the value of making the change becomes less than the cost to make it and the change should not be made. The reason for this rule is that the longer a project goes, the more investment of time, money, and resources has occurred."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When working an agile project, which of the following represent previously unknown requirements or features that impact may be added to the product backlog?",
+      "answerIndex": 1,
+      "items": [
+        "Risks",
+        "Changes",
+        "Defects",
+        "Test cases"
+      ],
+      "explanation": "Leaders must also ensure they understand the difference between changes and defects. Both cause the team to adjust often requiring additional time and money. Changes are previously unknown requirements or features that may cause changes to the project requirements."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Defects that the Daily Stand Up misses are called:",
+      "answerIndex": 2,
+      "items": [
+        "Missed defects",
+        "Extended features",
+        "Escaped defects",
+        "Backlog adds"
+      ],
+      "explanation": "The Daily Stand Up is used to identify most defects. However, the Daily Stand Up is not perfect. Defects that the Daily Stand Up misses are called Escaped Defects. Escaped Defects represent the most expensive kind of defects to fix. They require the team to repair functionality they believe was already completed."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Why are escaped defects the most expensive kind of defects to fix?",
+      "answerIndex": 1,
+      "items": [
+        "Escaped defects represent new functionality.",
+        "Escaped defects require the team to repair functionality they thought was already completed.",
+        "Escaped defects require the team to repair functionality already put into production.",
+        "Escaped defects represent functionality already evaluated and rejected by the customer, but now requiring completion."
+      ],
+      "explanation": "The Daily Stand Up is used to identify most defects. However, the Daily Stand Up is not perfect. Defects that the Daily Stand Up misses are called Escaped Defects. Escaped Defects represent the most expensive kind of defects to fix. They require the team to repair functionality they believe was already completed."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common metric used to promote the desired behavior to ensure expected deliver?",
+      "answerIndex": 2,
+      "items": [
+        "Tracking tests passed and customer acceptance.",
+        "Automating tests",
+        "Conformance test counts",
+        "Constant testing"
+      ],
+      "explanation": "Fitness for Purpose defines whether or not the product will meet the intended business need. This concept ties back to the Agile concept of the Definition of Done, Sprint and Release Goals. Each of these requires the team to think about what they will do to ensure the quality and value of the product meets the business’ needs. Establishing metrics to ensure expected delivery is critical, and there are a number of metrics often used to promote the desired team behavior. These include: Tracking tests passed and customer acceptance. Automating tests. Constant testing. Ensure the testers and developers communicate and collaborate constantly."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The concepts of agile development requires the team to \"fail fast.\" Which of the following statements about this concept is NOT true?",
+      "answerIndex": 2,
+      "items": [
+        "Failing fast is a conservative approach.",
+        "Failing fast allows the team to gain valuable knowledge through experience.",
+        "Failing fast is a research-based approach.",
+        "Failing fast requires the entire organization to accept mistakes."
+      ],
+      "explanation": "A common phrase in Agile is, “Fail fast.” This phrase focuses the team on delivering something as fast as possible to the customer. The team can then obtain feedback on what they did correctly and incorrectly. Then, they can make adjustments. This basic process requires the entire organization be willing to accept mistakes. However, this does not mean a willingness to accept every kind of mistake. The concepts surrounding Agile Development contend that by making early mistakes often the errors will be much smaller, and smaller mistakes are easier and cheaper to fix. This is a preference towards failing conservatively allowing the team to invent and gain valuable knowledge through experience rather than simply researching."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT an assertion made by Alistair Cockburn about how teams become great?",
+      "answerIndex": 3,
+      "items": [
+        "Great teams are good at looking around and seeing what others are doing.",
+        "Great team able learn from others and from their environment.",
+        "Great teams are capable of changing and adapting to their environment and the needs of the organization.",
+        "Great teams are always disciplined and refuse to ever fail."
+      ],
+      "explanation": "Alistair Cockburn asserts great teams get that way because they are good at looking around and seeing what others are doing. They understand that projects do not exist in isolation so they must be able learn from others and from their environment. They also cannot be set in their ways. A great team is one that is capable of changing and adapting to their environment and the needs of the organization. Teams that meet these standards are able to take pride in their work and achieve fantastic results."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Over the last two and a half months your team has measured the number of defects produced by a process. In each instance, the number of defects has been fewer than the process mean. Which of the following statements concerning your control chart is true?",
+      "answerIndex": 1,
+      "items": [
+        "You are now below the lower control limit.",
+        "The control chart mean has shifted.",
+        "You are now above the upper control limit.",
+        "The process is in control."
+      ],
+      "explanation": "Although several of the options might be true, the only one you can say for sure is true is that the mean of the control chart has shift due to the Rule of Sevens that states whenever you have seven consecutive cases either above or below the mean the mean has shifted."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are part of a team leading a $5 million USD information technology project. In the last three months each of the team's daily reports has shown its defect count was below the upper control limit and above the lower control limit. Which of the following statements about your project is true?",
+      "answerIndex": 0,
+      "items": [
+        "The project is in control.",
+        "The project is at risk due to a high defect rate.",
+        "The project defect rate is still too high.",
+        "The project is being managed using principles found in manufacturing and not agile development."
+      ],
+      "explanation": "When cases appear above the lower control limit and below the upper control limit we say the process is \"in control.\""
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common tool used by agile teams to continuously integrate?",
+      "answerIndex": 2,
+      "items": [
+        "Source code control systems",
+        "Build tools",
+        "Risk-based spikes",
+        "Test tools"
+      ],
+      "explanation": "Risk-based spikes are critical to agile development, but they are NOT key to continuous integration."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When an agile team must develop a user story that requires a technology or implementation the team has never seen before which of the following is the best thing to do?",
+      "answerIndex": 1,
+      "items": [
+        "Iteration zero",
+        "A risk-based spike",
+        "Continue the iteration as planned.",
+        "Continue the iteration, but limit the number of stories."
+      ],
+      "explanation": "Sometimes an Agile project team faces a User Story, feature or requirement that requires a technology or implementation the team has never seen before. In these situations the team needs a way to experiment or determine the best solution. Remember, in Agile Development the team is working in fixed length iterations with a requirement to deliver fully tested features in every iteration. Delivering production ready features at the same time the team needs to experiment usually puts undue pressure on the team that is impractical. A better solution is the Risk-Based or Research Spike. A spike is a short iteration or sprint undertaken by the team to investigate a specific issue. The spike can result in an answer or solution, recommendation or decision. The concept of a spike works because it follows the Agile concept of failing fast."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In Test Driven Development who is responsible for testing?",
+      "answerIndex": 3,
+      "items": [
+        "The product owner",
+        "The scrum master",
+        "The quality assurance team",
+        "The development team"
+      ],
+      "explanation": "In Test Driven Development the Development Team is responsible for the testing, but this is not the biggest difference. There are two additional differences that are significant. The first distinction with Test Driven Development is that in TDD the tests are written BEFORE any code is ever written. Then code is written to pass the specific test. The second major different is that the tests are conducted in every iteration and not just at the end of the project. Every iteration is required to deliver fully tested features."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In test driven development when are the tests written?",
+      "answerIndex": 0,
+      "items": [
+        "Before any code is written.",
+        "Before any user stories are written.",
+        "Immediately after the user stories are written.",
+        "Immediately after the code is written."
+      ],
+      "explanation": "In Test Driven Development the Development Team is responsible for the testing, but this is not the biggest difference. There are two additional differences that are significant. The first distinction with Test Driven Development is that in TDD the tests are written BEFORE any code is ever written. Then code is written to pass the specific test. The second major different is that the tests are conducted in every iteration and not just at the end of the project. Every iteration is required to deliver fully tested features."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following describes the process of test driven development?",
+      "answerIndex": 3,
+      "items": [
+        "Green, Yellow, Red",
+        "Refactor, Red, Green",
+        "Red, Yellow, Green",
+        "Red, Green, Refactor"
+      ],
+      "explanation": "Red, Green, Refactor describes the basic process developers go through when using TDD. The first step is the developer writes a test that if met proves a feature meets a specific requirement. Once the test is written, the developer runs the test and it must fail. The test must fail because no code is yet written to meet the specific requirement(s). This is the Red stage. Once the test has been failed, the developer writes the specific code that will pass the test. The developer runs the test again and continues to write code and run the test until the test passes. Getting to the point where the test passes is the green stage. Finally, all the developers on the team work to refactor the code. This is the process of finding ways to improve code that already works."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In which of the TDD basic process steps does the code fail the test?",
+      "answerIndex": 0,
+      "items": [
+        "Red",
+        "Yellow",
+        "Green",
+        "Refactor"
+      ],
+      "explanation": "Red, Green, Refactor describes the basic process developers go through when using TDD. The first step is the developer writes a test that if met proves a feature meets a specific requirement. Once the test is written, the developer runs the test and it must fail. The test must fail because no code is yet written to meet the specific requirement(s). This is the Red stage. Once the test has been failed, the developer writes the specific code that will pass the test. The developer runs the test again and continues to write code and run the test until the test passes. Getting to the point where the test passes is the green stage. Finally, all the developers on the team work to refactor the code. This is the process of finding ways to improve code that already works."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within TDD Which of the following ideas are critical to making the process work?",
+      "answerIndex": 2,
+      "items": [
+        "That the tests are approved by the product owner.",
+        "Every developer reviews the tests.",
+        "The test must be failed before the code is written.",
+        "The code is improved through the process."
+      ],
+      "explanation": "Red, Green, Refactor describes the basic process developers go through when using TDD. The first step is the developer writes a test that if met proves a feature meets a specific requirement. Once the test is written, the developer runs the test and it must fail. The test must fail because no code is yet written to meet the specific requirement(s). This is the Red stage. Once the test has been failed, the developer writes the specific code that will pass the test. The developer runs the test again and continues to write code and run the test until the test passes. Getting to the point where the test passes is the green stage. Finally, all the developers on the team work to refactor the code. This is the process of finding ways to improve code that already works."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your team is completing a software development project and the team is using TDD for all the testing. To improve the speed of the team, you right all of the tests up front. Which of the following is true?",
+      "answerIndex": 3,
+      "items": [
+        "Time will be wasted rewriting tests as requirements change.",
+        "The team will likely fail to improve their process.",
+        "The team will experience issues debugging the code.",
+        "The team will write suboptimal code."
+      ],
+      "explanation": "There are a couple of common mistakes made by many new to implementing Test Driven Development. First, In an effort to get the tests out of the way more quickly, some developers try to write all their tests first. This typically causes several problems. Most project see a large number of feature changes as the project progresses. If the developer creates all their tests before writing code there is often a large amount of time that is wasted from planned features that are dropped. Secondly, as developers go through the project’s iterations they learn and improve all their processes including how they execute tests. If the tests are written in the beginning they cannot take advantage of this learning. Finally, writing all the tests first allows developers to write code to pass more than one test at a time which can create issues when debugging."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT an advantage of test driven development?",
+      "answerIndex": 2,
+      "items": [
+        "TDD allows the developer to better focus on the needs of the customer.",
+        "TDD also provides the business with a foundational guarantee that at least some tests are in place.",
+        "TDD ensures the proper focus on customer quality and timely delivery.",
+        "The TDD framework creates a highly modular process that is both flexible and extendable."
+      ],
+      "explanation": "If the organization is able to implement Test Driven Development they likely will experience a number of advantages over traditional development frameworks. TDD allows the developer to better focus on the needs of the customer as they must first fully understand the business need for the requirement before they can write the tests, and they can only write the code once they have completed the tests. TDD also provides the business with a foundational guarantee that at least some tests are in place and used throughout the development process. Because these are unit tests, the often help the developer catch defects earlier in the process which makes them less costly to repair. The TDD framework creates a highly modular process that is both flexible and extendable. In addition to the many advantages provided by TDD, there are a few disadvantages that go beyond the common errors made by those attempting to implement it."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a common risk seen with Test Driven Development?",
+      "answerIndex": 1,
+      "items": [
+        "The team develops code in isolation.",
+        "Some functionality is difficult to test with unit tests.",
+        "The quality assurance department is made to feel out of place.",
+        "Required higher level tests are prevented."
+      ],
+      "explanation": "As much as TDD pushes unit testing done by the developers and this is seen as a positive, it can also be seen as a negative. Requiring developers to do their own testing adds pressure and can be a negative as well. This occurs because for two reasons. First, some developers lack experience in testing which causes them to struggle writing appropriate tests. Secondly, some functionality is simply difficult to test with unit tests and higher levels of testing is required. There is absolutely nothing in TDD that prevents these higher level tests, but the required extra step sometimes gets missed. Developers sometimes become frustrated in TDD as they are required to maintain the tests."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common risk from Test Driven Development?",
+      "answerIndex": 0,
+      "items": [
+        "Customers become confused by the TDD testing protocols.",
+        "Some developers lack experience in testing which causes them to struggle writing appropriate tests.",
+        "Developers sometimes become frustrated in TDD as they are required to maintain the tests.",
+        "Many teams gain a false sense of success when they experience a high number of passed tested"
+      ],
+      "explanation": "As much as TDD pushes unit testing done by the developers and this is seen as a positive, it can also be seen as a negative. Requiring developers to do their own testing adds pressure and can be a negative as well. This occurs because for two reasons. First, some developers lack experience in testing which causes them to struggle writing appropriate tests. Secondly, some functionality is simply difficult to test with unit tests and higher levels of testing is required. There is absolutely nothing in TDD that prevents these higher level tests, but the required extra step sometimes gets missed. Developers sometimes become frustrated in TDD as they are required to maintain the tests."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a stage found in the Acceptance Test Driven Development?",
+      "answerIndex": 0,
+      "items": [
+        "Define the requirements.",
+        "Distill tests in a framework friendly format.",
+        "Develop the code and hook the tests.",
+        "Demo through exploratory testing."
+      ],
+      "explanation": "ATDD uses a four stage process: Discuss the Requirements — During planning meeting the developers must ask the customer for acceptance criteria. Distill Tests in a Framework-Friendly Format — Once understood, the developers must organize the tests in a format that makes sense for the team. To make sense, it must also be organized in a way that makes testing easier for the team. Develop the code and hook up the tests — The team then must write the code and attach it to the tests. Demo Through Exploratory Testing — The process ends as the team continuously demonstrates the completed functionality through exploratory testing in an attempt to learn more about the product and the needs of the organization."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a commonality between TDD and Test First?",
+      "answerIndex": 0,
+      "items": [
+        "Both models focus on unit testing.",
+        "Both moels refactor code to improve design.",
+        "Both models comment on other activities in the development cycle.",
+        "Both models use testing to drive the design."
+      ],
+      "explanation": "In both TDD and Test First the testing is done at the unit level using automated tests written before any code. Additionally, both require the developer to conduct the testing at a functional level. However, there are some differences. In Test Driven Development, the code is refactored to improve its design (Red, Green, Refactor). This step is skipped in the Test 1st model. Test 1st also does not comment on any other activities in the development cycle. It is focused singularly on testing. The biggest difference between the two is the fact that in TDD, tests are used to drive the design and this does not happen in Test 1st."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning refactoring is true?",
+      "answerIndex": 1,
+      "items": [
+        "Refactoring is a change made to the structure of software to make it easier to understand & cheaper to modify by changing its behavior.",
+        "Refactoring is a disciplined way to clean up code that minimizes the chances of introducing bugs.",
+        "When done correctly, Scrum requires the team refactor their code.",
+        "Typically, refactoring is not considered part of a developer's regular work."
+      ],
+      "explanation": "Refactoring represents, “a change make to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior… It is a disciplined way to clean up code that minimizes the chances of introducing bugs” according to Martin Fowler and Kent Beck who originally defined the term. Scrum does not specifically demand that you refactor just like it does not demand you use Test Driven Development."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "As a developer, you look at your code and find that although it passes the unit tests it is inefficient and unelegant. In this situation what kind of refactoring is required?",
+      "answerIndex": 0,
+      "items": [
+        "Yuck",
+        "The not understood",
+        "Planned Refactoring",
+        "Long term refactoring"
+      ],
+      "explanation": "There are a number of types of refactoring that include: yuck; the not understood; new insights; planned refactoring; long-term refactoring. Of these Yuck represents refactoring where you look at code and it works, but find it unsatisfactory. This is about making small improvements. You make changes because you find the code lacks elegance and requires rework to make it more appealing."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What kind of refactoring is your team using when refactoring is added to the project as a specific deliverable?",
+      "answerIndex": 2,
+      "items": [
+        "Yuck",
+        "The not understood",
+        "Planned refactoring",
+        "Long term refactoring"
+      ],
+      "explanation": "There are a number of types of refactoring that include: yuck; the not understood; new insights; planned refactoring; long-term refactoring. Planned refactoring occurs whenever the team adds refactoring to the project plan as a deliverable. Martin Fowler, who created the concept of refactoring, says it should hardly ever be done because it represents a failure of the team to do their refactoring in small enough pieces to be part of the normal development process and be constant. As a general rule, planned refactoring requires justification, and is considered evidence that the team is not doing enough of the other (correct) kids of refactoring."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to Martin Fowler, \"The problem with no-design, is that by not putting effort into the design, the code base deteriorates and becomes harder to modify, which lowers the productivity, which is the gradient of the line. Good design keeps its productivity more constant so at some point (the design payoff line) it overtakes the cumulative functionality of the no-design project and will continue to do better.\" This idea is called what?",
+      "answerIndex": 1,
+      "items": [
+        "The Fowler Design Hypothosis",
+        "The Design Stamina Hypothosis",
+        "The Agile Design Corolary",
+        "The Fowler Corolary"
+      ],
+      "explanation": "design, is that by not putting effort into the design, the code base deteriorates and becomes harder to modify, which lowers the productivity, which is the gradient of the line. Good design keeps its productivity more constant so at some point (the design payoff line) it overtakes the cumulative functionality of the no-design project and will continue to do better."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What group data gathering technique is the team using if the facilitator asks the team to think about the project from a time-based perspective?",
+      "answerIndex": 2,
+      "items": [
+        "Triple nickels",
+        "Color code dots",
+        "Timeline",
+        "Mad sad glad"
+      ],
+      "explanation": "There are a lot of different ways to potentially gather data about the issues faced by a project. The timeline is a simple group tool where the team is asked to think about the project from a time-based perspective. First, this happens then this, then this. The linear nature of the timeline allows team members to capture information that might otherwise be missed."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What group data gathering technique is the team using if is debriefed using the question, \"what did you notice while you wrote ideas?\"",
+      "answerIndex": 0,
+      "items": [
+        "Triple nickels",
+        "Color code dots",
+        "Timeline",
+        "Mad sad glad"
+      ],
+      "explanation": "Triple nickels is used to gather data or decide what to do phase in an iteration, release, or project retrospective. The team begins by forming small groups. In the groups, each person has five minutes to brainstorm and write down ideas individually. At the end of five minutes, each person passes the paper to the person on his or her right. That person has five minutes to write down ideas that build on the ideas already written on the paper. Repeat until the paper returns to the original writer. Ask each person to read the ideas listed on the paper. Then debrief the group using these questions: What did you notice while you wrote ideas? What surprised you? What met your expectations? How? What is missing from these lists? What ideas and topics should we examine further?"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your team decides it needs to quickly discover what opinions are held by people on a project where emotions run the gambit from high to low. Which of the following is most likely to be effective?",
+      "answerIndex": 1,
+      "items": [
+        "Triple nickels",
+        "Color code dots",
+        "Timeline",
+        "Mad sad glad"
+      ],
+      "explanation": "Color code dots allow the group to quickly discover opinions about how people experienced events on the timeline where emotions run the gambit from high to low using sticky dots. After all the events are on the timeline and the team has done a quick review, individuals use colored dots to show where their personal energy was high or low). Set up the activity by saying “Now that we’ve seen the facts, let’s see how it was to be doing this work.” Provide each individual with dots in two colors. Start with seven to ten dots per person but have more available. Explain which color indicates high energy and which indicates low energy. Ask each person to use the dots to show where energy was high and where energy was stalled, flagging, or at low ebb. After everyone has placed their dots review the results and discuss what it means for possible improvements."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your team is in its Sprint Retrospective. It has been decided that the team needs to set a baseline for how happy everyone else with the team. Which of the following tools would be most effective in this situation?",
+      "answerIndex": 2,
+      "items": [
+        "Mad, Sad, Glad",
+        "Locate strengths",
+        "Satisfaction histograms",
+        "Team Radar"
+      ],
+      "explanation": "Satisfaction histograms represent exercises used to highlight how satisfied team members are with a focus area. It provides a visual picture of current status in a particular area to help the team have deeper discussions and analysis. It also acknowledge differences in perspective among team members. Introduce the activity by saying “Today we’ll create a baseline measure of our level of satisfaction with the way we work together. We can repeat this activity in future iteration retrospectives to track our progress.” Then show the flip charts to the team, read the definitions, and hand out index cards or other identical small slips of paper, one to each team member with the instructions, “Please write a number on your card that tells your level of satisfaction on the team right now. Then fold the card, and put it in a pile here.” Once all the cards are turned in, stir the pile of cards, and ask for a volunteer to color in the graph as you read them. Read the number on each card. Wait for the tally before going on to the next. Finally, read the results from the graph and ask for comments."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "If the team needs to determine how well they are doing on a variety of measures which of the following tools is best?",
+      "answerIndex": 3,
+      "items": [
+        "Mad, Sad, Glad",
+        "Locate strengths",
+        "Satisfaction histograms",
+        "Team Radar"
+      ],
+      "explanation": "A team radar is an activity that helps the team gauge how well they are doing on a variety of measures, such as, engineering practices, team values, or other processes. The process for the Team Radar begins when the facilitator introduces the activity by saying, “We agreed on these [fill in the factors] as important to our work. Let’s assess how well we are doing, using a scale of 0--10. Zero means not at all, and 10 means as much as possible.” Post the flip chart with the blank radar graph. Ask each team member to approach the chart and place a dot or some other mark that shows their rating for each factor. Next, lead a short discussion about how the factors affect the work of the team. Consider asking questions such as the following: Where do you see us following these [fill in factors]? Where do you not see us following these [fill in the factors]? Use the short discussion as a segue to generating insights. Save the completed flip chart graph. Run the activity again two or three iterations later."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The team needs a tool during their retrospective to help them recall their experiences during the iteration and hear how other team members experienced the iteration. Which of the following tools is best for this task?",
+      "answerIndex": 1,
+      "items": [
+        "Team radar",
+        "Like to like",
+        "Satisfaction histograms",
+        "Locate strengths"
+      ],
+      "explanation": "The Like to Like exercise is designed to help team members recall their experiences during the iteration (release or project), and hear that others may have perceived it differently. In this exercise team members take turns judging which events or factors about their iteration are the best fits for quality cards. As the cards are evaluated, team members learn about each other’s perspective on the same events or conditions. The exercise begins by asking each team member to write at least nine index cards for playing the Like to Like game: three or more cards with things to stop doing three or more cards with things to keep doing and three or more things to start doing. While team members are writing, shuffle the deck of colored “quality” cards and lay the pile face down on a table. When the game cards are ready, invite the team to stand around the table. Choose one person to start as “judge.” The “judge” turns over a “quality” card from the pile and puts it face up on the table. All other team members look in their game cards for the one that most closely matches the “quality” card and place their cards face down. The last card down is disqualified and returns to its owner’s hand. This keeps the game moving. The “judge” stirs the players’ cards, turns them over one at a time, and reads them. He or she chooses the card that makes the best match with the “quality” card. The author of that card wins the “quality” card. The role of “judge” passes left to the next person, and another “quality” card is turned over. After six to nine rounds (or whenever everyone runs out of cards), the game ends. The person with the most “quality” cards wins. Debrief the activity with the four-step method."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a tool your time might use to decide what to once it has generated insights?",
+      "answerIndex": 3,
+      "items": [
+        "Short subjects",
+        "SMART goals",
+        "Circle of questions",
+        "Corona of possibilities"
+      ],
+      "explanation": "Once the team is done generating their insights it is time to move to the last step and decide what to do. This step is about picking an action that the team will execute. There are a number of potential tools teams may use to determine what to do. Some examples include: Short subjects, SMART goals; The retrospective planning game; and the circle of questions."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a step found in the Retrospective Planning Game?",
+      "answerIndex": 2,
+      "items": [
+        "Work individually or in pairs to generate all the tasks.",
+        "Form pairs",
+        "Cluster the pairs",
+        "Form pairs of pairs"
+      ],
+      "explanation": "In the retrospective planning game team members work individually or in pairs to brainstorm all the tasks necessary to complete an experiment, improvement, or recommendation. After brainstorming, team members eliminate redundant tasks and fill in gaps. The task are arranged in order, and team members sign up for tasks they will complete. Introduce the activity by saying, “We’re going to work on generating all the tasks needed to have our experiment succeed.” Then recap the experiment (improvement, or recommendation). Here are the steps: Work individually or in pairs to generate all the tasks. Form pairs; Form pairs of pairs; Invite the group to post and cluster the tasks on a whiteboard or wall. If they’ve used cards, they can cluster them using a table; Order the cards; and Invite team members to sign up for tasks."
+    }
+  ]
+}

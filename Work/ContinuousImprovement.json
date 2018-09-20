@@ -1,0 +1,186 @@
+{
+  "title": "Continuous Improvement",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a task found in the continuous area?",
+      "answerIndex": 3,
+      "items": [
+        "Tailor & adapt the project process by periodically reviewing & integrating team practices, organizational culture & delivery goals.",
+        "Improve team processes by conducting frequent retrospectives and improvement experiments.",
+        "Seek feedback on the product by incremental delivery and frequent demonstrations.",
+        "Maintain a visible, monitored & prioritized list of threats & issues in order to elevate accountability, encourage action & track ownership."
+      ],
+      "explanation": "As a domain for the PMI-ACP® Exam, Continuous Improvement has six tasks that are organized in a single group. These tasks include: Tailor and adapt the project process by periodically reviewing & integrating team practices, organizational culture, & delivery goals in order to ensure team effectiveness within guidelines & norms. Improve team processes by conducting frequent retrospectives and improvement experiments in order to continually enhance the effectiveness of the team, project, and organization. Seek feedback on the product by incremental delivery and frequent demonstrations in order to improve the value of the product. Create an environment of continued learning by providing opportunities for people to develop their skills in order to develop a more productive team of generalizing specialists. Challenge existing process elements by performing a value stream analysis and removing waste in order to increase individual efficiency and team effectiveness. Create systemic improvements by disseminating knowledge and practices across projects and organizational boundaries in order to avoid reoccurrence of identified problems and improve the effectiveness of the organization as a whole."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a step in the retrospective process?",
+      "answerIndex": 3,
+      "items": [
+        "Set the stage",
+        "Generate insights",
+        "Close the retrospective",
+        "Review the results"
+      ],
+      "explanation": "Every Retrospective uses the same basic four-step process. These steps include setting the stage, gathering data, generating insights, and closing the Retrospective."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "All of the following EXCEPT ______ attend the scrum retrospective?",
+      "answerIndex": 0,
+      "items": [
+        "The product owner",
+        "The scrum master",
+        "The development team",
+        "The customer"
+      ],
+      "explanation": "The Retrospective is attended by all the members of the Development Team plus the Scrum Master. The Product Owner does not attend the Retrospective to allow the team to talk openly and honestly about how the project is going. The Scrum Master attends primarily in the role as a facilitator and begins the meeting by checking in with each member of the development team."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using the ESVP exercise what does the S stand for?",
+      "answerIndex": 1,
+      "items": [
+        "Skeptics",
+        "Shoppers",
+        "Scouts",
+        "Sycophants"
+      ],
+      "explanation": "In the ESVP exercise each participant anonymously reports his or her attitude toward the retrospective as an Explorer, Shopper, Vacationer, or Prisoner (ESVP). The retrospective leader then collects the results and creates a histogram to show the data."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using the ESVP exercise within a retrospective, which of the roles is eager to discover new ideas and insights and wants to learn everything they can about the iteration/release/project?",
+      "answerIndex": 0,
+      "items": [
+        "Explorers",
+        "Shoppers",
+        "Vacationers",
+        "Prisoners"
+      ],
+      "explanation": "Within the ESVP exercise explorers are eager to discover new ideas and insights. They want to learn everything they can about the iteration/release/project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Within the ESVP exercise, which of the roles will look over all the available information, and will be happy to go home with one useful new idea?",
+      "answerIndex": 1,
+      "items": [
+        "Explorers",
+        "Shoppers",
+        "Vacationers",
+        "Prisoners"
+      ],
+      "explanation": "Within the ESVP exercise shoppers will look over all the available information, and will be happy to go home with one useful new idea."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using the ESVP ecercise which of the defined roles are not interested in the work of the retrospective, but are happy to be away from the daily grind and may pay attention some of the time, but they are mostly just glad to be out of the office?",
+      "answerIndex": 2,
+      "items": [
+        "Explorers",
+        "Shoppers",
+        "Vacationers",
+        "Prisoners"
+      ],
+      "explanation": "Within the ESVP exercise Vacationers aren’t interested in the work of the retrospective, but are happy to be away from the daily grind. They may pay attention some of the time, but they are mostly glad to be out of the office."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a rule for pre-mortems?",
+      "answerIndex": 2,
+      "items": [
+        "The Pre-Mortem is 2 hours of uninterrupted time.",
+        "All stakeholder MUST be present.",
+        "The scrum master must lead the meeting.",
+        "One person does nothing but take notes."
+      ],
+      "explanation": "Pre-Mortems typically have just a few rule: The Pre-Mortem is 2 hours of uninterrupted time. All stakeholder MUST be present. The Pre-Mortem must be a face-to-face meeting. One person does nothing but take notes."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "As a PMI member you have a responsibility to follow PMI's code of Conduct. It is critical that you know this code them emphasizes which of the following?",
+      "answerIndex": 3,
+      "items": [
+        "Ethics, morality, honesty, and responsibility",
+        "Respect, morality, honesty, and transparency",
+        "Responsibility, transparency, ethics, morality",
+        "Responsibility, honesty, respect, fairness"
+      ],
+      "explanation": "PMI’s Code of Ethics and Professional Conduct focuses on Responsibility, Respect, Fairness, and Honesty."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are brought into the organization as a consultant to help the organization both implement Scrum and tailor it to the organization. What advice should you give this organization FIRST?",
+      "answerIndex": 2,
+      "items": [
+        "It is critical that the organization tailors any agile methodology to how the business works.",
+        "The organization should tailor the process in a pilot environment first.",
+        "The organization should try Scrum based on the rules before attempting any customization.",
+        "It is critial that the organization uses process tailoring as part of its adoption process."
+      ],
+      "explanation": "A good rule with any new process or method is to implement the basic process before attempting any customization. This allows the team to understand how the basic process is supposed to work, learning its specific ins and outs before attempting any customization."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are called on to help your team conclude it retrospective. Which of the following are tools you likely might choose to use?",
+      "answerIndex": 2,
+      "items": [
+        "ESVP, Planning Poker, Remember the Future, Triple Nickels",
+        "Color Code Dots, Triple Nickels, Mad Sad Glad, Ben Franklin T",
+        "Appreciations, Return on Time Invested, Ben Franklin Ts, Helped Hindered Hypothesis",
+        "Team radar, Appreciations, Locate Strengths, Return on Time Invested"
+      ],
+      "explanation": "The final step in the process is to close the Retrospective. The facilitator has a number of engaging methods they can use to summarize the outcomes of the Retrospective. Including: Plus/Delta or Ben Franklin T; Helped, Hindered, Hypothesis; Return on Time Invested; & Appreciations. Each of these exercises is focused on getting the team to describe positive outcomes of the Retrospective."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is the BEST definition of an agile information exchange?",
+      "answerIndex": 0,
+      "items": [
+        "A focused face-to-face communication tool to facilitate knowledge sharing.",
+        "A tool designed to convey project information electronically.",
+        "A communication tool designed to promote transparency.",
+        "A tool designed to accurate resource utilization."
+      ],
+      "explanation": "Agile information exchanges facilitate knowledge sharing. They are face-to-face methods not focused any kind of resource optimization, but instead are focused on the exchange of information."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Each of the following is NOT a common practice considered part of continuous improvement?",
+      "answerIndex": 2,
+      "items": [
+        "Paired programming",
+        "Retrospectives",
+        "Planning poker",
+        "Daily stand-ups"
+      ],
+      "explanation": "Many agile practices aid in continuous improvement. Some of which include ideas like paired programming, retrospectives, sprint reviews, other demonstrations, daily stand ups, team boards, and others."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Your team has just completed its sprint review and begun its retrospective. Which of the following represent the best order of steps?",
+      "answerIndex": 0,
+      "items": [
+        "Set the stage, gather data, generate insights, decide what to do, and close the retrospective.",
+        "Determine the goal, gather data, set the stage, generate insights, and close the retrospective.",
+        "Gather data, set the goal, generate insights, decide what to do, and close the retrospective.",
+        "Set the goal, generate insights, decide what to do, and close the retrospective."
+      ],
+      "explanation": "Every Retrospective uses the same basic four-step process. These steps include setting the stage, gathering data, generating insights, and closing the Retrospective. What each step looks like in a practical sense is largely defined by the team."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are acting as an Agile Coach and have been asked by your client when they should collect lessons learned. What is the BEST answer to this query?",
+      "answerIndex": 2,
+      "items": [
+        "During the retrospective.",
+        "During the sprint review.",
+        "Throughout the project.",
+        "Only when the project struggles."
+      ],
+      "explanation": "Lessons learned represent a common term used by PMI. They represent those key lessons that often transcend a single project or phase. The team should constantly be looking for these keys whenever they occur as opportunities to improve."
+    }
+  ]
+}
