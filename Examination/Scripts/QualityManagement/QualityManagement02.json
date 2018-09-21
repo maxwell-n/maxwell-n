@@ -1,0 +1,102 @@
+{
+  "title": "QA - Customer Input to Quality",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a characteristic of apparent customers?",
+      "answerIndex": 2,
+      "items": [
+        "They are easy to identify",
+        "They are usually the key stakeholders of the project",
+        "They often attempt to shift project goals into meeting individual, personal objectives",
+        "All of the above are characteristics of apparent customers"
+      ],
+      "explanation": "The apparent customer is the easy to identify customer that is usually the key stakeholder and sponsor of the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a characteristic of an invisible customer?",
+      "answerIndex": 3,
+      "items": [
+        "They often lack interest in the objectives of the project",
+        "They are often difficult to identify",
+        "They often attempt to shift project goals into meeting individual, personal objectives",
+        "They are usually the project sponsor"
+      ],
+      "explanation": "Invisible customers are the ones that are not easily identified, and cannot be a project sponsor."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following groups is NOT likely to be a visible project stakeholder?",
+      "answerIndex": 3,
+      "items": [
+        "The buyer or owner",
+        "The project financier",
+        "The contractor",
+        "Government regulators"
+      ],
+      "explanation": "Government regulators are often overlooked as stakeholders, and are therefore considered invisible stakeholders."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following best describes product scope?",
+      "answerIndex": 0,
+      "items": [
+        "The features and functions that characterize a product or service",
+        "The work that must be done to deliver a product with the specified features and functions",
+        "Both are part of product scope",
+        "None of the above"
+      ],
+      "explanation": "Product scope describes the product or service to be delivered. Project scope describes the work that must be completed to deliver the desired product or service."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following represents design specifications for a project?",
+      "answerIndex": 3,
+      "items": [
+        "Size",
+        "Weight",
+        "Materials used",
+        "All of the above"
+      ],
+      "explanation": "Design specifications for a project describe the physical specifications of the product or service of the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following represent operational specifications for a project?",
+      "answerIndex": 3,
+      "items": [
+        "Functions the product or service must perform",
+        "Conditions under which the project or service must perform",
+        "The work that must be done to deliver the project",
+        "All of the above"
+      ],
+      "explanation": "Performance/Operational Specifications defines functions and conditions under which the product must perform and the work to be done to deliver a product."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a characteristic or attribute often provided by the customer when defining the product or service of the project?",
+      "answerIndex": 3,
+      "items": [
+        "Producibility",
+        "Usability",
+        "Reliability",
+        "All of the above"
+      ],
+      "explanation": "Product or services of the project often provided by the customer include producibility, usability, reliability, maintainability, availability, operability, flexibility, and affordability."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following represents the degree of compatibility between the characteristics of a product or service and the prevailing values and expectations of the relevant society?",
+      "answerIndex": 2,
+      "items": [
+        "Producibility",
+        "Maintainability",
+        "Social acceptability",
+        "Affordability"
+      ],
+      "explanation": "Social acceptability addresses the degree of compatibility between the product, or service of the project’s characteristics, and the prevailing values and expectations of the relevant society."
+    }
+  ]
+}

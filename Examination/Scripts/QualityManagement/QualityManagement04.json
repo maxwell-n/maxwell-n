@@ -1,0 +1,258 @@
+{
+  "title": "QA - Quality Control",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning quality control is NOT true?",
+      "answerIndex": 3,
+      "items": [
+        "Quality control involves monitoring specific project results to determine if they comply with relevant quality standards, and identifying ways to eliminate causes of unsatisfactory results",
+        "Quality control is performed throughout the project",
+        "Quality control results in the ability to eliminate or reduce causes of unsatisfactory performance",
+        "None; all of the above are true"
+      ],
+      "explanation": "Quality control involves monitoring specific project results to determine if they comply with relevant quality standards, and identifying ways to eliminate causes of unsatisfactory results. It is performed throughout the project and results in the ability to eliminate or reduce causes of unsatisfactory performance."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following best describes the preventive aspect of quality control?",
+      "answerIndex": 1,
+      "items": [
+        "It attempts to limit the impact of a failure after it has happened",
+        "It aims to stop an event or failure from ever occurring",
+        "All of the above",
+        "None of the above"
+      ],
+      "explanation": "Prevention, as a concept in quality management, is all about stopping an event or failure from ever occurring within the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What type of sampling asks the question \"does the attribute exist\", and is binary in nature?",
+      "answerIndex": 0,
+      "items": [
+        "Attribute sampling",
+        "Variable sampling",
+        "Both of the above",
+        "None of the above"
+      ],
+      "explanation": "Attribute sampling and variable sampling are the two types of sampling techniques. Attribute sampling asks if the attribute exists at the desired level or value. It is a simple yes or no question."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When evaluating the causes of errors, what type explains outcomes that are naturally occurring?",
+      "answerIndex": 2,
+      "items": [
+        "Type I errors",
+        "Type II errors",
+        "Random causes",
+        "Special causes"
+      ],
+      "explanation": "Random causes are inherent in nature and are difficult to predict. However, they account for only 85% of the errors."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What term is used to describe the range of acceptable results?",
+      "answerIndex": 1,
+      "items": [
+        "Control limits",
+        "Tolerances",
+        "Special causes",
+        "Random causes"
+      ],
+      "explanation": "Tolerances describe the limits and what you are willing to tolerate or accept, in terms of the results."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Who describes quality control as the process through which we measure quality performance, compare it with quality goals, and act on the difference?",
+      "answerIndex": 2,
+      "items": [
+        "Deming",
+        "Crosby",
+        "Juran",
+        "Taguchi"
+      ],
+      "explanation": "Juran describes quality control as the process through which we measure quality performance, compare it with quality goals, and act on the difference."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What type of analysis involves using mathematical techniques to forecast future outcomes based on historical results?",
+      "answerIndex": 1,
+      "items": [
+        "Technical analysis",
+        "Trend analysis",
+        "Performance analysis",
+        "None of the above"
+      ],
+      "explanation": "Trend analysis takes past values and using mathematical techniques forecasts future outcomes based on historical trends."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What kind of performance evaluates how many errors or defects have been identified, or how many remain to be corrected?",
+      "answerIndex": 0,
+      "items": [
+        "Technical performance",
+        "Cost and schedule performance",
+        "Technical analysis",
+        "Trend analysis"
+      ],
+      "explanation": "Technical performance is a purely quantitative method for measuring results. It focuses on how many defects have been identified and keeping track of how many remain to be corrected."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following will a good quality control system do?",
+      "answerIndex": 3,
+      "items": [
+        "Compare actuals to standards (inspection)",
+        "Act when standards are not met",
+        "Plan for improvements",
+        "All of the above"
+      ],
+      "explanation": "By definition, according to Juran, a good quality control system will measure quality performance, compare it with quality goals, act on the difference, and plan for improvements."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is used to describe a control chart?",
+      "answerIndex": 3,
+      "items": [
+        "Based on statistical probability",
+        "Determine if a process is in control",
+        "Verify the impact on a process when changes are made",
+        "All of the above"
+      ],
+      "explanation": "A control chart is based on statistical probability and is used to determine if a process is in control by establishing upper and lower control limits. It can also verify the impact on a process when changes are made."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a common name for the curve most often used to describe a variable that is unaffected by other variables?",
+      "answerIndex": 2,
+      "items": [
+        "A normal distribution",
+        "A bell curve",
+        "A standard distribution",
+        "A Gaussian distribution"
+      ],
+      "explanation": "The curve that describes any independent variable with a nominal number of cases that is distributed in a balanced or normal fashion is called a normal distribution, a bell curve or a Gaussian distribution."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms is often used to describe the mid-point of the distribution when examining a control chart?",
+      "answerIndex": 3,
+      "items": [
+        "The mean",
+        "X (with a line above it)",
+        "The centerline",
+        "All of the above"
+      ],
+      "explanation": "It is most commonly referred to as the mean of the distribution; it can also be represented by an X with a line over it, or called the centerline of the distribution."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms is often used to describe the maximum allowable value for a control chart?",
+      "answerIndex": 1,
+      "items": [
+        "Lower control limit",
+        "Upper control limit",
+        "Maximum value",
+        "Top value"
+      ],
+      "explanation": "Within a control chart, the tolerances are defined by an upper and lower control limit. These create the maximum and minimum allowable value."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a term used to describe variations that account for 85% of the error?",
+      "answerIndex": 3,
+      "items": [
+        "Normal variation",
+        "Standard variation",
+        "Type II errors",
+        "Abnormal variation"
+      ],
+      "explanation": "Abnormal variation, assignable, or special variations account for only 15% of differences and require the resource to take action. These are different than the normal or standard variation that is also referred to as a type II error."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A graph ordered by frequency of occurrence that shows how many results were generated by type of category of identified cause is called what?",
+      "answerIndex": 1,
+      "items": [
+        "A histogram",
+        "A pareto diagram",
+        "A trend chart",
+        "A scatter diagram"
+      ],
+      "explanation": "A pareto diagram is a bar chart representing occurrences of something, usually errors. It is typically organized from left to right with the most commonly occurring errors on the left."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statistical sampling terms is used to describe a tested item that is either accepted or rejected?",
+      "answerIndex": 2,
+      "items": [
+        "A variable",
+        "A sample plan",
+        "An attribute",
+        "None of the above"
+      ],
+      "explanation": "An attribute is a variable that has a yes or no answer. It can be binary in nature or it can be a target value that must be reached as a minimum."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What kind of risk is involved when you are worried that you might accept product that should be rejected?",
+      "answerIndex": 1,
+      "items": [
+        "Producer risk",
+        "Consumer risk",
+        "Project risk",
+        "Alpha risk"
+      ],
+      "explanation": "Consumer risk is sometimes referred to as a type I error and represents the likelihood of accepting a product that should be rejected."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is an advantage of acceptance sampling?",
+      "answerIndex": 3,
+      "items": [
+        "Less product damage",
+        "Quicker decisions",
+        "Less inspection errors",
+        "All of the above"
+      ],
+      "explanation": "Acceptance sampling allows the organization to test only a small portion of the total products. This allows for less damage (e.g. fewer products tested), quicker decisions, and fewer errors."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a characteristic of a quality circle?",
+      "answerIndex": 3,
+      "items": [
+        "It is usually made up of 5 -15 workers",
+        "The team meets on a frequent basis to identify, discuss, and solve productivity and quality problems",
+        "One member of the group acts as the liaison between management and the group",
+        "All of the above are characteristics of a quality circle"
+      ],
+      "explanation": "Quality circles are usually made up of 5-15 workers, require the team to meet on a frequent basis to identify, discuss, and solve productivity and quality problems. They often require that one member of the group acts as the liaison between management and the group."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements defines quality control?",
+      "answerIndex": 1,
+      "items": [
+        "It is the application of planned systematic quality activities to ensure that the project employs all processes needed to meet requirements",
+        "It is the monitoring of specific project results to determine whether they comply with relevant quality standards, and identifying ways to eliminate causes of unsatisfactory performance",
+        "Both statements define quality control",
+        "Neither statement defines quality control"
+      ],
+      "explanation": "Quality control is the monitoring of specific project results to determine whether they comply with relevant quality standards, and identifying ways to eliminate causes of unsatisfactory performance."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In which of the following processes is continuous improvement most commonly categorized?",
+      "answerIndex": 1,
+      "items": [
+        "Quality planning",
+        "Perform quality assurance",
+        "Perform quality control",
+        "All of the above"
+      ],
+      "explanation": "Continuous improvement is part of the perform quality assurance process."
+    }
+  ]
+}

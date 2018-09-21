@@ -1,0 +1,78 @@
+{
+  "title": "QA - Six Sigma",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning Six Sigma is NOT true?",
+      "answerIndex": 3,
+      "items": [
+        "Six Sigma is a measure of deviation or variability",
+        "Six Sigma is a process, quality, goal or objective",
+        "Six Sigma is a statistical measure of performance",
+        "Six Sigma has a non-conformance level of 4.3 DPM opportunities"
+      ],
+      "explanation": "Six Sigma has a non-conformance level of 3.4 defects per million."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How many defects per million opportunities does a process have when Six Sigma is reached?",
+      "answerIndex": 0,
+      "items": [
+        "3.4",
+        "233",
+        "6,210",
+        "66,807"
+      ],
+      "explanation": "Six Sigma has a non-conformance level of 3.4 defects per million."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT an advantage of using Six Sigma?",
+      "answerIndex": 2,
+      "items": [
+        "It emphasizes quality improvement",
+        "It is a systematic methodology",
+        "It is customer satisfaction driven",
+        "It is results oriented"
+      ],
+      "explanation": "Six Sigma is data driven, not driven by customer satisfaction."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a required condition to make Six Sigma work?",
+      "answerIndex": 3,
+      "items": [
+        "The customer's needs are truly your first priority",
+        "People are the focus; you train, empower, and involve them",
+        "You establish performance standards and use exception reporting",
+        "All of the above are required conditions"
+      ],
+      "explanation": "Six Sigma requires having the customer needs be the first priority. This is, however, different from being customer driven. The focus will be on people and on establishing performance standards that use exception reporting."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a step in the Six Sigma process?",
+      "answerIndex": 3,
+      "items": [
+        "Conduct a gap analysis",
+        "Determine what training is needed",
+        "Form project teams",
+        "Quantify the measurements"
+      ],
+      "explanation": "The steps in a Six Sigma process include determining what your product or service is, determining who your customer is, determining what your customer's requirements and expectations are, determining the requirements to meet the customer's expectations, conducting a gap analysis, determining what training is needed, forming project teams, mapping the processes, implementing the methodology, mistake-proofing the process, establishing measurements, and continuing the gains."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT part of the DMAIC Process?",
+      "answerIndex": 1,
+      "items": [
+        "Measure",
+        "Configure",
+        "Analyze",
+        "Improve"
+      ],
+      "explanation": "The steps of the DMAIC process include Define, Measure, Analyze, Improve, and Control."
+    }
+  ]
+}

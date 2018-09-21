@@ -1,0 +1,150 @@
+{
+  "title": "QA - Plan Quality",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "In which of the following PMBOK Guide processes would you determine the quality standards that are relevant to the project and how the project will satisfy them?",
+      "answerIndex": 0,
+      "items": [
+        "Plan quality",
+        "Define quality",
+        "Perform quality assurance",
+        "Quality monitoring and control"
+      ],
+      "explanation": "The purpose of the plan quality process is to determine which quality standards are applicable for the project and how the team intends to meet them."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements about quality is NOT true?",
+      "answerIndex": 3,
+      "items": [
+        "Quality may be planned in",
+        "Quality may be built in",
+        "Quality may be designed in",
+        "Quality may be inspected in"
+      ],
+      "explanation": "Quality may not be inspected in. Inspection only occurs after the product or service is created, and therefore cannot change the level of quality for the already produced product or service."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements is NOT true concerning the scope statement?",
+      "answerIndex": 3,
+      "items": [
+        "The scope statement contains key inputs to the Quality Plan",
+        "The scope statement is crafted in the Project Scope Management process",
+        "The scope statement defines important stakeholder requirements",
+        "None; all of the above are true"
+      ],
+      "explanation": "The scope statement is a critical document for the development of the quality management plan. It is important because it defines important stakeholder requirements."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following must be considered when defining the quality plan?",
+      "answerIndex": 3,
+      "items": [
+        "Environmental factors",
+        "Company culture",
+        "Industry standards",
+        "All of the above must be considered"
+      ],
+      "explanation": "Many different factors must be considered when defining the quality plan. Factors such as the major stakeholder requirements, environmental factors, company culture, and industry standards all must be included."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When considering the product description which of the following is NOT true?",
+      "answerIndex": 3,
+      "items": [
+        "It is developed during Project Scope Management processes",
+        "It contains details that may affect quality planning",
+        "It identifies performance expectations",
+        "It will be redefined during quality assurance"
+      ],
+      "explanation": "Once defined, the product description should not be redefined except under extreme conditions and only when approved by the sponsor."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning benchmarking is NOT true?",
+      "answerIndex": 1,
+      "items": [
+        "Benchmarking may be used for process and product improvement",
+        "Benchmarking can produce Type II errors for organizational validation",
+        "Benchmarking can be done within the organization or with other organizations that have similar processes",
+        "Benchmarking can disrupt a project if improperly done"
+      ],
+      "explanation": "A type II error occurs when the customer rejects a good lot. This has nothing to do with benchmarking."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a synonym for a type of diagram used to evaluate areas of concern and their potential causes?",
+      "answerIndex": 2,
+      "items": [
+        "Cause and effect diagrams",
+        "Ishikawa diagrams",
+        "Pareto diagrams",
+        "Fishbone diagrams"
+      ],
+      "explanation": "Cause and effect, Ishikawa, and fishbone are all names for a diagram used to evaluate potential problems and their causes."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements is true about process diagrams?",
+      "answerIndex": 2,
+      "items": [
+        "Process diagrams may be used to identify potential problem areas",
+        "Process diagrams may be used in process improvement",
+        "Both of the above are true",
+        "None of the above are true"
+      ],
+      "explanation": "Process diagrams may be used to identify potential problems, and used in process improvements."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements concerning DOE is NOT true?",
+      "answerIndex": 2,
+      "items": [
+        "DOE was made popular by Taguchi",
+        "DOE provides a statistical framework for systematically changing all of the important factors, instead of changing factors one at a time",
+        "DOE analysis does not provide optimal conditions for the product or process",
+        "None; all of the above are true"
+      ],
+      "explanation": "Design of Experiments, or DOE, creates a way of analyzing multiple variables on a project as defined by Taguchi."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A good quality assurance plan will address all of the following EXCEPT:",
+      "answerIndex": 1,
+      "items": [
+        "Quality assurance, control, and improvement",
+        "Operational structure",
+        "Processes and procedures",
+        "Resources needed to implement"
+      ],
+      "explanation": "A good quality assurance plan will address processes and procedures, quality assurance, control, and improvement, and define resources needed to implement the plan."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following plans is NOT included in the quality assurance plan?",
+      "answerIndex": 2,
+      "items": [
+        "The requirement plan",
+        "The facilities plan",
+        "The infrastructure assessment plan",
+        "The system sell-off plan"
+      ],
+      "explanation": "There are many plans that might be part of the quality assurance plan, but the infrastructure assessment plan is not one of them."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements is NOT true of a good quality assurance system?",
+      "answerIndex": 3,
+      "items": [
+        "Includes an audit process",
+        "Has established measures of performance",
+        "Based on tangible data",
+        "Correction oriented"
+      ],
+      "explanation": "A good quality assurance system has nothing to do with correction. A good quality assurance system is prevention oriented."
+    }
+  ]
+}

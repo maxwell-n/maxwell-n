@@ -1,0 +1,282 @@
+{
+  "title": "QA - Concept of Quality",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a major component of project quality?",
+      "answerIndex": 3,
+      "items": [
+        "Conformance to requirements",
+        "Fitness for use",
+        "Conformance to specifications",
+        "All of the above"
+      ],
+      "explanation": "Project quality management requires the project manager to address the product or service of the project in two areas: <BR />1. The product or service must meet the specified requirements and any rules or regulations (conformance to requirements and specifications). <BR />2. The product or service must be capable of meeting the intended purpose (fitness for use)."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a characteristic defined by quality?",
+      "answerIndex": 3,
+      "items": [
+        "Grade vs. Quality",
+        "Customer satisfaction",
+        "Accuracy vs. Precision",
+        "Schedule requirements"
+      ],
+      "explanation": "Schedule requirements have nothing to do with quality. They are considered a separate leg of the triangle or triple constraints."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following most accurately describes the difference between grade and quality?",
+      "answerIndex": 1,
+      "items": [
+        "Grade describes whether or not the product of the project meets the requirements while quality describes how well the product meets those requirements",
+        "Quality describes whether or not the product of the project meets the requirements while grade describes how well the product meets those requirements",
+        "Grade is quantitative while quality is qualitative",
+        "They both measure the same thing"
+      ],
+      "explanation": "A common way of thinking of quality versus grade is that quality represents binary criteria (e.g. black or white), whereas grade represents shades of grey."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "If project quality is delivered, which of the following statements are true?",
+      "answerIndex": 3,
+      "items": [
+        "Quality is a category ranking used to ensure the stakeholders’ need is met",
+        "Grade is the totality of characteristics of an entity that bear on its ability to satisfy the stated or implied needs",
+        "Delivering on quality means continually improving quality",
+        "The project has been carried through its phases with zero deviations from the project specifications or objectives"
+      ],
+      "explanation": "The key element in this question is remembering the definition of quality. Quality is meeting the specified requirements."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "According to many writers, which of the following is required to improve the quality of the outcome?",
+      "answerIndex": 0,
+      "items": [
+        "The quality of the process must be improved",
+        "Each worker must improve their deliverables",
+        "Statistical sampling must be used",
+        "The rate of inspection must be increased"
+      ],
+      "explanation": "The most influential of the writers is E.J. Deming who argued, to fix a system problem it is 85% process and only 15% worker."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements are accurately attributed to Edward Deming?",
+      "answerIndex": 3,
+      "items": [
+        "Most of the responsibility for quality belongs to the project team",
+        "Most of the responsibility for project quality belongs to the stakeholders",
+        "Project quality is 15% process and 85% worker",
+        "Project quality is 85% process and 15% worker"
+      ],
+      "explanation": "Deming argued that system problems and quality are 85% process and 15% worker."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a cost of conformance?",
+      "answerIndex": 2,
+      "items": [
+        "Quality training",
+        "Studies",
+        "Rework",
+        "Surveys"
+      ],
+      "explanation": "Rework is a cost of non-conformance and represents work that must be completed again because it was unsatisfactory."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a cost of non-conformance?",
+      "answerIndex": 3,
+      "items": [
+        "Inventory costs",
+        "Warranty costs",
+        "Scrap",
+        "Training"
+      ],
+      "explanation": "Training is a conformance cost as you are teaching your resources to actually do the required activities, in such a way, as to produce the desired result."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT considered an impact to poor quality?",
+      "answerIndex": 3,
+      "items": [
+        "Lower customer satisfaction",
+        "Lower morale",
+        "Increased risks",
+        "All of the above are impacts of poor quality"
+      ],
+      "explanation": "Poor quality can have many impacts. These include lowering the team’s morale, increasing the risks to the organization and lower customer satisfaction."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms means adding extra functionality not approved by the sponsor?",
+      "answerIndex": 2,
+      "items": [
+        "Marginal analysis",
+        "Exceeding expectations",
+        "Gold plating",
+        "Kaizan"
+      ],
+      "explanation": "Gold plating is adding extra functionality not approved by the sponsor."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms represents the idea that many small improvements will have a greater impact than a few big improvements?",
+      "answerIndex": 3,
+      "items": [
+        "Marginal analysis",
+        "JIT",
+        "Gold plating",
+        "Kaizan"
+      ],
+      "explanation": "Kaizan is a Japanese quality improvement concept that argues many small improvements will provide greater value than a single large improvement."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following terms provides a technique to reduce an organization’s inventory?",
+      "answerIndex": 1,
+      "items": [
+        "Marginal analysis",
+        "JIT",
+        "Gold plating",
+        "Kaizan"
+      ],
+      "explanation": "JIT, or Just in Time, is an inventory management technique where components only arrive just prior to being needed. This reduces costs and held inventory."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a member of ISO?",
+      "answerIndex": 3,
+      "items": [
+        "BSO",
+        "ITIL",
+        "PMI",
+        "ANSI"
+      ],
+      "explanation": "ANSI, or the American National Standards Institute, is the American representative to the International Standards Organization."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a methodology that tasks employees with constantly improving?",
+      "answerIndex": 1,
+      "items": [
+        "Kaizan",
+        "TQM",
+        "JIT",
+        "Exceeding expectations"
+      ],
+      "explanation": "TQM, or Total Quality Management, is a continuous process improvement methodology."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When using sampling, which of the following is a basic assumption?",
+      "answerIndex": 1,
+      "items": [
+        "That all the variables are related",
+        "That the variables are statistically independent",
+        "The sample accurately represents every possible outcome",
+        "All of the above"
+      ],
+      "explanation": "A base assumption of all statistical sampling techniques is that the sample can be made to fairly represent the entire population, and it is therefore not required to measure the entire population."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a term used to reference the sum of the cases divided by the count?",
+      "answerIndex": 0,
+      "items": [
+        "Mean",
+        "Standard Deviation",
+        "Sigma",
+        "All of the Above"
+      ],
+      "explanation": "The mean is defined as the sum of the values divided by the count. It is one of three statistical averages and provides the exact middle of a normal or Gaussian Distribution."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "If your boss wanted you to be 2/3rds confident in your estimate, which of the following would you provide?",
+      "answerIndex": 0,
+      "items": [
+        "A 1 Sigma estimate",
+        "A 2 Sigma estimate",
+        "A 3 Sigma estimate",
+        "A 6 Sigma estimate"
+      ],
+      "explanation": "A one standard deviation or 1 Sigma estimate means you are exactly one standard deviation from both the right and left of the mean. This accounts for 68% of the cases and represents a 2/3rds point."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "At 2 Sigma, how many potential cases would be accounted for assuming a normal distribution?",
+      "answerIndex": 1,
+      "items": [
+        "68%",
+        "95%",
+        "99%",
+        "None of the above"
+      ],
+      "explanation": "A two standard deviation or 2 Sigma estimate means you are exactly two standard deviations from both the right and left of the mean. This will account for 95% of the cases in a population."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the five (5) major cost categories for quality?",
+      "answerIndex": 3,
+      "items": [
+        "External failure costs",
+        "Appraisal costs",
+        "Internal failure costs",
+        "Inspection costs"
+      ],
+      "explanation": "The five major cost categories include prevention costs, appraisal costs, internal failure costs, external failure costs, and measurement and testing equipment."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the eight (8) categories of waste?",
+      "answerIndex": 3,
+      "items": [
+        "Rejected work",
+        "Design flaws",
+        "Manpower",
+        "All of the above are categories of waste"
+      ],
+      "explanation": "The eight categories of waste include Waste in Rejects of Completed Work, Waste in Design Flaws, Waste in Work-in-Progress, Waste in Motion for Manpower, Waste in Management, Waste in Manpower, Waste in Facilities, and Waste in Expense."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following thought leaders is responsible for the PDCA cycle?",
+      "answerIndex": 0,
+      "items": [
+        "Deming",
+        "Juran",
+        "Crosby",
+        "Ishikawa"
+      ],
+      "explanation": "Edward Deming created the Plan, Do, Check, Act Cycle."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following thought leaders is responsible for the fishbone or cause and effect diagrams?",
+      "answerIndex": 3,
+      "items": [
+        "Deming",
+        "Juran",
+        "Crosby",
+        "Ishikawa"
+      ],
+      "explanation": "Ishikawa Diagrams are sometimes called fishbone diagrams or cause and effect diagrams, and are used in root cause analysis."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following thought leaders is responsible for TQM?",
+      "answerIndex": 1,
+      "items": [
+        "Deming",
+        "Juran",
+        "Crosby",
+        "Ishikawa"
+      ],
+      "explanation": "Juran is the father of the Total Quality Management improvement process."
+    }
+  ]
+}
