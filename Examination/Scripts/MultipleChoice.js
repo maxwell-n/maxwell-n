@@ -47,11 +47,14 @@ class MultipleChoiceEngine extends Question {
         if (this.Data.answer)
             for (let i = 0; i < this.Data.dataItem["items"].length; i++) {
                 let item = this.Data.dataItem["items"][i];
-                if (list.indexOf(item) === -1) {
-                    let idx = randomizeUtil.randomNumber(list.length + 1);
-                    list.splice(idx, 0, item);
+                if (this.Data.randomize) {
+                    if (list.indexOf(item) === -1) {
+                        let idx = randomizeUtil.randomNumber(list.length + 1);
+                        list.splice(idx, 0, item);
+                    }
                 }
-                //list.push(item);
+                else
+                    list.push(item);
             }
         for (let i = 0; i < list.length; i++) {
             item = list[i];

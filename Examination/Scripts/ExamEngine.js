@@ -125,7 +125,8 @@ class ExamEngine {
             currentQuestion: this.exam.currentQuestion,
             answer: question["answer"],
             dataItem: this.exam["data"][question["dataIndex"]],
-            explanation: question["explanation"]
+            explanation: question["explanation"],
+            randomize: question["randomize"] == true
         };
         this.updateScore();
         return data;

@@ -1,0 +1,263 @@
+{
+  "title": "Scrum Master",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which one of the following are Scrum Master responsibilities?",
+      "answerIndex": 3,
+      "randomize": false,
+      "items": [
+        "A: Facilitate improvements",
+        "B: Most knowledgeable person about Scrum",
+        "C: Assist with Definition of Done",
+        "D: Monitor and police Scrum practices",
+        "E: Coach Scrum Practices",
+        "F: Clear the path to enable team success",
+        "G: Challenge the team\r\nA. All of the above\r\nB. A, B, C, D\r\nC. D, E, F, G\r\nD. A, C, E, F, G"
+      ],
+      "explanation": "Part of what's included in \"clear the path\" is removing impediments to Scrum Team progress."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT part of the authorities the Scrum Master has?",
+      "answerIndex": 1,
+      "items": [
+        "Ensure Scrum practices are followed",
+        "Make decisions on behalf of the Team",
+        "Influences others",
+        "Protect the team from outside interference"
+      ],
+      "explanation": "The Scrum Master does not make decisions on behalf of the Team."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are NOT key skills for the Scrum Team?",
+      "answerIndex": 0,
+      "randomize": false,
+      "items": [
+        "A: Fast programming",
+        "B: Self-motivated",
+        "C: Good debugging",
+        "D: Responsible",
+        "E: Software quality assurance background",
+        "F: Works well with others",
+        "G: Independent thinking",
+        "H: Previous Scrum experience\r\nA. A, C, E, H\r\nB. B, D, F, G\r\nC. A, B, C, D\r\nD. E, F, G, H"
+      ],
+      "explanation": "Membership in a Scrum Team is based more on the soft-skills than pure technical skills. While the technical skills are important (and may factor into the decision to include or exclude someone in a traditionally managed project), the soft skills are critical to self-organizing teams."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How does Scrum support quality and change?",
+      "answerIndex": 0,
+      "items": [
+        "Scrum supports quality through the use of Empirical Process Control and change through grooming the Prioritized Product Backlog and Sprint Review",
+        "Scrum supports change by segregating approved from unapproved changes. Scrum support quality integrating organizational quality controls",
+        "Because Scrum doesn't follow a plan, it allows changes. Quality is based on a Definition of Done within a Sprint",
+        "The basis of quality in Sprint is the Deming (PDCA) cycle. Change is restricted to authorization by the Product Owner as the primary voice of the customer"
+      ],
+      "explanation": "Throughout each step: planning, coding, grooming, reviews, etc., there are multiple sets of eyes on everything because of transparency. This makes inspection an integral part of everything. Inspection leads to adaptation when the inspections reveal something out of expected tolerances, ranges or clarity."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What does the Scrum Master need to know about risk and issues?",
+      "answerIndex": 1,
+      "items": [
+        "A risk has happened; an issue might happen",
+        "A risk could be a threat or an opportunity",
+        "The Scrum master must understand the probability of every risk that could occur to be able to help protect the team",
+        "Risks must be identified and mitigated"
+      ],
+      "explanation": "A risk might happen; and issue has happened. It's impossible to understand the probability of every risk. Some risks aren't mitigated; they are avoided, transferred or shared, too."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a Scrum principle?",
+      "answerIndex": 2,
+      "items": [
+        "Self-organizing teams",
+        "Value-based prioritization",
+        "Continued business-based justification",
+        "Self-organizing teams"
+      ],
+      "explanation": "While C is important, it's not a specific Scrum principle; it is part of value-based prioritization."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Why is Empirical Process Control (EPC) vitally important to Scrum?",
+      "answerIndex": 0,
+      "items": [
+        "Visibility means artifacts are visible to everyone with a stake in the outcomes. There is a common language and agreement to what constitutes, Done. Inspecting everything builds quality into the development process by measuring current against expectation. If inspection reveals an out of tolerance area, appropriate changes can be made",
+        "EPC is the basis for planning Sprints, the Daily Standup and the review/retrospect processes",
+        "EPC is no more critical to Scrum than any of the other principles",
+        "The real focus of EPC is common language and process understanding. It is the basis of the organizational change that is required for successful Scrum efforts"
+      ],
+      "explanation": "While there is an element of truth in answers B through D, answer A is the only one that focuses on all three elements of EPC."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are the Scrum Master on a project; what, if any, are the differences in team selection compared to traditional project management?",
+      "answerIndex": 3,
+      "items": [
+        "There isn't really a difference, both approaches to project management (traditional and Scrum) use cross-functional teams",
+        "Scrum requires the use of specially trained developers who understand Scrum processes",
+        "Because there is no project manager on a Scrum project, team selection doesn't require the same formal approvals as traditional project management",
+        "Traditional project management schedules resources and capabilities while scrum efforts focus on more to include building collaborating teams"
+      ],
+      "explanation": "Team selection in Scrum focuses on more to include building collaborating teams."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the focus of the tasks that are created in the Create Tasks process (part of the Plan & Estimate phase)?",
+      "answerIndex": 0,
+      "items": [
+        "The tasks are focused on what it will take to estimate the effort",
+        "The tasks are focused on decomposing epics into estimate-able stories",
+        "The tasks define what is required to create the deliverables for the Sprint",
+        "Create Tasks focuses on both defining tasks to estimate the effort and assigning ownership for them"
+      ],
+      "explanation": "While there may be elements of B included, the overall effort is determining what the team can handle in this Sprint -- estimating what it can do."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the difference between the product backlog and the Sprint backlog?",
+      "answerIndex": 1,
+      "items": [
+        "The Sprint backlog contains an overall description of work; the product backlog is the effort within a timebox",
+        "The Sprint backlog contains the work for a specific timebox; the product backlog is the description of the overall work",
+        "The Sprint backlog contains stories for the Sprint; the product backlog contains all stories",
+        "The Sprint backlog contains all stories; the product backlog contains stories for a Sprint"
+      ],
+      "explanation": "The Sprint Backlog shows the stories and tasks committed for \"this\" Sprint. The product backlog is a prioritized list of all stories (and epics) for the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "As a Scrum Master, what should you do to assist the Product Owner and Scrum Team with User Stories?",
+      "answerIndex": 2,
+      "randomize": false,
+      "items": [
+        "A: Make sure they follow the defined template.",
+        "B: Assure User Stories answer questions about who, what, and how?",
+        "C: Make sure there is a clear and unambiguous acceptance criteria for each story.\r\nA: A only\r\nB: A and B\r\nC: C only\r\nD: All of the above"
+      ],
+      "explanation": "The Scrum Master should assist in making sure there is a clear and unambiguous acceptance criteria for each story."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is most correct about the Sprint Planning Meeting?",
+      "answerIndex": 3,
+      "items": [
+        "The entire core team is present for the meeting",
+        "The meeting is time-boxed to 4-hours",
+        "The meeting is actually two separate meetings",
+        "The Scrum Team uses the meeting to determine which stories they'll select from the Prioritized Product Backlog"
+      ],
+      "explanation": "While it is true that Sprint Planning Meetings are time-boxed, the time is based on the length of the Sprint. The Product Owner attends the first part of the meeting but is on-call for the second half if the team needs more information. So, while it is technically true that the Sprint Planning Meeting is divided into two sections, it's really one meeting with slightly different purposes in each half: story (and acceptance criteria) clarification and selection followed by a How-to meeting to turn the stories into a deliverables during the Sprint."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The following statements are about the Daily Standup (Daily Scrum):",
+      "answerIndex": 2,
+      "randomize": false,
+      "items": [
+        "A: Communication with the development team",
+        "B: Generates a report to management",
+        "C: All team members expected to attend, but proceeds if anyone can't",
+        "D: Facilitated by the Scrum Master",
+        "E: Attended by the entire core team\r\nA: A, B, C, and D are true\r\nB: Only A and D are true\r\nC: B and E are false\r\nD: Only C and D are true"
+      ],
+      "explanation": "Statements A, C, and D are true; the only correct answer is C."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the purpose for grooming the product backlog?",
+      "answerIndex": 1,
+      "items": [
+        "Grooming is an activity performed by the Product Owner as a part of maintaining the product backlog. It assures stories have the proper priority",
+        "The process of grooming the product backlog assigns initial story points to each item. This makes grooming a way to refine the product backlog to increase team efficiency by reducing unknowns and uncertainties to support a sustainable pace",
+        "The purpose for grooming is to remove (groom) stories that are no longer needed from the product backlog",
+        "Grooming is the first step before conducting the Sprint Planning Meeting. It selects the candidate stories for inclusion in the Sprint"
+      ],
+      "explanation": "When properly done, refining the product backlog may help to reduce the time required for the Sprint Planning Meeting by adding clarity to the items in the product backlog. Remember the product backlog is an ordered-list (ordered by priority) of everything needed to produce the final product delivered by the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the difference between release planning in traditional project management and Scrum?",
+      "answerIndex": 1,
+      "items": [
+        "There is no real difference; release planning is an important aspect of every project",
+        "Release planning in tradition project management is predictive and based on a plan; release planning in Scrum is based on organizational priorities",
+        "Release planning in Scrum is not as precise as traditional project management",
+        "Release planning in Scrum is much more difficult than traditional project management because there are no project milestones in Scrum compared to traditional project management"
+      ],
+      "explanation": "Release planning in Scrum can actually be more precise than traditional project management because it is (or should be) updated after every Sprint. In both traditional project management and Scrum, the release plan will always have ranges (or tolerances)."
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are included in the Prioritized Product Backlog?",
+      "answerIndex": 3,
+      "randomize": false,
+      "items": [
+        "A: User Stories",
+        "B: Changes",
+        "C: Bugs",
+        "D: Technical requirements",
+        "E: Epics",
+        "F: Risks",
+        "G: Non-functional requirements",
+        "H: Compliance issues (including regulatory issues)\r\nA. A, B, D, E, F, G\r\nB. A, B, E, G, H\r\nC. A, C, E, G, H\r\nD. All of the Above"
+      ],
+      "explanation": "All of the above are included in the Prioritized Product Backlog."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The purpose for every Sprint is to...?",
+      "answerIndex": 1,
+      "items": [
+        "Complete the Sprint Backlog items",
+        "Produce something that is potentially shippable",
+        "Do only what was committed",
+        "There is no single purpose attributable to every Sprint"
+      ],
+      "explanation": "While working through the entire Sprint Backlog is important, the goal is something shippable, not just completing the items on the Sprint Backlog."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the Definition of Done?",
+      "answerIndex": 2,
+      "items": [
+        "A checklist of things to do",
+        "It is related to acceptance criteria and applies to each story",
+        "A set of rules that applies to the work performed during each Sprint",
+        "Established by the team for each Sprint to document what they've completed"
+      ],
+      "explanation": "The Definition of Done is a set rules that applies to the work performed during each Sprint."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements is most correct about the Release Burndown Chart?",
+      "answerIndex": 1,
+      "items": [
+        "It is owned by the Product Owner and used to plan releases",
+        "It is updated by the Scrum master after every Sprint",
+        "It is a predictive tool, used by the Product Owner to forecast when the release can occur",
+        "It is a tool for the Scrum Team to chart the progress and be able to accurately determine Team Velocity"
+      ],
+      "explanation": "The Release Burndown Chart isn't predictive; it is empirical evidence regarding what has been completed."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the primary purpose for the Scrum of Scrums?",
+      "answerIndex": 2,
+      "items": [
+        "It helps multiple Scrum Teams from interfering with each other",
+        "It is a way to make Scrum scale when the Scrum teams have to be bigger than 6 to 10 people",
+        "It allows Scrum to scale to larger projects that use more than one Scrum Team",
+        "It is the first step to get to a Scrum of Scrum of Scrums for scalability"
+      ],
+      "explanation": "A Scrum of Scrum scales to larger projects that use more than one Scrum Team."
+    }
+  ]
+}
