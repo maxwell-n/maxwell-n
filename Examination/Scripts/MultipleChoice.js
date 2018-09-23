@@ -67,7 +67,7 @@ class MultipleChoiceEngine extends Question {
                 radioButton.onclick = this.checkAnswer.bind(this, item);
                 sAnswers.appendChild(radioButton);
                 let label = this.ContentDocument.createElement('label');
-                label.innerText = item;
+                label.innerHTML = item;
                 label.htmlFor = item;
                 sAnswers.appendChild(label);
                 sAnswers.appendChild(this.ContentDocument.createElement('br'));

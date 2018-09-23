@@ -4,17 +4,14 @@
   "data": [
     {
       "questionType": "Multiple Choice",
-      "question": "Which one of the following are Scrum Master responsibilities?",
+      "question": "<p align='left'>Which one of the following are Scrum Master responsibilities?<br />A: Facilitate improvements<br />B: Most knowledgeable person about Scrum<br />C: Assist with Definition of Done<br />D: Monitor and police Scrum practices<br />E: Coach Scrum Practices<br />F: Clear the path to enable team success<br />G: Challenge the team</p>",
       "answerIndex": 3,
       "randomize": false,
       "items": [
-        "A: Facilitate improvements",
-        "B: Most knowledgeable person about Scrum",
-        "C: Assist with Definition of Done",
-        "D: Monitor and police Scrum practices",
-        "E: Coach Scrum Practices",
-        "F: Clear the path to enable team success",
-        "G: Challenge the team\r\nA. All of the above\r\nB. A, B, C, D\r\nC. D, E, F, G\r\nD. A, C, E, F, G"
+        "A. All of the above",
+        "B. A, B, C, D",
+        "C. D, E, F, G",
+        "D. A, C, E, F, G"
       ],
       "explanation": "Part of what's included in \"clear the path\" is removing impediments to Scrum Team progress."
     },
@@ -32,18 +29,14 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following are NOT key skills for the Scrum Team?",
+      "question": "<p align='left'>Which of the following are NOT key skills for the Scrum Team?<br />A: Fast programming<br />B: Self-motivated<br />C: Good debugging<br />D: Responsible<br />E: Software quality assurance background<br />F: Works well with others<br />G: Independent thinking<br />H: Previous Scrum experience</p>",
       "answerIndex": 0,
       "randomize": false,
       "items": [
-        "A: Fast programming",
-        "B: Self-motivated",
-        "C: Good debugging",
-        "D: Responsible",
-        "E: Software quality assurance background",
-        "F: Works well with others",
-        "G: Independent thinking",
-        "H: Previous Scrum experience\r\nA. A, C, E, H\r\nB. B, D, F, G\r\nC. A, B, C, D\r\nD. E, F, G, H"
+        "A. A, C, E, H",
+        "B. B, D, F, G",
+        "C. A, B, C, D",
+        "D. E, F, G, H"
       ],
       "explanation": "Membership in a Scrum Team is based more on the soft-skills than pure technical skills. While the technical skills are important (and may factor into the decision to include or exclude someone in a traditionally managed project), the soft skills are critical to self-organizing teams."
     },
@@ -133,13 +126,14 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "As a Scrum Master, what should you do to assist the Product Owner and Scrum Team with User Stories?",
+      "question": "<p align='left'>As a Scrum Master, what should you do to assist the Product Owner and Scrum Team with User Stories?<br />A: Make sure they follow the defined template<br />B: Assure User Stories answer questions about who, what, and how?<br />C: Make sure there is a clear and unambiguous acceptance criteria for each story.</p>",
       "answerIndex": 2,
       "randomize": false,
       "items": [
-        "A: Make sure they follow the defined template.",
-        "B: Assure User Stories answer questions about who, what, and how?",
-        "C: Make sure there is a clear and unambiguous acceptance criteria for each story.\r\nA: A only\r\nB: A and B\r\nC: C only\r\nD: All of the above"
+        "A: A only",
+        "B: A and B",
+        "C: C only",
+        "D: All of the above"
       ],
       "explanation": "The Scrum Master should assist in making sure there is a clear and unambiguous acceptance criteria for each story."
     },
@@ -157,15 +151,14 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "The following statements are about the Daily Standup (Daily Scrum):",
+      "question": "<p align='left'>The following statements are about the Daily Standup (Daily Scrum):<br />A: Communication with the development team<br />B: Generates a report to management<br />C: All team members expected to attend, but proceeds if anyone can't<br />D: Facilitated by the Scrum Master<br />E: Attended by the entire core team</p>",
       "answerIndex": 2,
       "randomize": false,
       "items": [
-        "A: Communication with the development team",
-        "B: Generates a report to management",
-        "C: All team members expected to attend, but proceeds if anyone can't",
-        "D: Facilitated by the Scrum Master",
-        "E: Attended by the entire core team\r\nA: A, B, C, and D are true\r\nB: Only A and D are true\r\nC: B and E are false\r\nD: Only C and D are true"
+        "A: A, B, C, and D are true",
+        "B: Only A and D are true",
+        "C: B and E are false",
+        "D: Only C and D are true"
       ],
       "explanation": "Statements A, C, and D are true; the only correct answer is C."
     },
@@ -196,18 +189,14 @@
 
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following are included in the Prioritized Product Backlog?",
+      "question": "<p align='left'>Which of the following are included in the Prioritized Product Backlog?<br />A: User Stories<br />B: Changes<br />C: Bugs<br />D: Technical requirements<br />E: Epics<br />F: Risks<br />G: Non-functional requirements<br />H: Compliance issues (including regulatory issues)</p>",
       "answerIndex": 3,
       "randomize": false,
       "items": [
-        "A: User Stories",
-        "B: Changes",
-        "C: Bugs",
-        "D: Technical requirements",
-        "E: Epics",
-        "F: Risks",
-        "G: Non-functional requirements",
-        "H: Compliance issues (including regulatory issues)\r\nA. A, B, D, E, F, G\r\nB. A, B, E, G, H\r\nC. A, C, E, G, H\r\nD. All of the Above"
+        "A. A, B, D, E, F, G",
+        "B. A, B, E, G, H",
+        "C. A, C, E, G, H",
+        "D. All of the Above"
       ],
       "explanation": "All of the above are included in the Prioritized Product Backlog."
     },
