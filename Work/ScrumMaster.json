@@ -8,10 +8,10 @@
       "answerIndex": 3,
       "randomize": false,
       "items": [
-        "A. All of the above",
-        "B. A, B, C, D",
-        "C. D, E, F, G",
-        "D. A, C, E, F, G"
+        "All of the above",
+        "A, B, C, D",
+        "D, E, F, G",
+        "A, C, E, F, G"
       ],
       "explanation": "Part of what's included in \"clear the path\" is removing impediments to Scrum Team progress."
     },
@@ -33,10 +33,10 @@
       "answerIndex": 0,
       "randomize": false,
       "items": [
-        "A. A, C, E, H",
-        "B. B, D, F, G",
-        "C. A, B, C, D",
-        "D. E, F, G, H"
+        "A, C, E, H",
+        "B, D, F, G",
+        "A, B, C, D",
+        "E, F, G, H"
       ],
       "explanation": "Membership in a Scrum Team is based more on the soft-skills than pure technical skills. While the technical skills are important (and may factor into the decision to include or exclude someone in a traditionally managed project), the soft skills are critical to self-organizing teams."
     },
@@ -130,10 +130,10 @@
       "answerIndex": 2,
       "randomize": false,
       "items": [
-        "A: A only",
-        "B: A and B",
-        "C: C only",
-        "D: All of the above"
+        "A only",
+        "A and B",
+        "C only",
+        "All of the above"
       ],
       "explanation": "The Scrum Master should assist in making sure there is a clear and unambiguous acceptance criteria for each story."
     },
@@ -155,10 +155,10 @@
       "answerIndex": 2,
       "randomize": false,
       "items": [
-        "A: A, B, C, and D are true",
-        "B: Only A and D are true",
-        "C: B and E are false",
-        "D: Only C and D are true"
+        "A, B, C, and D are true",
+        "Only A and D are true",
+        "B and E are false",
+        "Only C and D are true"
       ],
       "explanation": "Statements A, C, and D are true; the only correct answer is C."
     },
@@ -193,10 +193,10 @@
       "answerIndex": 3,
       "randomize": false,
       "items": [
-        "A. A, B, D, E, F, G",
-        "B. A, B, E, G, H",
-        "C. A, C, E, G, H",
-        "D. All of the Above"
+        "A, B, D, E, F, G",
+        "A, B, E, G, H",
+        "A, C, E, G, H",
+        "All of the Above"
       ],
       "explanation": "All of the above are included in the Prioritized Product Backlog."
     },

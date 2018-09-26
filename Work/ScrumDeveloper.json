@@ -1,0 +1,598 @@
+{
+  "title": "Scrum Developer",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the difference between agile software development and traditional software development?",
+      "answerIndex": 1,
+      "items": [
+        "At the level of actual software development, there isn't a difference. Both produce code aimed at solving a problem",
+        "Traditional development focuses more on plans and process while agile focuses more on outcomes and value",
+        "Agile development focuses more on plans and process while traditional development focuses more on outcomes and value",
+        "Traditional development is much more disciplined than agile because of the distinct phases"
+      ],
+      "explanation": "B is correct. Agile development is usually more disciplined (with respect to outcomes, not process) than traditional development."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are benefits of using Scrum?<br />A. Adaptability<br />B. Continuous development<br />C. Sustainable pace<br />D. Customer centric<br />E. High Velocity<br />F. Motivation<br />G. Clear requirements",
+      "answerIndex": 3,
+      "randomize": false,
+      "items": [
+        "All of the above",
+        "A,B,C,D",
+        "B,C,D,E,G",
+        "A,C,D,E,F"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How does the Scrum Guidance Body (SGB) contribute to scalability?",
+      "answerIndex": 2,
+      "items": [
+        "It doesn't, it only provides documentation and guidance",
+        "The SGB determines how Scrum scales within the organization",
+        "The SGB recommends when to hold various meetings that are part of Scrum",
+        "The SGB documents the rules for scalability"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a Scrum principle?",
+      "answerIndex": 2,
+      "items": [
+        "Iterative Development",
+        "Collaboration",
+        "Inspect and adopt",
+        "Self-organizing teams"
+      ],
+      "explanation": "This is a little tricky. The SBOK included Inspect and Adapt as part of empirical process control."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is value-based prioritization?",
+      "answerIndex": 2,
+      "items": [
+        "The priority assigned to a user story by the Development Team",
+        "The priority assigned by the Product Owner",
+        "The priority assigned that represents business value",
+        "The priority agreed by negotiation between the Product Owner and the Development Team"
+      ],
+      "explanation": "While the Product Owner does assign priority based on value, that isn't really the answer to the question. C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The business case documents the business justification for the Scrum project. What else does the business case provide?<br />A. Basis for project scope<br />B. Estimated costs<br />C. Options<br />D. Risks",
+      "answerIndex": 3,
+      "randomize": false,
+      "items": [
+        "A and B",
+        "B and C",
+        "A and D",
+        "All of the above"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is true of the two aspects of the Review & Retrospect phase?",
+      "answerIndex": 3,
+      "items": [
+        "The Review focuses on lessons learned; the Retrospect focuses on customer value",
+        "The Review focuses on customer value; the Retrospect focuses on lessons learned",
+        "The Review focuses on process improvement; the Retrospect focuses on demonstration, inspect and adapt",
+        "The Review focuses on demonstration, inspect and adapt; the Retrospect focuses on process improvement"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT considered as part of the Plan and Estimate phase?",
+      "answerIndex": 1,
+      "items": [
+        "Create the Sprint Backlog",
+        "Plan the Release",
+        "Create User Stories",
+        "Estimate Tasks"
+      ],
+      "explanation": "Release planning is part of the Initiate phase. B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the purpose of the Create the Project Vision?",
+      "answerIndex": 3,
+      "items": [
+        "Identify who will use or benefit from the products produced by the product",
+        "Make sure the requisite meetings and artifacts are produced before the project starts",
+        "Make sure the project is viable before it starts",
+        "Identify the project deliverables and the value provided"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is true about Gap Analysis?<br />A. Identify current state<br />B. Document target state<br />C. Determine Scrum processes required to achieve the target<br />D. Determine a possible path to achieve the target",
+      "answerIndex": 1,
+      "randomize": false,
+      "items": [
+        "A,B,C",
+        "A,B,D",
+        "B,C,D",
+        "All of the above"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which one of the following is NOT a characteristic of a good Scrum Master?",
+      "answerIndex": 1,
+      "items": [
+        "Good facilitator",
+        "Most knowledgeable person about Scrum",
+        "Effective listening",
+        "Motivator and coach"
+      ],
+      "explanation": "While it's important the Scrum Master be knowledgeable about Scrum, it's entirely likely that for early projects the Scrum Master won't be any more or less familiar with Scrum than anyone else on the Team. The important skills are the others listed, not specifically Scrum knowledge. B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Why is it important to identify stakeholders early in the development effort?",
+      "answerIndex": 0,
+      "items": [
+        "Stakeholders are required to be engaged throughout the project lifecycle",
+        "Vendors may have an interest in the outcomes, so this has to be identified",
+        "It's not important to identify stakeholders early, as long as they are identified before development starts",
+        "It is critical to identify everyone that has a vested interest in the outcomes of the development effort as soon as possible so that their input is considered before it's too late"
+      ],
+      "explanation": "While you could argue that everyone has some vested interest in the project outcomes, the SBOK is clear that the stakeholders only include customers, users, and sponsors. A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are some of the key skills for the Scrum Team?<br />A. Fast programming<br />B. Self-motivated<br />C. Good debugging<br />D. Responsible<br />E. Language lawyer<br />F. Works well with others<br />G. Independent thinking",
+      "answerIndex": 1,
+      "randomize": false,
+      "items": [
+        "A,B,C,D",
+        "B,D,F,G",
+        "B,E,F,G",
+        "A,D,E,F"
+      ],
+      "explanation": "While A, C and E might be important for some people on the projects, they aren't the core skills needed by every member of the cross-functional Scrum Team. B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the purpose of the Develop Epic(s) process?",
+      "answerIndex": 0,
+      "items": [
+        "Create user stories that serve as a high-level baseline on scope and requirements",
+        "Assure that there is a way to formulate a complete set of user story acceptance criteria",
+        "Estimate and commit user stories",
+        "Epic stories are refined and prioritized by the Development Team to form the basis of the Sprint Backlog"
+      ],
+      "explanation": "Epics are high-level unrefined user stories that need to be refined / broken down into simpler implementable user stories. Epics are more complex (because they are unrefined) than the user stories used for development. If it's not in the Epic it won't be in the resulting user stories crafted from the Epic. This is part of the definition of scope. A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How are the items in the Product Backlog organized and prioritized?",
+      "answerIndex": 1,
+      "items": [
+        "It is solely the Product Owner's responsibility to put items into the Product Backlog and determine their priority",
+        "The Product Owner works with stakeholders to develop not only the items included in the Product Backlog, but also their priority",
+        "The Scrum Master runs and facilitates the various meetings where the items for the Product Backlog are considered and prioritized",
+        "The entire Scrum team works with project stakeholders to discuss the requirements for the project. With full information the team then works to be sure the items included in the Product Backlog are assigned the proper priority to deliver the maximum value"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the purpose of the Conduct Release Planning process?",
+      "answerIndex": 3,
+      "items": [
+        "It is one of the last things the team does to get ready to release and deploy the finished products from the project",
+        "Release planning is conducted near the end of each Sprint before the results from the effort are transitioned to the customers/users",
+        "Release planning makes sure the products that developed one or more Sprints are properly bundled into a Release Package to maximize the business value",
+        "Release planning starts before any products are developed to help focus the Scrum Team to provide the maximum business value as quickly as possible"
+      ],
+      "explanation": "D is correct. Release planning begins at the beginning of a project to establish the MMF (minimum marketable features) required before there is sufficient functionality to generate business value. Release planning then continues throughout the project as customer requirements and changes are taken into account."
+    },
+	
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a simple valid user story?",
+      "answerIndex": 1,
+      "items": [
+        "Mary needs to be able to enter expenses into the XYA Form",
+        "ABC Company sales people (aka mobile workers) need to be able to view client information on company supplied tablets while on the road so that they have up-to-date information about outstanding (or open) orders (i.e., orders that have not been shipped) before meeting with the client",
+        "As a PDQ Executive I need to be able to view executive data but only if it is in a secure location because the data is sensitive",
+        "As an ABC employee I need to be able to log into my system"
+      ],
+      "explanation": "A doesn't include a measure of done or acceptance. C and D are more epic than user story. B is correct even though it's not formally written in the presented format (As a… etc.)."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is true about all of the methods used to estimate user stories?",
+      "answerIndex": 2,
+      "items": [
+        "The techniques help develop precision regarding the effort required to turn a user story into working code",
+        "User story estimation is a necessary first step, but much more work is needed to be able to determine the real effort that will be required",
+        "All of the estimation techniques produce relative estimates of complexity and/or effort based on consensus",
+        "The estimation techniques are a good starting point, but it's up to the Product Owner to verify that they fit the customer expectations"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is an output from Approve, Estimate and Commit User Stories?",
+      "answerIndex": 0,
+      "items": [
+        "Basis for a Sprint Backlog",
+        "Basis for the Product Backlog",
+        "Entries for the Sprint Burndown Chart",
+        "Epic stories"
+      ],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When is the task planning meeting run?",
+      "answerIndex": 3,
+      "items": [
+        "At the beginning of each project",
+        "At the beginning of the Refine Epic(s) process",
+        "At the beginning of Estimate, Approve and Commit User Stories",
+        "At the beginning of each Sprint"
+      ],
+      "explanation": "D is correct. The Task Planning Meeting is also known as the Sprint Planning Meeting."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Why is it important to write the user stories on something no bigger than a 3 x 5 card?<br />A. Keeps the stories short<br />B. Facilitate collaboration<br />C. Transparency",
+      "answerIndex": 3,
+      "randomize": false,
+      "items": [
+        "A and B",
+        "B and C",
+        "A and C",
+        "All of the above"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Task estimation meetings are used to estimate what?",
+      "answerIndex": 3,
+      "items": [
+        "Risk",
+        "Completion dates",
+        "Cost",
+        "Resources needed/required"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the Sprint Backlog?",
+      "answerIndex": 1,
+      "items": [
+        "It's used with the Product Owner to determine the work required to complete the project",
+        "It is the list of user stories used by the development team",
+        "It is the stories left over from the previous Sprint",
+        "It is a progress estimation and tracking tool"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are sprint tracking metrics?<br />A. Derived business value<br />B. Cost of developing the stories in the sprint<br />C. Time spent developing the stories in the sprint<br />D. Number of user stories completed in the sprint<br />E. Velocity",
+      "answerIndex": 3,
+      "randomize": false,
+      "items": [
+        "All of the above",
+        "A,B,C",
+        "C,D,E",
+        "A,D,E"
+      ],
+      "explanation": "D is correct."
+    },
+	
+    {
+      "questionType": "Multiple Choice",
+      "question": "What happens during the Create Deliverables process?",
+      "answerIndex": 3,
+      "items": [
+        "Acceptance testing",
+        "Document business benefits",
+        "Finish a lessons learned report",
+        "Do the work of the Sprint"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is Test Driven Development (TDD)?",
+      "answerIndex": 2,
+      "items": [
+        "A way of automating testing after the code is complete",
+        "A way of automating the development of tests",
+        "Develop story-based tests before writing the code to implement the story",
+        "Develop epic-based test to help verify that epics are properly refined into user stories"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Why is refactoring important?",
+      "answerIndex": 3,
+      "items": [
+        "Re-think the code",
+        "Break the code in factors",
+        "It is part of design patterns",
+        "Improve code quality and maintainability"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The ___________ participates in the daily standup and the ________ facilitates it.",
+      "answerIndex": 3,
+      "items": [
+        "Scrum Master and Team Lead",
+        "Team leads (plural) and Product Owner",
+        "Development Team and Product Owner",
+        "Development Team and Scrum Master"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What happens during the daily standup?",
+      "answerIndex": 0,
+      "items": [
+        "Team shares status, immediate plans and risks",
+        "Answers questions",
+        "Decisions are made",
+        "Nothing really happens, the team just updates the Product Owner"
+      ],
+      "explanation": "Status: what I did yesterday; immediate plans: what I plan to do today; risks: impediments or obstacles. A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements is true?<br />A. Teams should be co-located<br />B. Distributed development teams are hard to manage",
+      "answerIndex": 0,
+      "randomize": false,
+      "items": [
+        "A is true, B is false",
+        "A is false, B is true",
+        "Both are true",
+        "Both are false"
+      ],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When does grooming take place?",
+      "answerIndex": 3,
+      "items": [
+        "Only before new development starts (before a sprint begins)",
+        "After new development has started (within a sprint)",
+        "It's up to the product owner to do the grooming whenever it's needed",
+        "Both before and after new development starts"
+      ],
+      "explanation": "Grooming takes place before development begins as part of the Sprint Planning meeting and anytime during the sprint if the team discovers they need input from stakeholders (or the product owner)."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When is it critical to groom the backlog?",
+      "answerIndex": 3,
+      "items": [
+        "It's up to the Product Owner",
+        "All stories are subject to grooming",
+        "It's critical to groom Epics before User Stories",
+        "As stories move up the Product Backlog, it's more important to groom them (i.e., the ones near the top of the backlog)"
+      ],
+      "explanation": "While the Product Owner can groom the Product Backlog at any time, it is really critical as stories near the top of the backlog, before the stories are picked up by a development team. D is correct."
+    },
+	
+    {
+      "questionType": "Multiple Choice",
+      "question": "How does Scrum scale?",
+      "answerIndex": 2,
+      "items": [
+        "How Scrum scales depends on whether the overall project reports to a project or program management office",
+        "Scrum doesn't scale, team size is limited",
+        "For really large projects Scrum scales using a Scrum of Scrum of Scrums",
+        "The only way to scale is the Scrum of Scrums"
+      ],
+      "explanation": "For really large projects, even a Scrum of Scrums might not be enough. C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "If there is a Scrum of Scrums, what is the BEST answer to why it isn't time-boxed?",
+      "answerIndex": 3,
+      "items": [
+        "There are too many people attending the Scrum of Scrums. Since the number of teams represented is unknown, the time can't be constrained",
+        "Because that is what the SBOK says",
+        "It could be time-boxed if the participants want",
+        "To allow time to work out any problems or challenges presented"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are reasons for the Sprint Review Meeting?<br />A. Allows the team to learn lessons for process improvement<br />B. Demonstrate user stories that are done<br />C. Get stakeholders involved<br />D. Allow the Product Owner to confirm user stories are done<br />E. Identify issues with a plan to resolve them",
+      "answerIndex": 2,
+      "randomize": false,
+      "items": [
+        "A,B,C",
+        "D only",
+        "B,C,D,E",
+        "A and E"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What happens to rejected deliverables?",
+      "answerIndex": 1,
+      "items": [
+        "They are removed from the Product Backlog",
+        "They are returned to the Product Backlog",
+        "They are reworked in the next Sprint for this team",
+        "They are reworked in the next Sprint for a different team"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The Explorer-Shopper-Vacationer-Prisoner evaluation focuses on:",
+      "answerIndex": 3,
+      "items": [
+        "Good example of what doesn't work (i.e., what not to do in the next Sprint)",
+        "Lessons learned",
+        "Allows stakeholders an opportunity to register engagement",
+        "Team engagement"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are valid Scrum metrics?<br />A. Self-assessment<br />B. Story-point business case alignment percentage<br />C. Team velocity<br />D. Predicted vs actual<br />E. Hours per story point<br />F. Ratings from stakeholders<br />G. Done success rate",
+      "answerIndex": 1,
+      "randomize": false,
+      "items": [
+        "A,B,C,D,G",
+        "A,C,D,F,G",
+        "B,E,F",
+        "All of the above"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What are Agreed Actionable Improvements?",
+      "answerIndex": 3,
+      "items": [
+        "Improvements the team has agreed to implement in the next Sprint",
+        "They are entries in the log the Scrum Master maintains for consideration by the Scrum Guidance Body",
+        "They form the basis for lessons learned",
+        "List of items the team will address to improve process and performance"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Who, besides the Development Team, must attend the Sprint Retrospect meeting?<br />A. Scrum Master<br />B. Product Owner<br />C. Stakeholders",
+      "answerIndex": 0,
+      "randomize": false,
+      "items": [
+        "A only",
+        "B only",
+        "A and B",
+        "All of the above"
+      ],
+      "explanation": "The Scrum Master facilitates the meeting. The Product Owner MAY attend but is not required. A is correct."
+    },
+	
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the purpose of a Sprint?",
+      "answerIndex": 2,
+      "items": [
+        "Complete an increment of code",
+        "Develop code to ship",
+        "Complete code that is potentially shippable",
+        "Work on the stories the team committed"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When is code shippable?",
+      "answerIndex": 3,
+      "items": [
+        "When it's done",
+        "At the end of the Sprint",
+        "When the Product Owner says so",
+        "When the acceptance criteria for each committed story has been met"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is a Pilot Plan?",
+      "answerIndex": 0,
+      "items": [
+        "Another name for the Communications Plan",
+        "An optional plan that maps out how each released increment is piloted and deployed",
+        "Provides a sanity check to make sure the deliverables are targeted at the correct user base",
+        "Defines how the output from each will be used"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is true about deployment methods?<br />A. Based on established minimum functionality by the Product Owner<br />B. Highly dependent on organizational culture, methods and experience<br />C. Integrated with formal release and deployment processes to manage risk",
+      "answerIndex": 3,
+      "randomize": false,
+      "items": [
+        "All of the above",
+        "A and B",
+        "A and C",
+        "B and C"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "During testing the ___ and the ____ facilitate communications consistent with the Communications Plan.",
+      "answerIndex": 3,
+      "items": [
+        "Development Team and Scrum Master",
+        "Scrum Master and Product Owner",
+        "Core Team and Product Sponsor",
+        "Product Owner and Product Sponsor"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is true about the Project Retrospect?",
+      "answerIndex": 1,
+      "items": [
+        "Attended by just the core team",
+        "Attended by all project team members",
+        "Is a more formal meeting than the Sprint Retrospect",
+        "May be time-boxed, depending on the organization"
+      ],
+      "explanation": "Depending on the size and complexity of the project, the Project Retrospect is also attended by the Chief Product Owner and Chief Scrum Master. B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is true about the Project Retrospect?<br />A. The same techniques used in the Sprint Retrospect apply<br />B. The Scrum Guidance Body assures the lessons learned are incorporated into future projects",
+      "answerIndex": 2,
+      "randomize": false,
+      "items": [
+        "A is true",
+        "B is true",
+        "Both are true",
+        "Both are false"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What happens to the product backlog when the project is closed?",
+      "answerIndex": 0,
+      "items": [
+        "It is never complete or closed until and unless the product(s) it represents are retired from service",
+        "It is archived as a part of project documentation",
+        "Ownership changes from the Product Owner to the Scrum Guidance Body until the next version or work increment is authorized",
+        "Nothing, once the product ships, the Product Backlog isn't needed"
+      ],
+      "explanation": "A is correct."
+    }
+  ]
+}
