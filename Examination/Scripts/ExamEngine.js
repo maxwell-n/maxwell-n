@@ -91,6 +91,7 @@ class ExamEngine {
         let idx;
         let questionType = this.exam["data"][index]["questionType"];
         let explanation = this.exam["data"][index]["explanation"];
+        let randomize = this.exam["data"][index]["randomize"] === true || this.exam["data"][index]["randomize"] === undefined;
         switch (questionType) {
             case "Multiple Choice":
                 let answerIndex = this.exam["data"][index]["answerIndex"];
@@ -99,7 +100,8 @@ class ExamEngine {
                     item: answerIndex,
                     dataIndex: index,
                     questionType: questionType,
-                    explanation: explanation
+                    explanation: explanation,
+                    randomize: randomize
                 };
                 idx = randomizeUtil.randomNumber(this.exam.questions.length + 1);
                 this.exam.questions.splice(idx, 0, obj);
@@ -111,7 +113,8 @@ class ExamEngine {
                         item: i,
                         dataIndex: index,
                         questionType: questionType,
-                        explanation: explanation
+                        explanation: explanation,
+                        randomize: randomize
                     };
                     idx = randomizeUtil.randomNumber(this.exam.questions.length + 1);
                     this.exam.questions.splice(idx, 0, obj);
@@ -126,7 +129,7 @@ class ExamEngine {
             answer: question["answer"],
             dataItem: this.exam["data"][question["dataIndex"]],
             explanation: question["explanation"],
-            randomize: question["randomize"] == true
+            randomize: question["randomize"]
         };
         this.updateScore();
         return data;

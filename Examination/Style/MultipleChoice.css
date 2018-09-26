@@ -36,7 +36,7 @@ section {
 
 .left {
     color: green;
-    left: 20px;
+    left: 18px;
     position: absolute;
 }
 
@@ -47,7 +47,7 @@ section {
 
 .right {
     color: red;
-    right: 20px;
+    right: 18px;
     position: absolute;
 }
 
