@@ -4,7 +4,7 @@
   "data": [
     {
       "questionType": "Multiple Choice",
-      "question": "<p align='left'>Which one of the following are Scrum Master responsibilities?<br />A: Facilitate improvements<br />B: Most knowledgeable person about Scrum<br />C: Assist with Definition of Done<br />D: Monitor and police Scrum practices<br />E: Coach Scrum Practices<br />F: Clear the path to enable team success<br />G: Challenge the team</p>",
+      "question": "Which one of the following are Scrum Master responsibilities?<br />A: Facilitate improvements<br />B: Most knowledgeable person about Scrum<br />C: Assist with Definition of Done<br />D: Monitor and police Scrum practices<br />E: Coach Scrum Practices<br />F: Clear the path to enable team success<br />G: Challenge the team",
       "answerIndex": 3,
       "randomize": false,
       "items": [
@@ -29,7 +29,7 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "<p align='left'>Which of the following are NOT key skills for the Scrum Team?<br />A: Fast programming<br />B: Self-motivated<br />C: Good debugging<br />D: Responsible<br />E: Software quality assurance background<br />F: Works well with others<br />G: Independent thinking<br />H: Previous Scrum experience</p>",
+      "question": "Which of the following are NOT key skills for the Scrum Team?<br />A: Fast programming<br />B: Self-motivated<br />C: Good debugging<br />D: Responsible<br />E: Software quality assurance background<br />F: Works well with others<br />G: Independent thinking<br />H: Previous Scrum experience",
       "answerIndex": 0,
       "randomize": false,
       "items": [
@@ -126,7 +126,7 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "<p align='left'>As a Scrum Master, what should you do to assist the Product Owner and Scrum Team with User Stories?<br />A: Make sure they follow the defined template<br />B: Assure User Stories answer questions about who, what, and how?<br />C: Make sure there is a clear and unambiguous acceptance criteria for each story.</p>",
+      "question": "As a Scrum Master, what should you do to assist the Product Owner and Scrum Team with User Stories?<br />A: Make sure they follow the defined template<br />B: Assure User Stories answer questions about who, what, and how?<br />C: Make sure there is a clear and unambiguous acceptance criteria for each story.",
       "answerIndex": 2,
       "randomize": false,
       "items": [
@@ -151,7 +151,7 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "<p align='left'>The following statements are about the Daily Standup (Daily Scrum):<br />A: Communication with the development team<br />B: Generates a report to management<br />C: All team members expected to attend, but proceeds if anyone can't<br />D: Facilitated by the Scrum Master<br />E: Attended by the entire core team</p>",
+      "question": "The following statements are about the Daily Standup (Daily Scrum):<br />A: Communication with the development team<br />B: Generates a report to management<br />C: All team members expected to attend, but proceeds if anyone can't<br />D: Facilitated by the Scrum Master<br />E: Attended by the entire core team",
       "answerIndex": 2,
       "randomize": false,
       "items": [
@@ -189,7 +189,7 @@
 
     {
       "questionType": "Multiple Choice",
-      "question": "<p align='left'>Which of the following are included in the Prioritized Product Backlog?<br />A: User Stories<br />B: Changes<br />C: Bugs<br />D: Technical requirements<br />E: Epics<br />F: Risks<br />G: Non-functional requirements<br />H: Compliance issues (including regulatory issues)</p>",
+      "question": "Which of the following are included in the Prioritized Product Backlog?<br />A: User Stories<br />B: Changes<br />C: Bugs<br />D: Technical requirements<br />E: Epics<br />F: Risks<br />G: Non-functional requirements<br />H: Compliance issues (including regulatory issues)",
       "answerIndex": 3,
       "randomize": false,
       "items": [

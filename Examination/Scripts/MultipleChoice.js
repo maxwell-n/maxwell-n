@@ -8,7 +8,10 @@ class MultipleChoiceEngine extends Question {
         this.Data = examEngine.loadQuestion();
         this.ContentDocument = contentDocument;
         let pQuestion = this.ContentDocument.getElementById('pQuestion');
-        pQuestion.innerHTML = this.Data.dataItem["question"];
+        if (this.Data.randomize)
+            pQuestion.innerHTML = "<p align='left'>" + this.Data.dataItem["question"] + "</p>";
+        else
+            pQuestion.innerHTML = this.Data.dataItem["question"];
         this.createButtons();
         this._btnNext = this.ContentDocument.getElementById('btnNext');
         this._btnNext.style.display = "none";
