@@ -10,7 +10,7 @@ class MultipleChoiceEngine extends Question {
         this.Data = examEngine.loadQuestion();
         this.ContentDocument = contentDocument;
         let pQuestion = this.ContentDocument.getElementById('pQuestion');
-        if (this.Data.randomize)
+        if (!this.Data.randomize)
             pQuestion.innerHTML = "<p align='left'>" + this.Data.dataItem["question"] + "</p>";
         else
             pQuestion.innerHTML = this.Data.dataItem["question"];
