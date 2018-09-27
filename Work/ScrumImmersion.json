@@ -76,7 +76,7 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following is a term used to denote an organization�s partially finished goods waiting for completion and eventual sales, or the value of these items?",
+      "question": "Which of the following is a term used to denote an organization's partially finished goods waiting for completion and eventual sales, or the value of these items?",
       "answerIndex": 3,
       "items": [
         "Work in process",
@@ -259,10 +259,10 @@
       "question": "Which of the following states work will expand to fill the allotted time?",
       "answerIndex": 2,
       "items": [
-        "Hofstadter�s Law",
-        "Brooke�s Law",
-        "Parkinson�s Law",
-        "Effinger�s Law"
+        "Hofstadter's Law",
+        "Brooke's Law",
+        "Parkinson's Law",
+        "Effinger's Law"
       ],
       "explanation": "Parkinson’s Law states, “Work will expand to fill the allotted time.”"
     },
@@ -271,10 +271,10 @@
       "question": "Which of the following says your work will take longer than expected even when you take the Law in account?",
       "answerIndex": 0,
       "items": [
-        "Hofstadter�s Law",
-        "Brooke�s Law",
-        "Parkinson�s Law",
-        "Effinger�s Law"
+        "Hofstadter's Law",
+        "Brooke's Law",
+        "Parkinson's Law",
+        "Effinger's Law"
       ],
       "explanation": "Hofstadter’s Law states work will take longer than estimated even when taking into account Hofstadter’s Law."
     },
@@ -325,7 +325,7 @@
         "If you had to assign the Work Packages to someone else, would they understand exactly what to do?",
         "If we do these items, and only these items, do we meet the success criteria?"
       ],
-      "explanation": "The most important question concerning WBS�s is, �If we do these items, and only these items, do we meet the success criteria?�"
+      "explanation": "The most important question concerning WBS's is, 'If we do these items, and only these items, do we meet the success criteria?'"
     },
 
     {
