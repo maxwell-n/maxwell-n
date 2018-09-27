@@ -1,0 +1,489 @@
+{
+  "title": "Scrum Immersion",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "In what decade was most of the science of project management first created?",
+      "answerIndex": 1,
+      "items": [
+        "1940s",
+        "1950s",
+        "1960s",
+        "1970s"
+      ],
+      "explanation": "The science of project management was first formally created by the U.S. Air Force, U.S. Navy, Dow and Dupont chemical companies during the 1950s."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the average success rate for waterfall projects?",
+      "answerIndex": 0,
+      "items": [
+        "14%",
+        "18%",
+        "25%",
+        "33%"
+      ],
+      "explanation": "Only about 14% of waterfall projects are deemed successful. 57% are challenged and 29% are deemed failures."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the average success rate for Agile projects?",
+      "answerIndex": 2,
+      "items": [
+        "25%",
+        "33%",
+        "42%",
+        "55%"
+      ],
+      "explanation": "Agile development has a success rate of 42% with 49% of projects being challenged and 9% failed."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the three major development methodologies?",
+      "answerIndex": 1,
+      "items": [
+        "Agile",
+        "Compression",
+        "Spiral",
+        "Waterfall"
+      ],
+      "explanation": "The three (3) major development methodologies include:<br />- Waterfall<br />- Spiral<br />- Agile"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a problem caused by using a waterfall methodology?",
+      "answerIndex": 3,
+      "items": [
+        "Requirements are allowed to flex and adapt to the needs of the stakeholders",
+        "Stakeholders are constantly able to see working versions of the product of the project",
+        "Stakeholders commonly expect to work with the team on a daily basis to deliver the project results",
+        "The process gives the appearance that all the requirements are accurately defined at the beginning of the project with the expectation of little or no changes throughout the project"
+      ],
+      "explanation": "A key concern with using the waterfall methodology is that it often gives the appearance that all the requirements are accurately defined at the beginning of the project with the accompanying expectation of little or no changes throughout the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following kinds of projects are best suited to take advantage of Agile development?",
+      "answerIndex": 3,
+      "items": [
+        "Disorganized projects",
+        "Simple projects",
+        "Large projects",
+        "Complex projects"
+      ],
+      "explanation": "Agile development is most effective at managing complicated and/or complex projects."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a term used to denote an organization�s partially finished goods waiting for completion and eventual sales, or the value of these items?",
+      "answerIndex": 3,
+      "items": [
+        "Work in process",
+        "Work in progress",
+        "Goods in process",
+        "All of the above"
+      ],
+      "explanation": "In Agile development it is most commonly called Work in Progress, or WIP, but it can also be called Work in Process or Goods in Process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following core Agile values is not correct?",
+      "answerIndex": 0,
+      "items": [
+        "Teams & interactions over processes & tools",
+        "Responding to change over following a plan",
+        "Working software over comprehensive documentation",
+        "Customer collaboration over contract negotiations"
+      ],
+      "explanation": "The four core values for Agile development include:<br />- Individuals & interactions over processes & tools<br />- Customer collaboration over contract negotiations<br />- Responding to change over following a plan<br />- Working software over comprehensive documentation"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What percentage of software features are never used?",
+      "answerIndex": 2,
+      "items": [
+        "35%",
+        "40%",
+        "45%",
+        "50%"
+      ],
+      "explanation": "36% of features are truly needed. Another 19% are rarely used, and a full 45% are never used."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not considered a major founder of Scrum?",
+      "answerIndex": 2,
+      "items": [
+        "Ken Schwaber",
+        "Jeff Sutherland",
+        "Sidney Crosby",
+        "Mike Cohn"
+      ],
+      "explanation": "Scrum was largely founded by Ken Schwaber and Jeff Sutherland. Early on, Mike Cohn was one of the largest contributors and was a founder of the Scrum Alliance."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a key theoretical basis of Scrum?",
+      "answerIndex": 0,
+      "items": [
+        "Industrial process theory",
+        "Empirical processes",
+        "Defined processes",
+        "WIP"
+      ],
+      "explanation": "Scrum is based on industrial process theory which is focused on self-organization and emergence. Scrum also makes use of the empirical processes over defined processes but that was not part of the question."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not a key to empirical process management?",
+      "answerIndex": 1,
+      "items": [
+        "Visibility",
+        "Opportunity",
+        "Inspection",
+        "Adaptation"
+      ],
+      "explanation": "An empirical process focuses on three key aspects:<br />- Visibility: you must be able to see it.<br />- Inspection: you must actually look at it.<br />- Adaptation: you must change when you see the need."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not one of the three basic Scrum roles?",
+      "answerIndex": 3,
+      "items": [
+        "Product Owner",
+        "Scrum Master",
+        "Development Team",
+        "Sponsor"
+      ],
+      "explanation": "The three roles found in Scrum are:<br />- The Product Owner<br />- The Scrum Master<br />- The Development Team, sometimes just called the Team"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Who is responsible to remove impediments identified by the Development Team, Product Owner or Scrum Master?",
+      "answerIndex": 1,
+      "items": [
+        "The Scrum Master",
+        "All stakeholders",
+        "The Product Owners",
+        "The Team"
+      ],
+      "explanation": "All stakeholders are responsible to remove impediments identified by the Development Team, Product Owner or Scrum Master."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Who is responsible to avoid distracting the Team after the Team has committed to the Sprint Goal?",
+      "answerIndex": 0,
+      "items": [
+        "All stakeholders",
+        "The Scrum Master",
+        "The Product Owners",
+        "The Team"
+      ],
+      "explanation": "All stakeholders are responsible to avoid distracting the Team after the Team has committed to the Sprint Goal."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Who coaches the Development Team in organizational environments in which Scrum is not yet fully adopted and understood?",
+      "answerIndex": 1,
+      "items": [
+        "The Product Owner",
+        "All Stakeholders",
+        "The Scrum Master",
+        "Business Stakeholders"
+      ],
+      "explanation": "The Scrum Master coaches the Development Team in organizational environments in which Scrum is not yet fully adopted and understood."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which Scrum role observes end to end flow of product delivery and takes action to maximize the delivery of value?",
+      "answerIndex": 1,
+      "items": [
+        "Business Stakeholders",
+        "Scrum Master",
+        "The Team",
+        "Product Owner"
+      ],
+      "explanation": "The Scrum Master observes end to end flow of product delivery and takes action to maximize the delivery of value."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which Scrum participant changes their mind, substitutes functionality, and adjusts priorities without paying exorbitant costs?",
+      "answerIndex": 3,
+      "items": [
+        "The Scrum Team",
+        "Product Owner",
+        "Scrum Master",
+        "Business Stakeholders"
+      ],
+      "explanation": "Business Stakeholders change their mind, substitute functionality, and adjust priorities without paying exorbitant costs."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which Scrum participant regularly demonstrates a working product at the Sprint Review?",
+      "answerIndex": 0,
+      "items": [
+        "The Scrum Team",
+        "Product Owner",
+        "Scrum Master",
+        "Business Stakeholders"
+      ],
+      "explanation": "The Scrum Team regularly demonstrates a working product at the Sprint Review."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which Scrum participant helps create and maintain the Sprint Backlog, Sprint Burndown Chart and Task Board?",
+      "answerIndex": 0,
+      "items": [
+        "The Development Team",
+        "The Product Owner",
+        "The Scrum Master",
+        "Business Stakeholders"
+      ],
+      "explanation": "The Development Team helps create and maintain the Sprint Backlog, Sprint Burndown Chart and Task Board."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which Scrum participant provides daily status updates to the Scrum Master at the Daily Scrum?",
+      "answerIndex": 3,
+      "items": [
+        "The Development Team",
+        "The Product Owner",
+        "The Scrum Master",
+        "No one"
+      ],
+      "explanation": "No one provides daily status updates to the Scrum Master at the Daily Scrum. Status updates are provided to and by the Scrum Team."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following states work will expand to fill the allotted time?",
+      "answerIndex": 2,
+      "items": [
+        "Hofstadter�s Law",
+        "Brooke�s Law",
+        "Parkinson�s Law",
+        "Effinger�s Law"
+      ],
+      "explanation": "Parkinson’s Law states, “Work will expand to fill the allotted time.”"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following says your work will take longer than expected even when you take the Law in account?",
+      "answerIndex": 0,
+      "items": [
+        "Hofstadter�s Law",
+        "Brooke�s Law",
+        "Parkinson�s Law",
+        "Effinger�s Law"
+      ],
+      "explanation": "Hofstadter’s Law states work will take longer than estimated even when taking into account Hofstadter’s Law."
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not a key element of the Product Backlog?",
+      "answerIndex": 2,
+      "items": [
+        "A prioritized list of items to be delivered",
+        "Backlog items are relatively independent of the others",
+        "Backlog items must always be in the form of User Stories",
+        "Backlog items may be reprioritized at any time"
+      ],
+      "explanation": "The Product Backlog is a prioritized list of items to be delivered. These items are relatively independent of the others and may be reprioritized at any time. However popular User Stories are, it is not a requirement that all requirements be in the form of User Stories."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is the primary tool used by a Scrum Team to track what work is being done on a project through an individual sprint?",
+      "answerIndex": 3,
+      "items": [
+        "A Gantt Chart",
+        "A Team Board",
+        "A Ranked Backlog",
+        "A Burndown Chart"
+      ],
+      "explanation": "A Burndown Chart is the primary tool used by a Scrum Team to track what work is being done on a project through an individual sprint."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not a key question used to evaluate a Work Breakdown Structure?",
+      "answerIndex": 2,
+      "items": [
+        "Can you accurately estimate the resources needed to produce the Work Packages?",
+        "Can you estimate how long the Work Packages will take to produce?",
+        "Are all Work Packages assigned to specific resources?",
+        "If you had to assign the Work Packages to someone else, would they understand exactly what to do?"
+      ],
+      "explanation": "The four key questions used to evaluate a Work Breakdown Structure (WBS) include:<br />- Can you accurately estimate the resources needed to produce the Work Packages?<br />- Can you estimate how long the Work Packages will take to produce?<br />- If you had to assign the Work Packages to someone else, would they understand exactly what to do?<br />- If we do these items, and only these items, do we meet the success criteria?"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the four key questions concerning evaluating the WBS is most important?",
+      "answerIndex": 3,
+      "items": [
+        "Can you accurately estimate the resources needed to produce the Work Packages?",
+        "Can you estimate how long the Work Packages will take to produce?",
+        "If you had to assign the Work Packages to someone else, would they understand exactly what to do?",
+        "If we do these items, and only these items, do we meet the success criteria?"
+      ],
+      "explanation": "The most important question concerning WBS�s is, �If we do these items, and only these items, do we meet the success criteria?�"
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT one of the three (3) key elements of a User Story?",
+      "answerIndex": 0,
+      "items": [
+        "The Actor",
+        "The Role",
+        "The Action",
+        "The Confirmation"
+      ],
+      "explanation": "User Story is made up of three components:<br />- The Role<br />- The Action, Result or Need<br />- The Confirmation or acceptance criteria"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When discussing User Stories, which of the following is not part of making your acceptance criteria SAFE?",
+      "answerIndex": 1,
+      "items": [
+        "Success",
+        "Alternative Options",
+        "Failure",
+        "Error"
+      ],
+      "explanation": "The acronym SAFE is used when discussing User Stories to address proper acceptance criteria. The acronym stands for:<br />- Success: Achieves desired result<br />- Advance: Moves closer to success<br />- Failure: Fail alternative path<br />- Error: Error exception, outside program control"
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not one of the three (3) Cs of user stories?",
+      "answerIndex": 2,
+      "items": [
+        "Card",
+        "Conversation",
+        "Capital",
+        "Confirmation"
+      ],
+      "explanation": "Stories are a very powerful tool for defining requirements. They largely work by using the 3 Cs:<br />Card – The brief description must have meaning to both the team and the product owner.<br />Conversation – This is the most important part. The card is not enough to write code. The card leads to a conversation to ensure understanding.<br />Confirmation – This is the success criteria. It gives us the high-level criteria against which the resulting feature will be tested."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a key strength of using User Stories?",
+      "answerIndex": 3,
+      "items": [
+        "User Stories make defining requirements easier",
+        "User Stories make requirements understood by all stakeholders",
+        "User Stories are more stable and allow requirements to change less frequently",
+        "Encourages effective communication about requirements through frequent face-to-face interactions"
+      ],
+      "explanation": "The strengths of using User Stories include:<br />- Encourages effective communication about requirements through frequent face-to-face interactions.<br />- Avoids too much detail which can increase cost without any benefit [Forrester & Simula].<br />- Better adaptation to change.<br />- Acknowledges the fact that all requirements are NOT known at the beginning."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a key acronym when discussing User Stories?",
+      "answerIndex": 1,
+      "items": [
+        "CARE",
+        "INVEST",
+        "ALICE",
+        "SMALL"
+      ],
+      "explanation": "INVEST is a key acronym for User Stories. It means:<br />- Independent: From other stories.<br />- Negotiable: Not set in stone.<br />- Valuable: Don’t do it if it’s not necessary.<br />- Estimatable: You must be able to come up with realistic numbers.<br />- Small: Size matters!<br />- Testable: You must be able to prove it works."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "When grooming backlog items, how much time should team members expect to spend on their grooming efforts?",
+      "answerIndex": 0,
+      "items": [
+        "10%",
+        "15%",
+        "17%",
+        "20%"
+      ],
+      "explanation": "The Scrum Guide and other writing recommends the Product Owner spends the most time grooming the Product Backlog. However, in general it is recommended that 10% of total time be spent on grooming activities."
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "How does Scrum respond to the problem most projects face with unfocused project management?",
+      "answerIndex": 2,
+      "items": [
+        "Scrum shrinks the number of people involved in projects",
+        "Scrum employs Parkinson’s Law to maintain focus",
+        "Scrum has teams that are dedicated to one and only one project",
+        "Scrum employs Hofstadter’s Law"
+      ],
+      "explanation": "A big reason why Scrum works is because it shrinks the size of the project to a group of six plus or minus three. These smaller groups are focused on one and only one project. It is possible to allow Product Owners and Scrum Masters to work on multiple projects."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How does Scrum respond to the problem most projects face with a focus on task management?",
+      "answerIndex": 1,
+      "items": [
+        "Scrum employs Hofstadter’s Law",
+        "Scrum has the Development Team manage deliverables on a daily basis",
+        "Scrum makes use of Gantt Charts to manage deliverables",
+        "Scrum makes use of Dempster’s Law"
+      ],
+      "explanation": "Scrum makes use of a daily reporting model when the team reports to each other what was actually completed the previous day along with what they were going to complete that day and any impediments."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is the best definition of the Student Syndrome?",
+      "answerIndex": 2,
+      "items": [
+        "The belief that further study is required to determine an estimate",
+        "The belief that there is too much time to complete the effort",
+        "The belief that there is more than enough time to complete the effort, causing the student to not start until very late in the process",
+        "The belief that there is not enough time for the deliverable, so the person starts work early"
+      ],
+      "explanation": "The Student Syndrome is the belief that there is more than enough time to complete the effort, causing the student to not start until very late in the process."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following tools is used to measure the progress of a project within a Sprint?",
+      "answerIndex": 3,
+      "items": [
+        "A Burn-Up Chart",
+        "A Cumulative Flow Chart",
+        "A Milestone Chart",
+        "A Burndown Chart"
+      ],
+      "explanation": "A Burndown Chart is used by Scrum Teams to measure the progress of the project during a single Sprint."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not a key question to determine if you are really doing Scrum?",
+      "answerIndex": 0,
+      "items": [
+        "Do you have a project sponsor?",
+        "Is there a recognized Product Owner?",
+        "Is there a Development Team with 3 to 9 members?",
+        "Is there a Scrum Master?"
+      ],
+      "explanation": "Project Sponsors do not exist in a Scrum Project. The Product Owner is responsible for the duties of a Project Sponsor."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is not a key question to determine if you are really doing Scrum?",
+      "answerIndex": 2,
+      "items": [
+        "Does the Development Team create a plan each day at a Daily Scrum?",
+        "Is the increment inspected by stakeholders at a Sprint Review?",
+        "Is the Team using a Cumulative Flow Chart?",
+        "Does the Scrum Team conduct a Sprint Retrospective each Sprint?"
+      ],
+      "explanation": "Cumulative Flow Charts are a part of Scrum, but not all Scrum projects use a Cumulative Flow Chart. The only required chart is a Burndown Chart. Additionally, a Burn-Up is strongly recommended."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "In Alistair Cockburn’s Shu-Ha-Ri, what does the Ha level of knowledge represent?",
+      "answerIndex": 2,
+      "items": [
+        "Following the rules exactly",
+        "Breakaway from the process & make it your own",
+        "Detach from the process and break some of the rules",
+        "Modify the rules as required"
+      ],
+      "explanation": "Cockburn’s Shu-Ha-Ri contains three levels:<br />Shu – Level 1: Follow the rules.<br />Ha – Level 2: Detach from process. Break the rule.<br />Ri – Level 3: Breakaway from process & make your own. Be the rule."
+    }
+  ]
+}
