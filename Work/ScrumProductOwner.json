@@ -1,0 +1,306 @@
+{
+  "title": "Scrum Product Owner",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a true statement about the Scrum principles?",
+      "answerIndex": 2,
+      "items": [
+        "It's OK to follow principles when you can, what's important is to do the process the right way",
+        "As the Product Owner you don't have responsibility for every principle (e.g., only the development teams are concerned with iterative development)",
+        "As the Product Owner you have responsibility for all of the principles",
+        "The principles are independent and may conflict with organizational policy. So adopt the ones that are consistent with the enterprise"
+      ],
+      "explanation": "Scrum is based on the principles. While processes are important, they are based on the under-lying principles. It is important that all of the principles are followed all of the time. Everyone involved in the project has the same responsibility. C is the correct answer."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is the best reason Empirical Process Control (EPC) is important to the Product Owner?",
+      "answerIndex": 0,
+      "items": [
+        "The Product Owner relies on visibility so that artifacts are visible to everyone with a stake in the outcomes. There is a common language and agreement to what constitutes, Done. Inspecting everything builds quality into the development process by measuring current against expectation. If inspection reveals an out of tolerance area, appropriate changes can be made -- and visibility means the product owner knows it",
+        "EPC is the basis for planning Sprints, the Daily Standup and the review/retrospect processes",
+        "EPC is no more critical to Scrum than any of the other principles",
+        "The real focus of EPC is common language and process understanding. It is the basis of how the Product Owner communicates the organizational change that is required for successful Scrum efforts"
+      ],
+      "explanation": "While there are elements of truth in all of the answers, the best reason is given in A."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "You are the Product Owner on a project; what, if any, are the differences in team selection compared to traditional project management?",
+      "answerIndex": 3,
+      "items": [
+        "There isn't really a difference, both approaches to project management (traditional and Scrum) use cross-functional teams",
+        "Scrum requires the use of specially trained developers who understand Scrum processes",
+        "Because there is no project manager (though the Product Owner might be the closest thing to it), on a Scrum project, team selection doesn't require the same formal approvals as traditional project management",
+        "Traditional project management schedules resources and capabilities while scrum efforts focus more on building collaborating teams"
+      ],
+      "explanation": "D is correct. There is an exercise in this chapter that addresses another aspect of this question."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the role of the Product Owner (PO) during the Plan & Estimate phase?",
+      "answerIndex": 0,
+      "items": [
+        "The PO is concerned with what it will take to estimate the effort",
+        "The PO is focused on decomposing epics into estimate-able stories",
+        "The PO works with the development team to define what is required to create the deliverables for the Sprint",
+        "The primary focus for the PO is both defining tasks to estimate the effort and assigning ownership for them"
+      ],
+      "explanation": "A is correct. While the PO does help decompose epics into estimate-able stories, that isn't the primary role for the PO. The primary focus if the overall estimation effort."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are Product Owner responsibilities?<br />A. Define the project vision<br />B. Determine the Scrum Team members<br />C. Approve User Stories",
+      "answerIndex": 3,
+      "items": [
+        "A and B",
+        "A and C",
+        "B and C",
+        "All of the above"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which one of the following are Product Owner responsibilities?<br />A. Facilitate collaboration with stakeholders<br />B. Most knowledgeable person about Scrum<br />C. Writes the acceptance criteria and the Definition of Done for every user story<br />D. Create the product vision<br />E. Participate in Sprint review and retrospect meetings<br />F. Confirms business justification for projects<br />G. Creates epics and user stories",
+      "answerIndex": 3,
+      "items": [
+        "B, D, F, G",
+        "A, C, E",
+        "C and E only",
+        "A, D, F, G"
+      ],
+      "explanation": "The Product Owner may participate in the Retrospect Sprint meeting, at the discretion of the team, it's not a given. The Product may write the Definition of Done, but that isn't on a per story basis. D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT part of the authorities the Product Owner has?",
+      "answerIndex": 1,
+      "items": [
+        "Clarifies requirements and acceptance criteria",
+        "Make decisions on behalf of the Team",
+        "Helps determines Scrum team members",
+        "Does not introduce changes after the Sprint has started"
+      ],
+      "explanation": "The team makes decisions on the part of the team; that is part of the essence of self-organization. B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which statement is true about the role of the Product Owner (PO) and the Scrum Master (SM)?",
+      "answerIndex": 1,
+      "items": [
+        "The PO is responsible for all processes that deliver value; the SM is the servant leader of the effort",
+        "The SM owns the Scrum process; the PO owns the business value",
+        "The PO is the voice of the customer; the SM is the voice of the team",
+        "The SM helps create a workable backlog; the PO is responsible for the big picture"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the role of the Product Owner (PO) in quality, change and risk?",
+      "answerIndex": 0,
+      "items": [
+        "The PO approves changes within tolerances, writes the acceptance criteria, and owns risks",
+        "The PO doesn't get involved with small changes, owns the risks, and quality is integrated into organizational quality controls",
+        "Because Scrum allows the plan to evolve (change) during development, it allows changes. Quality is based on a Definition of Done within a Sprint. The PO is the risk owner",
+        "The basis of quality in Sprint is the Deming (PDCA) cycle. Change is restricted to authorization by the Product Owner as the primary voice of the customer. Risk is handled based on organizational policies and procedures"
+      ],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How does the Product Owner interact with the Scrum Team?",
+      "answerIndex": 1,
+      "items": [
+        "The PO assigns user stories, participates in Sprint Reviews, and approves changes",
+        "The PO writes the acceptance criteria for user stories and works with the team to clarify any issues or concerns",
+        "The PO has minimal interaction with the team except at the beginning and end of each Sprint (Sprint planning reviews)",
+        "The PO interactions with the team are facilitated by the Scrum Master"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the purpose for the Project Vision statement?<br />A. Define the overall scope of the effort<br />B. Identifies the customers and users<br />C. Demonstrates a competitive advantage or difference",
+      "answerIndex": 3,
+      "items": [
+        "A and B",
+        "A and C",
+        "B and C",
+        "All of the above"
+      ],
+      "explanation": "D is correct. There is an exercise that amplifies this answer."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is most correct about the Sprint Planning Meeting?",
+      "answerIndex": 3,
+      "items": [
+        "The entire core team is present for the meeting",
+        "The meeting is time-boxed to 4-hours",
+        "The meeting is actually two separate meetings",
+        "The Scrum Team uses the meeting to determine which stories they'll select from the Prioritized Product Backlog"
+      ],
+      "explanation": "While it is true that Sprint Planning Meetings are time-boxed, the time is based on the length of the Sprint. The Product Owner attends the first part of the meeting but is on-call for the second half if the team needs more information. So, while it is technically true that the Sprint Planning Meeting is divided into two sections, it's really one meeting with slightly different purposes in each half: story (and acceptance criteria) clarification and selection followed by a How-to meeting to turn the stories into a deliverables during the Sprint. D is the most correct answer."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which statement is MOST correct about the Prioritized Product Backlog (PPB)?",
+      "answerIndex": 1,
+      "items": [
+        "The PPB defines the overall work on the project. It is archived when the product closes",
+        "The PPB contains user stories and bugs that need to be addressed",
+        "The PPB is maintained by the Product Owner, but anyone can make or suggests additions to it",
+        "The PPB is a dynamic list of changes, risks, bugs and epics that feed the Sprint backlogs"
+      ],
+      "explanation": "B is correct. D does not include the main component of the PPB, user stories. The PPB is never done or closed. As the owner and accountable party for the business value, only the Product Owner can make changes to the PPB."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the purpose for grooming the product backlog?",
+      "answerIndex": 1,
+      "items": [
+        "Grooming is an activity performed by the Product Owner as a part of maintaining the product backlog. It assures stories have the proper priority",
+        "The process of grooming the product backlog assigns initial story points to each item. This makes grooming a way to refine the product backlog to increase team efficiency by reducing unknowns and uncertainties to support a sustainable pace",
+        "The purpose for grooming is to remove (groom) stories that are no longer needed from the product backlog",
+        "Grooming is the first step before conducting the Sprint Planning Meeting. It selects the candidate stories for inclusion in the Sprint"
+      ],
+      "explanation": "B is the correct answer. When properly done, refining the product backlog may help to re-duce the time required for the Sprint Planning Meeting by adding clarity to the items in the product backlog. Remember the product backlog is an ordered-list (ordered by priority) of everything needed to produce the final product delivered by the project."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the difference between release planning in traditional project management and Scrum?",
+      "answerIndex": 1,
+      "items": [
+        "There is no real difference; release planning is an important aspect of every project",
+        "Release planning in tradition project management is predictive and based on a plan; release planning in Scrum is based on organizational priorities",
+        "Release planning in Scrum is not as precise as traditional project management",
+        "Release planning in Scrum is much more difficult than traditional project management because there are no project milestones in Scrum compared to traditional project management"
+      ],
+      "explanation": "The most correct answer is B. Release planning in Scrum can actually be more precise than traditional project management because it is (or should be) updated after every Sprint. In both traditional project management and Scrum, the release plan will always have ranges (or tolerances)."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How does Scrum optimize quality?",
+      "answerIndex": 0,
+      "items": [
+        "It integrates activities to manage change and risk, provides for Empirical Process Control and measures everything against business value and criteria for Done",
+        "Quality, change and risk are all integrated with organizational standard, policies and guidelines. In this way, everything Scrum processes are never at odds with the organization",
+        "The Scrum Guidance Body working with the organization determines the appropriate way to handle quality, change and risk",
+        "Quality, change and risk are all driven by and based on the Project Vision that defines customer expectations in these areas"
+      ],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The purpose for the Acceptance Criteria is…?<br />A. to make sure there is clarity regarding what the team must produce<br />B. to separate User Story from Epic<br />C. to make sure the team only does what was committed at the beginning of the Sprint<br />D. to help the team determine the complexity of the effort to assist with better estimation",
+      "answerIndex": 2,
+      "items": [
+        "All of the above",
+        "A, B, C",
+        "A, B, D",
+        "C and D only"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the Definition of Done?",
+      "answerIndex": 2,
+      "items": [
+        "A checklist of things to do",
+        "It is related to acceptance criteria and applies to each story",
+        "A set of rules that applies to the work performed during each Sprint",
+        "Established by the team for each Sprint to document what they've completed"
+      ],
+      "explanation": "C is correct. The Definition of Done is more than just a checklist."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements is MOST correct about the Risk Burndown Chart?",
+      "answerIndex": 2,
+      "items": [
+        "It is owned by the Product Owner (because the PO is the risk owner) and used to plan and mitigate risks",
+        "It is updated by the Scrum master after every Sprint",
+        "It is a predictive tool, used by the Product Owner to forecast risk and exposure during and should trend down as the project approaches completion",
+        "It provides a visible artifact to demonstrate the differences between risks that are threats and risks that are opportunities"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is true?<br />A. Changes are unapproved and not added to the product backlog until they are prioritized<br />B. Most changes that are within defined tolerance levels can be approved by the Product Owner",
+      "answerIndex": 1,
+      "items": [
+        "A is True",
+        "B is True",
+        "Both are true",
+        "Both are false"
+      ],
+      "explanation": "B is correct. Changes are not added to the product backlog until they are approved."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the purpose for the first part of the Sprint Planning Meeting?",
+      "answerIndex": 2,
+      "items": [
+        "The Product Owner (PO) confirms the Prioritized Product Backlog (PPB) and selects items for inclusion in the Sprint",
+        "The PO and the Scrum Team discuss possible items that might be included in the next Sprint",
+        "The Scrum Team selects items from the top of the PPB that are appropriate for the team and works with the PO to ensure there is clarity regarding the items selected",
+        "The PO suggests user stories and the Scream Team clarifies issues"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What does the term \"velocity\" mean?",
+      "answerIndex": 0,
+      "items": [
+        "It is a relative measure of the number of story points or stories completed within a Sprint",
+        "It is used to compare teams and projects with respect to efficiency",
+        "Is only useful in short term planning because the velocity will change during a project as the team gains experience",
+        "Velocity is part of Empirical Process Control. Specifically it is an aspect of team performance and efficiency made visible through transparency"
+      ],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The Daily Standup is:<br />A. Communication within the development team<br />B. The basis for a status report to management",
+      "answerIndex": 0,
+      "items": [
+        "A is true",
+        "B is true",
+        "Both are false",
+        "Both are true"
+      ],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What does it mean to groom the product backlog?",
+      "answerIndex": 2,
+      "items": [
+        "Weeding out stories, risks, and changes that no longer apply",
+        "Grooming is a process to re-prioritize the backlog when/as business needs dictate",
+        "Another name for grooming is maintaining",
+        "Is an activity only performed by the Product Owner"
+      ],
+      "explanation": "Both A and B are included in C (the correct answer). The PO isn't the only person involved."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the purpose for the Sprint review meeting? How does it differ from the retrospective meeting?",
+      "answerIndex": 1,
+      "items": [
+        "The review demonstrates completed stories to the Product Owner and stakeholders. Retrospective meetings review process. The Product Owner attends both meetings, leading the review and participating in the retrospect",
+        "The review demonstrates completed stories to the Product Owner and stakeholders. Retrospective meetings review process. The Product Owner participates in the review meeting and may be invited to participate in the retrospect",
+        "The retrospect demonstrates completed stories to the Product Owner and stakeholders. Review meetings review process for improvement and lessons learned",
+        "The outputs of the review include changes to product and process, the output of the retrospect meeting includes changes to the product backlog"
+      ],
+      "explanation": "B is correct."
+    }
+  ]
+}
