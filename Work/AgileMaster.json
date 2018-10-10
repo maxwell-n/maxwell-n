@@ -1,0 +1,1112 @@
+{
+  "title": "Agile Master",
+  "path": "Work/",
+  "data": [
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the difference between agile software development and traditional software development?",
+      "answerIndex": 1,
+      "items": [
+        "At the level of actual software development, there isn't a difference. Both produce code aimed at solving a problem",
+        "Traditional development focuses more on plans and process while agile focuses more on outcomes and value",
+        "Agile development focuses more on plans and process while traditional development focuses more on outcomes and value",
+        "Traditional development is much more disciplined than agile because of the distinct phases"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are benefits of using an Agile method?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct, 2 and 7 are not benefits of any Agile method. In fact, it is very often the absence of clear requirements at the start of projects that drive many organizations to con-sider an Agile approach."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Improved efficiency and effectiveness",
+      "answerIndex": 1,
+      "items": [],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Continuous development",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct, 2 and 7 are not benefits of any Agile method. In fact, it is very often the absence of clear requirements at the start of projects that drive many organizations to con-sider an Agile approach."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Manage change and risk",
+      "answerIndex": 1,
+      "items": [],
+      "explanation": "B is correct. Many project managers schooled in traditional approaches have a difficult time with Agile because they have difficultly adopting the necessary Agile mindset."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Customer centric",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct. It is close to a Scrum Principle (Inspect and adapt)."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Transparency",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Team accountability",
+      "answerIndex": 1,
+      "items": [],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Clear requirements",
+      "answerIndex": 1,
+      "items": [
+        "All of the above",
+        "1, 2, 3, 4",
+        "2, 3, 4, 5, 7",
+        "1, 3, 4, 5, 6"
+      ],
+      "explanation": "B is correct, Agile methods recommend team decision models."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is one of the problems Agile methods seek to solve?",
+      "answerIndex": 1,
+      "items": [
+        "They don't solve problems, it only provides guidance",
+        "The pace of business change",
+        "Traditional project management totally fails when it comes to software development",
+        "Agile methods make it easier for traditional project managers to understand what is going on in each management stage of the project"
+      ],
+      "explanation": "B is correct. Many project managers schooled in traditional approaches have a difficult time with Agile because they have difficultly adopting the necessary Agile mindset."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT an Agile principle?",
+      "answerIndex": 2,
+      "items": [
+        "Working software is the measure of success",
+        "Collaboration",
+        "Inspect and adopt",
+        "Self-organizing teams"
+      ],
+      "explanation": "C is correct. It is close to a Scrum Principle (Inspect and adapt)."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is value-based prioritization?",
+      "answerIndex": 2,
+      "items": [
+        "The priority assigned to a requirement (or user story) by the Development Team",
+        "The priority assigned by the project manager",
+        "The priority assigned that represent value to the business of the capability or feature",
+        "The priority agreed by negotiation between the project manager and the development team"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the difference between Agile approaches to projects and traditional project management?",
+      "answerIndex": 1,
+      "items": [
+        "When you net it out, there really isn't much difference",
+        "Agile methods adjust scope and hold cost and time fixed. Traditional methods hold scope fixed and adjust cost and time",
+        "Traditional methods adjust scope and hold cost and time fixed. Agile methods hold scope fixed and adjust cost and time",
+        "Agile approaches are much harder to do, which is why so few organizations consider using them"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a domain of Agile practice?",
+      "answerIndex": 1,
+      "items": [
+        "Adaptive planning",
+        "Individual decision models with full transparency",
+        "Agile tools and artifacts",
+        "Continuous improvement"
+      ],
+      "explanation": "B is correct, Agile methods recommend team decision models."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the difference in approach to improvement between Agile and tradition project management?",
+      "answerIndex": 2,
+      "items": [
+        "Agile iterations or stages are shorter so they are only applied at the start of each iteration or stage",
+        "There isn't any difference, both approaches recommend improvement",
+        "Agile models use continuous improvement to drive projects",
+        "Traditional project management and Agile both consider lessons learned"
+      ],
+      "explanation": "C is correct."
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "In the context of lean software development, what does \"preserve value with less work,\" mean?",
+      "answerIndex": 3,
+      "items": [
+        "Identify who will use or benefit from the products produced by the product and then do what they require",
+        "Make sure the requisite meetings and artifacts are produced before the project starts to optimize efficiency",
+        "Make sure the project is viable before it starts to avoid waste",
+        "Do only what is necessary to deliver value, no more, no less"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Why is the principle to amplify learning important?",
+      "answerIndex": 1,
+      "items": [
+        "Team members should have a thorough understanding regarding what the product or service should do",
+        "Team members need to understand not only what the outputs from the effort will do, but why the outcomes are important",
+        "The team is more intelligent than individual members",
+        "Amplified learning helps make the team brighter because there is the possibility to apply cross-functional skills"
+      ],
+      "explanation": "B is correct. While C and might be a universal truth, it's not specifically the purpose of the principle."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Why is it important to decide as late as possible?",
+      "answerIndex": 2,
+      "items": [
+        "Allows the scope of control to be closer to the scope of effect",
+        "That's just the Lean approach; the real issue isn't when decisions are made, but that they are made. Decide as late as possible makes sure decisions don't fall through the crack",
+        "Deciding later means the decisions are made with the best available information",
+        "Deciding later only applies to allowing the team to determine the highest value features"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT an aspect of, \"deliver as fast as possible?\"",
+      "answerIndex": 0,
+      "items": [
+        "Stakeholders are required to be engaged rapidly so that value can be determined",
+        "Work-in-progress may have unknown defects",
+        "Shorter iteration allow more time for key decisions",
+        "Pull systems allow for just-in-time decision making"
+      ],
+      "explanation": "A is correct, the other answers are included aspects."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is an aspect of a leader in lean? Leaders must be able to…",
+      "answerIndex": 2,
+      "items": [
+        "Make decisions",
+        "Align tools and processes with the needs of the business",
+        "Empower people and help them align with Lean and project goals",
+        "Take control"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What types of integrity are included in lean?",
+      "answerIndex": 2,
+      "items": [
+        "Personal integrity and perceptual integrity",
+        "Project integrity and communication integrity",
+        "Perceptual integrity and conceptual integrity",
+        "System integrity and iteration integrity"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "See the whole means…?",
+      "answerIndex": 0,
+      "items": [
+        "Think in systems",
+        "Understand the end-to-end sequence of events",
+        "Use appropriate metrics and measurement",
+        "Avoid constraints because they make it impossible to focus on the real problem"
+      ],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a benefit of Lean Software Development?",
+      "answerIndex": 1,
+      "items": [
+        "There aren't any benefits that are specific to Lean",
+        "Lean focuses on core Agile principles with a particular focus on the elimination of waste",
+        "Lean is really a lightweight approach to Agile that is easier to follow than other methods",
+        "Lean isn't intended to be a stand-alone approach. Lean is about the identification of waste, it needs other approaches to do the work"
+      ],
+      "explanation": "B is correct."
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is a Kanban Principle?",
+      "answerIndex": 3,
+      "items": [
+        "Management at all levels",
+        "Accommodate change",
+        "Keep the current roles and responsibilities without change",
+        "Pursue incremental change"
+      ],
+      "explanation": "D is correct. While the principle to start with what you have now might appear to suggest C, the disqualifier is the phrase: without change."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What does the Kanban principle, \"Start with what you do now,\" mean? If it differs from other Agile methods, how does it differ?",
+      "answerIndex": 3,
+      "items": [
+        "This Kanban principle helps you understand where you are now and how to improve it. It doesn't really differ from other Agile methods, they all focus on improving the current situation",
+        "If you don't do something, nothing will change; you have to get started. Other Agile approaches describe meetings, how to run them and roles",
+        "If you don't do something, nothing will change; you have to get started. It doesn't really differ from other Agile methods, they all focus on improving the current situation",
+        "This Kanban principle helps you understand where you are now and how to improve it. Other Agile approaches describe meetings, how to run them and roles"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which statement about Limit Work-in-process is true?",
+      "answerIndex": 0,
+      "items": [
+        "Get more done by doing less",
+        "Don't try to do too much at once, it's not healthy and makes it impossible to encourage acts of leadership",
+        "The limit only applies to adding something new; it does not apply to everything",
+        "New work is pushed into development only when there is the capability to accept it"
+      ],
+      "explanation": "This might not be obvious, but A is correct, but limiting work in process to the level of capacity of people to absorb new effort, there is less likelihood for the loss in productivity that comes from context switching. It also helps support a sustainable pace which allows people to continue to work at higher levels of productivity for longer periods of time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT an aspect of, \"Manage Flow?\"",
+      "answerIndex": 0,
+      "items": [
+        "Manage flow integrates with \"Start with what you do now\" to accommodate the necessary project management controls and reports for the project manager",
+        "Manage flow provides a focus on incremental change",
+        "Manage flow helps recognize how change drives system improvement or degradation",
+        "Manage flow allows for work to be monitored, measured and reported"
+      ],
+      "explanation": "A is correct, the others ARE aspect of Manage Flow."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Why is it important to make policies explicit?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Avoids assumptions",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct. While the principle to start with what you have now might appear to suggest C, the disqualifier is the phrase: without change."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Facilitate collaboration and transparency",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Leads to likelihood of consensus",
+      "answerIndex": 0,
+      "items": [
+        "1 and 2",
+        "1 and 3",
+        "2 and 3",
+        "All of the above"
+      ],
+      "explanation": "This might not be obvious, but A is correct, but limiting work in process to the level of capacity of people to absorb new effort, there is less likelihood for the loss in productivity that comes from context switching. It also helps support a sustainable pace which allows people to continue to work at higher levels of productivity for longer periods of time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Kanban recommends feedback loops for which of the following?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Work flow",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct. While the principle to start with what you have now might appear to suggest C, the disqualifier is the phrase: without change."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Demand analysis",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Capacity planning",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "This might not be obvious, but A is correct, but limiting work in process to the level of capacity of people to absorb new effort, there is less likelihood for the loss in productivity that comes from context switching. It also helps support a sustainable pace which allows people to continue to work at higher levels of productivity for longer periods of time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Existing metrics",
+      "answerIndex": 0,
+      "items": [
+        "1, 2, 3",
+        "2, 3, 4",
+        "1 and 4 only",
+        "All of the above"
+      ],
+      "explanation": "A is correct, the others ARE aspect of Manage Flow."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Building shared understanding of work, flow, process and risk is an element of which Kanban practice?",
+      "answerIndex": 2,
+      "items": [
+        "Visualize",
+        "Limit WIP",
+        "Implement regular feedback loops",
+        "Improve collaboratively, evolve experimentally"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Kaizen applies to which Kanban practice?",
+      "answerIndex": 2,
+      "items": [
+        "Visualize",
+        "Limit WIP",
+        "Implement regular feedback loops",
+        "Improve collaboratively, evolve experimentally"
+      ],
+      "explanation": "While you could argue that kaizen could apply to every Kanban practice, it is only specifically mentioned in the context of C, the correct answer."
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are benefits of using Scrum?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Adaptability",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Continuous development",
+      "answerIndex": 1,
+      "items": [],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Sustainable pace",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct. Inspect and adapt are part of Empirical Process Control; adopt isn't considered."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Customer centric",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "While the priority assigned by the Product Owner should reflect business value, that isn't the answer to the question. The correct answer is C."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "High Velocity",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Motivation",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Clear requirements",
+      "answerIndex": 1,
+      "items": [
+        "All of the above",
+        "1, 2, 3, 4",
+        "2, 3, 4, 5, 7",
+        "1, 3, 4, 5, 6"
+      ],
+      "explanation": "B is correct; release planning occurs in the Initiate phase."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "How does the Scrum Guidance Body contribute to scalability?",
+      "answerIndex": 1,
+      "items": [
+        "It doesn't, it only provides documentation and guidance",
+        "The SGB determine how Scrum scales within the organization",
+        "The SGB recommends when to hold various meetings that are part of Scrum",
+        "The SGB documents the rules for scalability"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is NOT a Scrum principle?",
+      "answerIndex": 2,
+      "items": [
+        "Iterative Development",
+        "Collaboration",
+        "Inspect and adopt",
+        "Self-organizing teams"
+      ],
+      "explanation": "C is correct. Inspect and adapt are part of Empirical Process Control; adopt isn't considered."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is value-based prioritization?",
+      "answerIndex": 2,
+      "items": [
+        "The priority assigned to a user story by the Development Team",
+        "The priority assigned by the Product Owner",
+        "The priority assigned that represents business value",
+        "The priority agreed by negotiation between the Product Owner and the Development Team"
+      ],
+      "explanation": "While the priority assigned by the Product Owner should reflect business value, that isn't the answer to the question. The correct answer is C."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "A business case documents the business justification for the Scrum project. What else does the business case provide?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Basis for project scope",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Estimated costs",
+      "answerIndex": 1,
+      "items": [],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Options",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct. Inspect and adapt are part of Empirical Process Control; adopt isn't considered."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Risks",
+      "answerIndex": 2,
+      "items": [
+        "1 and 2",
+        "2 and 3",
+        "1 and 4",
+        "All of the above"
+      ],
+      "explanation": "While the priority assigned by the Product Owner should reflect business value, that isn't the answer to the question. The correct answer is C."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is true of the two aspects of the Review & Retrospect phase?",
+      "answerIndex": 3,
+      "items": [
+        "The Review focuses on lessons learned, the Retrospect focuses on customer value",
+        "The Review focuses on customer value; the Retrospect focuses on lessons learned",
+        "The Review focuses on process improvement; the Retrospect focuses on demonstration, inspect and adapt",
+        "The Review focuses on demonstration, inspect and adapt; the Retrospect focuses on process improvement"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are NOT considered as part of the Plan and Estimate phase?",
+      "answerIndex": 1,
+      "items": [
+        "Create the Sprint Backlog",
+        "Plan the Release",
+        "Create User Stories",
+        "Estimate tasks"
+      ],
+      "explanation": "B is correct; release planning occurs in the Initiate phase."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is true about a time-box in Scrum?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "It is a fixed period of time for each development",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "It is a fixed period of time for meetings",
+      "answerIndex": 1,
+      "items": [],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "It is the basis of iterative and incremental delivery",
+      "answerIndex": 2,
+      "items": [
+        "1 and 2",
+        "2 and 3",
+        "1 and 3",
+        "All of the above"
+      ],
+      "explanation": "C is correct. Inspect and adapt are part of Empirical Process Control; adopt isn't considered."
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which XP value is similar to a Lean Software Development practice?",
+      "answerIndex": 0,
+      "items": [
+        "YAGNI",
+        "Courage",
+        "Communication",
+        "Technical excellence"
+      ],
+      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are included in XP planning?",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct. Deployment is planned at a later time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Write user stories",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Plan release and deployment",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct. Deployment is planned at a later time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Divide the project into iterations",
+      "answerIndex": 2,
+      "items": [
+        "1 and 2",
+        "2 and 3",
+        "1 and 3",
+        "All of the above"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are NOT included as part of managing in XP?",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Dedicated, open workspaces",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Demonstrate done user stories",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct. Deployment is planned at a later time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Establish a sustainable pace",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Move people between projects",
+      "answerIndex": 1,
+      "items": [],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Fix it when it breaks",
+      "answerIndex": 3,
+      "items": [
+        "1 and 3",
+        "2 and 4",
+        "1, 3, 5",
+        "2, 4, 5"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is a system metaphor in XP?",
+      "answerIndex": 1,
+      "items": [
+        "A set of user stories that serve as abstractions to map part of the system",
+        "Basis for naming workspaces",
+        "A representation of a story that everyone can tell about how the system works",
+        "Used to gain knowledge necessary to reduce risk"
+      ],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "What is the purpose for a spike in XP?",
+      "answerIndex": 3,
+      "items": [
+        "Like a point of sale that \"spikes\" orders once completed, the spike holds completed stories",
+        "It serves as an accumulation point for lessons learned",
+        "It is a way to prevent feature creep",
+        "Special type of story used for exploration"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are included as part of Coding in XP?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Customer is always available",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Code the unit test first",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct. Deployment is planned at a later time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Production code is pair-programmed",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Integrate frequently",
+      "answerIndex": 1,
+      "items": [],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Establish a dedicate integration computer (or server)",
+      "answerIndex": 3,
+      "items": [
+        "1, 2, 3",
+        "1, 4, 5",
+        "2, 3, 4, 5",
+        "All of the above"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which statement about testing in XP is true?",
+      "answerIndex": 1,
+      "items": [],
+      "explanation": "Code must pass all unit tests before release. B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Test must be written before any attempt is made to write the code",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Code must pass most unit tests before release",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct. Deployment is planned at a later time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Tests are created in response to the discovery of bugs and added to the test-base",
+      "answerIndex": 2,
+      "items": [
+        "1 and 2",
+        "1 and 3",
+        "2 and 3",
+        "All of the above"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which statements apply to the planning game in XP?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "It is the main planning process in XP",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "It is divided into two parts (Release / deployment planning and iteration planning)",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct. Deployment is planned at a later time."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "It starts new iterations when new work is added",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "It is \"played\" by both customer and developers",
+      "answerIndex": 1,
+      "items": [],
+      "explanation": "B is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "It is a way for XP to accommodate change",
+      "answerIndex": 3,
+      "items": [
+        "All of the above",
+        "1, 3, 5",
+        "2 and 4",
+        "1, 3, 4, 5"
+      ],
+      "explanation": "D is correct."
+    },
+
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are principles of DSDM?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Active user involvement is imperative",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Focus on the business need",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is the best statement."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Iterative and incremental development",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Collaborative and cooperative approach",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Deliver on time",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Baseline requirements at a high level",
+      "answerIndex": 3,
+      "items": [
+        "All of the above",
+        "1, 3, 5",
+        "2, 4, 6",
+        "2, 3, 4, 5"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The best statement of the purpose for the pre-project phase of DSDM is…?",
+      "answerIndex": 3,
+      "items": [
+        "Make sure the project is feasible with a valid business purpose and appropriate foundation",
+        "Explore the various aspects of the project, including alternatives",
+        "Determine the expected business value",
+        "Set up the project for success and formalizes a proposal with an appropriate business value"
+      ],
+      "explanation": "D is the best statement."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following is the correct interpretation of MoSCoW rules?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Must have or it won't meet minimal functionality",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Must have or scrap the project",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is the best statement."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "It's important and the product should have it, but if you can't get to it that's OK",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The product should have, figure out a way to fit it in.",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Nice, but don't worry about it",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Nice to have if you can get to it, without comprising something more important",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Won't have, period",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Won't have in this iteration",
+      "answerIndex": 0,
+      "items": [
+        "1, 3, 5, 7",
+        "2, 4, 6, 8",
+        "1, 4, 6, 7",
+        "1, 3, 6, 8"
+      ],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following correctly associates a description with a DSDM role?",
+      "answerIndex": 2,
+      "items": [
+        "Business Sponsor is a senior level role engaged in the project",
+        "Project Manager actively engage in the project interpreting questions and keeping every-one on task",
+        "Technical Coordinator is the project architect",
+        "Business Ambassador is the most senior business role on the project"
+      ],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following statements are true?",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "DSDM was designed to work with traditional project management",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "The project manager role in DSDM is only necessary if DSDM is integrated into traditional project management",
+      "answerIndex": 3,
+      "items": [
+        "1 is true",
+        "2 is true",
+        "Both are true",
+        "Neither statement is true"
+      ],
+      "explanation": "D is the best statement."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which statement about the Crystal family is true?",
+      "answerIndex": 3,
+      "items": [
+        "Crystal Clear is applied every time there are 6 or fewer people involved",
+        "The primary determinant for darker colors (anything not \"Clear) is the anticipated duration and complexity of the effort",
+        "Crystal Maroon requires integration with traditional project management because the project is so large and complex",
+        "The Crystal family works because each project is unique and the Crystal family is designed to scale to different project types"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which statements about the Crystal Principles are true?",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Crystal use time-boxing when it's appropriate",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "These 3 are key, the others can be applied as needed: Frequent delivery, close communication, personal safety",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is the best statement."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Crystal team members aren't expected to know everything about the development domain, so access to experts is required for every Crystal project",
+      "answerIndex": 3,
+      "items": [
+        "1 and 2",
+        "1 and 3",
+        "2 and 3",
+        "None of the above"
+      ],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Which of the following are Feature Driven Development best practices?",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Domain object modeling",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Develop by feature",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is the best statement."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Individual class ownership",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Inspections",
+      "answerIndex": 2,
+      "items": [],
+      "explanation": "C is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Configuration management",
+      "answerIndex": 0,
+      "items": [],
+      "explanation": "A is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Regular builds",
+      "answerIndex": 3,
+      "items": [],
+      "explanation": "D is correct."
+    },
+    {
+      "questionType": "Multiple Choice",
+      "question": "Information radiators",
+      "answerIndex": 3,
+      "items": [
+        "1, 2, 3, 4, 5, 6",
+        "2, 3, 4, 5, 6, 7",
+        "4, 5, 6, 7",
+        "All of the above"
+      ],
+      "explanation": "D is correct."
+    }
+  ]
+}
