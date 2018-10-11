@@ -393,64 +393,15 @@
 
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following are benefits of using Scrum?",
+      "question": "Which of the following are benefits of using Scrum?<br />1. Adaptability<br />2. Continuous development<br />3. Sustainable pace<br />4. Customer centric<br />5. High Velocity<br />6. Motivation<br />7. Clear requirements",
       "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Adaptability",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Continuous development",
-      "answerIndex": 1,
-      "items": [],
-      "explanation": "B is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Sustainable pace",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct. Inspect and adapt are part of Empirical Process Control; adopt isn't considered."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Customer centric",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "While the priority assigned by the Product Owner should reflect business value, that isn't the answer to the question. The correct answer is C."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "High Velocity",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Motivation",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Clear requirements",
-      "answerIndex": 1,
       "items": [
         "All of the above",
         "1, 2, 3, 4",
         "2, 3, 4, 5, 7",
         "1, 3, 4, 5, 6"
       ],
-      "explanation": "B is correct; release planning occurs in the Initiate phase."
+      "explanation": "D is correct."
     },
     {
       "questionType": "Multiple Choice",
@@ -585,7 +536,6 @@
       ],
       "explanation": "C is correct. Inspect and adapt are part of Empirical Process Control; adopt isn't considered."
     },
-
     {
       "questionType": "Multiple Choice",
       "question": "Which XP value is similar to a Lean Software Development practice?",
