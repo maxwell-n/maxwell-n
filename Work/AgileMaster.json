@@ -258,43 +258,15 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Kanban recommends feedback loops for which of the following?",
+      "question": "Kanban recommends feedback loops for which of the following?<br />1. Work flow<br />2. Demand analysis<br />3. Capacity planning<br />4. Existing metrics",
       "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Work flow",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct. While the principle to start with what you have now might appear to suggest C, the disqualifier is the phrase: without change."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Demand analysis",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Capacity planning",
-      "answerIndex": 0,
-      "items": [],
-      "explanation": "This might not be obvious, but A is correct, but limiting work in process to the level of capacity of people to absorb new effort, there is less likelihood for the loss in productivity that comes from context switching. It also helps support a sustainable pace which allows people to continue to work at higher levels of productivity for longer periods of time."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Existing metrics",
-      "answerIndex": 0,
       "items": [
         "1, 2, 3",
         "2, 3, 4",
         "1 and 4 only",
         "All of the above"
       ],
-      "explanation": "A is correct, the others ARE aspect of Manage Flow."
+      "explanation": "D is correct."
     },
     {
       "questionType": "Multiple Choice",
@@ -432,28 +404,7 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following are included in XP planning?",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct. Deployment is planned at a later time."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Write user stories",
-      "answerIndex": 0,
-      "items": [],
-      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Plan release and deployment",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct. Deployment is planned at a later time."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Divide the project into iterations",
+      "question": "Which of the following are included in XP planning?<br />1. Write user stories<br />2. Plan release and deployment<br />3. Divide the project into iterations",
       "answerIndex": 2,
       "items": [
         "1 and 2",
@@ -461,7 +412,7 @@
         "1 and 3",
         "All of the above"
       ],
-      "explanation": "C is correct."
+      "explanation": "C is correct. Deployment is planned at a later time."
     },
     {
       "questionType": "Multiple Choice",
@@ -586,29 +537,15 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following statements are true?",
+      "question": "Which of the following statements are true?<br />1. DSDM was designed to work with traditional project management<br />2. The project manager role in DSDM is only necessary if DSDM is integrated into traditional project management",
       "answerIndex": 0,
-      "items": [],
-      "explanation": "A is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "DSDM was designed to work with traditional project management",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "The project manager role in DSDM is only necessary if DSDM is integrated into traditional project management",
-      "answerIndex": 3,
       "items": [
         "1 is true",
         "2 is true",
         "Both are true",
         "Neither statement is true"
       ],
-      "explanation": "D is the best statement."
+      "explanation": "A is correct."
     },
     {
       "questionType": "Multiple Choice",
