@@ -16,64 +16,15 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following are benefits of using an Agile method?",
+      "question": "Which of the following are benefits of using an Agile method?<br />1. Improved efficiency and effectiveness<br />2. Continuous development<br />3. Manage change and risk<br />4. Customer centric<br />5. Transparency<br />6. Team accountability<br />7. Clear requirements",
       "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct, 2 and 7 are not benefits of any Agile method. In fact, it is very often the absence of clear requirements at the start of projects that drive many organizations to con-sider an Agile approach."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Improved efficiency and effectiveness",
-      "answerIndex": 1,
-      "items": [],
-      "explanation": "B is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Continuous development",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct, 2 and 7 are not benefits of any Agile method. In fact, it is very often the absence of clear requirements at the start of projects that drive many organizations to con-sider an Agile approach."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Manage change and risk",
-      "answerIndex": 1,
-      "items": [],
-      "explanation": "B is correct. Many project managers schooled in traditional approaches have a difficult time with Agile because they have difficultly adopting the necessary Agile mindset."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Customer centric",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct. It is close to a Scrum Principle (Inspect and adapt)."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Transparency",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Team accountability",
-      "answerIndex": 1,
-      "items": [],
-      "explanation": "B is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Clear requirements",
-      "answerIndex": 1,
       "items": [
         "All of the above",
         "1, 2, 3, 4",
         "2, 3, 4, 5, 7",
         "1, 3, 4, 5, 6"
       ],
-      "explanation": "B is correct, Agile methods recommend team decision models."
+      "explanation": "D is correct, 2 and 7 are not benefits of any Agile method. In fact, it is very often the absence of clear requirements at the start of projects that drive many organizations to con-sider an Agile approach."
     },
     {
       "questionType": "Multiple Choice",
@@ -295,36 +246,15 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Why is it important to make policies explicit?",
+      "question": "Why is it important to make policies explicit?<br />1. Avoids assumptions<br />2. Facilitate collaboration and transparency<br />3. Leads to likelihood of consensus",
       "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Avoids assumptions",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct. While the principle to start with what you have now might appear to suggest C, the disqualifier is the phrase: without change."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Facilitate collaboration and transparency",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Leads to likelihood of consensus",
-      "answerIndex": 0,
       "items": [
         "1 and 2",
         "1 and 3",
         "2 and 3",
         "All of the above"
       ],
-      "explanation": "This might not be obvious, but A is correct, but limiting work in process to the level of capacity of people to absorb new effort, there is less likelihood for the loss in productivity that comes from context switching. It also helps support a sustainable pace which allows people to continue to work at higher levels of productivity for longer periods of time."
+      "explanation": "D is correct."
     },
     {
       "questionType": "Multiple Choice",
@@ -441,43 +371,15 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "A business case documents the business justification for the Scrum project. What else does the business case provide?",
+      "question": "A business case documents the business justification for the Scrum project. What else does the business case provide?<br />1. Basis for project scope<br />2. Estimated costs<br />3. Options<br />4. Risks",
       "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Basis for project scope",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Estimated costs",
-      "answerIndex": 1,
-      "items": [],
-      "explanation": "B is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Options",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct. Inspect and adapt are part of Empirical Process Control; adopt isn't considered."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Risks",
-      "answerIndex": 2,
       "items": [
         "1 and 2",
         "2 and 3",
         "1 and 4",
         "All of the above"
       ],
-      "explanation": "While the priority assigned by the Product Owner should reflect business value, that isn't the answer to the question. The correct answer is C."
+      "explanation": "D is correct."
     },
     {
       "questionType": "Multiple Choice",
@@ -505,37 +407,17 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "What is true about a time-box in Scrum?",
+      "question": "What is true about a time-box in Scrum?<br />1. It is a fixed period of time for each development<br />2. It is a fixed period of time for meetings<br />3. It is the basis of iterative and incremental delivery",
       "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "It is a fixed period of time for each development",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "It is a fixed period of time for meetings",
-      "answerIndex": 1,
-      "items": [],
-      "explanation": "B is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "It is the basis of iterative and incremental delivery",
-      "answerIndex": 2,
       "items": [
         "1 and 2",
         "2 and 3",
         "1 and 3",
         "All of the above"
       ],
-      "explanation": "C is correct. Inspect and adapt are part of Empirical Process Control; adopt isn't considered."
+      "explanation": "D is correct."
     },
+
     {
       "questionType": "Multiple Choice",
       "question": "Which XP value is similar to a Lean Software Development practice?",
@@ -583,50 +465,15 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following are NOT included as part of managing in XP?",
+      "question": "Which of the following are NOT included as part of managing in XP?<br />1. Dedicated, open workspaces<br />2. Demonstrate done user stories<br />3. Establish a sustainable pace<br />4. Move people between projects<br />5. Fix it when it breaks",
       "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Dedicated, open workspaces",
-      "answerIndex": 0,
-      "items": [],
-      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Demonstrate done user stories",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct. Deployment is planned at a later time."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Establish a sustainable pace",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Move people between projects",
-      "answerIndex": 1,
-      "items": [],
-      "explanation": "B is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Fix it when it breaks",
-      "answerIndex": 3,
       "items": [
         "1 and 3",
         "2 and 4",
         "1, 3, 5",
         "2, 4, 5"
       ],
-      "explanation": "D is correct."
+      "explanation": "C is correct."
     },
     {
       "questionType": "Multiple Choice",
@@ -654,42 +501,7 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following are included as part of Coding in XP?",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Customer is always available",
-      "answerIndex": 0,
-      "items": [],
-      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Code the unit test first",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct. Deployment is planned at a later time."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Production code is pair-programmed",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Integrate frequently",
-      "answerIndex": 1,
-      "items": [],
-      "explanation": "B is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Establish a dedicate integration computer (or server)",
+      "question": "Which of the following are included as part of Coding in XP?<br />1. Customer is always available<br />2. Code the unit test first<br />3. Production code is pair-programmed<br />4. Integrate frequently<br />5. Establish a dedicate integration computer (or server)",
       "answerIndex": 3,
       "items": [
         "1, 2, 3",
@@ -701,75 +513,19 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which statement about testing in XP is true?",
+      "question": "Which statement about testing in XP is true?<br />1. Test must be written before any attempt is made to write the code<br />2. Code must pass most unit tests before release<br />3. Tests are created in response to the discovery of bugs and added to the test-base",
       "answerIndex": 1,
-      "items": [],
-      "explanation": "Code must pass all unit tests before release. B is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Test must be written before any attempt is made to write the code",
-      "answerIndex": 0,
-      "items": [],
-      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Code must pass most unit tests before release",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct. Deployment is planned at a later time."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Tests are created in response to the discovery of bugs and added to the test-base",
-      "answerIndex": 2,
       "items": [
         "1 and 2",
         "1 and 3",
         "2 and 3",
         "All of the above"
       ],
-      "explanation": "C is correct."
+      "explanation": "Code must pass all unit tests before release. B is correct."
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which statements apply to the planning game in XP?",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "It is the main planning process in XP",
-      "answerIndex": 0,
-      "items": [],
-      "explanation": "A is correct. It is share a similar intent to the Eliminate Waste practice that is part of Lean."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "It is divided into two parts (Release / deployment planning and iteration planning)",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct. Deployment is planned at a later time."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "It starts new iterations when new work is added",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "It is \"played\" by both customer and developers",
-      "answerIndex": 1,
-      "items": [],
-      "explanation": "B is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "It is a way for XP to accommodate change",
+      "question": "Which statements apply to the planning game in XP?<br />1. It is the main planning process in XP<br />2. It is divided into two parts (Release / deployment planning and iteration planning)<br />3. It starts new iterations when new work is added<br />4. It is \"played\" by both customer and developers<br />5. It is a way for XP to accommodate change",
       "answerIndex": 3,
       "items": [
         "All of the above",
@@ -782,49 +538,7 @@
 
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following are principles of DSDM?",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Active user involvement is imperative",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Focus on the business need",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is the best statement."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Iterative and incremental development",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Collaborative and cooperative approach",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Deliver on time",
-      "answerIndex": 0,
-      "items": [],
-      "explanation": "A is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Baseline requirements at a high level",
+      "question": "Which of the following are principles of DSDM?<br />1. Active user involvement is imperative<br />2. Focus on the business need<br />3. Iterative and incremental development<br />4. Collaborative and cooperative approach<br />5. Deliver on time<br />6. Baseline requirements at a high level",
       "answerIndex": 3,
       "items": [
         "All of the above",
@@ -848,71 +562,15 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following is the correct interpretation of MoSCoW rules?",
+      "question": "Which of the following is the correct interpretation of MoSCoW rules?<br />1. Must have or it won't meet minimal functionality<br />2. Must have or scrap the project<br />3. It's important and the product should have it, but if you can't get to it that's OK<br />4. The product should have, figure out a way to fit it in.<br />5. Nice, but don't worry about it<br />6. Nice to have if you can get to it, without comprising something more important<br />7. Won't have, period<br />8. Won't have in this iteration",
       "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Must have or it won't meet minimal functionality",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Must have or scrap the project",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is the best statement."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "It's important and the product should have it, but if you can't get to it that's OK",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "The product should have, figure out a way to fit it in.",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Nice, but don't worry about it",
-      "answerIndex": 0,
-      "items": [],
-      "explanation": "A is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Nice to have if you can get to it, without comprising something more important",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Won't have, period",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Won't have in this iteration",
-      "answerIndex": 0,
       "items": [
         "1, 3, 5, 7",
         "2, 4, 6, 8",
         "1, 4, 6, 7",
         "1, 3, 6, 8"
       ],
-      "explanation": "A is correct."
+      "explanation": "D is correct."
     },
     {
       "questionType": "Multiple Choice",
@@ -966,28 +624,7 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which statements about the Crystal Principles are true?",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Crystal use time-boxing when it's appropriate",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "These 3 are key, the others can be applied as needed: Frequent delivery, close communication, personal safety",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is the best statement."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Crystal team members aren't expected to know everything about the development domain, so access to experts is required for every Crystal project",
+      "question": "Which statements about the Crystal Principles are true?<br />1. Crystal use time-boxing when it's appropriate<br />2. These 3 are key, the others can be applied as needed: Frequent delivery, close communication, personal safety<br />3. Crystal team members aren't expected to know everything about the development domain, so access to experts is required for every Crystal project",
       "answerIndex": 3,
       "items": [
         "1 and 2",
@@ -999,64 +636,15 @@
     },
     {
       "questionType": "Multiple Choice",
-      "question": "Which of the following are Feature Driven Development best practices?",
+      "question": "Which of the following are Feature Driven Development best practices?<br />1. Domain object modeling<br />2. Develop by feature<br />3. Individual class ownership<br />4. Inspections<br />5. Configuration management<br />6. Regular builds<br />7. Information radiators",
       "answerIndex": 0,
-      "items": [],
-      "explanation": "A is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Domain object modeling",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Develop by feature",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is the best statement."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Individual class ownership",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Inspections",
-      "answerIndex": 2,
-      "items": [],
-      "explanation": "C is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Configuration management",
-      "answerIndex": 0,
-      "items": [],
-      "explanation": "A is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Regular builds",
-      "answerIndex": 3,
-      "items": [],
-      "explanation": "D is correct."
-    },
-    {
-      "questionType": "Multiple Choice",
-      "question": "Information radiators",
-      "answerIndex": 3,
       "items": [
         "1, 2, 3, 4, 5, 6",
         "2, 3, 4, 5, 6, 7",
         "4, 5, 6, 7",
         "All of the above"
       ],
-      "explanation": "D is correct."
+      "explanation": "A is correct."
     }
   ]
 }
