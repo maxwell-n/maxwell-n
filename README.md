@@ -1,4 +1,4 @@
-# Hi, I'm Neil Maxwell 👋
+# Hi, I'm neil maxwell 👋
 
 I build free, open courses on web development and project management — structured
 lessons with **runnable examples** and **interactive quizzes**, no signup, no paywall.
